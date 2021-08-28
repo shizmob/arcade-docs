@@ -17,7 +17,7 @@ IBM embedded boards (日本アイ・ビー・エム株式会社)
     **MBD:** PM-845G3/GL/GV?  
     **STH:** Intel 845G  
     **GPU:** NVIDIA GeForce 4 MX440  
-    **Games:** D01, E11, ECO, FDD  
+    **Games:** C02, D01, E11, ECO, FDD  
 
 ## `FAB-*`
 
