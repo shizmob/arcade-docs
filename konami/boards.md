@@ -159,4 +159,4 @@ Konami's own gaming PCs.
     **GPU:** GIGABYTE GV-N1650IXOC-4GD (Nvidia GeForce GTX 1650)  
     **SSD:** Innodisk 3ME3 2.5" SATA (256GB, DES25-B56D08BC1QC)   
     **SND:** ASUS Xonar AE  
-    **Games:** TDJ, TFC
+    **Games:** TDJ, UFC
