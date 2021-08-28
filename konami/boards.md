@@ -11,6 +11,14 @@ IBM embedded boards (日本アイ・ビー・エム株式会社)
     **Games:** D00  
     **Sticker:** 27  
 
+* KNM-??? ("BemaniPC Type 1")  
+    **CPU:** Intel Pentium 2.4 2.4 Ghz  
+    **RAM:** 1x ??? (DDR1, PC2100, 256MB)  
+    **MBD:** PM-845G3/GL/GV?  
+    **STH:** Intel 845G  
+    **GPU:** NVIDIA GeForce 4 MX440  
+    **Games:** D01, E11, ECO, FDD  
+
 ## `FAB-*`
 
 Sord embedded boards: https://www.sord.co.jp/company/corporate/history.html
@@ -45,7 +53,7 @@ Sord embedded boards: https://www.sord.co.jp/company/corporate/history.html
     **Sticker:** B3  
     **Games:** K56 POP?  
 
-* FAB-e945-KN205  
+* FAB-e945-KN205 ("BemaniPC Type 2")  
     **CPU:** Pentium 4 2.5GHz  
     **RAM:** 512MB PC2700  
     **GPU:** ATI Radeon X1300  
