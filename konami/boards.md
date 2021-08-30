@@ -1,3 +1,55 @@
+## System 573
+
+References:
+* https://github.com/mamedev/mame/blob/master/src/mame/drivers/ksys573.cpp
+
+Sony Playstation 1-based board. Consist of at least MAIN and either the ANALOG or DIGITAL board:
+* GX700-PWB(A)B: SYS573/MAIN
+* GX700-PWB(F):  SYS573/ANALOG
+* GX894-PWB(B)A: SYS573/DIGITAL
+* GX700-PWB(D):  SYS573/SECURITY
+
+And possibly any of the following boards:
+* GE765-PWB(B)A: SYS573/BASSCHALLENGE/AUX
+* GE877-PWB(C):  SYS573/GACHAGACHAMP/AUX
+
+Note that even with the same (ANALOG or DIGITAL) I/O board, it can still be wired up differently to the external connector panel on a per-game basis.
+
+Has twice as much RAM (4MB) as a retail PS1. According to BIOS ROM, runs "Konami OS by T.H.".
+
+**MBD:** Sony Playstation 1 (custom)  
+**IO:** [MAIN] IDE, 10pin (analog), 12pin (ext-out), 10pin (ext-in), VGA, 4pin (stereo out), 80pin (aux), 4pin (CD-DA input), parallel 44-pin (security), 4pin (CD power), 2pin (fan), 6pin (power), 30pin, USB (IO), RCA  
+
+## Twinkle
+
+References:
+* http://callusnext.com/twinkle.txt
+* https://github.com/mamedev/mame/blob/master/src/mame/drivers/twinkle.cpp
+
+Sony Playstation 1-based board. Consists of three boards:
+* GQ751-PWB(A2): TWINKLE/MAIN
+* GQ860-PWB(A1): TWINKLE/SUB2 (VIDEO)
+* GQ863-PWB(A2): TWINKLE/SPU  (SOUND, HDD)
+
+Has twice as much RAM (4MB) as a retail PS1. According to BIOS ROM, runs "Konami OS by T.H.".
+
+**MBD:** Sony Playstation 1 (custom)  
+**IO:**  [MAIN, front] RS232, security IC, parallel  
+**IO:**  [MAIN, back]  RS232 (serial, DVD), miniDIN, ethernet (serial, I/O), parallel, power  
+**IO:**  [SUB2, back]  composite, miniDIN, composite, VGA, power  
+**IO:**  [SPU, front]  IDE  
+**IO:**  [SPU, back]   RCA, RCA, power  
+**CD:**  Panasonic CR-505-BCM (SCSI)  
+**HDD:**  Maxtor 2B020H1 (541DX, 5400RPM, 20GB; may depend per game)  
+
+## Python
+
+Sony Playstation 2-based board. Based on a development system. Similar to Namco's System 246 and System 256.
+
+## Python 2
+
+Sony Playstation 2-based board. Unlike the first Python, based on a retail board using Sony's DNAS protection system.
+
 ## `KNM-*`
 
 IBM embedded boards (日本アイ・ビー・エム株式会社)
