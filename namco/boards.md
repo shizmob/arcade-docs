@@ -98,6 +98,8 @@ PC, x86-based. Variants: N2, N2(WM3).
 
 ```
        - Counter-Strike Neo (CSN1, https://www.gamoover.net/Forums/index.php?topic=28671.16)
+       - Gundan: Bonds of the Battlefield 1.0
+       - Gundan: Bonds of the Battlefield 2.0
    WM3 - Midnight Tune 3(WM3)/3DX(W3X)/3DX+(W3P)
 ```
 
