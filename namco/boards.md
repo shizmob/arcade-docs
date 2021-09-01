@@ -1,11 +1,15 @@
 ## System 147
 
+Playstation 2-based, SoC. Game stored in on-board flash chips.
+
 ```
      - Pacman Arcade Party Home (PMA? https://picclick.com/Namco-System147-IO-I-O-PCB-8916960205-8916970205-112877479087.html)
      - Pacman Battle Royale (PBR, https://arcadeheroes.com/2013/05/01/pac-man-battle-royale-unboxing-and-review/)
 ```
 
 ## System 246
+
+Playstation 2 devkit-based with special arcade firmware.
 
 ```
           - Wangan Midnight (JP, WMN1)
@@ -19,6 +23,9 @@
 ```
 
 ## System 256
+
+Playstation 2-devkit based with special arcade firmware.
+
 ```
         - Taiko no Tatsujin 9  (TK91, https://page.auctions.yahoo.co.jp/jp/auction/c889225321 & https://page.auctions.yahoo.co.jp/jp/auction/b533726007)
           Taiko no Tatsujin 10 (T101, https://page.auctions.yahoo.co.jp/jp/auction/c889225321)
@@ -32,6 +39,8 @@
 ```
 
 ## System 357
+
+Playstation 3 debugkit-based with special arcade firmware (GEX/GECR).
 
 ```
   A?
@@ -62,7 +71,10 @@
           Razing Storm (RST, https://www.manualslib.com/manual/1303372/Bandai-Namco-Razing-Storm.html)
 ```
 
-## System 
+## System 369
+
+Playstation 3 Slim debugkit-based with special arcade firmware (GEX/GECR).
+
 ```
     11E - Sailor Zombie AKB48
           Deadstorm Pirates Special Edition (DSP, https://manualzz.com/doc/6364309/deadstorm-pirates-se-manual)
@@ -71,12 +83,34 @@
 
 ## System N2
 
+PC, x86-based. Variants: N2, N2(WM3).
+
+**MBD:** \[JP/Asia\] MSI K7N2GM-IL (custom BIOS)  
+**MBD:** \[Export\] ASUS M2N-MX  
+**CPU:** \[JP/Asia\] AMD Athlon XP-M 2800+  
+**CPU:** \[Export\] AMD Athlon 64 3500+  
+**RAM:** 1 or 2x ??? (DDR, PC-3200, 1GB)  
+**GPU:** \[N2\] Nvidia GeForce 4 series?  
+**GPU:** \[N2(WM3)\] Nvidia GeForce 7600GS AGP (512MB)  
+**HDD:** \[JP/Asia\] Seagate ??? (80GB)  
+**HDD:** \[Export\] WD ??? (80GB)  
+
+
 ```
        - Counter-Strike Neo (CSN1, https://www.gamoover.net/Forums/index.php?topic=28671.16)
    WM3 - Midnight Tune 3/3DX/3DX+
 ```
 
 ## System ES1
+
+PC, x86-based. Variants: ES1, ES1(A2).
+
+**MBD:** Supermicro C2SBM-Q  
+**CPU:** Intel Core 2 Duo E8400  
+**RAM:** 2x ??? (DDR2, PC2-6400, 512MB)  
+**GPU:** \[ES1(A2)\] Nvidia GeForce 9600GT (PCIe, 512MB)  
+**HDD:** Seagate ST3160318AS (SATA, 160GB, 7200RPM) / Hitachi HDS721016CLA382 (SATA, 160GB, 7200RPM)  
+
 
 ```
        - Nirin (NRN, https://www.bandainamco-am.co.uk/files/41)
@@ -95,29 +129,83 @@
 
 ## System ES2
 
-\[budget/redemption/medal\]
+PC, x86-based. Budget, redemption and medal game model. Variants: ES2, ES2+.
+
+**MBD:** \[ES2\] SORD TEM400-based  
+**CPU:** \[ES2\] Intel Atom ??? (1.6 GHz)  
+**RAM:** ???  
+**GPU:** ???  
+**HDD:** ???  
+
 
 ```
-       - Pikachu Medal Game(?) (PMW)
+       - Pokemon Medal World (PMW)
   PLUS - Aikatsu!
          Great Animal Kaiser
+         One Piece Gangan Treasure (OGT)
+         Pocket Monster Battle Nine (ポケットモンスターバトルナイン内)
 ```
 
 ## System ES3
+
+PC, x86-based. Variants: ES3(A), ES3(B), ES3(X).
+
+**MBD:** ???  
+**CPU:** \[ES3(A)\] ???  
+**CPU:** \[ES3(B)\] Intel Pentium G2120  
+**CPU:** \[ES3(X)\] Intel Core i5-3550S  
+**RAM:** \[ES3(A)\] 1x SanMax ??? (4GB)  
+**RAM:** \[ES3(B)\] ??? (8GB, DDR3, PC3-19200)  
+**RAM:** \[ES3(X)\] ??? (8GB) / ??? (16GB)
+**GPU:** \[ES3(A)\] ???  
+**GPU:** \[ES3(B)\] Nvidia GeForce GTX650 Ti
+**GPU:** \[ES3(X)\] Nvidia GeForce GTX680 / Nvidia GeForce GTX760
+**HDD:** HGST HTS545025A7E680 (SATA, 250GB, 5400RPM)  
+
+
 ```
-     A - Pokken Tournament, Mario Kart GP DX (MK3, https://www.bandainamco-am.co.uk/files/37)
+     A - Pokken Tournament
+       - Mario Kart GP DX (MK3, https://www.bandainamco-am.co.uk/files/37)
      B - Midnight Tune 5(WM5)/5DX(W5X)/5DX+(W5P)/6/6R (JP)
-     X - Tekken 7 (TE7)/FR(TER)/FR2(TR2), Time Crisis 5 (TC5, https://www.bandainamco-am.co.uk/files/93)
+     X - Tekken 7 (TE7)/FR(TER)/FR2(TR2)
+       - Time Crisis 5 (TC5, https://www.bandainamco-am.co.uk/files/93)
+       - Star Wars Battle Pod (DSW)
      ? - Synchronica
+       - Lost Land Adventures
+       - Mach Storm
 ```
 
 ## System ES4
+
+PC, x86-based. Lower spec, also used for budget/redemption games? Variants: ES4(A).
+
+**MBD:** ASRock Industrial BN-424 (IMB-A182P-based?)  
+**APU:** AMD GX-424CC  
+**RAM:** 1x UMAX Castor 83EA4G93UM (SoDDR3, 4GB, PC4-12800, 1.355V)  
+**HDD:** ???  
+**IO:** "H058 TSIFPLUS PCB"  
+
+
+```
        - Point Blank X/Gunbullet X (PBX)
        - Mobile Suit Gundam U.C: Card Builder (GCB)
+```
 
 ## System BNA1
 
-https://www.banasupport.net/cms-files/E38090E3818AE58F96E5BC95E6A798E59084E4BD8DE38091E3.pdf
+PC, x86-based. Variants: BNA1, BNA1(LITE). Some kind of defect occurred: https://www.banasupport.net/cms-files/E38090E3818AE58F96E5BC95E6A798E59084E4BD8DE38091E3.pdf
+
+**MBD:** \[BNA1\] ???  
+**MBD:** \[BNA1(LITE)\] ??? (H110 chipset)  
+**CPU:** \[BNA1\] Intel Core i5-6500  
+**CPU:** \[BNA1(LITE)\] Intel Pentium G4400  
+**RAM:** \[BNA1\] ???  
+**RAM:** \[BNA1(LITE)\] 2x ??? (DDR4, 4GB)  
+**GPU:** \[BNA1\] Nvidia GeForce GTX 1050 Ti  
+**GPU:** \[BNA1(LITE)\] Nvidia GeForce GT 1030  
+**SSD:** \[BNA1\] innodisk 3ME4 ??? (SATA, 256GB) / ??? (SATA, 64GB)  
+**SSD:** \[BNA1(LITE)\] ??? + ???  
+
 
 ```
        - Gundam: Bonds of the Battlefield II
@@ -126,19 +214,7 @@ https://www.banasupport.net/cms-files/E38090E3818AE58F96E5BC95E6A798E59084E4BD8D
          Sword Art Online Arcade
          Midnight Tune 6 (export)
   LITE - Taiko no Tatsujin: Rainbow
+     ? - Poker Stadium
 ```
 
 ## System BN2
-
-
-TK4 - Taiko 4  - https://page.auctions.yahoo.co.jp/jp/auction/532919411
-TK6 - Taiko 6  - https://page.auctions.yahoo.co.jp/jp/auction/k529522521
-
-TK9 - Taiko 9  - 
-T10 - Taiko 10 - 
-T11 - Taiko 11 - 
-T12 - Taiko 12 - 
-T14 - Taiko 14 -
-
-ST1/ST3/ST8?
-```
