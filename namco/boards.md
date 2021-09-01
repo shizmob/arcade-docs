@@ -91,14 +91,14 @@ PC, x86-based. Variants: N2, N2(WM3).
 **CPU:** \[Export\] AMD Athlon 64 3500+  
 **RAM:** 1 or 2x ??? (DDR, PC-3200, 1GB)  
 **GPU:** \[N2\] Nvidia GeForce 4 series?  
-**GPU:** \[N2(WM3)\] Nvidia GeForce 7600GS AGP (512MB)  
+**GPU:** \[N2(WM3)\] Nvidia GeForce 7600GS (AGP, 256MB) / Nvidia GeForce 7800GS (AGP, 512MB?, red sticker on N2(WM3) type sticker, game: W3P)  
 **HDD:** \[JP/Asia\] Seagate ??? (80GB)  
 **HDD:** \[Export\] WD ??? (80GB)  
 
 
 ```
        - Counter-Strike Neo (CSN1, https://www.gamoover.net/Forums/index.php?topic=28671.16)
-   WM3 - Midnight Tune 3/3DX/3DX+
+   WM3 - Midnight Tune 3(WM3)/3DX(W3X)/3DX+(W3P)
 ```
 
 ## System ES1
