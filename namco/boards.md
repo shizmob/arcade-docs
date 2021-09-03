@@ -169,15 +169,15 @@ ES3(A):
 **GPU:** ???  
 
 ES3(B):  
-**MBD:** ???
+**MBD:** ???  
 **CPU:** Intel Pentium G2120  
 **RAM:** ??? (8GB, DDR3, PC3-19200)  
 **GPU:** Nvidia GeForce GTX650 Ti  
 
 ES3(X):  
-**MBD:** ???
+**MBD:** ???  
 **CPU:** Intel Core i5-3550S  
-**RAM:** ??? (8GB) / ??? (16GB)
+**RAM:** ??? (8GB) / ??? (16GB)  
 **GPU:** Nvidia GeForce GTX680 / Nvidia GeForce GTX760  
 **HDD:** HGST HTS545025A7E680 (SATA, 250GB, 5400RPM)  
 
