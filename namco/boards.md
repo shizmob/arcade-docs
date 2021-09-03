@@ -85,21 +85,24 @@ Playstation 3 Slim debugkit-based with special arcade firmware (GEX/GECR).
 
 PC, x86-based. Variants: N2, N2(WM3).
 
-**MBD:** \[JP/Asia\] MSI K7N2GM-IL (custom BIOS)  
-**MBD:** \[Export\] ASUS M2N-MX  
-**CPU:** \[JP/Asia\] AMD Athlon XP-M 2800+  
-**CPU:** \[Export\] AMD Athlon 64 3500+  
+JP/Asia:  
+**MBD:** MSI K7N2GM-IL (custom BIOS)  
+**CPU:** AMD Athlon XP-M 2800+  
 **RAM:** 1 or 2x ??? (DDR, PC-3200, 1GB)  
 **GPU:** \[N2\] Nvidia GeForce 4 series?  
 **GPU:** \[N2(WM3)\] Nvidia GeForce 7600GS (AGP, 256MB) / Nvidia GeForce 7800GS (AGP, 512MB?, red sticker on N2(WM3) type sticker, game: W3P)  
-**HDD:** \[JP/Asia\] Seagate ??? (80GB)  
-**HDD:** \[Export\] WD ??? (80GB)  
+**HDD:** Seagate ??? (80GB)  
 
+Export:  
+**MBD:** ASUS M2N-MX  
+**CPU:** AMD Athlon 64 3500+  
+**RAM:** 1 or 2x ??? (DDR, PC-3200, 1GB)  
+**HDD:** WD ??? (80GB)  
 
 ```
        - Counter-Strike Neo (CSN1, https://www.gamoover.net/Forums/index.php?topic=28671.16)
-       - Gundan: Bonds of the Battlefield 1.0
-       - Gundan: Bonds of the Battlefield 2.0
+       - Gundam: Bonds of the Battlefield 1.0
+       - Gundam: Bonds of the Battlefield 2.0
    WM3 - Midnight Tune 3(WM3)/3DX(W3X)/3DX+(W3P)
 ```
 
@@ -113,7 +116,6 @@ PC, x86-based. Variants: ES1, ES1(A2).
 **GPU:** \[ES1(A2)\] Nvidia GeForce 9600GT (PCIe, 512MB)  
 **HDD:** Seagate ST3160318AS (SATA, 160GB, 7200RPM) / Hitachi HDS721016CLA382 (SATA, 160GB, 7200RPM)  
 
-
 ```
        - Nirin (NRN, https://www.bandainamco-am.co.uk/files/41)
          Tank! Tank! Tank! (TTT, https://www.bandainamco-am.com/images/content/Tank%20Tank%20Tank%20Manual.pdf)
@@ -122,8 +124,7 @@ PC, x86-based. Variants: ES1, ES1(A2).
          Dead Heat/Maximum Heat (DDH, https://www.bandainamco-am.co.uk/files/27, http://collectedit.com/collectors/shou-time-213/arcade-pcbs-281/dead-heat-us-by-namco-12558)
          Midnight Tune 4 (WM4, http://collectedit.com/collectors/shou-time-213/arcade-pcbs-281/wangan-midnight-maximum-tune-4-japan-by-namco-20214 / https://www.arcade-projects.com/attachments/es1-jpg.2770/)
          Midnight Tune 5 (US)
-    A2 - [9600GT]
-         Gundan: Bonds of the Battlefield 3.0 (GKE?) (GSK? http://collectedit.com/collectors/shou-time-213/arcade-pcbs-281/mobile-suit-gundam-bonds-of-the-battlefield-japan-by-namco-19629)
+    A2 - Gundam: Bonds of the Battlefield 3.0 (GKE?) (GSK? http://collectedit.com/collectors/shou-time-213/arcade-pcbs-281/mobile-suit-gundam-bonds-of-the-battlefield-japan-by-namco-19629)
          Gundam: Bonds of the Battlefield 4.0 (GKE?) (GKN? https://page.auctions.yahoo.co.jp/jp/auction/g495616988)
          Midnight Tune 4/5/5DX/5DX+ (Asia, WM4, https://www.facebook.com/weedxy2gab/photos/pcb.665771777362930/665771667362941/?type=3&theater)
          Maximum Heat 3D
@@ -131,39 +132,54 @@ PC, x86-based. Variants: ES1, ES1(A2).
 
 ## System ES2
 
-PC, x86-based. Budget, redemption and medal game model. Variants: ES2, ES2+.
+PC, x86-based. Budget, redemption and medal game model. Variants: ES2(A), ES2P(A).
 
-**MBD:** \[ES2\] SORD TEM400-based  
-**CPU:** \[ES2\] Intel Atom ??? (1.6 GHz)  
+ES2(A):  
+**MBD:** SORD TEM400-based  
+**CPU:** Intel Atom ??? (1.6 GHz)  
 **RAM:** ???  
 **GPU:** ???  
-**HDD:** ???  
+**HDD:** ???
+**IO:** ???
 
+ES2P(A):  
+**MBD:** Advantech GMB-"Ontario" V1.1  
+**CPU:** ???  
+**RAM:** 1x SanMax Technologies SMD-N2G68H1P-13H (SODIMM, PC3-10600S, 2GB)  
+**GPU:** ???  
+**HDD:** HGST HTS545025A7E380 (SATA 2.5", 250GB, 5400RPM)  
+**IO:** "H058 TSIFPLUS PCB"  
 
 ```
        - Pokemon Medal World (PMW)
   PLUS - Aikatsu!
          Great Animal Kaiser
          One Piece Gangan Treasure (OGT)
-         Pocket Monster Battle Nine (ポケットモンスターバトルナイン内)
+         Pocket Monster Battle Nine (PBN, ポケットモンスターバトルナイン内)
 ```
 
 ## System ES3
 
 PC, x86-based. Variants: ES3(A), ES3(B), ES3(X).
 
+ES3(A):  
 **MBD:** ???  
-**CPU:** \[ES3(A)\] ???  
-**CPU:** \[ES3(B)\] Intel Pentium G2120  
-**CPU:** \[ES3(X)\] Intel Core i5-3550S  
-**RAM:** \[ES3(A)\] 1x SanMax ??? (4GB)  
-**RAM:** \[ES3(B)\] ??? (8GB, DDR3, PC3-19200)  
-**RAM:** \[ES3(X)\] ??? (8GB) / ??? (16GB)
-**GPU:** \[ES3(A)\] ???  
-**GPU:** \[ES3(B)\] Nvidia GeForce GTX650 Ti
-**GPU:** \[ES3(X)\] Nvidia GeForce GTX680 / Nvidia GeForce GTX760
-**HDD:** HGST HTS545025A7E680 (SATA, 250GB, 5400RPM)  
+**CPU:** ???  
+**RAM:** 1x SanMax Technologies ??? (4GB)  
+**GPU:** ???  
 
+ES3(B):  
+**MBD:** ???
+**CPU:** Intel Pentium G2120  
+**RAM:** ??? (8GB, DDR3, PC3-19200)  
+**GPU:** Nvidia GeForce GTX650 Ti  
+
+ES3(X):  
+**MBD:** ???
+**CPU:** Intel Core i5-3550S  
+**RAM:** ??? (8GB) / ??? (16GB)
+**GPU:** Nvidia GeForce GTX680 / Nvidia GeForce GTX760  
+**HDD:** HGST HTS545025A7E680 (SATA, 250GB, 5400RPM)  
 
 ```
      A - Pokken Tournament
@@ -187,7 +203,6 @@ PC, x86-based. Lower spec, also used for budget/redemption games? Variants: ES4(
 **HDD:** ???  
 **IO:** "H058 TSIFPLUS PCB"  
 
-
 ```
        - Point Blank X/Gunbullet X (PBX)
        - Mobile Suit Gundam U.C: Card Builder (GCB)
@@ -197,17 +212,19 @@ PC, x86-based. Lower spec, also used for budget/redemption games? Variants: ES4(
 
 PC, x86-based. Variants: BNA1, BNA1(LITE). Some kind of defect occurred: https://www.banasupport.net/cms-files/E38090E3818AE58F96E5BC95E6A798E59084E4BD8DE38091E3.pdf
 
-**MBD:** \[BNA1\] ???  
-**MBD:** \[BNA1(LITE)\] ??? (H110 chipset)  
-**CPU:** \[BNA1\] Intel Core i5-6500  
-**CPU:** \[BNA1(LITE)\] Intel Pentium G4400  
-**RAM:** \[BNA1\] ???  
-**RAM:** \[BNA1(LITE)\] 2x ??? (DDR4, 4GB)  
-**GPU:** \[BNA1\] Nvidia GeForce GTX 1050 Ti  
-**GPU:** \[BNA1(LITE)\] Nvidia GeForce GT 1030  
-**SSD:** \[BNA1\] innodisk 3ME4 ??? (SATA, 256GB) / ??? (SATA, 64GB)  
-**SSD:** \[BNA1(LITE)\] ??? + ???  
+BNA1:  
+**MBD:** ???  
+**CPU:** Intel Core i5-6500  
+**RAM:** ???  
+**GPU:** Nvidia GeForce GTX 1050 Ti  
+**SSD:** innodisk 3ME4 ??? (SATA, 256GB) / ??? (SATA, 64GB)  
 
+BNA1(LITE):  
+**MBD:** ??? (H110 chipset) 
+**CPU:** Intel Pentium G4400  
+**RAM:** 2x ??? (DDR4, 4GB)  
+**GPU:** Nvidia GeForce GT 1030  
+**SSD:** ??? + ???  
 
 ```
        - Gundam: Bonds of the Battlefield II
