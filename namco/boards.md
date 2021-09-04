@@ -144,9 +144,8 @@ ES2(A):
 
 ES2P(A):  
 **MBD:** Advantech GMB-"Ontario" V1.1  
-**CPU:** ???  
+**APU:** AMD G-T56N 
 **RAM:** 1x SanMax Technologies SMD-N2G68H1P-13H (SODIMM, PC3-10600S, 2GB)  
-**GPU:** ???  
 **HDD:** HGST HTS545025A7E380 (SATA 2.5", 250GB, 5400RPM)  
 **IO:** "H058 TSIFPLUS PCB"  
 
