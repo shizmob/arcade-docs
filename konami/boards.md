@@ -172,12 +172,6 @@ Ennocom embedded boards: https://www.ennoconn.com/producttype_en-us_0_21_1.html
     **GPU:** AMD Radeon E6760  
     **HDD:** WDC WD3200LPCX (320GB)  
     **Games:** KFC, PAN  
-
-* ADE-????  
-    **APU:** AMD GX-420CA (GE420CIAJ44HM)  
-    **RAM:** 4GB DDR3  
-    **SSD:** innodisk 3ME2 mSATA (64GB)  
-    **Games:** PIX  
  
 * ADE-6291  
     **MBD:** ADE-6291  
@@ -186,11 +180,17 @@ Ennocom embedded boards: https://www.ennoconn.com/producttype_en-us_0_21_1.html
     **SSD:** innodisk 3ME2 mSATA (256GB)  
     **Games:** KFC, L44, LDJ, M32, M33, MDX (Gold), PAN, REC  
 
-## `X10*`
+## Misc
 
-Supermicro embedded boards (name tentative).
+* KBN-i2  
+    **MBD:** iEi KINO-KBN-i2-4201-R10-KNM VER 1.0
+    **APU:** AMD GX-420CA (GE420CIAJ44HM)  
+    **RAM:** 1x Buffalo D3N1600-LS4GHAJ (SODIMM DDR3, 4GB, PC3L-12800S)
+    **SSD:** innodisk 3ME2 mSATA (64GB) / ??? "M064GPSN804TGJN0-PH" (64GB, mSATA, Phison PS3108 controller, S8FM07.9 firmware)
+    **IO:** Konami P4IO (115710800000)
+    **Games:** O26, PIX  
 
-* X10SLQ  
+* X10SLQ (name tentative)  
     **MBD:** Supermicro X10SLQ  
     **STH:** Intel Q87  
     **CPU:** Intel Core i3-4330 3.5GHz  
