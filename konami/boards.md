@@ -4,16 +4,17 @@ References:
 * https://github.com/mamedev/mame/blob/master/src/mame/drivers/ksys573.cpp
 
 Sony Playstation 1-based board. Consist of at least MAIN and either the ANALOG or DIGITAL board:
-* GX700-PWB(A)B: SYS573/MAIN
-* GX700-PWB(F):  SYS573/ANALOG
-* GX894-PWB(B)A: SYS573/DIGITAL
-* GX700-PWB(D):  SYS573/SECURITY
+* GX700-PWB(A)B: main
+* GX700-PWB(D):  security cartridge board
 
 And possibly any of the following boards:
-* GE765-PWB(B)A: SYS573/BASSCHALLENGE/AUX
-* GE877-PWB(C):  SYS573/GACHAGACHAMP/AUX
+* GX700-PWB(F):  analog I/O
+* GX894-PWB(B)A: digital I/O
+* GE765-PWB(B)A: bass challenge aux input
+* GE877-PWB(C):  gachaga champ aux input
+* G????:         network unit expansion
 
-Note that even with the same (ANALOG or DIGITAL) I/O board, it can still be wired up differently to the external connector panel on a per-game basis.
+Note that even with the same I/O board, it can still be wired up differently to the external connector panel on a per-game basis.
 
 Has twice as much RAM (4MB) as a retail PS1. According to BIOS ROM, runs "Konami OS by T.H.".
 
