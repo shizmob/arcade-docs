@@ -1,6 +1,7 @@
 # Konami products
 
-For identification purpose, Konami labels their products using a [propriatary format](identifiers.md#product-identifier).
+For identification purpose, Konami labels their products using a
+[proprietary format](identifiers.md#product-identifier).
 
 ## Products and packages
 
