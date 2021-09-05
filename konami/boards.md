@@ -67,7 +67,7 @@ IBM embedded boards (日本アイ・ビー・エム株式会社)
 
 ### KNM-???
 
-Also known as: "BemaniPC Type 1".
+Also known as: "BemaniPC Type 1" (unofficially).
 
     **CPU:** Intel Pentium 2.4 2.4 Ghz  
     **RAM:** 1x ??? (DDR1, PC2100, 256MB)  
@@ -117,7 +117,7 @@ Sord embedded boards: https://www.sord.co.jp/company/corporate/history.html
 
 ## FAB-e945-KN205
 
-Also known as: "BemaniPC Type 2".
+Also known as: "BemaniPC Type 2" (unofficially).
 
     **CPU:** Pentium 4 2.5GHz  
     **RAM:** 512MB PC2700  
@@ -178,10 +178,10 @@ AOpen embedded boards.
 
 ### 855
 
-Also known as: "BemaniPC Type 3".
+Also known as: "BemaniPC Type 3" (unofficially).
 
     **MBD:** AOpen IT855GME-LX (AOpen i855G*-based?)  
-    **CPU:** Intel Celeron M (310? 340?) 1.5GHz  
+    **CPU:** Intel Celeron M 370  
     **RAM:** 1x Buffalo ??? (DDR, 512MB, PC2700)  
     **GPU:** ATi Radeon 9600 XT (embedded)  
     **IO:** \[M39\] [USB I/O 2](io.md#usbio2)  
@@ -191,7 +191,7 @@ Also known as: "BemaniPC Type 3".
 
 ### 945
 
-Also known as: "BemaniPC Type 4" / "JDX-945-02" / "KFC-945-01".
+Also known as: "JDX-945-02" / "KFC-945-01" / "BemaniPC Type 4" (unofficially).
 
     **MBD:** AOpen IT945GME_M72 (AOpen i945G*-based?)  
     **CPU:** AMD Athlon X2 4400+  
@@ -206,6 +206,8 @@ Also known as: "BemaniPC Type 4" / "JDX-945-02" / "KFC-945-01".
 Ennocom embedded boards: https://www.ennoconn.com/producttype_en-us_0_21_1.html
   
 ### HM65
+
+Also known as: "ITHM65"
 
     **MBD:** ADE-704A  
     **STH:** Intel HM65  
@@ -233,7 +235,7 @@ Ennocom embedded boards: https://www.ennoconn.com/producttype_en-us_0_21_1.html
  
 ### ADE-6291
 
-(name tentative)
+Also known as: "ADE".
 
     **MBD:** ADE-6291  
     **APU:** AMD RX-421BD  
