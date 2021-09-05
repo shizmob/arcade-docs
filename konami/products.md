@@ -336,10 +336,12 @@ chronologic order, e.g. regarding release dates.
   * `GCI44`
 * `IBB`: ザ・ビシバシ / THE*BISHIBASHI
 * `IBI`: 天下一将棋会
+  * `GQIBI-JA`
 * `ICE`: Quiz Magic Academy 6
   * `GCICE-JB`
   * `GCICE-JA`
 * `IK9`: 麻雀格闘倶楽部 我龍転生
+  * `GCIK9-JB` 
 * `J32`: DrumMania V7, DrumManiaXG
   * `GCJ32`
 * `J33`: GuitarFreaks V7, GuitarFreaksXG
@@ -380,7 +382,7 @@ chronologic order, e.g. regarding release dates.
   * `GQKGG-JA`
 * `KMA`: Quiz Magic Academy 8
 * `KDX`: DanceDanceRevolution X3 VS 2ndMIX
-  * `GEKDX-JAA`
+  * `GEKDX-JA`
 * [`KDZ`: beatmania IIDX 19 Lincle](software/KDZ.md)
   * `GEKDZ-JA`
 * `KFC`: SOUND VOLTEX BOOTH, SOUND VOLTEX II -infinite infection-, SOUND VOLTEX III GRAVITY WARS, SOUND VOLTEX IV HEAVENLY HAVEN, SOUND VOLTEX VIVID WAVE, SOUND VOLTEX EXCEED GEAR
@@ -400,7 +402,7 @@ chronologic order, e.g. regarding release dates.
   * `GCL39-JA`
 * `L44`: jubeat saucer, jubeat saucer fulfill, jubeat prop, jubeat Qubell, jubeat clan, jubeat festo
   * `GQL44-JB`
-* `LA9`: PASELIチャージ機
+* `LA9`: PASELIチャージ機 / PASELI Charging Machine
   * `GQLA9-JA`
 * `LBR`: REFLEC BEAT limelight
   * `GCLBR-JA`
@@ -421,6 +423,7 @@ chronologic order, e.g. regarding release dates.
   * `GULDJ-JI`: something for iidx 22 ???
   * [`GULDJ-JJ`: PENDUAL LCD monitor](product/GULDJ-JJ.md)
 * `LMA`: Quiz Magic Academy 9
+  * `GELMA-JA`
   * `GELMA-JB`
 * `M27`: Baseball Heroes 2012
   * `GCM27-JB`
@@ -456,6 +459,7 @@ chronologic order, e.g. regarding release dates.
   * `GQREC-JA`: Additional paseli fee added for plays depending on the model (?): 40 - 120%
   * `GQREC-JB`: Additional paseli fee added for plays depending on the model (?): 60 - 120%
   * `GQREC-JC`: Additional paseli fee added for plays depending on the model (?): 40 - 120%, different to JA, trial?
+  * `GKREC-CA`
 * `S36`: 極寒ヒエヒエペン太
 * `TBS`: 武装神姫　アーマードプリンセス　バトルコンダクター
 * `TCS`: CARD CONNECT / カードコネクト
