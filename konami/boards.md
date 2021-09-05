@@ -41,8 +41,8 @@ Has twice as much RAM (4MB) as a retail PS1. According to BIOS ROM, runs "Konami
 **IO:**  [SPU, front]  IDE  
 **IO:**  [SPU, back]   RCA, RCA, power  
 **CD:**  Panasonic CR-505-BCM (SCSI)  
-**HDD:**  Maxtor 2B020H1 (541DX, 5400RPM, 20GB; may depend per game)
-**DVD:** Victor XV D701
+**HDD:**  Maxtor 2B020H1 (541DX, 5400RPM, 20GB; may depend per game)  
+**DVD:** Victor XV D701  
 
 A DVD player is used to play back mpeg encoded Video CDs and DVDs. The decoded video is forwarded
 via composite input to the main unit and blit into the UI by software.
@@ -85,8 +85,8 @@ Also known as: "BemaniPC Type 1" (unofficially).
 **RAM:** 1x ??? (DDR1, PC2100, 256MB)  
 **MBD:** PM-845G3/GL/GV?  
 **STH:** Intel 845G  
-**GPU:** NVIDIA GeForce 4 MX440
-**SND:** Realtek AC'97
+**GPU:** NVIDIA GeForce 4 MX440  
+**SND:** Realtek AC'97  
 **Games:** [C02](software/C02.md), [D01](software/D01.md), [E11](software/E11.md), [ECO](software/ECO.md), [FDD](software/FDD.md)  
 
 ## `FAB-*`
@@ -134,8 +134,8 @@ Also known as: "BemaniPC Type 2" (unofficially).
 
 **CPU:** Pentium 4 2.5GHz  
 **RAM:** 512MB PC2700  
-**GPU:** ATI Radeon X1300
-**SND:** Realtek HD
+**GPU:** ATI Radeon X1300  
+**SND:** Realtek HD  
 **Sticker:** B5  
 **Games:** [GLD](software/GLD.md), [HDD](software/HDD.md), [I00](software/I00.md), [JDJ](software/JDJ.md), [JDZ](software/JDZ.md), [KDZ](software/KDZ.md)  
 
@@ -231,7 +231,7 @@ Also known as: "ITHM65".
 **GPU:** AMD Radeon E4690  
 **SSD:** Intel SSDSA2CT040G3 2.5" (SATA 2.5", 40GB)  
 **IO:** \[KFC/NBT/PAN\] [KFCA](io.md#kfca)    
-**IO:** \[LDJ\] [USB I/O 2](io.md#usbio2)
+**IO:** \[LDJ\] [USB I/O 2](io.md#usbio2)  
 **IO:** \[M39\] [USB I/O 2](io.md#usbio2)  
 **IO:** \[M32/M33/MDX\] [P4IO](io.md#p4io)  
 **Games:** KFC, L44, [LDJ](software/LDJ.md), M32, M33, M39, MBR, MDX, NBT, PAN  
@@ -242,12 +242,12 @@ Also known as: "ITHM65".
 
 **MBD:** ADE-704B  
 **CPU:** Intel Celeron 1020E  
-**RAM:** 1x ??? (DDR3 SODIMM, 2GB)
-**GPU:** AMD Radeon E6760   
+**RAM:** 1x ??? (DDR3 SODIMM, 2GB)  
+**GPU:** AMD Radeon E6760  
 **HDD:** WDC WD3200LPCX (320GB)  
 **IO:** \[KFC/PAN\] [KFCA](io.md#kfca)   
 **Games:** KFC, PAN  
-**Ref:** https://twitter.com/ham56p/status/1115528175142850561
+**Ref:** https://twitter.com/ham56p/status/1115528175142850561  
  
 ### ADE-6291
 
@@ -255,10 +255,10 @@ Also known as: "ADE".
 
 **MBD:** ADE-6291  
 **APU:** AMD RX-421BD  
-**HDD:** [KFC/PAN?/L44?/M32?/M33?] WDC WD3200LPCX (320GB)
-**SSD:** [Others] innodisk 3ME2 mSATA (256GB)
+**HDD:** [KFC/PAN?/L44?/M32?/M33?] WDC WD3200LPCX (320GB)  
+**SSD:** [Others] innodisk 3ME2 mSATA (256GB)  
 **IO:** \[L44/M32/M33\] [P4IO](io.md#p4io)  
-**IO:** \[KFC/PAN\] [KFCA](io.md#kfca)    
+**IO:** \[KFC/PAN\] [KFCA](io.md#kfca)   
 **IO:** \[LDJ/MDX\] [BIO2(BI2A)](io.md#bio2)  
 **IO:** \[REC\] 2x [BIO2(BI2A)](io.md#bio2)  
 **Games:** KFC, L44, [LDJ](software/LDJ.md), M32, M33, MDX (Gold), PAN, REC  
@@ -300,7 +300,7 @@ Konami's own gaming PCs.
 **CPU:** Intel Core i5-9400F  
 **RAM:** 1x Innodisk M4US-8GSSKCRG-S (8GB DDR4 2133 DIMM)  
 **GPU:** GIGABYTE GV-N1650IXOC-4GD (Nvidia GeForce GTX 1650)  
-**SSD:** Innodisk 3ME3 2.5" SATA (256GB, DES25-B56D08BC1QC)   
+**SSD:** Innodisk 3ME3 2.5" SATA (256GB, DES25-B56D08BC1QC)  
 **SND:** ASUS Xonar AE  
 **IO:** [BIO2(BI2X)](io.md#bio2)  
 **Games:** TDJ, UFC  
