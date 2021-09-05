@@ -153,6 +153,28 @@ Sord embedded boards: https://www.sord.co.jp/company/corporate/history.html
     **MBD:** Toshiba TEM130  
     **Games:** NCK  
 
+## `IT*`
+
+AOpen embedded boards.
+
+* IT855 ("BemaniPC Type 3")  
+    **MBD:** AOpen IT855GME-LX  
+    **CPU:** Intel Celeron M (310? 340?) 1.5GHz  
+    **RAM:** 1x Buffalo ??? (DDR, 512MB, PC2700)  
+    **GPU:** ATi RV360 (Radeon 9600 XT)  
+    **IO:** \[M39\] Konami USB I/O 2 (PWB1113692080000)  
+    **IO:** \[Others\] Konami P3IO (PWB112263690000)  
+    **Games:** ID2 / jubeat / G22 / G33 / H32 / H33 / I32 / I33 / J32 / J33 / K32 / K33 / M39  
+    **Ref:** http://k4copious.blog.fc2.com/blog-entry-14.html / http://callusnext.com/pcbs/pc_pm.html  
+
+* IT945 ("BemaniPC Type 4" / "JDX-945-02")  
+    **MBD:** AOpen IT945GME_M72 (AOpen i945GM*-based)  
+    **CPU:** AMD Athlon X2 4400+  
+    **RAM:** 2x Bufallo D2N667C-X512HEJ (SODIMM DDR2, 512MB, PC2-5300S)  
+    **GPU:** ATi E2400 MXM-II 256MB RH EDG  
+    **IO:** \[DDR\] Konami P3IO (PWB112263690000)  
+    **Games:** JDX / KDX / MDX  
+
 ## `ADE-*`
 
 Ennocom embedded boards: https://www.ennoconn.com/producttype_en-us_0_21_1.html
@@ -184,11 +206,11 @@ Ennocom embedded boards: https://www.ennoconn.com/producttype_en-us_0_21_1.html
 ## Misc
 
 * KBN-i2  
-    **MBD:** iEi KINO-KBN-i2-4201-R10-KNM VER 1.0
+    **MBD:** iEi KINO-KBN-i2-4201-R10-KNM VER 1.0  
     **APU:** AMD GX-420CA (GE420CIAJ44HM)  
-    **RAM:** 1x Buffalo D3N1600-LS4GHAJ (SODIMM DDR3, 4GB, PC3L-12800S)
-    **SSD:** innodisk 3ME2 mSATA (64GB) / ??? "M064GPSN804TGJN0-PH" (64GB, mSATA, Phison PS3108 controller, S8FM07.9 firmware)
-    **IO:** Konami P4IO (115710800000)
+    **RAM:** 1x Buffalo D3N1600-LS4GHAJ (SODIMM DDR3, 4GB, PC3L-12800S)  
+    **SSD:** innodisk 3ME2 mSATA (64GB) \[PIX\] / ??? "M064GPSN804TGJN0-PH" (64GB, mSATA, Phison PS3108 controller, S8FM07.9 firmware) \[O26\]  
+    **IO:** Konami P4IO (115710800000)  
     **Games:** O26, PIX  
 
 * X10SLQ (name tentative)  
