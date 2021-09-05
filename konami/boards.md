@@ -96,7 +96,7 @@ Sord embedded boards: https://www.sord.co.jp/company/corporate/history.html
 **GPU:** ATI Radeon 9600XT 128M  
 **HDD:** Seagate ST3402111A (40GB)  
 **CD:**  reader  
-**IO:**  [APC102-000](io.md#apc) 
+**IO:**  [APC102-000](io.md#apc)  
 **Sticker:** A3  
 **Games:** F24  
 
@@ -228,7 +228,7 @@ Also known as: "ITHM65".
 **MBD:** ADE-704B  
 **CPU:** Intel Celeron 1020E  
 **RAM:** 1x ??? (DDR3 SODIMM, 2GB)
-**GPU:** AMD Radeon E6760  
+**GPU:** AMD Radeon E6760   
 **HDD:** WDC WD3200LPCX (320GB)  
 **IO:** \[KFC/PAN\] [KFCA](io.md#kfca)   
 **Games:** KFC, PAN  
@@ -241,7 +241,7 @@ Also known as: "ADE".
 **MBD:** ADE-6291  
 **APU:** AMD RX-421BD  
 **RAM:** 1x Innodisk ??? (DDR4, PC4-19200, 4GB)  
-**HDD:** [KFC/PAN?/L44?/M32?/M33?] WDC WD3200LPCX (320GB)
+**HDD:** [KFC/PAN?/L44?/M32?/M33?] WDC WD3200LPCX (320GB)  
 **SSD:** [Others] innodisk 3ME2 mSATA (256GB)  
 **IO:** \[L44/M32/M33\] [P4IO](io.md#p4io)  
 **IO:** \[KFC/PAN\] [KFCA](io.md#kfca)    
