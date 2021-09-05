@@ -446,6 +446,10 @@ chronologic order, e.g. regarding release dates.
   * `GKMDX-UD`
   * `GKMDX-AE`
 * `MMD`: ミライダガッキ / FutureTomTom, ミライダガッキ Ver.2 / FutureTomTom Ver.2
+* `NBF`: アルティメットストライカー / Ultimate Strikers
+* `NBT`: ビートストリーム / BeatStream
+  * `GQNBT-JA 
+* `NCG`: オトカ ドール
 * `O26`: ツムツム
   * `GUO26-JA`
   * `GOO26-AB`: Figurine dispenser main unit
