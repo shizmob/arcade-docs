@@ -86,9 +86,13 @@ e-AMUSEMENT pass (IC card) reader. Is really two types of devices: the old slot 
 
 ## J32D
 
+Guitarfreaks/Drummania XG (J32) device.
+
 ## KLPA
 
 ## MDXF
+
+DDR A (MDX) device.
 
 ## NDDB
 
