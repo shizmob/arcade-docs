@@ -26,8 +26,8 @@ chronologic order, e.g. regarding release dates.
 * `831`: pop'n music 2
   * `GC831`
 * `845`: DanceDanceRevolution, Dancing Stage
-  * `GC845-JA`: DanceDanceRevolution
-  * `GC845-JB`: DanceDanceRevolution インターネットランキングVer.
+  * `GN845-JA` / `GC845-JA? (MAME)`: DanceDanceRevolution
+  * `GN845-JB` / `GC845-JB? (MAME)`: DanceDanceRevolution インターネットランキングVer.
   * `GK845-AA`: DanceDanceRevolution \[Asian cab, https://manualzz.com/download/48538447 \]
   * `GN845-AA`: DanceDanceRevolution \[Asian cab, https://manualzz.com/download/48538447 \]
   * `GN845-TB`: DanceDanceRevolution \[Asian cab, 110V, https://manualzz.com/download/48538447 & https://tamdb.net/downloads/?sa=downfile&id=2700 \]
