@@ -9,5 +9,6 @@ Document about Konami's software and hardware license management using different
   * Roundplugs (miniDIN)
   * Serial plugs (RS232)
 * Rainbow Technologies iKey 2032 (USB): Custom plastic housing in black or white for software license and eamuse participation
-* Safenet/Aladdin eToken 5110/5100 (USB): Have a tag attached
+* Safenet/Aladdin eToken 5110/5100 (USB): Have a identifier tag attached
+  * Newer eToken 5110s have a Gemalto engraving
  
