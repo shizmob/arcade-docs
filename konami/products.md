@@ -53,11 +53,15 @@ chronologic order, e.g. regarding release dates.
 * `884`: Dancing Stage featuring TRUE KiSS DESTiNATiON
   * `GN884`
 * `885`: DanceDanceRevolution 2ndMIX Link Version
-  * `GE885`
+  * `GE885-JA`
+  * `GE885-JB`
+  * `GU885-JA`
 * `886`: GuitarFreaks
   * `GQ886`
 * `887`: DanceDanceRevolution 3rdMIX
-  * `GN887`
+  * `GN887-JA`
+  * `GE887-JA`
+  * `GE887-JB`
 * `892`: DanceDanceRevolution Best of Cool Dancers
   * `GC892`
 * `894`: DanceDanceRevolution Solo BASS MIX
@@ -150,10 +154,13 @@ chronologic order, e.g. regarding release dates.
 * `A26`: GuitarFreaks 5thMIX
   * `GCA26`
 * `A27`: DanceDanceRevolution 5thMIX
-  * `GCA27`
+  * `GCA27-JA`
 * `A33`: DanceDanceRevolution 4thMIX, DanceDanceRevolution 4thMIX SOLO
+  * `GCA33-JA`: DanceDanceRevolution 4thMIX
   * `GCA33-RAA`: DanceDanceRevolution 4thMIX
   * `GCA33-RBA`: DanceDanceRevolution 4thMIX SOLO
+  * `GEA33-JY`: DanceDanceRevolution 4thMIX
+  * `GEA33-JZ`: DanceDanceRevolution 4thMIX
 * `A34`: DanceDanceRevolution 4thMIX PLUS/DanceDanceRevolution 4thMIX PLUS SOLO
   * `GCA34-RAA`: DanceDanceRevolution 4thMIX PLUS
   * `GCA34-RBA`: DanceDanceRevolution 4thMIX PLUS SOLO
@@ -283,6 +290,7 @@ chronologic order, e.g. regarding release dates.
   * `GKFDH`
   * `GQFDH`
 * `FK9`: 麻雀格闘倶楽部5
+* `FLY`: Quiz Magic Academy 3
 * `G15`: pop'n music 15
   * `GEG15-JA`
 * `G23`: ホースライダーズ / HORSERIDERS
@@ -292,6 +300,7 @@ chronologic order, e.g. regarding release dates.
   * `GCG33`
 * `GDJ`: DanceDanceRevolution SuperNOVA2
   * `GCGDJ`
+* `GEM`: Quiz Magic Academy 4
 * `GGG`: オトメディウス / OTOMEDIUS
   * `GEGGG-JAA`
 * `GHL`: Silent Hill THE ARCADE
@@ -378,8 +387,6 @@ chronologic order, e.g. regarding release dates.
   * `GQKFC-JA`
   * `GEKFC-JF`
   * `GUKFC-JZ`: SDVX generator real model
-* `KGG`: HUNTER CHRONICLE
-  * `GQKGG-JA`
 * `KK9`: 麻雀格闘倶楽部 ultimate version / MAHJONG FIGHT CLUB
   * `GEKK9-JB`
 * `KLP`: ラブプラス アーケード カラフル Clip
@@ -449,6 +456,9 @@ chronologic order, e.g. regarding release dates.
   * `GQREC-JA`: Additional paseli fee added for plays depending on the model (?): 40 - 120%
   * `GQREC-JB`: Additional paseli fee added for plays depending on the model (?): 60 - 120%
   * `GQREC-JC`: Additional paseli fee added for plays depending on the model (?): 40 - 120%, different to JA, trial?
+* `S36`: 極寒ヒエヒエペン太
+* `TBS`: 武装神姫　アーマードプリンセス　バトルコンダクター
+* `TCS`: CARD CONNECT / カードコネクト
 * `TDJ`: beatmania IIDX 27 HEROIC VERSE \[Lightning cabinet\]
   * [`GQTDJ-JA`: Dedicated cabinet](product/GQTDJ-JA.md)
   * `GQTDJ-UA`
