@@ -24,10 +24,34 @@
     * Generic test and service switches, and general input
     * Known versions: 1.1.2 / Jun 12 2013 19:24:19 / O26
 
+## C02 IO
+
+* GEC02-PWB(A)A
+* PCB product: PN0000228708
+* case/metal housing: PN0000246977
+* case/box cover: PN0000246978
+* Interface to main PCB: USB 1.1
+* Compatible games: [C02](software/C02.md), [D01](software/D01.md), [E11](software/E11.md),
+[ECO](software/ECO.md), [FDD](software/FDD.md), [GLD](software/GLD.md), [HDD](software/HDD.md),
+[I00](software/I00.md), [JDJ](software/JDJ.md), [JDZ](software/JDZ.md), [KDZ](software/KDZ.md),
+[LDJ (only up to 24 included)](software/LDJ.md)
+
+## D01 IO
+
+* Interface to main PCB: USB 1.1
+* Compatible games: [D01](software/D01.md), [E11](software/E11.md), [ECO](software/ECO.md),
+[FDD](software/FDD.md), [GLD](software/GLD.md), [HDD](software/HDD.md), [I00](software/I00.md),
+[JDJ](software/JDJ.md), [JDZ](software/JDZ.md), [KDZ](software/KDZ.md), 
+[LDJ (only up to 24 included)](software/LDJ.md)
+
 ## USBIO2
 
-* Product: PWB1113692080000
-* Connectors: USB
+* KDE-J
+* PCB product: PWB1113692080000, PWB111362080000
+  * Case/metal housing: PN00001_1263
+* Interface to main PCB: USB 2.0
+* Compatible games: [GLD](software/GLD.md), [HDD](software/HDD.md), [I00](software/I00.md),
+[JDJ](software/JDJ.md), [JDZ](software/JDZ.md), [KDZ](software/KDZ.md), [LDJ (only up to 24 included)](software/LDJ.md)
 
 ## KFCA
 
@@ -46,8 +70,17 @@
   - BI2A (ID: 0x0D060000)
   - BI2X
 * Connectors: USB
+* Compatible games: [LDJ (starting 25)](software/LDJ.md)
+
+### BIO2 sub IO
 
 # Devices
+
+## C02 magnetic card readers
+
+* PN 0000254292
+* Compatible games: [C02](software/C02.md), [D01](software/D01.md), [E11](software/E11.md),
+[ECO](software/ECO.md)
 
 ## DDRS
 
