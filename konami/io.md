@@ -11,7 +11,8 @@
 
 ## P4IO
 
-* Product: 115710800000
+* Product: 115710800000 (blue board) / PWB112840930000 (green board)
+* Codename: "Cerel"
 * ACIO name: "BMPU"
 
 ## USBIO2
