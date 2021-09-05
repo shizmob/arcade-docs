@@ -14,382 +14,383 @@ chronologic order, e.g. regarding release dates.
   * `GX700`: System 573 main board (?)
 * `751`
   * `GQ751`: Twinkle main board (?)
-* `753`: Beatmania
+* `753`: beatmania
   * `GQ753`
 * `785`: Gradius 2
 * `945`: Gradius 3
-* `803`: Pop'n Music
+* `803`: pop'n music
   * `GC803`
-* `825`: Beatmania 3rd Mix
+* `825`: beatmania 3rdMIX
   * `GQ825`
   * `GC825`
-* `831`: Pop'n Music 2
+* `831`: pop'n music 2
   * `GC831`
-* `845`: Dance Dance Revolution/Dancing Stage
-  * `GC845`: Dance Dance Revolution
+* `845`: DanceDanceRevolution/Dancing Stage
+  * `GC845`: DanceDanceRevolution
   * `GN845`: Dancing Stage
-* `847`: Beatmania 4th Mix
+* `847`: beatmania 4thMIX
   * `GC847-JA`
-* `853`: Beatmania 2nd Mix
+* `853`: beatmania 2ndMIX
   * `GQ853`
   * `GC853`
-* `858`: Beatmania Complete Mix
+* `858`: beatmania completeMIX
   * `GQ858`
   * `GC858`
-* `863`: Beatmania IIDX
+* `863`: beatmania IIDX
   * [`GQ863-JA`: Dedicated cabinet](product/GQ863-JA.md)
 * `874`: Dance Maniax
-* `881`: Drummania
+* `881`: DrumMania
   * `GQ881`
-* `883`: Guitarfreaks 2nd Mix
+* `883`: GuitarFreaks 2ndMIX
   * `GQ883`
 * `884`: Dancing Stage featuring TRUE KiSS DESTiNATiON
   * `GN884`
-* `885`: Dance Dance Revolution 2nd Mix Link Version
+* `885`: DanceDanceRevolution 2ndMIX Link Version
   * `GE885`
-* `886`: Guitarfreaks
+* `886`: GuitarFreaks
   * `GQ886`
-* `887`: Dance Dance Revolution 3rd Mix
+* `887`: DanceDanceRevolution 3rdMIX
   * `GN887`
-* `892`: Dance Dance Revolution Best of Cool Dancers
+* `892`: DanceDanceRevolution Best of Cool Dancers
   * `GC892`
-* `894`: Dance Dance Revolution Solo Bass Mix
+* `894`: DanceDanceRevolution Solo BASS MIX
   * `GQ894`
-* `895`: Dance Dance Revolution 2nd Mix
+* `895`: DanceDanceRevolution 2ndMIX
   * `GC895`
   * `GN895`
-* `896`: Dance Dance Revolution Club Mix/Beatmania IIDX with DDR Club Kit
-  * `GN896`: Dance Dance Revolution Club Mix
-* `905`: Dance Dance Revolution Solo 2000
+* `896`: DanceDanceRevolution 2ndMIX with beatmania IIDX CLUB VERSiON
+  * `GN896`: DanceDanceRevolution 2ndMIX with beatmania IIDX CLUB VERSiON
+* `905`: DanceDanceRevolution Solo 2000
   * `GC905`
 * `910`: Dancing Stage featuring DREAMS COME TRUE
   * `GC910`
-* `912`: Drummania 2nd Mix
+* `912`: DrumMania 2ndMIX
   * `GE912`
-* `936`: Dancing Stage Euro Mix
+* `936`: Dancing Stage EuroMIX
   * `GE936`
-* `949`: Guitarfreaks 3rd Mix
+* `949`: GuitarFreaks 3rdMIX
   * `GE949`
-* `970`: Pop'n Stage
+* `970`: pop'n stage
   * `GQ970`
-  * `GC970`: Pop'n Stage EX
-* `972`: Beatmania III
+  * `GC970`: pop'n stage EX
+* `972`: beatmania III
   * `GQ972`
-* `974`: Keyboard Mania
+* `974`: KEYBOARDMANIA
   * `GQ974`
-* `976`: Pop'n Music Mickey Tunes
+* `976`: pop'n music MICKEY TUNES
   * `GQ976-JR`
-* `977`: Para Para Paradise/Para Para Paradise v1.1
+* `977`: ParaParaParadise, ParaParaParadise V1.1
   * `GQ977`
-* `980`: Pop'n Music 3
+* `980`: pop'n music 3
   * `GC980`
-* `981`: Beatmania 5th Mix
+* `981`: beatmania 5thMIX
   * `GC981-JA`
-* `983`: Beatmania IIDX Substream
+* `983`: beatmania IIDX Substream
   * `GC983`
   * `GE983`
   * [`GQ983-JA`: Dedicated cabinet](product/GQ983-JA.md)
-* `984`: Dance Dance Revolution Club Mix V2/Beatmania IIDX Club Version 2
-  * `GE984`: Dance Dance Revolution Club Mix V2
-* `985`: Beatmania IIDX 2nd Style
+* `984`: DanceDanceRevolution 2ndMIX AND beatmania IIDX substream CLUB VERSiON 2
+  * `GE984`: DanceDanceRevolution 2ndMIX AND beatmania IIDX substream CLUB VERSiON 2
+* `985`: beatmania IIDX 2nd Style
   * `GC985`
   * [`GQ985-JA`: Dedicated cabinet](product/GQ985-JA.md)
   * `GU985`
-* `986`: Pop'n Music 4
+* `986`: pop'n music 4
   * `GQ986`
-* `987`: Pop'n Music Animelo
+* `987`: pop'n music アニメロ
  * `GQ987`
-* `988`: Beatmania Complete Mix 2
+* `988`: beatmania completeMIX 2
   * `GC988-JA`
-* `992`: Beatmania IIDX 3rd Style
+* `992`: beatmania IIDX 3rd Style
   * `GC992`
   * [`GQ992-JA`: Dedicated cabinet](product/GQ992-JA.md)
-* `993`: Beatmania Club Mix
+* `993`: beatmania ClubMIX
   * `GC993-JA`
-* `995`: Beatmania feat. Dreams Come True
-* `A01`: Keyboard Mania 2nd Mix
+* `995`: beatmania featuring DREAMS COME TRUE
+* `A01`: KEYBOARDMANIA 2ndMIX
   * `GCA01`
-* `A02`: Pop'n Music Animelo 2
+* `A02`: pop'n music アニメロ2号
   * `GCA02-JA`
   * `GCA02-JB`
   * `GEA02-JA`
-* `A03`: Beatmania IIDX 4th Style
+* `A03`: beatmania IIDX 4th Style
   * `GCA03`
-* `A04`: Pop'n Music 5
-* `A05`: Beatmania Core Remix
+* `A04`: pop'n music 5
+* `A05`: beatmania CORE REMIX
   * `GCA05-JA`
   * `GCA05-JB`
-* `A05`: Beatmania III Append Core Remix
+* `A05`: beatmania III APPEND CORE REMIX
   * `GCA05-JC`
-* `A11`: Para Para Paradise 1st Mix PLUS
+* `A11`: ParaParaParadise 1st MIX Plus
   * `GQA11`
-* `A12`: Keyboard Mania 3rd Mix
+* `A12`: KEYBOARDMANIA 3rdMIX
   * `GCA12`
-* `A14`: Para Para Paradise 2nd Mix
+* `A14`: ParaParaParadise 2nd MIX
   * `GQA14`
-* `A16`: Pop'n Music 6
-* `A17`: Beatmania IIDX 5th Style
+* `A16`: pop'n music 6
+* `A17`: beatmania IIDX 5th Style
   * `GCA17-JA`
-* `A21`: Beatmania 6th Mix/Beatmania III Append 6th Mix
-  * `GCA21-JC`: Beatmania III Append 6th Mix
-* `A22`: Dance Dance Revolution 3rd Mix PLUS
+* `A21`: beatmania 6thMIX -THE UK UNDERGROUND MUSIC-, beatmania III APPEND 6thMIX
+  * `GCA21-JC`: beatmania III APPEND 6thMIX
+* `A22`: DanceDanceRevolution 3rdMIX PLUS
   * `GCA22`
-* `A23`: Drummania 3rd Mix
+* `A23`: DrumMania 3rdMIX
   * `GCA23`
-* `A24`: Guitarfreaks 4th Mix
+* `A24`: GuitarFreaks 4thMIX
   * `GEA24`
-* `A25`: Drummania 4th Mix
+* `A25`: DrumMania 4thMIX
   * `GEA25`
-* `A26`: Guitarfreaks 5th Mix
+* `A26`: GuitarFreaks 5thMIX
   * `GCA26`
-* `A27`: Dance Dance Revolution 5th Mix
+* `A27`: DanceDanceRevolution 5thMIX
   * `GCA27`
-* `A33`: Dance Dance Revolution 4th Mix/Dance Dance Revolution 4th Mix Solo
-  * `GCA33-RAA`: Dance Dance Revolution 4th Mix
-  * `GCA33-RBA`: Dance Dance Revolution 4th Mix Solo
-* `A34`: Dance Dance Revolution 4th Mix PLUS/Dance Dance Revolution 4th Mix PLUS Solo
-  * `GCA34-RAA`: Dance Dance Revolution 4th Mix PLUS
-  * `GCA34-RBA`: Dance Dance Revolution 4th Mix PLUS Solo
-* `A37`: Dancing Stage featuring Disney's Rave
+* `A33`: DanceDanceRevolution 4thMIX, DanceDanceRevolution 4thMIX SOLO
+  * `GCA33-RAA`: DanceDanceRevolution 4thMIX
+  * `GCA33-RBA`: DanceDanceRevolution 4thMIX SOLO
+* `A34`: DanceDanceRevolution 4thMIX PLUS/DanceDanceRevolution 4thMIX PLUS SOLO
+  * `GCA34-RAA`: DanceDanceRevolution 4thMIX PLUS
+  * `GCA34-RBA`: DanceDanceRevolution 4thMIX PLUS SOLO
+* `A37`: Dancing Stage featuring Disney's RAVE
   * `GCA37`
-* `A38`: Dance Maniax 2ndMIX APPEND J PARADISE
+* `A38`: Dance Maniax 2ndMIX append JPARADISE
   * `GCA38-JA`
   * `GCA38-JB`
 * `A39`: Dance Maniax 2ndMIX
   * `GCA39`
-* `A40`: Mambo a GoGo
+* `A40`: MAMBO A GOGO
   * `GQA40`
-* `A44`: Dance Dance Revolution USA
+* `A44`: DanceDanceRevolution USA
   * `GKA44`
-* `B00`: Pop'n Music 7
+* `B00`: pop'n music 7
   * `GCB00`
-* `B05`: Drummania 5th Mix
+* `B05`: DrumMania 5thMIX
   * `GCB05`
-* `B06`: Guitarfreaks 6th Mix
+* `B06`: GuitarFreaks 6thMIX
   * `GCB06`
-* `B07`: Beatmania 7th Mix/Beatmania III Append 7th Mix
-  * `GEB07-JA`: Beatmania 7th Mix
-  * `GEB07-JB`: Beatmania 7th Mix
-  * `GCB07-JC`: Beatmania III Append 7th Mix
-* `B16`: Drummania 6th Mix
+* `B07`: beatmania 7thMIX, beatmania III APPEND 7thMIX
+  * `GEB07-JA`: beatmania 7thMIX
+  * `GEB07-JB`: beatmania 7thMIX
+  * `GCB07-JC`: beatmania III APPEND 7thMIX
+* `B16`: DrumMania 6thMIX
   * `GCB16`
-* `B17`: Guitarfreaks 7th Mix
+* `B17`: GuitarFreaks 7thMIX
   * `GCB17`
-* `B19`: Dance Dance Revolution MAX
+* `B19`: DDRMAX -DanceDanceRevolution 6thMIX-
   * `GCB19`
-* `B20`: Dance Dance Revolution MAX 2
+* `B20`: DDRMAX2 -DanceDanceRevolution 7thMIX-
   * `GCB20`
-* `B30`: Pop'n Music 8
-* `B44`: Beatmania IIDX 7th Style
+* `B30`: pop'n music 8
+* `B44`: beatmania IIDX 7th Style
   * `GCB44`
 * `B47`: Martial Beat
   * `GEB47-JA`
-* `B4U`: Beatmania IIDX 6th Style
+* `B4U`: beatmania IIDX 6th Style
   * `GCB4U-JA`
-* `C00`: Pop'n Music 9
-* `C01`: Beatmania THE FINAL/Beatmania III THE FINAL
-  * `GCC01-JC`: Beatmania III THE FINAL
-* [`C02`: Beatmania IIDX 9th Style](software/C02.md)
+* `C00`: pop'n music 9
+* `C01`: beatmania THE FINAL, beatmania III THE FINAL
+  * `GCC01-JC`: beatmania III THE FINAL
+* [`C02`: beatmania IIDX 9th Style](software/C02.md)
   * [`GEC02-JA`: Hardware conversion kit](product/GEC02-JA.md)
   * [`GEC02-JB`: Hardware conversion kit](product/GEC02-JB.md)
   * [`GEC02-JC`: Hardware conversion kit](product/GEC02-JC.md)
-* `C07`: Drummania 7th Mix
+* `C07`: DrumMania 7thMIX
   * `GCC07`
   * `GEC07`: Power up version
-* `C08`: Guitarfreaks 8th Mix
+* `C08`: GuitarFreaks 8thMIX
   * `GCC08`
   * `GEC08`: Power Up Version 
-* `C20`: Pop'n Music 10
+* `C20`: pop'n music 10
   * `GCC20-JB`
   * `GCC20-JD`
-* `C23`: Dancing Stage Euro Mix 2 
+* `C23`: Dancing Stage EuroMIX2
   * `GKC23`
-* `C36`: Dance Dance Revolution Extreme
+* `C36`: DanceDanceRevolution EXTREME
   * `GCC36`
-* `C38`: Drummania 8th Mix
+* `C38`: DrumMania 8thMIX
   * `GCC38`
-* `C39`: Guitarfreaks 9th Mix
+* `C39`: GuitarFreaks 9thMIX
   * `GCC39`
-* `C44`: Beatmania IIDX 8th Style
+* `C44`: beatmania IIDX 8th Style
   * [`GCC44-JA`: Software upgrade kit](product/GCC44-JA.md)
-* `CCB`: Quiz Magic Academy 1
-* [`D01`: Beatmania IIDX 10th Style](software/D01.md)
+* `CCB`: Quiz Magic Academy
+* [`D01`: beatmania IIDX 10th Style](software/D01.md)
   * [`GQD01-JA`: Dedicated cabinet](product/GQD01-JA.md)
   * `GCD01-JA`
   * `GCD01-JB`
-* `D09`: Drummania 9th Mix
+* `D09`: DrumMania 9thMIX
   * `GCD09`
-* `D10`: Guitarfreaks 10th Mix
+* `D10`: GuitarFreaks 10thMIX
   * `GCD10`
-* `D11`: Pop'n Music 11
+* `D11`: pop'n music 11
   * `GCD11-JA`
   * `GCD11-JC`
-* `D39`: Guitarfreaks 11th Mix
+* `D39`: GuitarFreaks 11thMIX
   * `GCD39`
-* `D40`: Drummania 10th Mix
+* `D40`: DrumMania 10thMIX
   * `GCD40`
-* `E02`: Drummania V
+* `E02`: DrumMania V
   * `GEE02`
-* `E03`: Guitarfreaks V
+* `E03`: GuitarFreaks V
   * `GEE03`
-* [`E11`: Beatmania IIDX RED](software/E11.md)
+* [`E11`: beatmania IIDX 11 IIDX RED](software/E11.md)
   * [`GQE11-JA`: Dedicated cabinet](product/GQE11-JA.md)
   * [`GEE11-JA`: Hardware conversion kit](product/GEE11-JA.md)
   * [`GEE11-JB`: Hardware conversion kit](product/GEE11-JB.md)
   * `GCE11-JA`
   * `GCE11-JB`
-* `E12`: Pop'n Music 12
+* `E12`: pop'n music 12
   * `GCE12-JA`
   * `GCE12-JC`
-* `E13`: Pop'n Music 13
+* `E13`: pop'n music 13
   * `GCE13-JA`
   * `GCE13-JC`
 * `E33`: Dancing Stage Fusion
   * `GKE33`
-* [`ECO`: Beatmania IIDX HAPPY SKY](software/ECO.md)
+* [`ECO`: beatmania IIDX 12 HAPPY SKY](software/ECO.md)
   * [`GQECO-JA`: Dedicated cabinet](product/GQECO-JA.md)
   * `GCECO-JA`
   * `GCECO-JB`
   * [`GEECO-JA`: Hardware conversion kit](software/GEECO-JA.md)
   * [`GEECO-JB`: Hardware conversion kit](software/GEECO-JB.md)
 * `EGG`: Quiz Magic Academy 2
-* `F02`: Drummania V 2
+* `F02`: DrumMania V2
   * `GEF02`
-* `F03`: Guitarfreaks V 2
+* `F03`: GuitarFreaks V2
   * `GEF03`
-* `F14`: Pop'n Music 14
+* `F14`: pop'n music 14
   * `GCF14`
-* `F18`: e-AMUSEMENT cards
+* `F18`: e-AMUSEMENT PASS カード
   * `GUF18-JA`: 100 pack
-* `F32`: Drummania V 3
+* `F32`: DrumMania V3
   * `GEF32`
-* `F33`: Guitarfreaks V 3
+* `F33`: GuitarFreaks V3
   * `GEF33`
 * `F96`: クルクルラボ
-* [`FDD`: Beatmania IIDX DistorteD](software/FDD.md)
+* [`FDD`: beatmania IIDX 13 DistorteD](software/FDD.md)
   * [`GQFDD-JA`: Dedicated cabinet](product/GQFDD-JA.md)
   * `GCFDD-JA`
   * `GCFDD-JB`
   * [`GEFDD-JA`: Hardware conversion kit](software/GEFDD-JA.md)
   * [`GEFDD-JB`: Hardware conversion kit](software/GEFDD-JB.md)
-* `FDH`: Dance Dance Revolution Supernova
+* `FDH`: DanceDanceRevolution SuperNOVA
   * `GKFDH`
   * `GQFDH`
-* `FK9`: Mahjong Fight Club 5
-* `G15`: Pop'n Music 15
+* `FK9`: 麻雀格闘倶楽部5
+* `G15`: pop'n music 15
   * `GEG15-JA`
-* `G23`: Horseriders
-* `G32`: Drummania V 4
+* `G23`: ホースライダーズ / HORSERIDERS
+* `G32`: DrumMania V4
   * `GCG32`
-* `G33`: Guitarfreaks V 4
+* `G33`: GuitarFreaks V4
   * `GCG33`
-* `GDJ`: Dance Dance Revolution Supernova 2
+* `GDJ`: DanceDanceRevolution SuperNOVA2
   * `GCGDJ`
-* `GGG`: Otomedius
+* `GGG`: オトメディウス / OTOMEDIUS
   * `GEGGG-JAA`
 * `GHL`: Silent Hill THE ARCADE
-* `GK9`: Mahjong Fight Club 6
-* `GLD`: Beatmania IIDX GOLD
+* `GK9`: 麻雀格闘倶楽部6
+* `GLD`: beatmania IIDX 14 GOLD
   * [`GQGLD-JA`: Dedicated cabinet](product/GQGLD-JA.md)
   * `GEGLD-JA`
-* `H16`: Pop'n Music 16
+* `H16`: pop'n music 16
   * `GQH16-JA`
-* `H32`: Drummania V 5
+* `H32`: DrumMania V5
   * `GCH32`
-* `H33`: Guitarfreaks V 5
+* `H33`: GuitarFreaks V5
   * `GCH33`
+* `H44`: jubeat
 * `HAL`: Quiz Magic Academy 5
-* [`HDD`: Beatmania IIDX DJ TROOPERS](software/HDD.md)
+* [`HDD`: beatmania IIDX 15 DJ TROOPERS](software/HDD.md)
   * [`GQHDD-JA`: Dedicated cabinet](product/GQHDD-JA.md)
   * [`GUHDD-JB`: LCD monitor](product/GUHDD-JB.md)
-* `HDX`: Dance Dance Revolution X
+* `HDX`: DanceDanceRevolution X
   * `GKHDX`
-* `HK9`: Mahjong Fight Club 7
-* [`I00`: Beatmania IIDX EMPRESS](software/I00.md)
+* `HK9`: 麻雀格闘倶楽部7
+* [`I00`: beatmania IIDX 16 EMPRESS](software/I00.md)
   * [`GQI00-JA`: Dedicated cabinet](product/GQI00-JA.md)
-* `I16`: Pop'n Music 17
+* `I16`: pop'n music 17
   * `GCI16-JA`
-* `I23`: Horseriders 2
-* `I32`: Drummania V 6
+* `I23`: ホースライダーズ2 / HORSERIDERS 2
+* `I32`: DrumMania V6
   * `GCI32`
-* `I33`: Guitarfreaks V 6
+* `I33`: GuitarFreaks V6
   * `GCI33`
 * `I36`: Metal Gear Solid Arcade
-* `I44`: Jubeat Ripples
+* `I44`: jubeat ripples, jubeat ripples APPEND
   * `GCI44`
-* `IBB`: THE*BISHIBASHI
-* `IBI`: Shogi Thing 1
+* `IBB`: ザ・ビシバシ / THE*BISHIBASHI
+* `IBI`: 天下一将棋会
 * `ICE`: Quiz Magic Academy 6
   * `GCICE-JB`
   * `GCICE-JA`
-* `IK9`: Mahjong Fight Club GT
-* `J32`: Drummania V 7
+* `IK9`: 麻雀格闘倶楽部 我龍転生
+* `J32`: DrumMania V7, DrumManiaXG
   * `GCJ32`
-* `J33`: Guitarfreaks V 7
+* `J33`: GuitarFreaks V7, GuitarFreaksXG
   * `GCJ33`
-* `J39`: Pop'n Music 18
+* `J39`: pop'n music 18
   * `GCJ39-JA`
-* `J44`: Jubeat Knit
-* `JC9`: Ongaku Paradise
-* [`JDJ`: Beatmania IIDX SIRIUS](software/JDJ.md)
+* `J44`: jubeat knit, jubeat knit APPEND
+* `JC9`: オンガクパラダイス / Ongaku Paradise
+* [`JDJ`: beatmania IIDX 17 SIRIUS](software/JDJ.md)
   * `GCJDJ`
-* `JDX`: Dance Dance Revolution X2
+* `JDX`: DanceDanceRevolution X2
   * `GKJDX`
-* [`JDZ`: Beatmania IIDX Resort Anthem](software/JDZ.md)
+* [`JDZ`: beatmania IIDX 18 Resort Anthem](software/JDZ.md)
   * [`GQJDZ-JA`: Dedicated cabinet](product/GQJDZ-JA.md)
   * `GCJDZ-JA`
 * `JMA`: Quiz Magic Academy 7
   * `GEJMA-JB`
-* `JMR`: Hello Pop'n Music
-* `K32`: Drummania V 8
+* `JMP`: HELLO! POP'N MUSIC / ヘロー！！ポップンミュージック
+* `K32`: DrumMania V8, DrumManiaXG2 Groove to Live
   * `GCK32`
-* `K33`: Guitarfreaks V 8
+* `K33`: GuitarFreaks V8, GuitarFreaksXG2 Groove to Live
   * `GCK33`
-* `K39`: Pop'n Music 19
+* `K39`: pop'n music 19
   * `GQK39-JA`
-* `K44`: Jubeat Copious
+* `K44`: jubeat copious, jubeat copious APPEND
   * `GEK44-JA`
-* `KA9`: PASELI prepaid card
+* `KA9`: PASELI カード
   * `GUKA9-JA`: 50 pack
-* `KBI`: Shogi Thing 1 ??? -> 2?
+* `KBI`: 天下一将棋会2
   * `GEKBI-JA`
-* `KBR`: Reflec Beat
+* `KBR`: REFLEC BEAT
   * `GQKBR-JA`
 * `KC1`: Contra
-* `KCK`: ウイニングイレブン 2012
+* `KCK`: ウイニングイレブン
   * `GCKCK-JA`
-* `KDM`: Dance Evolution
+* `KDM`: DanceEvolution ARCADE
 * `KGG`: Steel Chronicle
   * `GQKGG-JA`
 * `KMA`: Quiz Magic Academy 8
-* `KDX`: Dance Dance Revolution X3 vs 2nd Mix
+* `KDX`: DanceDanceRevolution X3 VS 2ndMIX
   * `GEKDX-JAA`
-* [`KDZ`: Beatmania IIDX Lincle](software/KDZ.md)
+* [`KDZ`: beatmania IIDX 19 Lincle](software/KDZ.md)
   * `GEKDZ-JA`
-* `KFC`: SOUND VOLTEX BOOTH
+* `KFC`: SOUND VOLTEX BOOTH, SOUND VOLTEX II -infinite infection-, SOUND VOLTEX III GRAVITY WARS, SOUND VOLTEX IV HEAVENLY HAVEN, SOUND VOLTEX VIVID WAVE, SOUND VOLTEX EXCEED GEAR
   * `GQKFC-JA`
   * `GEKFC-JF`
   * `GUKFC-JZ`: SDVX generator real model
 * `KGG`: HUNTER CHRONICLE
   * `GQKGG-JA`
-* `KK9`: MAHJONG FIGHT CLUB
+* `KK9`: 麻雀格闘倶楽部 ultimate version / MAHJONG FIGHT CLUB
   * `GEKK9-JB`
-* `KLP`: Loveplus AC
-* `KPM`: Loveplus Medal
+* `KLP`: ラブプラス アーケード カラフル Clip
+* `KPM`: ラブプラス MEDAL Happy Daily Life
 * `L27`: Baseball Heroes 2011
-* `L32`: Drummania XG, Drummania XG 2, Drummania XG 3
+* `L32`: DrumManiaXG3
   * `GCL32`
-* `L33`: Guitarfreaks XG, Guitarfreaks XG 2, Guitarfreaks XG 3
+* `L33`: GuitarFreaksXG3
   * `GCL33`
-* `L39`: Pop'n Music 20
+* `L39`: pop'n music 20
   * `GCL39-JA`
-* `L44`: Jubeat Saucer
+* `L44`: jubeat saucer, jubeat saucer fulfill, jubeat prop, jubeat Qubell, jubeat clan, jubeat festo
   * `GQL44-JB`
-* `LA9`: Paseli Charge Station
+* `LA9`: PASELIチャージ機
   * `GQLA9-JA`
-* `LBR`: Reflec Beat Limelight
+* `LBR`: REFLEC BEAT limelight
   * `GCLBR-JA`
-* [`LDJ`: Beatmania IIDX tricoro and newer](software/LDJ.md)
+* [`LDJ`: beatmania IIDX 20 tricoro, beatmania IIDX 21 SPADA, beatmania IIDX 22 PENDUAL, beatmania IIDX 23 copula, beatmania IIDX 24 SINOBUZ, beatmania IIDX 25 CANNON BALLERS, beatmania IIDX 26 Rootage, beatmania IIDX 27 HEROIC VERSE, beatmania IIDX 28 BISTROVER](software/LDJ.md)
   * `GCLDJ-JU`: Offline LDJ dongle/license?
   * `GELDJ-JB`
   * [`GELDJ-JM`: CANNON BALLERS hardware conversion kit](product/GELDJ-JM.md)
@@ -407,31 +408,31 @@ chronologic order, e.g. regarding release dates.
   * [`GULDJ-JJ`: PENDUAL LCD monitor](product/GULDJ-JJ.md)
 * `LMA`: Quiz Magic Academy 9
   * `GELMA-JB`
-* `M27`: BASEBALL HEROES 2012
+* `M27`: Baseball Heroes 2012
   * `GCM27-JB`
-* `M32`: Gitadora (Drums)
+* `M32`: GITADORA (Guitar), GITADORA OverDrive, GITADORA Tri-Boost, GITADORA Tri-Boost Re:EVOLVE, GITADORA Matixx, GITADORA EXCHAIN, GITADORA NEX+AGE, GITADORA HIGH-VOLTAGE
   * `GCM32`
-  * `GQM32-JB`
-  * `GQM32-JA`
-* `M33`: Gitadora (Guitar)
+  * `GQM32-JA`: Guitar
+  * `GQM32-JB`: Drums
+* `M33`: GITADORA (Drums)
   * `GCM33`
-* `M39`: Pop'n Music 21
+* `M39`: pop'n music 21
   * `GCM39-JA`
-* `MBR`: Reflec Beat Colette
+* `MBR`: REFLEC BEAT colette, REFLEC BEAT groovin'!!, REFLEC BEAT VOLZZA, REFLEC BEAT VOLZZA 2, REFLEC BEAT 悠久のリフレシア
   * `GEMBR-JA`
-* `MDX`: Dance Dance Revolution 2013, Dance Dance Revolution 2014, Dance Dance Revolution A, Dance Dance Revolution A20, Dance Dance Revolution A20 Plus
+* `MDX`: DanceDanceRevolution [2013], DanceDanceRevolution [2014], DanceDanceRevolution A, DanceDanceRevolution A20, DanceDanceRevolution A20 PLUS
   * `GQMDX-UD`
   * `GCMDX-JA`
   * `GKMDX-AE`
   * `GKMDX-UD`
-* `MMD`: Future TomTom/Mirai Dagakki
-* `O26`: Disney Tsum Tsum
+* `MMD`: ミライダガッキ / FutureTomTom, ミライダガッキ Ver.2 / FutureTomTom Ver.2
+* `O26`: ツムツム
   * `GUO26-JA`
   * `GOO26-AB`: Figurine dispenser main unit
   * `GOO26-UA`: Client main unit
-* `PAN`: nostalgia
+* `PAN`: ノスタルジア / NOSTALGIA, スタルジア FORTE / NOSTALGIA FORTE, スタルジア Op.2 / NOSTALGIA Op.2, スタルジア Op.3 / NOSTALGIA Op.3
   * `GEPAN-JA`
-* `PIX`: MUSECA
+* `PIX`: MÚSECA
   * `GQPIX-JA`
 * `QPP`: Printer paper and ink
   * `GUQPP-AB`: For SDVX generator (?)
@@ -441,7 +442,7 @@ chronologic order, e.g. regarding release dates.
   * `GQREC-JA`: Additional paseli fee added for plays depending on the model (?): 40 - 120%
   * `GQREC-JB`: Additional paseli fee added for plays depending on the model (?): 60 - 120%
   * `GQREC-JC`: Additional paseli fee added for plays depending on the model (?): 40 - 120%, different to JA, trial?
-* `TDJ`: Beatmania IIDX Heroic Verse lightning cabinet version
+* `TDJ`: beatmania IIDX 27 HEROIC VERSE \[Lightning cabinet\]
   * [`GQTDJ-JA`: Dedicated cabinet](product/GQTDJ-JA.md)
   * `GQTDJ-UA`
 * `UFC`: SOUND VOLTEX VALKYRIE MODEL
