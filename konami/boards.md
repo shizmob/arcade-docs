@@ -198,7 +198,8 @@ Also known as: "JDX-945-02" / "KFC-945-01" / "BemaniPC Type 4" (unofficially).
 **RAM:** 2x Buffalo D2N667C-X512HEJ (SODIMM DDR2, 512MB, PC2-5300S)  
 **GPU:** ATi E2400 MXM-II 256MB RH EDG  
 **HDD:** \[MDX\] Seagate ST500DM002 (SATA 3.5", 500GB, 7200RPM)  
-**IO:** \[JDX/KDX/MDX/KFC\] [P3IO](io.md#p3io)  
+**IO:** \[JDX/KDX/MDX\] [P3IO](io.md#p3io)  
+**IO:** \[KFC\] [KFCA](io.md#kfca)  
 **Games:** JDX, KDX, MDX, KFC  
 
 ## `ADE-*`
