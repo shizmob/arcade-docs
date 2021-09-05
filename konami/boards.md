@@ -55,7 +55,8 @@ Sony Playstation 2-based board. Unlike the first Python, based on a retail board
 
 IBM embedded boards (日本アイ・ビー・エム株式会社)
 
-* KNM-845G3-A11  
+### KNM-845G3-A11
+
     **CPU:** Intel Celeron 2.0GHz (BX80532RC2000B)  
     **RAM:** 2x Kingston KVR400X64C3A/512 (512MB)  
     **MBD:** PM-845G3/GL/GV  
@@ -64,7 +65,10 @@ IBM embedded boards (日本アイ・ビー・エム株式会社)
     **Games:** D00  
     **Sticker:** 27  
 
-* KNM-??? ("BemaniPC Type 1")  
+### KNM-???
+
+Also known as: "BemaniPC Type 1".
+
     **CPU:** Intel Pentium 2.4 2.4 Ghz  
     **RAM:** 1x ??? (DDR1, PC2100, 256MB)  
     **MBD:** PM-845G3/GL/GV?  
@@ -76,13 +80,15 @@ IBM embedded boards (日本アイ・ビー・エム株式会社)
 
 Sord embedded boards: https://www.sord.co.jp/company/corporate/history.html
 
-* FAB-e865-KN003  
+### FAB-e865-KN003
+
     **CPU:** Intel Celeron 2.5GHz  
     **RAM:** 512MB  
     **STH:** Intel 865G  
     **GPU:** ATI Radeon 9600XT  
 
-* FAB-e865-KN303  
+### FAB-e865-KN303
+
     **MBD:** G4S306-C (Phoenix AWARDBIOS)  
     **STH:** Intel 865G  
     **CPU:** Intel Celeron 2.5Ghz  
@@ -94,39 +100,49 @@ Sord embedded boards: https://www.sord.co.jp/company/corporate/history.html
     **Sticker:** A3  
     **Games:** F24  
 
-* FAB-e945-KN201  
+### FAB-e945-KN201
+
     **Sticker:** B1  
     **Games:** K56 ステーション?  
 
-* FAB-e945-KN202  
+### FAB-e945-KN202
+
     **Sticker:** B2  
     **Games:** K56 MAIN?  
 
-* FAB-e945-KN203  
+### FAB-e945-KN203
+
     **Sticker:** B3  
     **Games:** K56 POP?  
 
-* FAB-e945-KN205 ("BemaniPC Type 2")  
+## FAB-e945-KN205
+
+Also known as: "BemaniPC Type 2".
+
     **CPU:** Pentium 4 2.5GHz  
     **RAM:** 512MB PC2700  
     **GPU:** ATI Radeon X1300  
     **Sticker:** B5  
     **Games:** GLD, HDD, I00, JDJ, JDZ, KDZ  
 
-  FAB-e945-KN209  
+### FAB-e945-KN209
+
     **Sticker:** B9  
     **Games:** M65  
 
-* FAB-e945-KN210  
+### FAB-e945-KN210
+
     **Sticker:** B10  
     **Games:** GHL  
 
-* FAB-e965-KN301  
+### FAB-e965-KN301
+
     **MBD:** Toshiba TEM100-01B    
     **Sticker:** C1  
     **Games:** KPP, O70/Q70, G23  
 
-* FAB-e965-KN303  
+### FAB-e965-KN303
+
     **MBD:** Toshiba TEM100-01B  
     **CPU:** Intel Core 2 Duo 2.13GHz  
     **RAM:** 512MB  
@@ -134,7 +150,8 @@ Sord embedded boards: https://www.sord.co.jp/company/corporate/history.html
     **Sticker:** C3  
     **Games:** HGT, LMA, JMA  
 
-* FAB-e965-KN313  
+### FAB-e965-KN313
+
     **MBD:** Toshiba TEM100-01B (TOPS BIOS Ver.1.08K1 02/22/10 16:57:28)  
     **CPU:** Intel Core 2 Duo 2.13 GHz  
     **RAM:** 2x Micron MT8HTF12864AY-667G1 (DDR2, PC2-5300, 1GB)  
@@ -144,11 +161,13 @@ Sord embedded boards: https://www.sord.co.jp/company/corporate/history.html
     **Sticker:** C13  
     **Games:** KGG  
 
-* FAB-e67-TP601  
+### FAB-e67-TP601
+
     **MBD:** Toshiba TEM130  
     **Games:** KPU  
 
-* FAB-e67-KN612  
+### FAB-e67-KN612
+
     **Sticker:** E2  
     **MBD:** Toshiba TEM130  
     **Games:** NCK  
@@ -157,7 +176,10 @@ Sord embedded boards: https://www.sord.co.jp/company/corporate/history.html
 
 AOpen embedded boards.
 
-* 855 ("BemaniPC Type 3")  
+### 855
+
+Also known as: "BemaniPC Type 3".
+
     **MBD:** AOpen IT855GME-LX (AOpen i855G*-based?)  
     **CPU:** Intel Celeron M (310? 340?) 1.5GHz  
     **RAM:** 1x Buffalo ??? (DDR, 512MB, PC2700)  
@@ -167,7 +189,10 @@ AOpen embedded boards.
     **Games:** ID2 / I44 / J44 / K44 / G22 / G33 / H32 / H33 / I32 / I33 / J32 / J33 / K32 / K33 / M39  
     **Ref:** http://k4copious.blog.fc2.com/blog-entry-14.html / http://callusnext.com/pcbs/pc_pm.html  
 
-* 945 ("BemaniPC Type 4" / "JDX-945-02" / "KFC-945-01")  
+### 945
+
+Also known as: "BemaniPC Type 4" / "JDX-945-02" / "KFC-945-01".
+
     **MBD:** AOpen IT945GME_M72 (AOpen i945G*-based?)  
     **CPU:** AMD Athlon X2 4400+  
     **RAM:** 2x Buffalo D2N667C-X512HEJ (SODIMM DDR2, 512MB, PC2-5300S)  
@@ -180,7 +205,8 @@ AOpen embedded boards.
 
 Ennocom embedded boards: https://www.ennoconn.com/producttype_en-us_0_21_1.html
   
-* ADE-704A  
+### HM65
+
     **MBD:** ADE-704A  
     **STH:** Intel HM65  
     **CPU:** Intel Celeron B810  
@@ -193,7 +219,10 @@ Ennocom embedded boards: https://www.ennoconn.com/producttype_en-us_0_21_1.html
     **IO:** \[M32/M33/MDX\] [P4IO](io.md#p4io)  
     **Games:** KFC, L44, LDJ, M32, M33, M39, MBR, MDX, NBT, PAN  
 
-* ADE-704B  
+### ADE-704B
+
+(name tentative)
+
     **MBD:** ADE-704B  
     **CPU:** Intel Celeron 1020E  
     **RAM:** 1x 2GB DDR3 SODIMM  
@@ -202,7 +231,10 @@ Ennocom embedded boards: https://www.ennoconn.com/producttype_en-us_0_21_1.html
     **IO:** \[KFC/PAN\] [KFCA](io.md#kfca)   
     **Games:** KFC, PAN  
  
-* ADE-6291  
+### ADE-6291
+
+(name tentative)
+
     **MBD:** ADE-6291  
     **APU:** AMD RX-421BD  
     **RAM:** Innodisk DDR4-2400 4GB  
@@ -215,7 +247,8 @@ Ennocom embedded boards: https://www.ennoconn.com/producttype_en-us_0_21_1.html
 
 ## Misc
 
-* KBN-i2  
+### R10
+
     **MBD:** iEi KINO-KBN-i2-4201-R10-KNM VER 1.0  
     **APU:** AMD GX-420CA (GE420CIAJ44HM)  
     **RAM:** 1x Buffalo D3N1600-LS4GHAJ (SODIMM DDR3, 4GB, PC3L-12800S)  
@@ -223,7 +256,10 @@ Ennocom embedded boards: https://www.ennoconn.com/producttype_en-us_0_21_1.html
     **IO:** [P4IO](io.md#p4io)  
     **Games:** O26, PIX  
 
-* X10SLQ (name tentative)  
+### X10SLQ
+
+(name tentative)
+
     **MBD:** Supermicro X10SLQ  
     **STH:** Intel Q87  
     **CPU:** Intel Core i3-4330 3.5GHz  
@@ -237,7 +273,10 @@ Ennocom embedded boards: https://www.ennoconn.com/producttype_en-us_0_21_1.html
 
 Konami's own gaming PCs.
 
-* C300  
+### C300
+
+(name tentative)
+
     **MBD:** Supermicro SuperO MBD-C7B360-CB-MW-O (microATX)  
     **STH:** Intel B360  
     **CPU:** Intel Core i5-9400F  
