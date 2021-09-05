@@ -25,9 +25,16 @@ chronologic order, e.g. regarding release dates.
   * `GC825`
 * `831`: pop'n music 2
   * `GC831`
-* `845`: DanceDanceRevolution/Dancing Stage
-  * `GC845`: DanceDanceRevolution
-  * `GN845`: Dancing Stage
+* `845`: DanceDanceRevolution, Dancing Stage
+  * `GC845-JA`: DanceDanceRevolution
+  * `GC845-JB`: DanceDanceRevolution インターネットランキングVer.
+  * `GK845-AA`: DanceDanceRevolution \[Asian cab, https://manualzz.com/download/48538447 \]
+  * `GN845-AA`: DanceDanceRevolution \[Asian cab, https://manualzz.com/download/48538447 \]
+  * `GN845-TB`: DanceDanceRevolution \[Asian cab, 110V, https://manualzz.com/download/48538447 & https://tamdb.net/downloads/?sa=downfile&id=2700 \]
+  * `GN845-HD`: DanceDanceRevolution \[Asian cab, 220V, https://manualzz.com/download/48538447 & https://tamdb.net/downloads/?sa=downfile&id=2700 \]
+  * `GN845-UC`: DanceDanceRevolution \[US cab, https://www.yumpu.com/en/document/view/59902551/dance-dance-revolution-operators-manual-model-gn845-uc \]
+  * `GN845-EA`: Dancing Stage
+  * `GN845-EB`: Dancing Stage INTERNET R@NKING
 * `847`: beatmania 4thMIX
   * `GC847-JA`
 * `853`: beatmania 2ndMIX
