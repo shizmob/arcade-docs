@@ -30,7 +30,7 @@ The following variables are used across the different identifiers and can denote
   * `K`: Possibility for offline/no e-AMUSEMENT?
   * `N`: New dedicated cabinet?
   * `O`: New dedicated cabinet?
-  * `S`: Station (medal games)
+  * `S`: Medal cabinet (station?)
   * `Q`: New dedicated cabinet?
   * `U`: Upgrade or utility? e.g. DVD software update kit, replacement monitors
   * `X`: Hardware/board?
