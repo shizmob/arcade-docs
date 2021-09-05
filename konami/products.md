@@ -218,6 +218,8 @@ chronologic order, e.g. regarding release dates.
   * `GCC20-JD`
 * `C23`: Dancing Stage EuroMIX2
   * `GKC23`
+* `C32`: Card dispenser
+  * `HOC32`
 * `C36`: DanceDanceRevolution EXTREME
   * `GCC36`
 * `C38`: DrumMania 8thMIX
@@ -444,6 +446,8 @@ chronologic order, e.g. regarding release dates.
   * `GUO26-JA`
   * `GOO26-AB`: Figurine dispenser main unit
   * `GOO26-UA`: Client main unit
+* `OSP`: シャドウプリンセス / Shadow Princess
+  * `GSOSP-JA`
 * `PAN`: ノスタルジア / NOSTALGIA, スタルジア FORTE / NOSTALGIA FORTE, スタルジア Op.2 / NOSTALGIA Op.2, スタルジア Op.3 / NOSTALGIA Op.3
   * `GEPAN-JA`
 * `PIX`: MÚSECA
