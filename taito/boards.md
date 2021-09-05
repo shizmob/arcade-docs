@@ -12,7 +12,7 @@
 |  014A | Cel 2.5GHz | 256MB | 9600SE | 極上！！めちゃモテ委員長 M9008084A                                                      |
 |  017A | Cel 2.0GHz | 256MB | 9550SE |                                                                                     |
 |  021A | Cel 2.5GHz | 256MB | 9600SE | TETRIS THE GRAND MASTER 3 2.01J / RAIDEN III / RAIDEN 4 VER.1.00J / CHAOS BREAKER / TROUBLE WITHCES M9008007A Ver.1.00J |
-|  022A | Cel 2.5GHz | 256MB | 9600SE | SNK PLAYMORE KOF98UM M9007690A VER1.00 (B3900118A black/gray)                       |
+|  022A | Cel 2.5GHz | 256MB | 9600SE | SNK PLAYMORE KOF98UM M9007690A VER1.00 (B3900118A black/gray) / 豪血寺一族 先祖供養 M9008014A Ver.200906230 |
 
 ## Type X+
 
@@ -78,8 +78,8 @@
 |  403    | Core i5-2400 3.1GHz | 2GB x2 | N560 Ti-Hawk? |                                                                              |
 |  403[U] | Core i5-2400 3.1GHz | 2GB x4 | N660GTX       | RAM + GPU upgrade sticker / GUNS 3-(ADVANCE)                                 |
 |  404    | Core i5-2400 3.1GHz | 2GB x4 | N660GTX       | GUNS 3-(STANDARD) / ULTRA STREET FIGHTER IV / LORD OF VERMILLION IV 20 PLAY  |       
-|  405    | Core i3-2120 3.3GHz | 2GB x2 | N640          | PUZZLE & DRAGONS                                                             |
-|  406    | Core i5-2400 3.1GHz | 4GB x2 | N660GTX       | GUNS 3-(ADVANCE) M9009092A / NESICA X LIVE 2 / LEFT4DEAD 生存者たち M9008990A VER.1.0004 |
+|  405    | Core i3-2120 3.3GHz | 2GB x2 | N640          | PUZZLE & DRAGONS M9008936A VER.1.000                                         |
+|  406    | Core i5-2400 3.1GHz | 4GB x2 | N660GTX       | GUNS 3-(ADVANCE) M9009092A (M9009088A, black) / NESICA X LIVE 2 / LEFT4DEAD 生存者たち M9008990A VER.1.0004 |
 |  407    | Core i5-2400 3.1GHz | 8GB x2 | GTX760 CRB    | FIGUREHEADS A                                                                |
 |  ???    | Core i7-2600 2.6Ghz | ???    | ???           | Specified as part of press release to be a CPU option, maybe model 400/401?  |
 |  ???    | ???                 | ???    | HD6770        | Specified as part of press release to be a GPU option, maybe model 400/401?  |
@@ -88,5 +88,5 @@
 
 |    ID | CPU      | RAM               | GPU         | Notes                                                   |
 |-------|----------|-------------------|-------------|---------------------------------------------------------|
-|  500A | i5-4590S | 4GB(DDR3-1600) x2 | GTX960-2GB  | STREET FIGHTER V / LOVE LIVE / MGICIANS DEAD            |
+|  500A | i5-4590S | 4GB(DDR3-1600) x2 | GTX960-2GB  | STREET FIGHTER V / LOVELIVE! AC CENTER M9009121A / LOVELIVE! AC SATELLITE PPLAN M9009129A / LOVELIVE! AC NS CENTER / LOVELIVE! AC NS SATELLITE P PLAN MQ01ABF032 LOVELIVE! AC NS SATELLITE SPLAN / MGICIANS DEAD            |
 |  502A | i7-4970S | 8GB(DDR3-1600) x2 | GTX1080-8GB | HOSHI NO TSUBA / DENSHA DE GO                           |
