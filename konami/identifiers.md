@@ -19,14 +19,17 @@ string is provided to constrain the format properly.
 
 The following variables are used across the different identifiers and can denote the listed values:
 
-* `$p`: Product
+* `$p`: Product category
+  * `C`: Card game?
   * `G`: Game
-* `$t`: Type of product
+  * `H`: Hardware/Helper? e.g. card dispenser
+* `$t`: Product type
   * `C`: Conversion? Software only
   * `E`: Extension? Software + hardware
   * `K`: Possibility for offline/no e-AMUSEMENT?
   * `N`: New dedicated cabinet?
   * `O`: New dedicated cabinet?
+  * `S`: ???
   * `Q`: New dedicated cabinet?
   * `U`: Upgrade or utility? e.g. DVD software update kit, replacement monitors
   * `X`: Hardware/board?
