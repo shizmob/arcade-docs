@@ -128,7 +128,7 @@ Sord embedded boards: https://www.sord.co.jp/company/corporate/history.html
 **Sticker:** B3  
 **Games:** K56 POP?  
 
-## FAB-e945-KN205
+### FAB-e945-KN205
 
 Also known as: "BemaniPC Type 2" (unofficially).
 
