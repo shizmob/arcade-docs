@@ -456,10 +456,13 @@ chronologic order, e.g. regarding release dates.
   * `GOO26-UA`: Client main unit
 * `OSP`: シャドウプリンセス / Shadow Princess
   * `GSOSP-JA`
+* `P2D`: beatmania IIDX INFINITAS [home version]
 * `PAN`: ノスタルジア / NOSTALGIA, スタルジア FORTE / NOSTALGIA FORTE, スタルジア Op.2 / NOSTALGIA Op.2, スタルジア Op.3 / NOSTALGIA Op.3
   * `GEPAN-JA`
 * `PIX`: MÚSECA
   * `GQPIX-JA`
+* `QBG`: ボンバーガール / BOMBERGIRL, ボンバーガール / BOMBERGIRL [e-AMUSEMENT CLOUD/home version]
+* `QCV`: SOUND VOLTEX III (e-AMUSEMENT CLOUD) [e-AMUSEMENT CLOUD/home version]
 * `QPP`: Printer paper and ink
   * `GUQPP-AB`: For SDVX generator (?)
   * `GULMM-JA`
@@ -475,8 +478,12 @@ chronologic order, e.g. regarding release dates.
 * `TDJ`: beatmania IIDX 27 HEROIC VERSE \[Lightning cabinet\]
   * [`GQTDJ-JA`: Dedicated cabinet](product/GQTDJ-JA.md)
   * `GQTDJ-UA`
+* `U32`: GITADORA [e-AMUSEMENT CLOUD/home version]
+* `U39`: pop'n music Lively [e-AMUSEMENT CLOUD/home version]
+* `UAN`: ノスタルジア / NOSTALGIA [e-AMUSEMENT CLOUD/home version]
 * `UFC`: SOUND VOLTEX VALKYRIE MODEL
   * `GQUFC-JA`
+* `VGP`: DanceDanceRevolution 第2回オープンアルファテスト [e-AMUSEMENT CLOUD/home version]
 
 ## Misc, unsorted
 
