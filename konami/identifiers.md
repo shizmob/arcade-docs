@@ -25,6 +25,7 @@ The following variables are used across the different identifiers and can denote
   * `G`: Game
   * `H`: Hardware/Helper? e.g. card dispenser
 * `$t`: Product type
+  * `A`: ???
   * `C`: Conversion? Software only
   * `E`: Extension? Software + hardware
   * `K`: Possibility for offline/no e-AMUSEMENT?
@@ -34,6 +35,7 @@ The following variables are used across the different identifiers and can denote
   * `Q`: New dedicated cabinet?
   * `U`: Upgrade or utility? e.g. DVD software update kit, replacement monitors
   * `X`: Hardware/board?
+  * `Z`: ???
 * `$g`: Gamecode, identifies a game or series in [Konami's product portfolio](products.md)
   * Format: `yxx`
     * `y`: `A` + (project development start year - 2000) (`L`: 2011, `T`: 2019, etc.)
