@@ -8,6 +8,7 @@ This file describes the various identifiers and their formats that are used in p
 * Game/cabinet manuals
 * MAME
 * Various sources around the internet
+* Game data
 
 ## Format
 
@@ -29,7 +30,7 @@ The following variables are used across the different identifiers and can denote
   * `K`: Possibility for offline/no e-AMUSEMENT?
   * `N`: New dedicated cabinet?
   * `O`: New dedicated cabinet?
-  * `S`: ???
+  * `S`: Station (medal games)
   * `Q`: New dedicated cabinet?
   * `U`: Upgrade or utility? e.g. DVD software update kit, replacement monitors
   * `X`: Hardware/board?
@@ -48,6 +49,7 @@ The following variables are used across the different identifiers and can denote
   * `Y`: Indonesia
 * `$s`: Specification: Product type and game dependent, e.g. type of cabinet or hardware
   * `A`, `B`, `C`, ..., `Z`
+  * コナステ streamed games use `K`
 * `$r`: Software revision. Modern games utilizing the extension part pinned this to the value `A`
   * `A`, `B`, `C`, ..., `Z`
 * `$e`: Extension/build date of the software
@@ -66,9 +68,9 @@ The following variables are used across the different identifiers and can denote
 * Format: `$p$t$g-$d$s`
 * Example: [GQLDJ-JA](product/GQLDJ-JA.md)
 
-### Mcode
+### Mcode, Contents Code
 
-* Source: License dongle certificate CN
+* Source: License dongle certificate CN, game data
 * Format: `$g-$n`
   * `$n`: An integer number, e.g. `001`
 * Example: `PIX-001`

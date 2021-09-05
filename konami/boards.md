@@ -234,7 +234,7 @@ Also known as: "ITHM65".
 **IO:** \[LDJ\] [USB I/O 2](io.md#usbio2)  
 **IO:** \[M39\] [USB I/O 2](io.md#usbio2)  
 **IO:** \[M32/M33/MDX\] [P4IO](io.md#p4io)  
-**Games:** KFC, L44, [LDJ](software/LDJ.md), M32, M33, M39, MBR, MDX, NBT, PAN  
+**Games:** KFC, L44, [LDJ](software/LDJ.md), M32, M33, M39, MBR, MDX, NBF, NBT, PAN  
 
 ### ADE-704B
 
@@ -246,7 +246,7 @@ Also known as: "ITHM65".
 **GPU:** AMD Radeon E6760  
 **HDD:** WDC WD3200LPCX (320GB)  
 **IO:** \[KFC/PAN\] [KFCA](io.md#kfca)   
-**Games:** KFC, PAN  
+**Games:** KFC, NCG, PAN  
 **Ref:** https://twitter.com/ham56p/status/1115528175142850561  
  
 ### ADE-6291
