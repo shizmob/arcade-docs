@@ -90,7 +90,7 @@ Sord embedded boards: https://www.sord.co.jp/company/corporate/history.html
     **GPU:** ATI Radeon 9600XT 128M  
     **HDD:** Seagate ST3402111A (40GB)  
     **CD:**  reader  
-    **IO:**  TOPS APC CARD (APC102-000)  
+    **IO:**  [APC102-000](io.md#apc) 
     **Sticker:** A3  
     **Games:** F24  
 
@@ -139,7 +139,7 @@ Sord embedded boards: https://www.sord.co.jp/company/corporate/history.html
     **CPU:** Intel Core 2 Duo 2.13 GHz  
     **RAM:** 2x Micron MT8HTF12864AY-667G1 (DDR2, PC2-5300, 1GB)  
     **CD:**  -  
-    **IO:**  TOPS APS CARD (APC103-000G)  
+    **IO:**  [APC103-000G](io.md#apc)  
     **IO:**  eSATA + serial header bracket  
     **Sticker:** C13  
     **Games:** KGG  
@@ -157,24 +157,24 @@ Sord embedded boards: https://www.sord.co.jp/company/corporate/history.html
 
 AOpen embedded boards.
 
-* IT855 ("BemaniPC Type 3")  
+* 855 ("BemaniPC Type 3")  
     **MBD:** AOpen IT855GME-LX (AOpen i855G*-based?)  
     **CPU:** Intel Celeron M (310? 340?) 1.5GHz  
     **RAM:** 1x Buffalo ??? (DDR, 512MB, PC2700)  
     **GPU:** ATi Radeon 9600 XT (embedded)  
-    **IO:** \[M39\] Konami USB I/O 2 (PWB1113692080000)  
-    **IO:** \[Others\] Konami P3IO (PWB112263690000)  
+    **IO:** \[M39\] [USB I/O 2](io.md#usbio2)  
+    **IO:** \[Others\] [P3IO](io.md#p3io)  
     **Games:** ID2 / I44 / J44 / K44 / G22 / G33 / H32 / H33 / I32 / I33 / J32 / J33 / K32 / K33 / M39  
     **Ref:** http://k4copious.blog.fc2.com/blog-entry-14.html / http://callusnext.com/pcbs/pc_pm.html  
 
-* IT945 ("BemaniPC Type 4" / "JDX-945-02")  
+* 945 ("BemaniPC Type 4" / "JDX-945-02" / "KFC-945-01")  
     **MBD:** AOpen IT945GME_M72 (AOpen i945G*-based?)  
     **CPU:** AMD Athlon X2 4400+  
-    **RAM:** 2x Bufallo D2N667C-X512HEJ (SODIMM DDR2, 512MB, PC2-5300S)  
+    **RAM:** 2x Buffalo D2N667C-X512HEJ (SODIMM DDR2, 512MB, PC2-5300S)  
     **GPU:** ATi E2400 MXM-II 256MB RH EDG  
-    **HDD:** \[MDX\] Seagate  (SATA 3.5", 500GB, 7200RPM)  
-    **IO:** \[JDX/KDX/MDX\] Konami P3IO (PWB112263690000)  
-    **Games:** JDX / KDX / MDX  
+    **HDD:** \[MDX\] Seagate ST500DM002 (SATA 3.5", 500GB, 7200RPM)  
+    **IO:** \[JDX/KDX/MDX/KFC\] [P3IO](io.md#p3io)  
+    **Games:** JDX, KDX, MDX, KFC  
 
 ## `ADE-*`
 
@@ -186,7 +186,11 @@ Ennocom embedded boards: https://www.ennoconn.com/producttype_en-us_0_21_1.html
     **CPU:** Intel Celeron B810  
     **RAM:** 1 or 2x 2GB DD3 SODIMM  
     **GPU:** AMD Radeon E4690  
-    **SSD:** Intel ??? (40GB)  
+    **SSD:** Intel SSDSA2CT040G3 2.5" (SATA 2.5", 40GB)  
+    **IO:** \[KFC/NBT/PAN\] [KFCA](io.md#kfca)    
+    **IO:** \[LDJ\] ???  
+    **IO:** \[M39\] [USB I/O 2](io.md#usbio2)  
+    **IO:** \[M32/M33/MDX\] [P4IO](io.md#p4io)  
     **Games:** KFC, L44, LDJ, M32, M33, M39, MBR, MDX, NBT, PAN  
 
 * ADE-704B  
@@ -195,6 +199,7 @@ Ennocom embedded boards: https://www.ennoconn.com/producttype_en-us_0_21_1.html
     **RAM:** 1x 2GB DDR3 SODIMM  
     **GPU:** AMD Radeon E6760  
     **HDD:** WDC WD3200LPCX (320GB)  
+    **IO:** \[KFC/PAN\] [KFCA](io.md#kfca)   
     **Games:** KFC, PAN  
  
 * ADE-6291  
@@ -202,6 +207,10 @@ Ennocom embedded boards: https://www.ennoconn.com/producttype_en-us_0_21_1.html
     **APU:** AMD RX-421BD  
     **RAM:** Innodisk DDR4-2400 4GB  
     **SSD:** innodisk 3ME2 mSATA (256GB)  
+    **IO:** \[L44/M32/M33\] [P4IO](io.md#p4io)  
+    **IO:** \[KFC/PAN\] [KFCA](io.md#kfca)    
+    **IO:** \[LDJ/MDX\] [BIO2(BI2A)](io.md#bio2)  
+    **IO:** \[REC\] 2x [BIO2(BI2A)](io.md#bio2)  
     **Games:** KFC, L44, LDJ, M32, M33, MDX (Gold), PAN, REC  
 
 ## Misc
@@ -211,7 +220,7 @@ Ennocom embedded boards: https://www.ennoconn.com/producttype_en-us_0_21_1.html
     **APU:** AMD GX-420CA (GE420CIAJ44HM)  
     **RAM:** 1x Buffalo D3N1600-LS4GHAJ (SODIMM DDR3, 4GB, PC3L-12800S)  
     **SSD:** innodisk 3ME2 mSATA (64GB) \[PIX\] / ??? "M064GPSN804TGJN0-PH" (64GB, mSATA, Phison PS3108 controller, S8FM07.9 firmware) \[O26\]  
-    **IO:** Konami P4IO (115710800000)  
+    **IO:** [P4IO](io.md#p4io)  
     **Games:** O26, PIX  
 
 * X10SLQ (name tentative)  
@@ -221,6 +230,7 @@ Ennocom embedded boards: https://www.ennoconn.com/producttype_en-us_0_21_1.html
     **RAM:** 2x Innodisk DDR3L-1600 4GB  
     **GPU:** GIGABYTE Nvidia GeForce GTX 1050 2GB  
     **HDD:** WDC WD3200LPCX (320GB)  
+    **IO:** [BIO2(BI2A)](io.md#bio2)  
     **Games:** KFC (VW)  
 
 ## ARESPEAR
@@ -235,4 +245,5 @@ Konami's own gaming PCs.
     **GPU:** GIGABYTE GV-N1650IXOC-4GD (Nvidia GeForce GTX 1650)  
     **SSD:** Innodisk 3ME3 2.5" SATA (256GB, DES25-B56D08BC1QC)   
     **SND:** ASUS Xonar AE  
-    **Games:** TDJ, UFC
+    **IO:** [BIO2(BI2X)](io.md#bio2)  
+    **Games:** TDJ, UFC  
