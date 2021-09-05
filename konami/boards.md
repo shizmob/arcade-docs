@@ -41,7 +41,11 @@ Has twice as much RAM (4MB) as a retail PS1. According to BIOS ROM, runs "Konami
 **IO:**  [SPU, front]  IDE  
 **IO:**  [SPU, back]   RCA, RCA, power  
 **CD:**  Panasonic CR-505-BCM (SCSI)  
-**HDD:**  Maxtor 2B020H1 (541DX, 5400RPM, 20GB; may depend per game)  
+**HDD:**  Maxtor 2B020H1 (541DX, 5400RPM, 20GB; may depend per game)
+**DVD:** Victor XV D701
+
+A DVD player is used to play back mpeg encoded Video CDs and DVDs. The decoded video is forwarded
+via composite input to the main unit and blit into the UI by software.
 
 ## Python
 
@@ -50,6 +54,14 @@ Sony Playstation 2-based board. Based on a development system. Similar to Namco'
 ## Python 2
 
 Sony Playstation 2-based board. Unlike the first Python, based on a retail board using Sony's DNAS protection system.
+
+## Bubble System
+
+## Firebeat
+
+## Dj Main
+
+## Viper
 
 ## `KNM-*`
 
@@ -73,8 +85,9 @@ Also known as: "BemaniPC Type 1" (unofficially).
     **RAM:** 1x ??? (DDR1, PC2100, 256MB)  
     **MBD:** PM-845G3/GL/GV?  
     **STH:** Intel 845G  
-    **GPU:** NVIDIA GeForce 4 MX440  
-    **Games:** C02, D01, E11, ECO, FDD  
+    **GPU:** NVIDIA GeForce 4 MX440
+    **SND:** Realtek AC'97
+    **Games:** [C02](software/C02.md), [D01](software/D01.md), [E11](software/E11.md), [ECO](software/ECO.md), [FDD](software/FDD.md)  
 
 ## `FAB-*`
 
@@ -121,9 +134,10 @@ Also known as: "BemaniPC Type 2" (unofficially).
 
     **CPU:** Pentium 4 2.5GHz  
     **RAM:** 512MB PC2700  
-    **GPU:** ATI Radeon X1300  
+    **GPU:** ATI Radeon X1300
+    **SND:** Realtek HD
     **Sticker:** B5  
-    **Games:** GLD, HDD, I00, JDJ, JDZ, KDZ  
+    **Games:** [GLD](software/GLD.md), [HDD](software/HDD.md), [I00](software/I00.md), [JDJ](software/JDJ.md), [JDZ](software/JDZ.md), [KDZ](software/KDZ.md)  
 
 ### FAB-e945-KN209
 
@@ -216,10 +230,10 @@ Also known as: "ITHM65"
     **GPU:** AMD Radeon E4690  
     **SSD:** Intel SSDSA2CT040G3 2.5" (SATA 2.5", 40GB)  
     **IO:** \[KFC/NBT/PAN\] [KFCA](io.md#kfca)    
-    **IO:** \[LDJ\] ???  
+    **IO:** \[LDJ\] [USB I/O 2](io.md#usbio2)
     **IO:** \[M39\] [USB I/O 2](io.md#usbio2)  
     **IO:** \[M32/M33/MDX\] [P4IO](io.md#p4io)  
-    **Games:** KFC, L44, LDJ, M32, M33, M39, MBR, MDX, NBT, PAN  
+    **Games:** KFC, L44, [LDJ](software/LDJ.md), M32, M33, M39, MBR, MDX, NBT, PAN  
 
 ### ADE-704B
 
@@ -245,7 +259,7 @@ Also known as: "ADE".
     **IO:** \[KFC/PAN\] [KFCA](io.md#kfca)    
     **IO:** \[LDJ/MDX\] [BIO2(BI2A)](io.md#bio2)  
     **IO:** \[REC\] 2x [BIO2(BI2A)](io.md#bio2)  
-    **Games:** KFC, L44, LDJ, M32, M33, MDX (Gold), PAN, REC  
+    **Games:** KFC, L44, [LDJ](software/LDJ.md), M32, M33, MDX (Gold), PAN, REC  
 
 ## Misc
 

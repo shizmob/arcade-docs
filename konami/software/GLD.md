@@ -1,0 +1,2 @@
+# `GLD`: Beatmani IIDX GOLD
+
