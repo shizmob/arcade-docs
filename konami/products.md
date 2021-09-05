@@ -448,7 +448,7 @@ chronologic order, e.g. regarding release dates.
 * `MMD`: ミライダガッキ / FutureTomTom, ミライダガッキ Ver.2 / FutureTomTom Ver.2
 * `NBF`: アルティメットストライカー / Ultimate Strikers
 * `NBT`: ビートストリーム / BeatStream
-  * `GQNBT-JA 
+  * `GQNBT-JA`
 * `NCG`: オトカ ドール
 * `O26`: ツムツム
   * `GUO26-JA`
