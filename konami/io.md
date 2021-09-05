@@ -12,13 +12,17 @@
 ## P3IO
 
 * Product: PWB112263690000
-* Connectors: JAMMA (cab), custom (COM1, cab), TTL (COM2, cab), 2x TTL (COM3-4, cab), RGB (cab), 2x RCA (cab), secplug (cab)
+* Connectors: JAMMA (cab), custom (COM1, cab), TTL (COM2, cab), 2x TTL (COM3-4, cab),  RGB (cab), 2x RCA (cab), secplug (cab)
 
 ## P4IO
 
 * Product: 115710800000 (blue board) / PWB112840930000 (green board)
 * Codename: "Cerel"
 * Connectors: USB (host), serial (host), serial (cab), custom x4 (cab)
+* Firmware families:
+  - ACIO name: "BMPU" (ID: 0x0B000000) \[O26\]
+    * Generic test and service switches, and general input
+    * Known versions: 1.1.2 / Jun 12 2013 19:24:19 / O26
 
 ## USBIO2
 
@@ -45,8 +49,6 @@
 
 # Devices
 
-## BMPU
-
 ## DDRS
 
 DDR led spike. Also used in Reflec Beat.
@@ -55,7 +57,7 @@ DDR led spike. Also used in Reflec Beat.
 
 ## H44B
 
-jubeat (H44) panel.
+jubeat (H44) lights.
 
 ## HBHI
 
