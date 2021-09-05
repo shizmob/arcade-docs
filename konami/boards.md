@@ -158,21 +158,22 @@ Sord embedded boards: https://www.sord.co.jp/company/corporate/history.html
 AOpen embedded boards.
 
 * IT855 ("BemaniPC Type 3")  
-    **MBD:** AOpen IT855GME-LX  
+    **MBD:** AOpen IT855GME-LX (AOpen i855G*-based?)  
     **CPU:** Intel Celeron M (310? 340?) 1.5GHz  
     **RAM:** 1x Buffalo ??? (DDR, 512MB, PC2700)  
-    **GPU:** ATi RV360 (Radeon 9600 XT)  
+    **GPU:** ATi Radeon 9600 XT (embedded)  
     **IO:** \[M39\] Konami USB I/O 2 (PWB1113692080000)  
     **IO:** \[Others\] Konami P3IO (PWB112263690000)  
-    **Games:** ID2 / jubeat / G22 / G33 / H32 / H33 / I32 / I33 / J32 / J33 / K32 / K33 / M39  
+    **Games:** ID2 / I44 / J44 / K44 / G22 / G33 / H32 / H33 / I32 / I33 / J32 / J33 / K32 / K33 / M39  
     **Ref:** http://k4copious.blog.fc2.com/blog-entry-14.html / http://callusnext.com/pcbs/pc_pm.html  
 
 * IT945 ("BemaniPC Type 4" / "JDX-945-02")  
-    **MBD:** AOpen IT945GME_M72 (AOpen i945GM*-based)  
+    **MBD:** AOpen IT945GME_M72 (AOpen i945G*-based?)  
     **CPU:** AMD Athlon X2 4400+  
     **RAM:** 2x Bufallo D2N667C-X512HEJ (SODIMM DDR2, 512MB, PC2-5300S)  
     **GPU:** ATi E2400 MXM-II 256MB RH EDG  
-    **IO:** \[DDR\] Konami P3IO (PWB112263690000)  
+    **HDD:** \[MDX\] Seagate  (SATA 3.5", 500GB, 7200RPM)  
+    **IO:** \[JDX/KDX/MDX\] Konami P3IO (PWB112263690000)  
     **Games:** JDX / KDX / MDX  
 
 ## `ADE-*`
