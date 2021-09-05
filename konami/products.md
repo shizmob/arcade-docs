@@ -439,8 +439,9 @@ chronologic order, e.g. regarding release dates.
 * `MDX`: DanceDanceRevolution [2013], DanceDanceRevolution [2014], DanceDanceRevolution A, DanceDanceRevolution A20, DanceDanceRevolution A20 PLUS
   * `GQMDX-UD`
   * `GCMDX-JA`
-  * `GKMDX-AE`
+  * `GKMDX-KC`
   * `GKMDX-UD`
+  * `GKMDX-AE`
 * `MMD`: ミライダガッキ / FutureTomTom, ミライダガッキ Ver.2 / FutureTomTom Ver.2
 * `O26`: ツムツム
   * `GUO26-JA`
