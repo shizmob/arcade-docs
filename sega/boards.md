@@ -1,7 +1,19 @@
 # SEGA boards
 
-
 SEGA parts are referred to using a [proprietary format](identifiers.md#part-number).
+
+## UFO catcher
+
+```
+  * 834-8051-01:    NEW UFO CATCHER(SONIC) EPR-14124 https://page.auctions.yahoo.co.jp/jp/auction/x782565940
+  * 834-8421:       UFO Catcher Mini EPR-14355 https://page.auctions.yahoo.co.jp/jp/auction/r479052623
+  * 834-12630:      GAME BD ??? (UFO Catcher 21) EPR-19063A/EPR-19064 https://page.auctions.yahoo.co.jp/jp/auction/p870216230
+  * 834-13344:      GAME BD ??? (UFO Catcher 800) EPR-20413A
+  * 834-14426:      GAME BD UCM (UFO Catcher 7 MAX) EPR-24139 https://page.auctions.yahoo.co.jp/jp/auction/p866025564
+  * 834-14606:      GAME BD UCU (Sega UFO Catcher)
+  * 837-10493-03/834-12710:   UFO Catcher 800            https://page.auctions.yahoo.co.jp/jp/auction/r441207101
+  * 837-10493-04:   UFO Catcher 21             https://page.auctions.yahoo.co.jp/jp/auction/p870216230
+```
 
 ## NAOMI
 
@@ -39,12 +51,24 @@ SEGA parts are referred to using a [proprietary format](identifiers.md#part-numb
 ## System SP
 
 ```
-  * 834-14493:      GAME BD SP DKG (Dinosaur King)
-  * 834-14661:      GAME BD SP 512 OSM (Love and Berry)
-  * 834-14970:      GAME BD SP DKC (TETRIS GIANT)
-  * 834-15041:      GAME BD SP ???
-  * 837-14481:      GAME BD SP ??? (BINGO GALAXY) EPR-24236 https://page.auctions.yahoo.co.jp/jp/auction/w464167213
-  * 837-14875:      GAME BD SP ??? (PUYO PUYO) EPR-24328 https://page.auctions.yahoo.co.jp/jp/auction/p844401477
+  * 834-14493 /          : GAME BD SP DKG      : Dinosaur King : US
+  * 834-14661 /          : GAME BD SP 512 OSM  : Love and Berry : US
+  * 834-14662 /          :                     :
+  * 834-14713 /          : GAME BD SP MRW SATL : Mirage World [satl] : JP
+  * 834-14788 /          :                     : Bingo Galaxy [main] : JP
+  * 834-14789 /          :                     : Bingo Galaxy [satl] : JP
+  * 834-14792 /          :                     : Dinosaur King 2 : EXP
+  * 834-14865 /          :                     :
+  * 834-14970 /          : GAME BD SP DKC      : Tetris Giant / Dekai Tetris : GL
+  * 834-14750 /          :                     : Ami-no-San : JP : https://webcache.googleusercontent.com/search?q=cache:VCAbfytrwvYJ:https://aucfree.com/items/d359606190+&cd=14&hl=nl&ct=clnk&gl=nl
+  * 834-15041 /          :                     : Ami-no-San : JP
+  *           / 837-14434:                     : Dinosaur King - Operating: Dinosaur Rescue : US
+  *           / 837-14481:                     : Bingo Galaxy [satl] : JP : EPR-24236 https://page.auctions.yahoo.co.jp/jp/auction/w464167213
+  *           / 837-14699:                     :
+  *           / 837-14700:                     :
+  *           / 837-14790:                     : Ocha-Ken Hot Medal : JP
+  *           / 837-14875:                     : Puyo Puyo : JP : EPR-24328 https://page.auctions.yahoo.co.jp/jp/auction/p844401477
+  *           / 837-14881:                     : Brick People : GL
 ```
 
 ## Triforce
@@ -190,6 +214,8 @@ SEGA parts are referred to using a [proprietary format](identifiers.md#part-numb
         IO:  JVS/keychip card 837-14902 [custom connector]
         PSU: Delta EDPS-250AB A [250W]
 ```
+
+## ELEFUN
 
 ## Nu
 
