@@ -322,7 +322,7 @@ Example:
 
 ## Game ID
 
-Seems to have been introduced around the start of ALL.NET and used from Naomi 2/Atomiswave onwards.
+Seems to have been introduced around the start of ALL.NET and used from at least the NAOMI2 and Atomiswave onwards.
 
 Format: `S[BD][A-Z]{2}`. `SC**` may be developer IDs?
 
