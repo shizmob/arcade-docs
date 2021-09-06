@@ -85,19 +85,22 @@ Playstation 3 Slim debugkit-based with special arcade firmware (GEX/GECR).
 
 PC, x86-based. Variants: N2, N2(WM3).
 
-JP/Asia:  
-**MBD:** MSI K7N2GM-IL (custom BIOS)  
+JP/Asia/China:  
+**MBD:** Custom variant of the MSI K7N2GM-IL (custom BIOS)  
 **CPU:** AMD Athlon XP-M 2800+  
-**RAM:** 1 or 2x ??? (DDR, PC-3200, 1GB)  
+**CPU:** \[N2(WM3)(China)\] AMD Athlon XP 3000+  
+**RAM:** 1x (DDR, PC-3200, 1GB)  
 **GPU:** \[N2\] Nvidia GeForce 4 series?  
-**GPU:** \[N2(WM3)\] Nvidia GeForce 7600GS (AGP, 256MB) / Nvidia GeForce 7800GS (AGP, 512MB?, red sticker on N2(WM3) type sticker, game: W3P)  
-**HDD:** Seagate ??? (80GB)  
+**GPU:** \[N2(WM3)(Asia/China)\] Nvidia GeForce 7600GS (AGP, 256MB) (China 7600GS has rubber material covering VRAM chips)
+**GPU:** \[N2(WM3)(Japan)\] Nvidia GeForce 7800GS (AGP, 512MB?, red sticker on N2(WM3) type sticker, game: W3P)  
+**HDD:** Seagate ST380215A/ST380011A (80GB PATA) / WD WD800BB-55JKC0 (80GB PATA) 
 
 Export:  
 **MBD:** ASUS M2N-MX  
 **CPU:** AMD Athlon 64 3500+  
-**RAM:** 1 or 2x ??? (DDR, PC-3200, 1GB)  
-**HDD:** WD ??? (80GB)  
+**RAM:** 1x (DDR, PC-3200, 1GB)  
+**GPU:** ASUS Nvidia GeForce 7600GS (EN7600GSSILENT/HTD/256M/A, PCIe, 256MB)
+**HDD:** WD WD800BB-55JKC0 (80GB PATA)  
 
 ```
        - Counter-Strike Neo (CSN1, https://www.gamoover.net/Forums/index.php?topic=28671.16)
