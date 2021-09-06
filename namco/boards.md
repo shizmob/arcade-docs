@@ -94,7 +94,7 @@ JP/Asia/China:
 **GPU:** \[N2(WM3)(Asia/China)\] Nvidia GeForce 7600GS (AGP, 256MB) (China 7600GS has rubber material covering VRAM chips)  
 **GPU:** \[N2(WM3)(Japan)\] Nvidia GeForce 7800GS (AGP, 512MB?, red sticker on N2(WM3) type sticker, game: W3P)  
 **HDD:** Seagate ST380215A/ST380011A (80GB PATA) / WD WD800BB-55JKC0 (80GB PATA)  
-**IO:** [Namco V337 RC PCB](io.md#v337-rc) (expansion slot, internal sound connector to motherboard)  
+**IO:** [Namco V337 RC PCB](io.md#v337-rc) (expansion slot, to motherboard JAUD1)  
 **IO:** RATOC PCI604 (PCI, 1x USB, 1x RS232 DE-9 serial, 2x internal COM header with ribbon cable to V337 RS, REX-PCI60 variant? https://www.ratocsystems.com/products/subpage/pci60.html)  
 **IO:** [Namco V337 RS PCB](io.md#v337-rs) (above motherboard shield, internal 8pin connector with ribbon cable to RATOC PCI604)  
 
@@ -122,9 +122,9 @@ PC, x86-based. Variants: ES1, ES1(A2).
 **RAM:** \[ES1(A2)\] 1x SanMax SMD-2G88HP-8E (DDR2 DIMM, PC2-6400U-555, 2GB)
 **GPU:** \[ES1(A2)\] Nvidia GeForce 9600 GT (PCIe, 512MB, BIOS Version: 62.94.61.00.08)  
 **HDD:** Seagate ST3160318AS (SATA, 160GB, 7200RPM) / Hitachi HDS721016CLA382 (SATA, 160GB, 7200RPM)  
-**IO:** [Namco H039 ESIF PCB](io.md#h039-esif) (internal 4pin connector with cable to "JV IO (JAMMA)", internal 12pin connector to motherboard COM3 serial header and JF1 front panel header)  
+**IO:** [Namco H039 ESIF PCB](io.md#h039-esif) (1x internal 4pin connector with cable to "JV IO (JAMMA)", to motherboard COM3 and JF1)  
 **IO:** "JV IO (JAMMA)" (expansion slot, 1x JVS USB, 1x internal connector with cable to H039)  
-**IO:** "SERIAL 3 (CARD IF)" (expansion slot, connector with cable to motherboard COM4 serial header, pinout up-down: GND CTS RTS TXD RXD)  
+**IO:** "SERIAL 3 (CARD IF)" (expansion slot, to motherboard COM4, pinout up-down: GND CTS RTS TXD RXD)  
 
 ```
        - Nirin (NRN, https://www.bandainamco-am.co.uk/files/41)
@@ -150,14 +150,14 @@ ES2(A):
 **RAM:** 1x Micron MT16HTF25664HZ-800H1 (DDR2 SODIMM, PC2-6400S, 2GB)  
 **GPU:** AMD Radeon HD6450 (PCIe, 512MB, LP)  
 **SSD:** Kingston SSDNow V100 SV100S2/32G (SATA 2.5", 32GB)  
-**IO:** [Namco H058 TSIF PCB](io.md#h058-tsif)  
+**IO:** [Namco H058 TSIF PCB](io.md#h058-tsif) (to motherboard COM1, COM2, FRONT PANEL and MIC-IN/LINE-IN)  
 
 ES2P(A):  
 **MBD:** Advantech GMB-"Ontario" V1.1  
 **APU:** AMD G-T56N 
 **RAM:** 1x SanMax Technologies SMD-N2G68H1P-13H (SODIMM, PC3-10600S, 2GB)  
 **HDD:** HGST HTS545025A7E380 (SATA 2.5", 250GB, 5400RPM)  
-**IO:** [Namco H058 TSIFPLUS PCB](io.md#h058-tsifplus)  
+**IO:** [Namco H058 TSIFPLUS PCB](io.md#h058-tsifplus) (to motherboard COM4, COM3 and CN17)  
 
 ```
        - Pokemon Medal World (PMW)
@@ -210,7 +210,8 @@ PC, x86-based. Lower spec, also used for budget/redemption games? Variants: ES4(
 **APU:** AMD GX-424CC  
 **RAM:** 1x UMAX Castor 83EA4G93UM (SoDDR3, 4GB, PC4-12800, 1.355V)  
 **HDD:** ???  
-**IO:** [Namco H058 TSIFPLUS PCB](io.md#h058-tsifplus)  
+**IO:** [Namco H058 TSIFPLUS PCB](io.md#h058-tsifplus) (to motherboard COM4, COM3 and PANEL1)  
+**IO:** 1x 6pin (SERIAL4, to motherboard COM5 and COM6, pinout left-right: RXD5, TXD5, GND5, RX6, TXD6, GND6)  
 
 ```
        - Point Blank X/Gunbullet X (PBX)
