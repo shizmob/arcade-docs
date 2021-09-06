@@ -51,7 +51,7 @@ External interface. Connects to motherboard and exposes a bunch of custom connec
   - Maxlinear SP3222EUCY (SSOP16, RS-232 transceiver)
 * Connectors:
   - (external) 1x 3pin  (CN3, SERIAL1, to SP3222EUCY, pinout left-right: GND T1OUT R1IN)
-  - (external) 1x 8pin  (CN6, SERIAL2, to CN4, pinout left-right: NC NC RXD1 TXD1 RTS1 CTS1 GND1)
+  - (external) 1x 8pin  (CN6, SERIAL2, to CN4, pinout left-right: 12V GND RXD1 TXD1 RTS1 CTS1 GND1)
   - (external) 1x 3pin  (CN5, SERIAL3, to CN4, pinout left-right: TXD2 RXD2 GND2)
   - (external) 1x 3.5mm (CN2, AUDIO2, to CN1)
   - (internal) 1x 4pin  (CN1, audio, pinout left-right: LINE2_L FAUDIO_JD LINE2_R GND)
@@ -71,7 +71,7 @@ External interface. Connects to motherboard and exposes a custom connector, JVS 
   - Sipex SP485EC (SOIC8, RS-485 transceiver)
   - Maxlinear SP3222EUCY (SSOP16, RS-232 transceiver)
 * Connectors:
-  - (external) 1x 7pin  (CN3, pinout left-right: 12V NC RXD1 TXD1 RTS1 CTS1 GND1)
-  - (external) 1x USB   (CN4, JVS)
+  - (external) 1x 7pin  (CN3, SERIAL 3 (CARD IF), pinout left-right: 12V GND RXD1 TXD1 RTS1 CTS1 GND1)
+  - (external) 1x USB   (CN4, JV IO (JAMMA))
   - (internal) 1x 20pin (CN2, serial & front panel, pinout up-down left-right: RXD1 TXD1 RTS1 CTS1 GND1 TXD2 RXD2 RTS2 CTS2 NC HDDLED+ HDDLED- PWRLED+ PWRLED- JP2+ JP2- SW2+ SW2- NC NC)
   - (internal) 1x 4pin  (CN1, power, pinout left-right: 5V GND 12V GND)
