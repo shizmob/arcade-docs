@@ -322,7 +322,7 @@ Example:
 
 ## Game ID
 
-Seems to have been introduced around the start of ALL.NET and used from at least the Lindbergh onwards, possibly earlier.
+Seems to have been introduced around the start of ALL.NET and used from Naomi 2/Atomiswave onwards.
 
 Format: `S[BD][A-Z]{2}`. `SC**` may be developer IDs?
 
@@ -331,6 +331,8 @@ Examples:
 * `SDCH`: Mario & Sonic at the Rio Olympic Games
 
 Seem to be allocated (semi-)sequentially and roll over when `Z` is reached.
+
+Very early ALL.NET games (Such as VF4 and VF4 Evolution) do not include the S in their game ID.
 
 ## Media ID
 
