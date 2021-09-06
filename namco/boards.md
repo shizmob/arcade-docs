@@ -24,7 +24,7 @@ Playstation 2 devkit-based with special arcade firmware.
 
 ## System 256
 
-Playstation 2-devkit based with special arcade firmware.
+Playstation 2-devkit based with special arcade firmware. Variants: S256, S256(+LH), S256(+LC), S256B, Super S256.
 
 ```
         - Taiko no Tatsujin 9  (TK91, https://page.auctions.yahoo.co.jp/jp/auction/c889225321 & https://page.auctions.yahoo.co.jp/jp/auction/b533726007)
@@ -33,7 +33,7 @@ Playstation 2-devkit based with special arcade firmware.
           Taiko no Tatsujin 12 (T121, https://page.auctions.yahoo.co.jp/jp/auction/c885026105)
           Taiko no Tatsujin 13
           Taiko no Tatsujin 14 (T141,  https://page.auctions.yahoo.co.jp/jp/auction/d500177087)
-          [+LC] Gundam vs. Gundam NEXT (GNX1, https://page.auctions.yahoo.co.jp/jp/auction/j710168908)
+  (+LC) - Gundam vs. Gundam NEXT (GNX1, https://page.auctions.yahoo.co.jp/jp/auction/j710168908)
       B -
   Super - Time Crisis 4 (TSF1)
 ```
