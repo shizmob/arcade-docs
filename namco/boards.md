@@ -180,8 +180,11 @@ ES3(A):
 ES3(B):  
 **MBD:** ???  
 **CPU:** Intel Pentium G2120  
-**RAM:** ??? (8GB, DDR3, PC3-19200)  
+**RAM:** 1x ??? (8GB, DDR3, PC3-19200)  
 **GPU:** Nvidia GeForce GTX650 Ti  
+**IO:** [Namco ESIF2 PCB](io.md#esif2) (above motherboard shield)  
+**IO:** JVS (expansion slot, 1x JVS USB, 1x internal connector with cable to ESIF2)  
+**IO:** extra serial (expansion slot, to motherboard)  
 
 ES3(X):  
 **MBD:** ???  
@@ -190,6 +193,8 @@ ES3(X):
 **GPU:** Nvidia GeForce GTX680 / Nvidia GeForce GTX760  
 **HDD:** HGST HTS545025A7E680 (SATA, 250GB, 5400RPM)  
 **IO:** [Namco ESIF2 PCB](io.md#esif2) (above motherboard shield)  
+**IO:** JVS (expansion slot, 1x JVS USB, 1x internal connector with cable to ESIF2)  
+**IO:** extra serial (expansion slot, to motherboard)  
 
 ```
      A - Pokken Tournament
