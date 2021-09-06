@@ -86,14 +86,17 @@ Playstation 3 Slim debugkit-based with special arcade firmware (GEX/GECR).
 PC, x86-based. Variants: N2, N2(WM3).
 
 JP/Asia/China:  
-**MBD:** Custom variant of the MSI K7N2GM-IL (custom BIOS)  
+**MBD:** MSI K7N2GM-IL custom variant (custom BIOS)  
 **CPU:** AMD Athlon XP-M 2800+  
-**CPU:** \[N2(WM3)(China)\] AMD Athlon XP 3000+  
-**RAM:** 1x (DDR, PC-3200, 1GB)  
+**CPU:** \[N2(WM3), China\] AMD Athlon XP 3000+  
+**RAM:** 1x Samsung M368L2923DUN  (DDR, PC-3200, 1GB)  
 **GPU:** \[N2\] Nvidia GeForce 4 series?  
-**GPU:** \[N2(WM3)(Asia/China)\] Nvidia GeForce 7600GS (AGP, 256MB) (China 7600GS has rubber material covering VRAM chips)
-**GPU:** \[N2(WM3)(Japan)\] Nvidia GeForce 7800GS (AGP, 512MB?, red sticker on N2(WM3) type sticker, game: W3P)  
-**HDD:** Seagate ST380215A/ST380011A (80GB PATA) / WD WD800BB-55JKC0 (80GB PATA) 
+**GPU:** \[N2(WM3), Asia/China\] Nvidia GeForce 7600GS (AGP, 256MB) (China 7600GS has rubber material covering VRAM chips)  
+**GPU:** \[N2(WM3), Japan\] Nvidia GeForce 7800GS (AGP, 512MB?, red sticker on N2(WM3) type sticker, game: W3P)  
+**HDD:** Seagate ST380215A/ST380011A (80GB PATA) / WD WD800BB-55JKC0 (80GB PATA)  
+**IO:** Namco "V337 RC PCB" (expansion slot, internal sound connector to motherboard, 1x RCA white, 1x RCA red)  
+**IO:** RATOC PCI604 (PCI, 1x USB, 1x serial, 2x internal serial with ribbon cable to "V337 RS PCB", REX-PCI60 variant? https://www.ratocsystems.com/products/subpage/pci60.html)  
+**IO:** Namco "V337 RS PCB" (above motherboard shield, 8pin connector, internal 8pin connector with ribbon cable to RATOC PCI604)  
 
 Export:  
 **MBD:** ASUS M2N-MX  
