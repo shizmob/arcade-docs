@@ -1,12 +1,192 @@
-# SEGA products
+# Media
 
-SEGA uses a variety of ways to refer to products on their platform.
+SEGA platforms use a variety of install/storage media referred to using a [proprietary part number](identifiers.md#part-number) or [media id](identifiers.md#media-id).
 
-## Media
+## 840
 
-SEGA platforms use a variety of install/storage media referred to using a [proprietary format](identifiers.md#media-id).
+NAOMI storage (SEGA).
 
-### GDS
+```
+Y = B: game DIMM
+840-0034B:    STAR HORSE : horse data                  ("FLASH ROM BD NAO SHE HORSE D")
+840-0050B:    CONFIDENTIAL MISSION                     (840-0001F DIMM, "DIMM BD NAO SPY")
+840-0053B:    SPORTS JAM                               (840-0001F DIMM, "DIMM BD NAO SP JAM")
+840-0054B:    STAR HORSE : main                        (stacked on 837-13785 board)
+840-0055B:    STAR HORSE : live/backup                 (probably stacked on 840-0034B board, stacked on 837-13785 board)
+840-0056B:    STAR HORSE : satellite                   (stacked on 837-13785 board)
+840-0065B:    VIRTUA GOLF                              (840-0001F DIMM, "DIMM BD NAO DYNAMIC GOLF")
+840-0067B:    WORLD SERIES BASKETBALL                  (840-0001F DIMM, "DIMM BD NAO MB2K2")
+840-0075B:    STAR HORSE 2001? : main?                 (stacked on 837-13785 board)
+840-0076B:    STAR HORSE 2001? : sound/backup?         (probably stakced on 840-0034B board, stacked on 837-13785 board)
+840-0077B:    STAR HORSE 2001? : live?                 (stacked on 837-13785 board)
+840-0078B:    STAR HORSE 2001 : satellite              (stacked on 837-13785 board)
+840-0084B-01: VIRTUA TENNIS 2                          (840-0001F DIMM, "DIMM BD NAO VT2")
+840-0084B-02: VIRTUA TENNIS 2                          (840-0004F DIMM, "RT DIMM BD NAO VT2")
+840-0084B-01: CAPCOM vs SNK 2                          (840-0001F DIMM, "DIMM BD NAO CPvsSNK2")
+840-0084B-02: CAPCOM vs SNK 2                          (840-0004F DIMM, "RT DIMM BD NAO CPvsSNK2")
+840-0097B-01: MAZE OF KINGS DELUXE                     (840-0004F DIMM, "RT DIMM BD NAO MAZ")
+840-0102B:    STAR HORSE 2002 : main                   (stacked on 837-13785 board)
+840-0103B:    STAR HORSE 2002 : sound/backup           (stacked on 837-13785 board)
+840-0104B:    STAR HORSE 2002 : live                   (stacked on 837-13785 board)
+840-0105B:    STAR HORSE 2002 : satellite              (stacked on 837-13785 board)
+840-0106B:    VIRTUA FIGHTER 4?                        (840-0004F DIMM)
+840-0108B:    INITIAL D TWIN                           (840-0001F DIMM, "DIMM BD NAT TOF ENG")
+840-0111B:    STAR HORSE 2002? : main? : Taiwan?       (stacked on 837-13785 board)
+840-0112B:    STAR HORSE 2002 : sound : Taiwan         (stacked on 837-13785 board)
+840-0113B:    STAR HORSE 2002? : live? : Taiwan?       (stacked on 837-13785 board)
+840-0114B:    STAR HORSE 2002? : satl? : Taiwan?       (stacked on 837-13785 board)
+840-0118B-02: ???
+840-0120B:    STAR HORSE PROGRESS : main               (stacked on 837-13785 board)
+840-0121B:    STAR HORSE PROGRESS : sound/backup       (stacked on 840-0034B board, stacked on 837-13785 board)
+840-0122B:    STAR HORSE PROGRESS : live               (stacked on 837-13785 board)
+840-0123B:    STAR HORSE PROGRESS : satellite          (stacked on 837-13785 board)
+840-0125B:                                             (840-0005F DIMM)
+840-0126B:    OINORI-DAIMYOUJIN MATSURI                (+837-14274 "G2 EXPANSION BD")
+840-0130B:    VIRTUA FIGHTER 4 EVOLUTION? : NAOMI2
+840-0131B:    ???
+840-0147B:                                             (840-0001F DIMM, "DIMM BD NAO DGS SATL")
+840-0183B:    STAR HORSE PROGRESS RETURNS : main & (video left/backup) (probably stacked on 840-0034B board)
+840-0184B:    STAR HORSE PROGRESS RETURNS : video right 
+840-0185B:    STAR HORSE PROGRESS RETURNS : live/voice
+840-0186B:    STAR HORSE PROGRESS RETURNS : satellite
+840-0187B:    STAR HORSE PROGRESS RETURNS : sound
+
+Y = C: cartridge
+840-0001C: DYNAMITE BASEBALL NAOMI : 253-5508-0246J
+840-0002C: CRAZY TAXI
+840-0003C: ZOMBIE REVENGE : 253-5508-0249
+840-0004C: RING OUT 4x4
+840-0005C: AIRLINE PILOTS : 253-5508-0251
+840-06CN: Triforce Type3 NAND
+        4000: F-ZERO AX MONSTER RIDE : 253-5508-0373
+840-0007C: GIANT GRAM 全日本プロレス2 : 253-5508-0253J
+840-0008C: 右脳能カチェックマシーン タッチ・デ・ウノー！
+840-0010C: VIRTUA STRIKER2 ver.2000 : 253-5508-0258
+840-0011C: TOY FIGHTER : 253-5508-0257
+840-0012C: WORLD SERIES 99
+840-0012C-01: SUPER MAJOR LEAGUE 99
+840-0013C: JAMBO! SAFARI
+840-0015C: VIRTUA TENNIS (POWER SMASH) : 253-5508-0312 / THE HOUSE OF THE DEAD 2 (bootleg? https://from-japan-retro-sale.myshopify.com/collections/arcade-games/products/the-house-of-the-dead-2-sega-naomi-cartridge-arcade-game-pcb-jamma-original)
+840-0016C: DERBY OWNERS CLUB : 253-5508-0262J
+        -01:
+840-0017C: OUTTRIGGER : 253-5508-0266
+840-0018C: SEGA TETRIS
+840-0019C: ダイナマイト ベースボール 99 : 253-5508-0269J : Rev.B
+840-0020C: サンバ DE アミーゴ : 253-5508-0270
+840-0021C: VIRTUA NBA
+840-0022C: 右脳能カチェックマシーン タッチ・デ・ウノー！ 2
+840-0023C: 18WHEELER [deluxe]
+840-0025C: MARS TV
+840-0026C: THE TYPING OF THE DEAD
+840-0027C: SEGA MARINE FISHING
+840-0028C: VIRTUAL-ON OT M.S.B.S. Ver5.66
+840-0030C: QUIZ AH MEGAMISAMA
+840-0035C: SEGA STRIKE FIGHTER
+840-0036C: 18WHEELER : standard
+840-0037C: 18WHEELER : upright
+840-0038C: 日テレ式未来予想スタジオ
+840-0039C: GIANT GRAM 2000
+840-0040C: WWF Royal Rumble : 253-5508-0285
+840-0041C: SLASHOUT : 253-5508-0302
+840-0042C: FERRARI F355 CHALLENGE 2
+840-0043C: CRACKIN' DJ
+840-0044C: COSMIC SMASH : 253-5508-0289
+840-0045C: TOKYO BUS GUIDE
+840-0046C: WILD RIDERS : NAOMI2 : 253-5508-0301
+840-0047C: サンバ de アミーゴ Ver.2000 : 253-5508-0295
+840-0048C: ALIEN FRONT
+840-0052C: DERBY OWNERS CLUB 2000 VER.2
+840-0059C: SOUL SURFER : NAOMI2
+840-0061C: VIRTUA STRIKER 3 : NAOMI2
+840-0062C: Club Kart european session : NAOMI2
+840-0064C: WAVERUNNER GP
+840-0068C: CRACKIN' DJ PART 2
+840-0073C: INU NO OSANPO : rev.A
+840-0080C: VIRTUA FIGHTER 4 : NAOMI2
+840-0083C: DERBY OWNERS CLUB II
+840-0084C: VIRTUA TENNIS 2 (POWER SMASH 2)
+840-0087C: The King of Route66 : NAOMI2
+840-0088C: DERBY OWNERS CLUB WORLD EDITION : 315-5319A
+840-0088C: DERBY OWNERS CLUB WORLD EDITION EX
+840-0095C: SOUL SURFER : NAOMI2
+840-0098C: SHOOTOUT POOL
+840-0106C: VIRTUA FIGHTER 4 EVOLUTION : NAOMI2
+840-0117C: それいけ! アンパンマン ポップコーンこじょう2 : Rev.C
+840-0128C: SHOOTOUT POOL PRIZE
+840-0128C: SHOOTOUT POOL THE MEDAL
+840-0129C: club kart PRIZE : NAOMI2
+840-0130C: SWP HOPPER BOARD
+840-0132C: MUSHI KING 2K3 2ND : JPN
+840-0136C: Shootout Pool PRIZE Ver.B : EXP
+840-0136C: SHOOTOUT POOL THE MEDAL Ver.B : JPN
+840-0137C: POOL THE MEDAL Ver.B
+840-0137C: club kart PRIZE Ver.B : NAOMI2
+840-0139C: Club Kart european session
+840-0140C: KICK '4' CASH
+840-0150C: MUSHIKING TKOB 2K3 2ND : 1.002-/1.003- : EXP
+840-0152C: MUSHI KING 2K4 2ND : JPN
+840-0158C: MUSHIKING 2K5 1ST : JPN
+840-0164C: MUSHIKING TKOB II ENG : 1.001/2.001 : EXP
+840-0166C: Touch de Zunou
+840-0167C: MUSHIKING 2K6 1ST : JPN
+840-0170C: MANIC PANIC GHOST!
+840-0171C: MUSHIKING 2K6 2ND : JPN
+840-0174C: MUSHIKING 2K7 1ST : JPN
+840-0175C: ダイナマイト でか EX/ASIAN DYNAMITE
+840-0177C: リズム天国 : JPN
+840-0178C: ドライビングシミュレーターシミュレーター : JPN : 253-5508-0502J
+840-0180C: MUSHIKING TKOB IV ENG : EXP : 253-5508-0437
+```
+
+## 841
+
+NAOMI storage (licensed).
+
+```
+Y = B: game DIMM
+841-0016B: DEATH CRIMSON : 253-5509-5066
+
+Y = C: cartridge
+841-0001C: ポワーストーン : 253-5509-5046
+841-0002C: IDOL JANSHI SUCHIE-PAI 3 : 253-5509-5047
+841-0003C: DEAD OR ALIVE 2 : 253-5509-5048
+841-0004C: DENGEN TENSHI TAISEN JANSHI SHANGRI-LA : 253-5509-5050
+841-0005C: SPAWN In the Demon's Hand : 253-5509-5051
+841-0006C: ぷよぷよだ！
+841-0007C-01: MARVEL VS. CAPCOM 2 NEW AGE OF HEROES
+841-0007C-02: MARVEL VS. CAPCOM 2 NEW AGE OF HEROES
+841-0007C-03: MARVEL VS. CAPCOM 2 NEW AGE OF HEROES
+841-0008C: POWERSTONE 2 : 253-5509-5054
+841-000xC: バワーストーン
+841-0010C: IKARUGA
+841-0011C: CAPCOM VS. SNK MILLENIUM FIGHT 2000 : 253-5509-5059
+841-0012C: GUNSPIKE : 317-5509-5060
+841-0012C-01: CANNONSPIKE : 317-5509-5060
+841-0013C: GUILTY GEAR X : 253-5509-5063
+841-0014C: GIGA WING 2 : 253-5509-5064
+841-0015C: PROJECT JUSTICE : 253-5509-5065
+841-0017C: 機動戦士ガンダム　連邦vs.ジオン
+841-0020C: ZERO GUNNER 2
+841-0057C: SHOOTING LOVE 2007
+841-0058C: AKATSUKI BLITZKAMPF AUSF. ACHSE
+841-0059C: ILLVELO
+841-0060C: まもるクンは呪われてしまった!
+841-0061C: MELTY BLOOD ACTRESS AGAIN
+841-0062C: ラジルギノア
+```
+
+NAMCO cartridges:
+
+```
+25349801 : 日本プロレスリング 闘魂烈伝4 Arcade Edition [TRF] : 253-5509-5040
+25469801 : NINJA ASSAULT PCB : 253-5509-5068
+25509801 : WORLD KICKS PCB : 253-5509-5040
+HMG016007: ヘビーメタル ジオマトリックス Rev.B : 253-5509-5071
+25709801 : Gun Survivor 2 Biohazard Code:Veronica : 253-5509-5075 : Namco
+25869812 : -MAZAN- Flash of the Blade : Namco
+```
+
+## GDS
 
 GD-ROM (NAOMI, SEGA first-party). 610-0624-xxxx (mostly) = 610-0630-xxxx = GDS-xxxx.
 
@@ -62,7 +242,7 @@ GDS-0041A: Dragon Treasure 3
 GDS-0042A: Firm Update for CF_BOX
 ```
 
-### GDL
+## GDL
 
 GD-ROM (NAOMI, Licensed third-party). 610-0624-xxxx (mostly) = 610-0630-xxxx = GDL-xxxx.
 
@@ -123,7 +303,7 @@ GDL-0041 : GUILTY GEAR XX ΛCORE
 GDL-0042 : たころん : JPN
 ```
 
-### GDT
+## GDT
 
 GD-ROM (Triforce). 610-0650-xxxx = GDT-xxxx.
 
@@ -198,7 +378,7 @@ GDT-0022 : Triforce Firmware Update For Compact Flash Box
         A: ^ 4.01
 ```
 
-### GDX
+## GDX
 
 GD-ROM (Chihiro). 610-0652-xxxx = GDX-xxxx.
 
@@ -258,7 +438,7 @@ GDX-0024 : Chihiro Firmware Update For Compact Flash Box
         A: ^ (4.01)
 ```
 
-### CDP
+## CDP
 
 CD (NAOMI/Triforce/Chihiro).
 
@@ -273,7 +453,7 @@ CDP-10078 : Quest of D The Battle Kingdom / QOD VS VERSION UPDATE : Chihiro
 CDP-10136 : Quest of D The Battle Kingdom / QOD SERVICE END : Chihiro
 ```
 
-### CDV
+## CDV
 
 DVD (NAOMI/Triforce/Chihiro).
 
@@ -377,7 +557,7 @@ CDV-10041 : Sangokushi Taisen 3 War Begins Ver.3.59 : Lindbergh : DVD SGU 3.59
 CDV-10042 : Sangokushi Taisen 3 War Begins HDD Clean Disc : Lindbergh
 ```
 
-### DVP
+## DVP
 
 DVD (Lindbergh). 610-0726-xxxx (DVD only) = 610-727-xxxx (DVD + keychip) = DVP-xxxx.
 
@@ -535,7 +715,7 @@ DVP-???? : 頭文字D ARCADE STAGE 4 LIMITED
 DVP-???? : StarHorse2: Fourth Ambition : Star Horse
 ```
 
-### DVR
+## DVR
 
 DVD (Ring). 610-0816-xxxx = DVR-xxxx ("DVD SOFT KIT *").
 
@@ -767,7 +947,7 @@ DVR-????  : ??? : SBTR
     ????  : ぷよぷよ!!クエスト アーケード : RingEdge : JPN
 ```
 
-### CDN
+## CDN
 
 CDN: DVD (Nu): 610-0894-xxxx = CDN-xxxx.
 
@@ -837,7 +1017,7 @@ CDN-0008 -1D: 初音ミク Project DIVA Future Tone (No.1) : Nu1 : EXP : SBZV : 
 ????        : Mario & Sonic at the Tokyo Olympic Games : Nu1.1 : JPN/EXP : SDFV
 ```
 
-### CDA
+## CDA
 
 DVD (ALLS): 610-0945-xxxx = CDA-xxxx.
 
@@ -893,7 +1073,7 @@ CDA-0009A-1D: ALL.Net P-ras MULTI バージョン3 (Disc.1) : JPN : SDEM
 ????        : Initial D THE ARCADE
 ```
 
-### MDA-G
+## MDA-G
 
 CF (Naomi/Triforce/Chihiro).
 
@@ -917,7 +1097,7 @@ MDA-G0016 : Virtua Striker 4                : Triforce : EXP
 MDA-G0017 : Virtua Striker 4 Ver.2006       : Triforce : EXP
 ```
 
-### MDA-C
+## MDA-C
 
 CF (System SP/Lindbergh).
 
@@ -1007,7 +1187,7 @@ MDA-C0081 : Dinosaur King 2 Ver 2.501 CHN              : System SP : EXP/CHN
 MDA-C???? : Yataimura Kingyo Sukui                     : System SP : EXP
 ```
 
-### MDA-S
+## MDA-S
 
 SD.
 
@@ -1035,7 +1215,7 @@ MDA-S0020 :
 MDA-S0021 : Maimai camera "SD CAMERA CTRL BD MAI" : RingEdge2
 ```
 
-### MDA-H
+## MDA-H
 
 HDD.
 
@@ -1072,7 +1252,7 @@ HDD.
             A: ^
 ```
 
-### MDA-E
+## MDA-E
 
 SSD.
 
@@ -1098,7 +1278,7 @@ MDA-E0018 :
 MDA-E0019 : TDK GBDisk GS1 ???GB                    : ALLS HX2 OP
 ```
 
-### MDA-U
+## MDA-U
 
 USB flash drive.
 

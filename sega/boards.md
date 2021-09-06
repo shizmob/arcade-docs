@@ -1,5 +1,41 @@
 # SEGA boards
 
+
+SEGA parts are referred to using a [proprietary format](identifiers.md#part-number).
+
+## NAOMI
+
+```
+   Y = D: hardware kit
+   840-xxxxD:     NAOMI + cartridge kit (see cartridges section)
+   840-0051D:     NAOMI + 840-0001F + GD-rom drive kit  ("ASSY CASE NAO PCI DIMM BD")
+   840-0071D-01:  NAOMI2 + 840-0001F + GD-rom drive kit ("ASSY CASE NAT PCI DIMM BD")
+   840-0080D-01?: 840-0001F + GD-rom drive kit?         ("ASSY CASE PC1 DIMM BD")
+   840-0089D:     NAOMI + 840-0004F + GD-rom drive kit  ("ASSY CASE NAO RTOS DIMM BD")
+   840-0091D-1x:  "ASSY CASE NAT RT/232C &COM" 
+   840-0106D-01:  "ASSY CASE TRF 512 DIMM BD"
+
+   Y = A: hardware
+   840-0001A: NAOMI ("ASSY CASE NAOMI MAIN BD")
+   840-0002A: (840-0150C)
+            -1x: "ASSY CASE NAO CRX MAIN SER"
+   840-0003A: (840-0003C) "SHIELD CASE ZBX NAO"
+   840-0004A: NAOMI with serial ("ASSY CASE NAO MAIN SER R")
+   840-0021A: (840-0021C) "SHIELD CASE NBA NAO"
+   840-0046A: NAOMI2 ("ASSY CASE NAOMI 2 MAIN BD")
+            -1x: "ASSY CASE NAT MAIN W/232C"
+
+   Y = E: communication board?
+   840-0001E: Cartridge underside board ("ASSY CASE NAO COMMUNICATION BD")
+
+   Y = F: DIMM board
+   840-0001F: DIMM 256MB, SCSI ("ASSY CASE NAO DIMM BD COM")
+   840-0004F: DIMM 256MB, SERIAL, SCSI, ETHERNET ("DIMM BD NAO" / "ASSY CASE NAO DIMM BD COM RTOS")
+   840-0005F: DIMM 256MB, ETHERNET
+   840-0006F: DIMM 512MB, SERIAL, SCSI, ETHERNET ("DIMM BD NAT")
+   840-0008F: DIMM 512MB, ETHERNET
+```
+
 ## System SP
 
 ```
