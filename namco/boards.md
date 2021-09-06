@@ -145,19 +145,19 @@ PC, x86-based. Variants: ES1, ES1(A2).
 PC, x86-based. Budget, redemption and medal game model. Variants: ES2(A), ES2P(A).
 
 ES2(A):  
-**MBD:** SORD TEM400-based  
-**CPU:** Intel Atom ??? (1.6 GHz)  
-**RAM:** ???  
-**GPU:** ???  
-**HDD:** ???
-**IO:** ???
+**MBD:** SORD TEM400-02A  
+**CPU:** Intel Atom D510/D410/N450 (1.6 GHz)  
+**RAM:** 1x Micron MT16HTF25664HZ-800H1 (DDR2 SODIMM, PC2-6400S, 2GB)  
+**GPU:** AMD Radeon HD6450 (PCIe, 512MB, LP)  
+**SSD:** Kingston SSDNow V100 SV100S2/32G (SATA 2.5", 32GB)  
+**IO:** [Namco H058 TSIF PCB](io.md#h058-tsif)  
 
 ES2P(A):  
 **MBD:** Advantech GMB-"Ontario" V1.1  
 **APU:** AMD G-T56N 
 **RAM:** 1x SanMax Technologies SMD-N2G68H1P-13H (SODIMM, PC3-10600S, 2GB)  
 **HDD:** HGST HTS545025A7E380 (SATA 2.5", 250GB, 5400RPM)  
-**IO:** "H058 TSIFPLUS PCB"  
+**IO:** [Namco H058 TSIFPLUS PCB](io.md#h058-tsifplus)  
 
 ```
        - Pokemon Medal World (PMW)
@@ -210,7 +210,7 @@ PC, x86-based. Lower spec, also used for budget/redemption games? Variants: ES4(
 **APU:** AMD GX-424CC  
 **RAM:** 1x UMAX Castor 83EA4G93UM (SoDDR3, 4GB, PC4-12800, 1.355V)  
 **HDD:** ???  
-**IO:** "H058 TSIFPLUS PCB"  
+**IO:** [Namco H058 TSIFPLUS PCB](io.md#h058-tsifplus)  
 
 ```
        - Point Blank X/Gunbullet X (PBX)
