@@ -223,19 +223,19 @@ PC, x86-based. Lower spec, also used for budget/redemption games? Variants: ES4(
 
 PC, x86-based. Variants: BNA1, BNA1(LITE). Some kind of defect occurred: https://www.banasupport.net/cms-files/E38090E3818AE58F96E5BC95E6A798E59084E4BD8DE38091E3.pdf
 
-BNA1:  
+BNA1: BNA1-00-64G-2016W / BNA1-00-256G-2016W    
 **MBD:** ???  
 **CPU:** Intel Core i5-6500  
 **RAM:** ???  
 **GPU:** Nvidia GeForce GTX 1050 Ti  
 **SSD:** innodisk 3ME4 ??? (SATA, 256GB) / ??? (SATA, 64GB)  
 
-BNA1(LITE):  
+BNA1(LITE): BNA1LT-00-64G-2016W  
 **MBD:** ??? (H110 chipset) 
 **CPU:** Intel Pentium G4400  
 **RAM:** 2x ??? (DDR4, 4GB)  
 **GPU:** Nvidia GeForce GT 1030  
-**SSD:** ??? + ???  
+**SSD:** ??? (64GB) + ???  
 
 ```
        - Gundam: Bonds of the Battlefield II
