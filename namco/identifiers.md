@@ -56,6 +56,7 @@ Formats:
     - `TG2100-2-LM-HDD0-A`: game code TG2, version 1, $a 0, $b 0, locale US, cabinet role live monitor, type hard drive, revision A
     - `PBN100-1-NA-MPRO-A`: game code PBN, version 1, $a 0, $b 0, locale Japan, cabinet role normal, type M production, revision A
     - `GCB100-1-TW-MPRO-B`: game code GCB, version 1, $a 0, $b 0, locale Japan, cabinet role TW, type M production, revision B
+    - `GKE300-1-TM-DAT0-A`: game code GKE, version 3, $a 0, $b 0, locale Japan, cabinet role terminal, type data, revision A
 
 ## Dongle serial
 
@@ -69,8 +70,8 @@ Components:
 Formats:
 - `a$d$r$a $t$na`
   * Examples:
-    - `a274811 260532a`: drawing code 2748, region Japan, account 1, title 26, serial number 0532
-    - `a2793 13393143a`: drawing code 2793, region Japan, account 3, title 39, serial number 3143
+    - `a274811 260532a`: drawing 2748, region Japan, account 1, title 26, serial number 0532
+    - `a2793 13393143a`: drawing 2793, region Japan, account 3, title 39, serial number 3143
 
 Unknowns:
 - System 256 dongle (memory card): `a 026161 351019 a`
