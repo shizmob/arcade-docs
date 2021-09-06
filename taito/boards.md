@@ -23,7 +23,7 @@
 |  005B | P4 2.8GHz  | 512MB | 9600XT  | BG4-TUNED_KIT M9007072A VER2.04JPN                                                  |
 |  011A | P4 3.0GHz  | 512MB | X580PRO | SO2 (せンシノキオク)                                                                  |
 |  012A | P4 2.8GHz  | 512MB | 9600XT  |                                                                                     |
-|  013A | P4 2.8GHz  | 512MB | 9600PRO | Used in BG4 Tuned Pro cabinets                                                      |
+|  013A | P4 2.8GHz  | 512MB | 9800PRO | Used in BG4 Tuned Pro cabinets                                                      |
 |  024A | P4 2.8Ghz  | 1GB   | 9800PRO | HALF-LIFE2 VER2.0 Ver.2.07a-JPN                                                     |
 
 ## Type X7
