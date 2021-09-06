@@ -14,6 +14,8 @@
 |  021A | Cel 2.5GHz | 256MB | 9600SE | TETRIS THE GRAND MASTER 3 2.01J / RAIDEN III / RAIDEN 4 VER.1.00J / CHAOS BREAKER / TROUBLE WITHCES M9008007A Ver.1.00J |
 |  022A | Cel 2.5GHz | 256MB | 9600SE | SNK PLAYMORE KOF98UM M9007690A VER1.00 (B3900118A black/gray) / 豪血寺一族 先祖供養 M9008014A Ver.200906230 |
 
+Missing: 002, 004, 008, 009, 010, 015, 016, 018, 019, 020, 023
+
 ## Type X+
 
 |    ID | CPU        | RAM   | GPU     | Notes                                                                               |
@@ -59,6 +61,8 @@
 | 218A   | PenDC 1.8GHz  | 2GB   | HD5770      | CAPCOM MB4 M9008420A Ver1.0 [Mario Coin World]                                              |
 | ???    | Core2 Duo     | ???   | ???         | special red/black PCB                                                                       |
 
+Missing: 104, 106, 107, 108, 109, 110, 201, 202, 206, 214, 216
+
 ## Type X Zero
 
 |    ID | CPU            | RAM   | GPU    | Notes                                                                               |
@@ -68,6 +72,8 @@
 |  302A | N230           | ???   | 9400M  | Windows 7 Embedded Standard / NESICA X LIVE SERVER M9008358A VER.1.02 / VER.1.10    |
 |  306A | ???            | ???   | ???    | GROOVE COASTER-(GR) M9008895A VER.1.02JPN / GROOVE COASTER ?-(GR) M9008898A / GROOVE COASTER-(CO) M9008916A VER.1.02JPN / GROOVE COASTER ?-(CO) M9008917A / GROOVE COASTER 3-GR M9009080A (M9009079A, blackchunk) / GROOVE COASTER 3-CO M9009081A |
 |  ???  | ???            | ???   | ???    | MOGUTTE HORE HORE M9008613A Ver.1.01JPN (https://archive.is/PssYZ)                  |
+
+Missing: 303, 304, 305
 
 ## Type X3
 
@@ -89,9 +95,13 @@
 ??? - LORD OF VERMILLION III-(MAIN UNIT) M9008870A VER.3.000JPN (LOV3-(MAIN UNIT) M9008869A)
 ??? - LORD OF VERMILLION III-(SATELLITE) M9008865A VER.3.000JPN (LOV3-(SATELLITE) M9008864A)
 
+Missing: 401
+
 ## Type X4
 
 |    ID | CPU      | RAM               | GPU         | Notes                                                   |
 |-------|----------|-------------------|-------------|---------------------------------------------------------|
 |  500A | i5-4590S | 4GB(DDR3-1600) x2 | GTX960-2GB  | STREET FIGHTER V / LOVELIVE! AC CENTER M9009121A / LOVELIVE! AC SATELLITE PPLAN M9009129A / LOVELIVE! AC NS CENTER / LOVELIVE! AC NS SATELLITE P PLAN MQ01ABF032 LOVELIVE! AC NS SATELLITE SPLAN / MGICIANS DEAD            |
 |  502A | i7-4970S | 8GB(DDR3-1600) x2 | GTX1080-8GB | HOSHI NO TSUBA / DENSHA DE GO                           |
+
+Missing: 501
