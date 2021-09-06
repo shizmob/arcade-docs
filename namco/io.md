@@ -33,11 +33,11 @@ External serial interface. Connects to motherboard serial, and exposes JVS and s
   - Hitachi HD64F3672 (QFP48, H8 MCU)
   - "E 14.7456C" "2PH K487H" (14.7456 MHz crystal)
   - Sipex SP485EC (SOIC8, RS-485 transceiver)
-  - Maxlinear SP3222EUCY (SSOP16, RS-232 transceiver)
+  - Sipex SP3222EUCY (SSOP16, RS-232 transceiver)
 * Connectors:
   - (external) 1x 4pin
   - (internal) 1x 12pin (to motherboard front panel and motherboard serial header, pinout up-down: JF1-RST-L JF1-RST-R JF1-PWRON-L JF1-PWRON-R JF1-HDDLED-L JF1-HDDLED-R JF1-PWRLED-L JF1-PWRLED-R COM-RTS COM-CTS COM-RXD COM-TXD
-  - (internal) 1x 4pin (to power supply 12V and 5V, pinout left-right: GND GND NC GND 12V 5V)
+  - (internal) 1x 7pin (to power supply 12V and 5V, pinout left-right: GND GND NC GND 12V 5V)
   - (internal) 1x 4pin (to JVS expansion card, pinout left-right: V+ D+ D- V-)
 
 ## H058 TSIF
@@ -48,7 +48,7 @@ External interface. Connects to motherboard and exposes a bunch of custom connec
 * Label: H058 TSIF PCB
 * Chips:
   - FTDI FT232RL (SSOP28, RS-232 to USB transceiver)
-  - Maxlinear SP3222EUCY (SSOP16, RS-232 transceiver)
+  - Sipex SP3222EUCY (SSOP16, RS-232 transceiver)
 * Connectors:
   - (external) 1x 3pin  (CN3, SERIAL1, to SP3222EUCY, pinout left-right: GND T1OUT R1IN)
   - (external) 1x 8pin  (CN6, SERIAL2, to CN4, pinout left-right: 12V GND RXD1 TXD1 RTS1 CTS1 GND1)
@@ -69,9 +69,26 @@ External interface. Connects to motherboard and exposes a custom connector, JVS 
   - Hitachi HD64F3672 (QFP48, H8 MCU)
   - "14745 KSS 3LF" (14.745 MHz crystal)
   - Sipex SP485EC (SOIC8, RS-485 transceiver)
-  - Maxlinear SP3222EUCY (SSOP16, RS-232 transceiver)
+  - Sipex SP3222EUCY (SSOP16, RS-232 transceiver)
 * Connectors:
   - (external) 1x 7pin  (CN3, SERIAL 3 (CARD IF), pinout left-right: 12V GND RXD1 TXD1 RTS1 CTS1 GND1)
   - (external) 1x USB   (CN4, JV IO (JAMMA))
   - (internal) 1x 20pin (CN2, serial & front panel, pinout up-down left-right: RXD1 TXD1 RTS1 CTS1 GND1 TXD2 RXD2 RTS2 CTS2 NC HDDLED+ HDDLED- PWRLED+ PWRLED- JP2+ JP2- SW2+ SW2- NC NC)
   - (internal) 1x 4pin  (CN1, power, pinout left-right: 5V GND 12V GND)
+
+## ESIF2
+
+External serial interface, revision 2. Looks identical to the [H039 ESIF](#h039-esif). Connects to motherboard serial, and exposes JVS and serial. Likely turns on/resets the motherboard too.
+
+* Product: 8921960100 / (8921970100)
+* Label: ESIF2 PCB
+* Chips:
+  - Hitachi HD64F3672 (QFP48, H8 MCU)
+  - "E 14.7456C" "2PK D494I" (14.7456 MHz crystal)
+  - Sipex SP485EC (SOIC8, RS-485 transceiver)
+  - Sipex SP3222EUCY (SSOP16, RS-232 transceiver)
+* Connectors:
+  - (external) 1x 4pin
+  - (internal) 1x 12pin (to motherboard front panel and motherboard serial header)
+  - (internal) 1x 7pin (to power supply 12V and 5V, pinout left-right: GND GND NC GND 12V 5V)
+  - (internal) 1x 4pin (to JVS expansion card, pinout left-right: V+ D+ D- V-)

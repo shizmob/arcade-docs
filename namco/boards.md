@@ -189,6 +189,7 @@ ES3(X):
 **RAM:** ??? (8GB) / ??? (16GB)  
 **GPU:** Nvidia GeForce GTX680 / Nvidia GeForce GTX760  
 **HDD:** HGST HTS545025A7E680 (SATA, 250GB, 5400RPM)  
+**IO:** [Namco ESIF2 PCB](io.md#esif2) (above motherboard shield)  
 
 ```
      A - Pokken Tournament
