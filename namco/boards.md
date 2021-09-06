@@ -238,7 +238,7 @@ BNA1: BNA1-00-64G-2016W / BNA1-00-256G-2016W
 **IO:** 2x JVS/USB? (expansion card, '5' and '6')  
 
 BNA1(LITE): BNA1LT-00-64G-2016W  
-**MBD:** ??? (H110 chipset) 
+**MBD:** ??? (H110 chipset)  
 **CPU:** Intel Pentium G4400  
 **RAM:** 2x ??? (DDR4, 4GB)  
 **GPU:** Nvidia GeForce GT 1030  
