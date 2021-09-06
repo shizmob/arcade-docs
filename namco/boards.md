@@ -234,6 +234,8 @@ BNA1: BNA1-00-64G-2016W / BNA1-00-256G-2016W
 **RAM:** ???  
 **GPU:** Nvidia GeForce GTX 1050 Ti  
 **SSD:** innodisk 3ME4 ??? (SATA, 256GB) / ??? (SATA, 64GB)  
+**IO:** 2x serial (expansion card, COM3 and COM4)  
+**IO:** 2x JVS/USB? (expansion card, '5' and '6')  
 
 BNA1(LITE): BNA1LT-00-64G-2016W  
 **MBD:** ??? (H110 chipset) 
@@ -241,6 +243,8 @@ BNA1(LITE): BNA1LT-00-64G-2016W
 **RAM:** 2x ??? (DDR4, 4GB)  
 **GPU:** Nvidia GeForce GT 1030  
 **SSD:** ??? (64GB) + ???  
+**IO:** 2x serial (expansion card, COM3 and COM4)  
+**IO:** 2x JVS/USB? (expansion card, '5' and '6')  
 
 ```
        - Gundam: Bonds of the Battlefield II
