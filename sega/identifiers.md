@@ -1,4 +1,4 @@
-# SEGA identifiers.
+# SEGA identifiers
 
 This file describes the various identifiers and their formats that are used in products by SEGA.
 
