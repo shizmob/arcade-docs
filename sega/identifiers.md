@@ -250,7 +250,7 @@ A specific identifier for a physical product. Seems to have been introduced arou
 
 Format: `[A-Z]{4}-[0-9]{2}[A-Z][0-9]+`. The first part indicates the product type, second and third possibly the batch, and the fourth the identifier.
 
-Known product types:
+Known product types (tree view):
 
 ```
 A  - game boards, keychips
@@ -308,6 +308,10 @@ A  - game boards, keychips
  87  - Chihiro media board
 B  - ROM boards
 ```
+
+Example:
+* `AAVE-01A912938`: Nu gameboard, serial number #912938
+* `A72E-01U4539`: RINGEDGE keychip, serial number #4539
 
 ## Game ID
 
