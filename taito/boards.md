@@ -84,6 +84,10 @@
 |  ???    | Core i7-2600 2.6Ghz | ???    | ???           | Specified as part of press release to be a CPU option, maybe model 400/401?  |
 |  ???    | ???                 | ???    | HD6770        | Specified as part of press release to be a GPU option, maybe model 400/401?  |
 
+??? - GUNSLINGER STRATOS M9008840A VER.1.47JPN (GUNS M9008840A)
+??? - LORD OF VERMILLION III-(MAIN UNIT) M9008870A VER.3.000JPN (LOV3-(MAIN UNIT) M9008869A)
+??? - LORD OF VERMILLION III-(SATELLITE) M9008865A VER.3.000JPN (LOV3-(SATELLITE) M9008864A)
+
 ## Type X4
 
 |    ID | CPU      | RAM               | GPU         | Notes                                                   |
