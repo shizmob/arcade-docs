@@ -153,18 +153,25 @@ Known part categories (tree view):
  01: CARTON BOX / KIT / KNOB / L-LOCK BK / YURIA M4×12 BLACK K-UN / OUTLET AC F / CHAIN LATCH / CHAIN W FOOK / FAN GUARD / BUSH 1.2T 180MM
  05: CABLE (SCSI?)
  10: MEDIA (RETAIL)?
-   -0719: DVD drive
+   -0624-xxxx:  NAOMI GD-ROM
+   -0630-xxxx:  NAOMI GD-ROM
+   -0650-xxxx:  Triforce GD-ROM
+   -0652-xxxx:  Chihiro GD-ROM
+   -0726-xxxx:  Lindbergh DVD
+   -0727-xxxx:  Lindbergh DVD + keychip
+   -0719:       Lindbergh DVD drive
+   -0817-xxxx:  RingEdge/RingWide DVD ("DVD SOFT KIT *")
    -0837-xxxYY: ELEFUN keychip
    -0890-xxxYY: Nu keychip (SEGA, black)
    -0891-xxxYY: Nu keychip (licensed, black)
    -0892-xxxYY: Nu keychip (SEGA, red)
    -0893-xxxYY: Nu keychip (SEGA, blue)
-   -0894-xxxx:  Nu game DVD
+   -0894-xxxx:  Nu DVD
    -0937-xxxYY: Nu2/ALLS keychip (SEGA, black)
    -0938-xxxYY: Nu2/ALLS keychip (licensed, black)
    -0939-xxxYY: Nu2/ALLS keychip (SEGA, red)
    -0941-xxxYY: Nu2/ALLS keychip (SEGA, blue)
-   -0945-xxxx:  ALLS game DVD
+   -0945-xxxx:  ALLS DVD
  11: MEDIA (DEV)?
 7  - assembly
  00: ASSY
