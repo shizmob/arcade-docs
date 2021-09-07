@@ -320,12 +320,13 @@ chronologic order, e.g. regarding release dates.
 * `HAL`: Quiz Magic Academy 5
 * [`HDD`: beatmania IIDX 15 DJ TROOPERS](software/HDD.md)
   * [`GQHDD-JA`: Dedicated cabinet](product/GQHDD-JA.md)
-  * [`GUHDD-JB`: LCD monitor](product/GUHDD-JB.md)
+  * [`GUHDD-JB`: LCD monitor](product/GUHDD-JB.md) #W:http://kururusky.com/?p=1458
 * `HDX`: DanceDanceRevolution X
   * `GKHDX`
 * `HK9`: 麻雀格闘倶楽部7
 * [`I00`: beatmania IIDX 16 EMPRESS](software/I00.md)
   * [`GQI00-JA`: Dedicated cabinet](product/GQI00-JA.md)
+  * `GUI00`: EMPRESS LCD monitor #W:http://kururusky.com/?p=1458
 * `I16`: pop'n music 17
   * `GCI16-JA`
 * `I23`: ホースライダーズ2 / HORSERIDERS 2
@@ -359,6 +360,7 @@ chronologic order, e.g. regarding release dates.
 * [`JDZ`: beatmania IIDX 18 Resort Anthem](software/JDZ.md)
   * [`GQJDZ-JA`: Dedicated cabinet](product/GQJDZ-JA.md)
   * `GCJDZ-JA`
+  * `GUJDZ-JB`: Resort Anthem LCD monitor #W:http://kururusky.com/?p=1458
 * `JMA`: Quiz Magic Academy 7
   * `GEJMA-JB`
 * `JMP`: HELLO! POP'N MUSIC / ヘロー！！ポップンミュージック
@@ -410,20 +412,20 @@ chronologic order, e.g. regarding release dates.
   * `GCLBR-JA`
 * [`LDJ`: beatmania IIDX 20 tricoro, beatmania IIDX 21 SPADA, beatmania IIDX 22 PENDUAL, beatmania IIDX 23 copula, beatmania IIDX 24 SINOBUZ, beatmania IIDX 25 CANNON BALLERS, beatmania IIDX 26 Rootage, beatmania IIDX 27 HEROIC VERSE, beatmania IIDX 28 BISTROVER](software/LDJ.md)
   * `GCLDJ-JU`: Rootage offline kit
-  * `GELDJ-JB`
-  * [`GELDJ-JM`: CANNON BALLERS hardware conversion kit](product/GELDJ-JM.md)
-  * [`GELDJ-JN`: CANNON BALLERS hardware conversion kit](product/GELDJ-JN.md)
-  * [`GELDJ-JO`: CANNON BALLERS hardware conversion kit](product/GELDJ-JO.md)
+  * `GELDJ-JB`: tricoro update kit #W:http://aucview.aucfan.com/yahoo/c743060247
+  * [`GELDJ-JM`: CANNON BALLERS hardware conversion kit (for LDJ cabinets)](product/GELDJ-JM.md)
+  * [`GELDJ-JO`: CANNON BALLERS hardware conversion kit (for pre-LDJ cabinets)](product/GELDJ-JO.md)
   * [`GQLDJ-JA`: tricoro dedicated cabinet](product/GQLDJ-JA.md)
   * [`GQLDJ-JB`: PENDUAL cabinet](product/GQLDJ-JB.md)
   * [`GQLDJ-JC`: COPULA cabinet](product/GQLDJ-JC.md)
-  * `GULDJ-JA`: IIDX monitor ???
-  * [`GULDJ-JC`: tricoro LCD monitor](product/GULDJ-JC.md)
-  * [`GULDJ-JF`: SPADA software update DVD kit](product/GULDJ-JF.md)
-  * `GULDJ-JG`: IIDX monitor ???
-  * [`GULDJ-JH`: PENDUAL software update DVD kit](product/GULDJ-JH.md)
-  * `GULDJ-JI`: something for iidx 22 ???
-  * [`GULDJ-JJ`: PENDUAL LCD monitor](product/GULDJ-JJ.md)
+  * [`GULDJ-JC`: tricoro LCD monitor](product/GULDJ-JC.md) #W:http://kururusky.com/?p=1458
+  * `GULDJ-JE`: tricoro upgrade related? #W:http://aucview.aucfan.com/yahoo/c743060247
+  * [`GULDJ-JF`: SPADA software update DVD kit?](product/GULDJ-JF.md)
+  * `GULDJ-JG`: SPADA LCD monitor #W:http://kururusky.com/?p=1458
+  * [`GULDJ-JH`: PENDUAL software update DVD kit?](product/GULDJ-JH.md)
+  * `GULDJ-JI`: PENDUAL LCD monitor #W:http://kururusky.com/?p=1458
+  * [`GULDJ-JJ`: copula LCD monitor](product/GULDJ-JJ.md) #W:http://kururusky.com/?p=1458
+  * [`GULDJ-JN`: VGA to HDMI converter](product/GULDJ-JN.md) #M:KONAMI:116818010000
 * `LMA`: Quiz Magic Academy 9
   * `GELMA-JA`
   * `GELMA-JB`
