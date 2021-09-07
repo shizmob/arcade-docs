@@ -313,8 +313,9 @@ ES3(A):
 **RAM:** 1x SanMax Technologies ??? (4GB)  
 **GPU:** AMD Radeon HD 7750 (PCIe, 1GB)  
 **SSD:** Kingston SSDNow V200 SV200S37A/64G (SATA 2.5", 64GB)  
-**IO:** JVS (expansion slot, 1x JVS USB, 1x internal connector with cable to ESIF2)  
-**IO:** extra serial (expansion slot, to motherboard)  
+**IO:** [Namco ESIF2 PCB](io.md#esif2) (above motherboard shield)  
+**IO:** "JV IO (JAMMA)" (expansion slot, 1x JVS USB, 1x internal connector with cable to ESIF2)  
+**IO:** "SERIAL 3 (CARD IF)" (expansion slot, to motherboard)  
 
 ES3(B):  
 **MBD:** ???  
@@ -322,8 +323,8 @@ ES3(B):
 **RAM:** 1x ??? (8GB, DDR3, PC3-19200)  
 **GPU:** Nvidia GeForce GTX650 Ti  
 **IO:** [Namco ESIF2 PCB](io.md#esif2) (above motherboard shield)  
-**IO:** JVS (expansion slot, 1x JVS USB, 1x internal connector with cable to ESIF2)  
-**IO:** extra serial (expansion slot, to motherboard)  
+**IO:** "JV IO (JAMMA)" (expansion slot, 1x JVS USB, 1x internal connector with cable to ESIF2)  
+**IO:** "SERIAL 3 (CARD IF)" (expansion slot, to motherboard)  
 
 ES3(X):  
 **MBD:** ???  
@@ -332,8 +333,8 @@ ES3(X):
 **GPU:** Nvidia GeForce GTX680 / Nvidia GeForce GTX760  
 **HDD:** HGST HTS545025A7E680 (SATA, 250GB, 5400RPM)  
 **IO:** [Namco ESIF2 PCB](io.md#esif2) (above motherboard shield)  
-**IO:** JVS (expansion slot, 1x JVS USB, 1x internal connector with cable to ESIF2)  
-**IO:** extra serial (expansion slot, to motherboard)  
+**IO:** "JV IO (JAMMA)" (expansion slot, 1x JVS USB, 1x internal connector with cable to ESIF2)  
+**IO:** "SERIAL 3 (CARD IF)" (expansion slot, to motherboard)  
 
 ```
      A - Pokken Tournament (PKF)
