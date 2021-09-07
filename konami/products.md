@@ -393,7 +393,7 @@ chronologic order, e.g. regarding release dates.
   * `GQKFC-JA`
   * `GEKFC-JF`
   * `GUKFC-JZ`: SDVX generator real model
-* `KK9`: 麻雀格闘倶楽部 ultimate version / MAHJONG FIGHT CLUB
+* `KK9`: 麻雀格闘倶楽部 ultimate version, 麻雀格闘倶楽部 NEXT, 麻雀格闘倶楽部 頂の陣, 麻雀格闘倶楽部 彩の華, 麻雀格闘倶楽部 ZERO, 麻雀格闘倶楽部 豪華絢爛, 麻雀格闘倶楽部 GRAND MASTER, 麻雀格闘倶楽部 疾風
   * `GEKK9-JB`
 * `KLP`: ラブプラス アーケード カラフル Clip
 * `KPM`: ラブプラス MEDAL Happy Daily Life
@@ -408,7 +408,7 @@ chronologic order, e.g. regarding release dates.
   * `GQL44-JB`
 * `LA9`: PASELIチャージ機 / PASELI Charging Machine
   * `GQLA9-JA`
-* `LBR`: REFLEC BEAT limelight
+* `LBR`: REFLEC BEAT limelight, REFLEC BEAT colette (until 2013042200)
   * `GCLBR-JA`
 * [`LDJ`: beatmania IIDX 20 tricoro, beatmania IIDX 21 SPADA, beatmania IIDX 22 PENDUAL, beatmania IIDX 23 copula, beatmania IIDX 24 SINOBUZ, beatmania IIDX 25 CANNON BALLERS, beatmania IIDX 26 Rootage, beatmania IIDX 27 HEROIC VERSE, beatmania IIDX 28 BISTROVER](software/LDJ.md)
   * `GCLDJ-JU`: Rootage offline kit
@@ -426,9 +426,10 @@ chronologic order, e.g. regarding release dates.
   * `GULDJ-JI`: PENDUAL LCD monitor #W:http://kururusky.com/?p=1458
   * [`GULDJ-JJ`: copula LCD monitor](product/GULDJ-JJ.md) #W:http://kururusky.com/?p=1458
   * [`GULDJ-JN`: VGA to HDMI converter](product/GULDJ-JN.md) #M:KONAMI:116818010000
-* `LMA`: Quiz Magic Academy 9
+* `LMA`: Quiz Magic Academy 賢者の扉, Quiz Magic Academy 天の学舎, Quiz Magic Academy 暁の鐘,  Quiz Magic Academy Tokyo Grimoire, Quiz Magic Academy The World Evolve, Quiz Magic Academy MAXIVCORD, Quiz Magic Academy 軌跡の交叉-Xross Voyage-, Quiz Magic Academy 輝望の刻, Quiz Magic Academy 夢幻の鏡界
   * `GELMA-JA`
   * `GELMA-JB`
+* `LMM`: モンスター烈伝 オレカバトル / Monster Retsuden Oreca Battle
 * `M27`: Baseball Heroes 2012
   * `GCM27-JB`
 * `M32`: GITADORA (Guitar), GITADORA OverDrive, GITADORA Tri-Boost, GITADORA Tri-Boost Re:EVOLVE, GITADORA Matixx, GITADORA EXCHAIN, GITADORA NEX+AGE, GITADORA HIGH-VOLTAGE
@@ -437,9 +438,9 @@ chronologic order, e.g. regarding release dates.
   * `GQM32-JB`: Drums
 * `M33`: GITADORA (Drums)
   * `GCM33`
-* `M39`: pop'n music 21
+* `M39`: pop'n music Sunny Park, pop'n music ラピストリア, pop'n music éclale, pop'n music うさぎと猫と少年の夢, pop'n music peace, pop'n music 解明リドルズ
   * `GCM39-JA`
-* `MBR`: REFLEC BEAT colette, REFLEC BEAT groovin'!!, REFLEC BEAT VOLZZA, REFLEC BEAT VOLZZA 2, REFLEC BEAT 悠久のリフレシア
+* `MBR`: REFLEC BEAT colette (from 2013051300), REFLEC BEAT groovin'!!, REFLEC BEAT VOLZZA, REFLEC BEAT VOLZZA 2, REFLEC BEAT 悠久のリフレシア
   * `GEMBR-JA`
 * `MDX`: DanceDanceRevolution [2013], DanceDanceRevolution [2014], DanceDanceRevolution A, DanceDanceRevolution A20, DanceDanceRevolution A20 PLUS
   * `GQMDX-UD`
@@ -452,12 +453,16 @@ chronologic order, e.g. regarding release dates.
 * `NBT`: ビートストリーム / BeatStream
   * `GQNBT-JA`
 * `NCG`: オトカ ドール
+* `NCK`: Winning Eleven
+* `NDD`: Silent Scope Bone Eater
+* `NSC`: Scotto
 * `O26`: ツムツム
   * `GUO26-JA`
   * `GOO26-AB`: Figurine dispenser main unit
   * `GOO26-UA`: Client main unit
 * `OSP`: シャドウプリンセス / Shadow Princess
   * `GSOSP-JA`
+* `OVO`: Monster Strike
 * `P2D`: beatmania IIDX INFINITAS [home version]
 * `PAN`: ノスタルジア / NOSTALGIA, スタルジア FORTE / NOSTALGIA FORTE, スタルジア Op.2 / NOSTALGIA Op.2, スタルジア Op.3 / NOSTALGIA Op.3
   * `GEPAN-JA`
@@ -471,6 +476,8 @@ chronologic order, e.g. regarding release dates.
   * `GUQPP-AB`: For SDVX generator (?)
   * `GULMM-JA`
   * `GUQPP-JB`
+* `R66`: Bishi Bashi Channel
+* `RBC`: Baseball Collection
 * `REC`: DANCERUSH STARDOM
   * `GQREC-JA`: Additional paseli fee added for plays depending on the model (?): 40 - 120%
   * `GQREC-JB`: Additional paseli fee added for plays depending on the model (?): 60 - 120%
@@ -487,6 +494,7 @@ chronologic order, e.g. regarding release dates.
 * `UAN`: ノスタルジア / NOSTALGIA [e-AMUSEMENT CLOUD/home version]
 * `UFC`: SOUND VOLTEX VALKYRIE MODEL
   * `GQUFC-JA`
+* `UKS`: QuizKnock Stadium
 * `VGP`: DanceDanceRevolution 第2回オープンアルファテスト [e-AMUSEMENT CLOUD/home version]
 
 ## Misc, unsorted
