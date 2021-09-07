@@ -1,4 +1,4 @@
-# `GELDJ-JO`: Beatmania IIDX CANNON BALLERS hardware conversion kit
+# `GELDJ-JO`: Beatmania IIDX CANNON BALLERS hardware conversion kit (for pre-LDJ cabinets)
 
 * Compatible with 
   * [`GQ863-JA`](GQ863-JA.md)

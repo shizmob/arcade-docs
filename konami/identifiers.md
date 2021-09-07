@@ -33,7 +33,7 @@ The following variables are used across the different identifiers and can denote
   * `O`: New dedicated cabinet?
   * `S`: Medal cabinet (station?)
   * `Q`: New dedicated cabinet?
-  * `U`: Upgrade or utility? e.g. DVD software update kit, replacement monitors
+  * `U`: Upgrade or utility? Hardware only
   * `X`: Hardware/board?
   * `Z`: ???
 * `$g`: Gamecode, identifies a game or series in [Konami's product portfolio](products.md)
