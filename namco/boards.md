@@ -191,7 +191,7 @@ Playstation 3 debugkit-based with special arcade firmware (GEX/GECR).
     10J - Gundam Extreme Vs. Full Boost (GEF)
           Gundam Extreme Vs. Maxi Boost (GEM)
           Gundam Extreme Vs. Maxi Boost ON (GXO)
-          Dragon Ball Zenkai Battle Royal (DZB) - https://page.auctions.yahoo.co.jp/jp/auction/t785913926
+          Dragon Ball Zenkai Battle Royal (DZB, 2672) - https://page.auctions.yahoo.co.jp/jp/auction/t785913926
     11E - Taiko no Tatsujin (S01)
           Taiko no Tatsujin KATSU-DON (S02)
           Taiko no Tatsujin Sorairo (S03)
