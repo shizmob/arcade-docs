@@ -130,14 +130,12 @@ PC, x86-based. Variants: ES1, ES1(A2).
        - Nirin (NRN, https://www.bandainamco-am.co.uk/files/41)
          Tank! Tank! Tank! (TTT, https://www.bandainamco-am.com/images/content/Tank%20Tank%20Tank%20Manual.pdf)
          Sailor Zombie AKB48(??)
-         Dead Heat Riders/Street Racing (DHR, https://www.bandainamco-am.co.uk/files/25)
          Dead Heat/Maximum Heat (DDH, https://www.bandainamco-am.co.uk/files/27, http://collectedit.com/collectors/shou-time-213/arcade-pcbs-281/dead-heat-us-by-namco-12558)
-         Midnight Tune 4 (WM4, http://collectedit.com/collectors/shou-time-213/arcade-pcbs-281/wangan-midnight-maximum-tune-4-japan-by-namco-20214 / https://www.arcade-projects.com/attachments/es1-jpg.2770/)
-         Midnight Tune 5 (US)
+         Midnight Tune 4 (US, WM4)/5 (US, WM5)
     A2 - Gundam: Bonds of the Battlefield 3.0 (GKE?) (GSK? http://collectedit.com/collectors/shou-time-213/arcade-pcbs-281/mobile-suit-gundam-bonds-of-the-battlefield-japan-by-namco-19629)
          Gundam: Bonds of the Battlefield 4.0 (GK4) (GKE?) (GKN? https://page.auctions.yahoo.co.jp/jp/auction/g495616988)
-         Midnight Tune 4/5/5DX/5DX+ (Asia, WM4, https://www.facebook.com/weedxy2gab/photos/pcb.665771777362930/665771667362941/?type=3&theater)
-         Maximum Heat 3D
+         Midnight Tune 4 (Japan/Asia, WM4, https://www.arcade-projects.com/threads/namco-es1-wmmt4.2270/)/5 (Asia, WM5)/5DX (Asia, W5X)/5DX+ (Asia, W5P) https://www.facebook.com/weedxy2gab/photos/pcb.665771777362930/665771667362941/?type=3&theater
+         Maximum Heat 3D (MMH)
 ```
 
 ## System ES2
@@ -200,14 +198,16 @@ ES3(X):
 **IO:** extra serial (expansion slot, to motherboard)  
 
 ```
-     A - Pokken Tournament
+     A - Pokken Tournament (PKF)
        - Mario Kart GP DX (MK3, https://www.bandainamco-am.co.uk/files/37)
+       - Dead Heat Riders/Street Racing (DHR, https://www.bandainamco-am.co.uk/files/25)
      B - Midnight Tune 5(WM5)/5DX(W5X)/5DX+(W5P)/6/6R (JP)
+         Pokken Tournament (PKF)
      X - Tekken 7 (TE7)/FR(TER)/FR2(TR2)
        - Time Crisis 5 (TC5, https://www.bandainamco-am.co.uk/files/93)
        - Star Wars Battle Pod (DSW)
      ? - Synchronica
-       - Lost Land Adventures
+       - Lost Land Adventures (LLA)
        - Mach Storm
 ```
 
@@ -254,8 +254,8 @@ BNA1(LITE): BNA1LT-00-64G-2016W
          Gundam: Extreme Vs. 2 (GX2, https://page.auctions.yahoo.co.jp/jp/auction/f501215923)
          JoJo: Last Survivor
          Sword Art Online Arcade
-         Midnight Tune 6 (export)
-  LITE - Taiko no Tatsujin: Rainbow
+         Midnight Tune 6 (WM6, export)
+  LITE - Taiko no Tatsujin: Rainbow (S12)
      ? - Poker Stadium
 ```
 
