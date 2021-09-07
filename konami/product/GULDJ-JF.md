@@ -1,2 +1,1 @@
-# `GULDJ-JF`: Beatmania IIDX SPADA software update DVD kit?
-
+# `GULDJ-JF`: Beatmania IIDX SPADA art kit
