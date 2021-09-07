@@ -43,7 +43,7 @@ V376 -
 V386 - Wangan Midnight Maximum Tune 3DX+
 V388 - Wangan Midnight Maximum Tune 4
 V389 - Dead Heat
-V402 - 
+V402 - Taiko no Tatsujin (2020)
 V403 - 機動戦士ガンダム 戦場の絆 REV.4.x
 V405 - Maximum Heat
 V406 - Time Crisis 5?
@@ -58,9 +58,7 @@ V418 -
 ??? - Dark Escape 4D
 ??? - Gator Panic R
 ??? - Great Animal Kaiser
-??? - Gundam: Bonds of the Battlefield
 ??? - Gundam: Bonds of the Battlefield REV.2.x
-??? - Gundam: Bonds of the Battlefield REV.3.x
 ??? - JoJo: Last Survivor
 ??? - Pico Pico Anpanman Go
 ??? - Pokemon Mega Get
@@ -73,7 +71,6 @@ V418 -
 ??? - Sea Story in Okinawa: Ukiuki vacation
 ??? - SHOOT AWAY PRO
 ??? - Sword Art Online Arcade
-??? - Synchronica
 ??? - Yujo Sochaku! Butt Burst
 
 5GP - 500 GP
@@ -156,6 +153,7 @@ GEM - Gundam Extreme Vs. Maxi Boost (GEM)
 GID - GAHAHA Ippatsu-dou
 GIS - GAHAHA Ippatsu-dou 2
 GK4 - Gundam: Bonds of the Battlefield REV.4.x
+GKE - Gundam: Bonds of the Battlefield
 GL  - Golly Ghost
 GLG - Golgo 13
 GLS - Golgo 13 Kiseki no Dandou
@@ -168,6 +166,7 @@ GNX - Gundam vs. Gundam NEXT
 GS  - Great Sluggers
 GSE/GS4 - Great Sluggers '94
 GSD - Mobile Suit Gundam SEED Destiny O.M.N.I. vs Z.A.F.T. II
+GSK - Gundam: Bonds of the Battlefield REV.3.x
 GT  - Genpei Toumaden
 GVS - Mobile Suit Gundam: Gundam vs Gundam
 GX2 - Gundam Extreme Vs. 2
@@ -293,6 +292,7 @@ STP - Star Sweep
 STT - Star Trigon
 SV  - Solvalou
 SWS - Super World Stadium
+SYN - Synchronica
 T10 - Taiko no Tatsujin 10
 T11 - Taiko no Tatsujin 11
 T12 - Taiko no Tatsujin 12
