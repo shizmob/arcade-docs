@@ -257,7 +257,7 @@ PC, x86-based. Variants: ES1, ES1(A2).
 **MBD:** Supermicro C2SBM-Q (ES1(A2): "FB16M-LS-C2D30-2G1")  
 **CPU:** Intel Core 2 Duo E8400  
 **RAM:** \[ES1\] 2x ??? (DDR2, PC2-6400, 512MB)  
-**RAM:** \[ES1(A2)\] 1x SanMax SMD-2G88HP-8E (DDR2 DIMM, PC2-6400U-555, 2GB)
+**RAM:** \[ES1(A2)\] 1x SanMax SMD-2G88HP-8E (DDR2 DIMM, PC2-6400U-555, 2GB)  
 **GPU:** \[ES1(A2)\] Nvidia GeForce 9600 GT (PCIe, 512MB, BIOS Version: 62.94.61.00.08)  
 **HDD:** Seagate ST3160318AS (SATA, 160GB, 7200RPM) / Hitachi HDS721016CLA382 (SATA, 160GB, 7200RPM)  
 **IO:** [Namco H039 ESIF PCB](io.md#h039-esif) (1x internal 4pin connector with cable to "JV IO (JAMMA)", to motherboard COM3 and JF1)  
@@ -290,7 +290,7 @@ ES2(A):
 
 ES2P(A):  
 **MBD:** Advantech GMB-"Ontario" V1.1  
-**APU:** AMD G-T56N 
+**APU:** AMD G-T56N  
 **RAM:** 1x SanMax Technologies SMD-N2G68H1P-13H (SODIMM, PC3-10600S, 2GB)  
 **HDD:** HGST HTS545025A7E380 (SATA 2.5", 250GB, 5400RPM)  
 **IO:** [Namco H058 TSIFPLUS PCB](io.md#h058-tsifplus) (to motherboard COM4, COM3 and CN17)  
@@ -315,7 +315,7 @@ ES3(A):
 **SSD:** Kingston SSDNow V200 SV200S37A/64G (SATA 2.5", 64GB)  
 **IO:** [Namco ESIF2 PCB](io.md#esif2) (above motherboard shield)  
 **IO:** "JV IO (JAMMA)" (expansion slot, 1x JVS USB, 1x internal connector with cable to ESIF2)  
-**IO:** "SERIAL 3 (CARD IF)" (expansion slot, to motherboard)  
+**IO:** "SERIAL 3 (CARD IF)" (expansion slot, to motherboard, pinout up-down: COM-GND COM-CTS COM-RTS COM-TXD COM-RXD GND 12V?, hooks up to [Namco H055 CARD-IF](io.md#h055-card-if))   
 
 ES3(B):  
 **MBD:** ???  
@@ -324,7 +324,7 @@ ES3(B):
 **GPU:** Nvidia GeForce GTX650 Ti  
 **IO:** [Namco ESIF2 PCB](io.md#esif2) (above motherboard shield)  
 **IO:** "JV IO (JAMMA)" (expansion slot, 1x JVS USB, 1x internal connector with cable to ESIF2)  
-**IO:** "SERIAL 3 (CARD IF)" (expansion slot, to motherboard)  
+**IO:** "SERIAL 3 (CARD IF)" (expansion slot, to motherboard, pinout up-down: COM-GND COM-CTS COM-RTS COM-TXD COM-RXD GND 12V?, hooks up to [Namco H055 CARD-IF](io.md#h055-card-if))    
 
 ES3(X):  
 **MBD:** ???  
@@ -334,7 +334,7 @@ ES3(X):
 **HDD:** HGST HTS545025A7E680 (SATA, 250GB, 5400RPM)  
 **IO:** [Namco ESIF2 PCB](io.md#esif2) (above motherboard shield)  
 **IO:** "JV IO (JAMMA)" (expansion slot, 1x JVS USB, 1x internal connector with cable to ESIF2)  
-**IO:** "SERIAL 3 (CARD IF)" (expansion slot, to motherboard)  
+**IO:** "SERIAL 3 (CARD IF)" (expansion slot, to motherboard, pinout up-down: COM-GND COM-CTS COM-RTS COM-TXD COM-RXD GND 12V?, hooks up to [Namco H055 CARD-IF](io.md#h055-card-if))  
 
 ```
      A - Pokken Tournament (PKF)

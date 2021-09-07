@@ -48,13 +48,14 @@ Banapass card reader. Connects to the motherboard via a custom serial port conne
 * Label: H055 CARD-IF PCB
 * Copyright: 2010 NAMCO BANDAI Games Inc.
 * Chips:
-  - RENESAS F3062F25V (QFP100 Micro-controller)
-  - Toshiba TD62083AFG (8ch Darlington Sink Driver for the LEDs)
+  - Hitachi HD64F3062BF25V (QFP100, H8 MCU)
+  - Toshiba TD62083AFG (SOIC16, 8ch Darlington Sink Driver for the LEDs)
   - Sony RC-S620/S (NFC Reader Module via UART)
+  - Sipex SP3222EUCY (SSOP16, RS-232 transceiver)
   - Murata Piezo Buzzer
 * Connectors:
   - (external) 1x 3pin (CN2)
-  - (external) 1x 9pin (CN1, SERIAL + POWER, only 7 pins are actually connected on the header)
+  - (external) 1x 9pin (CN1, SERIAL + POWER, guessed pinout left-right: 12V GND COM-RXD COM-TXD COM-RTS COM-CTS COM-GND) 
 
 ## H058 TSIF
 
