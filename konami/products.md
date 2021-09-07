@@ -281,6 +281,7 @@ chronologic order, e.g. regarding release dates.
   * `GEF32`
 * `F33`: GuitarFreaks V3
   * `GEF33`
+* `F55`: GI-VICTORY ROAD  `#SCRAPE:KONAMI:eagate`
 * `F96`: クルクルラボ
 * [`FDD`: beatmania IIDX 13 DistorteD](software/FDD.md)
   * [`GQFDD-JA`: Dedicated cabinet](product/GQFDD-JA.md)
@@ -320,13 +321,15 @@ chronologic order, e.g. regarding release dates.
 * `HAL`: Quiz Magic Academy 5
 * [`HDD`: beatmania IIDX 15 DJ TROOPERS](software/HDD.md)
   * [`GQHDD-JA`: Dedicated cabinet](product/GQHDD-JA.md)
-  * [`GUHDD-JB`: LCD monitor](product/GUHDD-JB.md) #W:http://kururusky.com/?p=1458
+  * [`GUHDD-JB`: LCD monitor](product/GUHDD-JB.md)  `#WEB:http://kururusky.com/?p=1458`
+* `HCK`: ウイニングイレブン2008
+* `HCV`: 悪魔城ドラキュラ THE ARCADE
 * `HDX`: DanceDanceRevolution X
   * `GKHDX`
 * `HK9`: 麻雀格闘倶楽部7
 * [`I00`: beatmania IIDX 16 EMPRESS](software/I00.md)
   * [`GQI00-JA`: Dedicated cabinet](product/GQI00-JA.md)
-  * `GUI00`: EMPRESS LCD monitor #W:http://kururusky.com/?p=1458
+  * `GUI00`: EMPRESS LCD monitor  `#WEB:http://kururusky.com/?p=1458`
 * `I16`: pop'n music 17
   * `GCI16-JA`
 * `I23`: ホースライダーズ2 / HORSERIDERS 2
@@ -360,7 +363,7 @@ chronologic order, e.g. regarding release dates.
 * [`JDZ`: beatmania IIDX 18 Resort Anthem](software/JDZ.md)
   * [`GQJDZ-JA`: Dedicated cabinet](product/GQJDZ-JA.md)
   * `GCJDZ-JA`
-  * `GUJDZ-JB`: Resort Anthem LCD monitor #W:http://kururusky.com/?p=1458
+  * `GUJDZ-JB`: Resort Anthem LCD monitor  `#WEB:http://kururusky.com/?p=1458`
 * `JMA`: Quiz Magic Academy 7
   * `GEJMA-JB`
 * `JMP`: HELLO! POP'N MUSIC / ヘロー！！ポップンミュージック
@@ -382,9 +385,6 @@ chronologic order, e.g. regarding release dates.
 * `KCK`: ウイニングイレブン
   * `GCKCK-JA`
 * `KDM`: DanceEvolution ARCADE
-* `KGG`: Steel Chronicle
-  * `GQKGG-JA`
-* `KMA`: Quiz Magic Academy 8
 * `KDX`: DanceDanceRevolution X3 VS 2ndMIX
   * `GEKDX-JA`
 * [`KDZ`: beatmania IIDX 19 Lincle](software/KDZ.md)
@@ -393,10 +393,15 @@ chronologic order, e.g. regarding release dates.
   * `GQKFC-JA`
   * `GEKFC-JF`
   * `GUKFC-JZ`: SDVX generator real model
+* `KGG`: Steel Chronicle, Steel Chronicle VICTROOPERS
+  * `GQKGG-JA`
+* `KGL`: GOLF CONNECTION  `#SCRAPE:KONAMI:eagate`
+* `KMA`: Quiz Magic Academy 8  `#SCRAPE:KONAMI:eagate`
 * `KK9`: 麻雀格闘倶楽部 ultimate version, 麻雀格闘倶楽部 NEXT, 麻雀格闘倶楽部 頂の陣, 麻雀格闘倶楽部 彩の華, 麻雀格闘倶楽部 ZERO, 麻雀格闘倶楽部 豪華絢爛, 麻雀格闘倶楽部 GRAND MASTER, 麻雀格闘倶楽部 疾風
   * `GEKK9-JB`
 * `KLP`: ラブプラス アーケード カラフル Clip
 * `KPM`: ラブプラス MEDAL Happy Daily Life
+* `KPP`: ミリオネット モニター  `#SCRAPE:KONAMI:eagate`
 * `L27`: Baseball Heroes 2011
 * `L32`: DrumManiaXG3
   * `GCL32`
@@ -406,30 +411,32 @@ chronologic order, e.g. regarding release dates.
   * `GCL39-JA`
 * `L44`: jubeat saucer, jubeat saucer fulfill, jubeat prop, jubeat Qubell, jubeat clan, jubeat festo
   * `GQL44-JB`
+* `L57`: GI-GranDesire  `#SCRAPE:KONAMI:eagate`
 * `LA9`: PASELIチャージ機 / PASELI Charging Machine
   * `GQLA9-JA`
 * `LBR`: REFLEC BEAT limelight, REFLEC BEAT colette (until 2013042200)
   * `GCLBR-JA`
 * [`LDJ`: beatmania IIDX 20 tricoro, beatmania IIDX 21 SPADA, beatmania IIDX 22 PENDUAL, beatmania IIDX 23 copula, beatmania IIDX 24 SINOBUZ, beatmania IIDX 25 CANNON BALLERS, beatmania IIDX 26 Rootage, beatmania IIDX 27 HEROIC VERSE, beatmania IIDX 28 BISTROVER](software/LDJ.md)
   * `GCLDJ-JU`: Rootage offline kit
-  * `GELDJ-JB`: tricoro update kit #W:http://aucview.aucfan.com/yahoo/c743060247
+  * `GELDJ-JB`: tricoro update kit  `#WEB:http://aucview.aucfan.com/yahoo/c743060247`
   * [`GELDJ-JM`: CANNON BALLERS hardware conversion kit (for LDJ cabinets)](product/GELDJ-JM.md)
   * [`GELDJ-JO`: CANNON BALLERS hardware conversion kit (for pre-LDJ cabinets)](product/GELDJ-JO.md)
   * [`GQLDJ-JA`: tricoro dedicated cabinet](product/GQLDJ-JA.md)
   * [`GQLDJ-JB`: PENDUAL cabinet](product/GQLDJ-JB.md)
   * [`GQLDJ-JC`: COPULA cabinet](product/GQLDJ-JC.md)
-  * [`GULDJ-JC`: tricoro LCD monitor](product/GULDJ-JC.md) #W:http://kururusky.com/?p=1458
-  * `GULDJ-JE`: tricoro upgrade related? #W:http://aucview.aucfan.com/yahoo/c743060247
+  * [`GULDJ-JC`: tricoro LCD monitor](product/GULDJ-JC.md)  `#WEB:http://kururusky.com/?p=1458`
+  * `GULDJ-JE`: tricoro upgrade related?  `#WEB:http://aucview.aucfan.com/yahoo/c743060247`
   * [`GULDJ-JF`: SPADA software update DVD kit?](product/GULDJ-JF.md)
-  * `GULDJ-JG`: SPADA LCD monitor #W:http://kururusky.com/?p=1458
+  * `GULDJ-JG`: SPADA LCD monitor  `#WEB:http://kururusky.com/?p=1458`
   * [`GULDJ-JH`: PENDUAL software update DVD kit?](product/GULDJ-JH.md)
-  * `GULDJ-JI`: PENDUAL LCD monitor #W:http://kururusky.com/?p=1458
-  * [`GULDJ-JJ`: copula LCD monitor](product/GULDJ-JJ.md) #W:http://kururusky.com/?p=1458
-  * [`GULDJ-JN`: VGA to HDMI converter](product/GULDJ-JN.md) #M:KONAMI:116818010000
+  * `GULDJ-JI`: PENDUAL LCD monitor  `#WEB:http://kururusky.com/?p=1458`
+  * [`GULDJ-JJ`: copula LCD monitor](product/GULDJ-JJ.md)  `#WEB:http://kururusky.com/?p=1458`
+  * [`GULDJ-JN`: VGA to HDMI converter](product/GULDJ-JN.md)  `#DOC:KONAMI:116818010000`
 * `LMA`: Quiz Magic Academy 賢者の扉, Quiz Magic Academy 天の学舎, Quiz Magic Academy 暁の鐘,  Quiz Magic Academy Tokyo Grimoire, Quiz Magic Academy The World Evolve, Quiz Magic Academy MAXIVCORD, Quiz Magic Academy 軌跡の交叉-Xross Voyage-, Quiz Magic Academy 輝望の刻, Quiz Magic Academy 夢幻の鏡界
   * `GELMA-JA`
   * `GELMA-JB`
 * `LMM`: モンスター烈伝 オレカバトル / Monster Retsuden Oreca Battle
+* `LPH`: Venus Fountain  `#SCRAPE:KONAMI:eagate`
 * `M27`: Baseball Heroes 2012
   * `GCM27-JB`
 * `M32`: GITADORA (Guitar), GITADORA OverDrive, GITADORA Tri-Boost, GITADORA Tri-Boost Re:EVOLVE, GITADORA Matixx, GITADORA EXCHAIN, GITADORA NEX+AGE, GITADORA HIGH-VOLTAGE
@@ -449,53 +456,79 @@ chronologic order, e.g. regarding release dates.
   * `GKMDX-UD`
   * `GKMDX-AE`
 * `MMD`: ミライダガッキ / FutureTomTom, ミライダガッキ Ver.2 / FutureTomTom Ver.2
+* `MX8`: フォーチュントリニティ2  `#SCRAPE:KONAMI:eagate`
 * `NBF`: アルティメットストライカー / Ultimate Strikers
 * `NBT`: ビートストリーム / BeatStream
   * `GQNBT-JA`
 * `NCG`: オトカ ドール
-* `NCK`: Winning Eleven
+* `NDD`: SILENT SCOPE BONE-EATER
+* `NCK`: Winning Eleven ARCADE CHAMPIONSHIP 2014
 * `NDD`: Silent Scope Bone Eater
+* `NPU`: DreamSphere GRANDCROSS  `#SCRAPE:KONAMI:eagate`
 * `NSC`: Scotto
-* `O26`: ツムツム
+* `O26`: ディズニー ツムツム
   * `GUO26-JA`
   * `GOO26-AB`: Figurine dispenser main unit
   * `GOO26-UA`: Client main unit
-* `OSP`: シャドウプリンセス / Shadow Princess
+* `OSP`: シャドウプリンセス / ShadowPrincess
   * `GSOSP-JA`
 * `OVO`: Monster Strike
 * `P2D`: beatmania IIDX INFINITAS [home version]
+* `P65`: エルドラクラウン  `#SCRAPE:KONAMI:eagate`
 * `PAN`: ノスタルジア / NOSTALGIA, スタルジア FORTE / NOSTALGIA FORTE, スタルジア Op.2 / NOSTALGIA Op.2, スタルジア Op.3 / NOSTALGIA Op.3
   * `GEPAN-JA`
-* `PTL`: ツナガロッタ
-  * `GSPTL-JB`
 * `PIX`: MÚSECA
   * `GQPIX-JA`
+* `PMF`: マジカルシューター  `#SCRAPE:KONAMI:eagate`
+* `PS1`: FEATURE Premium  `#SCRAPE:KONAMI:eagate`
+* `PS2`: FEATURE PREMIUM 3・4弾  `#SCRAPE:KONAMI:eagate`
+* `PTA`: カラコロッタ2 ワンダフルオーシャン  `#SCRAPE:KONAMI:eagate`
+* `PTL`: ツナガロッタ  `#SCRAPE:KONAMI:eagate`
+  * `GSPTL-JB`
+* `PWT`: トレジャーシュート  `#SCRAPE:KONAMI:eagate`
+* `PX8`: フォーチュントリニティ3 三神獣の秘宝  `#SCRAPE:KONAMI:eagate`
+* `Q70`: アニマロッタ おとぎの国のアニマ  `#SCRAPE:KONAMI:eagate`
 * `QBG`: ボンバーガール / BOMBERGIRL, ボンバーガール / BOMBERGIRL [e-AMUSEMENT CLOUD/home version]
-* `QCV`: SOUND VOLTEX III (e-AMUSEMENT CLOUD) [e-AMUSEMENT CLOUD/home version]
+* `QCV`: SOUND VOLTEX III(コナステ) / SOUND VOLTEX III (e-AMUSEMENT CLOUD) [e-AMUSEMENT CLOUD/home version]
 * `QPP`: Printer paper and ink
   * `GUQPP-AB`: For SDVX generator (?)
   * `GULMM-JA`
   * `GUQPP-JB`
-* `R66`: Bishi Bashi Channel
+* `QS3`: EATURE Premium 5・6弾
+* `QVO`: FEATURE Premium MB
+* `R58`: GI-WorldClassic
+* `R66`: ビシバシチャンネル / Bishi Bashi Channel
 * `RBC`: Baseball Collection
 * `REC`: DANCERUSH STARDOM
   * `GQREC-JA`: Additional paseli fee added for plays depending on the model (?): 40 - 120%
   * `GQREC-JB`: Additional paseli fee added for plays depending on the model (?): 60 - 120%
   * `GQREC-JC`: Additional paseli fee added for plays depending on the model (?): 40 - 120%, different to JA, trial?
   * `GKREC-CA`
-* `S36`: 極寒ヒエヒエペン太
+* `RPU`: マーブルフィーバー  `#SCRAPE:KONAMI:eagate`
+* `RSB`: ボンバーマン・ザ・メダル  `#SCRAPE:KONAMI:eagate`
+* `RTA`: カラコロッタ 太陽とひみつの島  `#SCRAPE:KONAMI:eagate`
+* `RTL`: ツナガロッタ アニマと虹色の秘境  `#SCRAPE:KONAMI:eagate`
+* `S36`: 極寒ヒエヒエペン太  `#SCRAPE:KONAMI:eagate`
+* `S65`: エルドラクラウン 紅蓮の覇者  `#SCRAPE:KONAMI:eagate`
+* `SPU`: GRANDCROSS LEGEND  `#SCRAPE:KONAMI:eagate`
+* `SS4`: FEATURE Premium 7・8弾  `#SCRAPE:KONAMI:eagate`
 * `TBS`: 武装神姫　アーマードプリンセス　バトルコンダクター
-* `TCS`: CARD CONNECT / カードコネクト
+* `TCS`: カードコネクト / CARD CONNECT
 * `TDJ`: beatmania IIDX 27 HEROIC VERSE \[Lightning cabinet\]
   * [`GQTDJ-JA`: Dedicated cabinet](product/GQTDJ-JA.md)
   * `GQTDJ-UA`
+* `TSS`: スマッシュスタジアム  `#SCRAPE:KONAMI:eagate`
+* `TTA`: カラコロッタ めざせ！夢の宝島  `#SCRAPE:KONAMI:eagate`
+* `TVS`: DUEL DREAM  `#SCRAPE:KONAMI:eagate`
 * `U32`: GITADORA [e-AMUSEMENT CLOUD/home version]
 * `U39`: pop'n music Lively [e-AMUSEMENT CLOUD/home version]
-* `UAN`: ノスタルジア / NOSTALGIA [e-AMUSEMENT CLOUD/home version]
+* `U70`: アニマロッタ アニマと星の物語  `#SCRAPE:KONAMI:eagate`
+* `UAN`: コナステ ノスタルジア / NOSTALGIA [e-AMUSEMENT CLOUD/home version]  `#SCRAPE:KONAMI:eagate`
 * `UFC`: SOUND VOLTEX VALKYRIE MODEL
   * `GQUFC-JA`
-* `UKS`: QuizKnock Stadium
-* `VGP`: DanceDanceRevolution 第2回オープンアルファテスト [e-AMUSEMENT CLOUD/home version]
+* `UKS`: QuizKnock Stadium  `#SCRAPE:KONAMI:eagate`
+* `UX8`: FORTUNE TRINITY 精霊の至宝祭  `#SCRAPE:KONAMI:eagate`
+* `VGP`: DanceDanceRevolution(コナステ) [e-AMUSEMENT CLOUD/home version]  `#SCRAPE:KONAMI:eagate`
 
 ## Misc, unsorted
 
