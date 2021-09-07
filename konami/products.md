@@ -409,7 +409,7 @@ chronologic order, e.g. regarding release dates.
 * `LBR`: REFLEC BEAT limelight
   * `GCLBR-JA`
 * [`LDJ`: beatmania IIDX 20 tricoro, beatmania IIDX 21 SPADA, beatmania IIDX 22 PENDUAL, beatmania IIDX 23 copula, beatmania IIDX 24 SINOBUZ, beatmania IIDX 25 CANNON BALLERS, beatmania IIDX 26 Rootage, beatmania IIDX 27 HEROIC VERSE, beatmania IIDX 28 BISTROVER](software/LDJ.md)
-  * `GCLDJ-JU`: Offline LDJ dongle/license?
+  * `GCLDJ-JU`: Rootage offline kit
   * `GELDJ-JB`
   * [`GELDJ-JM`: CANNON BALLERS hardware conversion kit](product/GELDJ-JM.md)
   * [`GELDJ-JN`: CANNON BALLERS hardware conversion kit](product/GELDJ-JN.md)
@@ -459,6 +459,8 @@ chronologic order, e.g. regarding release dates.
 * `P2D`: beatmania IIDX INFINITAS [home version]
 * `PAN`: ノスタルジア / NOSTALGIA, スタルジア FORTE / NOSTALGIA FORTE, スタルジア Op.2 / NOSTALGIA Op.2, スタルジア Op.3 / NOSTALGIA Op.3
   * `GEPAN-JA`
+* `PTL`: ツナガロッタ
+  * `GSPTL-JB`
 * `PIX`: MÚSECA
   * `GQPIX-JA`
 * `QBG`: ボンバーガール / BOMBERGIRL, ボンバーガール / BOMBERGIRL [e-AMUSEMENT CLOUD/home version]
