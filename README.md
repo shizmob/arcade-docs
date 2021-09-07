@@ -58,3 +58,26 @@ Notable sources that are often incorrect and should not be solely relied upon:
 
 * [System16](https://www.system16.com/)
 * [Wikipedia](https://en.wikipedia.org) (yes, Japanese Wikipedia too!) and its million scrapers, clones and mirrors
+
+
+## License
+
+The contents herein, insofar they are original and copyrightable, are licensed under the following license:
+
+```
+            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+                    Version 2, December 2004
+
+ Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
+
+ Everyone is permitted to copy and distribute verbatim or modified
+ copies of this license document, and changing it is allowed as long
+ as the name is changed.
+
+            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+
+  0. You just DO WHAT THE FUCK YOU WANT TO.
+```
+
+By contributing, you agree that your contributions will be licensed under the WTFPL as well.
