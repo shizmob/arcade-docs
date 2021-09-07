@@ -440,13 +440,10 @@ chronologic order, e.g. regarding release dates.
 * `LBR`: REFLEC BEAT limelight, REFLEC BEAT colette (until 2013042200)
   * `GCLBR-JA`
 * [`LDJ`: beatmania IIDX 20 tricoro, beatmania IIDX 21 SPADA, beatmania IIDX 22 PENDUAL, beatmania IIDX 23 copula, beatmania IIDX 24 SINOBUZ, beatmania IIDX 25 CANNON BALLERS, beatmania IIDX 26 Rootage, beatmania IIDX 27 HEROIC VERSE, beatmania IIDX 28 BISTROVER](software/LDJ.md)
-  * `GCLDJ-JU`: Rootage offline kit
-  * `GELDJ-JB`: tricoro update kit  `#WEB:http://aucview.aucfan.com/yahoo/c743060247`
-  * [`GELDJ-JM`: CANNON BALLERS hardware conversion kit (for LDJ cabinets)](product/GELDJ-JM.md)
-  * [`GELDJ-JO`: CANNON BALLERS hardware conversion kit (for pre-LDJ cabinets)](product/GELDJ-JO.md)
   * [`GQLDJ-JA`: tricoro dedicated cabinet](product/GQLDJ-JA.md)
   * [`GQLDJ-JB`: PENDUAL cabinet](product/GQLDJ-JB.md)
   * [`GQLDJ-JC`: COPULA cabinet](product/GQLDJ-JC.md)
+  * `GELDJ-JB`: tricoro update kit  `#WEB:http://aucview.aucfan.com/yahoo/c743060247`
   * [`GULDJ-JC`: tricoro LCD monitor](product/GULDJ-JC.md)  `#WEB:http://kururusky.com/?p=1458`
   * `GULDJ-JE`: tricoro upgrade related?  `#WEB:http://aucview.aucfan.com/yahoo/c743060247`
   * [`GULDJ-JF`: SPADA software update DVD kit?](product/GULDJ-JF.md)
@@ -454,7 +451,12 @@ chronologic order, e.g. regarding release dates.
   * [`GULDJ-JH`: PENDUAL software update DVD kit?](product/GULDJ-JH.md)
   * `GULDJ-JI`: PENDUAL LCD monitor  `#WEB:http://kururusky.com/?p=1458`
   * [`GULDJ-JJ`: copula LCD monitor](product/GULDJ-JJ.md)  `#WEB:http://kururusky.com/?p=1458`
-  * [`GULDJ-JN`: VGA to HDMI converter](product/GULDJ-JN.md)  `#DOC:KONAMI:116818010000`
+  * [`GELDJ-JM`: CANNON BALLERS hardware conversion kit (for LDJ cabinets)](product/GELDJ-JM.md)
+  * [`GULDJ-JN`: CANNON BALLERS conversion kit VGA to HDMI converter](product/GULDJ-JN.md)  `#DOC:KONAMI:116818010000`
+  * [`GELDJ-JO`: CANNON BALLERS hardware conversion kit (for pre-LDJ cabinets)](product/GELDJ-JO.md)
+  * `GULDJ-*R`: Rootage art kit
+  * `GULDJ-JS`: Rootage art + turntable bypass kit
+  * `GCLDJ-JU`: Rootage offline kit
 * `LMA`: Quiz Magic Academy 賢者の扉, Quiz Magic Academy 天の学舎, Quiz Magic Academy 暁の鐘,  Quiz Magic Academy Tokyo Grimoire, Quiz Magic Academy The World Evolve, Quiz Magic Academy MAXIVCORD, Quiz Magic Academy 軌跡の交叉-Xross Voyage-, Quiz Magic Academy 輝望の刻, Quiz Magic Academy 夢幻の鏡界
   * `GELMA-JA`
   * `GELMA-JB`
