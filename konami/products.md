@@ -512,6 +512,7 @@ chronologic order, e.g. regarding release dates.
 * `S65`: エルドラクラウン 紅蓮の覇者  `#SCRAPE:KONAMI:eagate`
 * `SPU`: GRANDCROSS LEGEND  `#SCRAPE:KONAMI:eagate`
 * `SS4`: FEATURE Premium 7・8弾  `#SCRAPE:KONAMI:eagate`
+* `T44`: jubeat (新筐体) [unreleased]  `#WEB:https://game.mirai-media.net/jubeat-jaepo2020/`
 * `TBS`: 武装神姫　アーマードプリンセス　バトルコンダクター
 * `TCS`: カードコネクト / CARD CONNECT
 * `TDJ`: beatmania IIDX 27 HEROIC VERSE \[Lightning cabinet\]
