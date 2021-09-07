@@ -81,7 +81,7 @@ Missing: 303, 304, 305
 |---------|---------------------|--------|---------------|------------------------------------------------------------------------------|
 |  401?   | ???                 | ???    | ???           |                                                                              |
 |  402    | Core i5-2400 3.1GHz | 2GB x4 | N560 Ti-Hawk  |                                                                              |
-|  402[U] | Core i5-2400 3.1Ghz | 2GB x4 | N660GTX       | GPU upgrade sticker / GUNS 3-(STANDARD) / GUNS 3-(ADVANCE)                   |
+|  402[U] | Core i5-2400 3.1Ghz | 2GB x4 | N660GTX       | GPU upgrade sticker / GUNS 3-(STANDARD) / GUNS 3-(ADVANCE) / GUNS 3-(INSTALMENT) M9009093A |
 |  403    | Core i5-2400 3.1GHz | 2GB x2 | N560 Ti-Hawk? |                                                                              |
 |  403[U] | Core i5-2400 3.1GHz | 2GB x4 | N660GTX       | RAM + GPU upgrade sticker / GUNS 3-(ADVANCE)                                 |
 |  404    | Core i5-2400 3.1GHz | 2GB x4 | N660GTX       | GUNS 3-(STANDARD) / ULTRA STREET FIGHTER IV / LORD OF VERMILLION IV 20 PLAY  |       
@@ -101,7 +101,7 @@ Missing: 401
 
 |    ID | CPU      | RAM               | GPU         | Notes                                                   |
 |-------|----------|-------------------|-------------|---------------------------------------------------------|
-|  500A | i5-4590S | 4GB(DDR3-1600) x2 | GTX960-2GB  | STREET FIGHTER V / LOVELIVE! AC CENTER M9009121A / LOVELIVE! AC SATELLITE PPLAN M9009129A / LOVELIVE! AC NS CENTER / LOVELIVE! AC NS SATELLITE P PLAN MQ01ABF032 LOVELIVE! AC NS SATELLITE SPLAN / MGICIANS DEAD            |
+|  500A | i5-4590S | 4GB(DDR3-1600) x2 | GTX960-2GB  | STREET FIGHTER V TYPE ARCADE / LOVELIVE! AC CENTER M9009121A / LOVELIVE! AC SATELLITE PPLAN M9009129A / LOVELIVE! AC NS CENTER / LOVELIVE! AC NS SATELLITE P PLAN / LOVELIVE! AC NS SATELLITE SPLAN / MGICIANS DEAD            |
 |  502A | i7-4970S | 8GB(DDR3-1600) x2 | GTX1080-8GB | HOSHI NO TSUBA / DENSHA DE GO                           |
 
 Missing: 501
