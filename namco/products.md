@@ -4,47 +4,49 @@
 
 ### [V-codes](identifiers.md#v-code)
 
-* `V???`: Counter-Strike Neo
-* `V???`: 機動戦士ガンダム 戦場の絆
-* `V???`: 機動戦士ガンダム 戦場の絆 REV.2.x
-* `V???`: 機動戦士ガンダム 戦場の絆 REV.3.x
-* `V???`: Sailor Zombie AKB48
+```
+V??? - Counter-Strike Neo
+V??? - 機動戦士ガンダム 戦場の絆
+V??? - 機動戦士ガンダム 戦場の絆 REV.2.x
+V??? - 機動戦士ガンダム 戦場の絆 REV.3.x
+V??? - Sailor Zombie AKB48
 
-* `V147`: Point Blank?
-* `V151`: 
-* `V159`: Time Crisis
-* `V162`: Tokyo Wars?
-* `V168`:
-* `V173`: Alpine Racer 2
-* `V185`: Time Crisis 2
-* `V187`: Rapid River or Final Furlong
-* `V194`: Race On!
-* `V198`: 
-* `V208`: Crisis Zone rear-projection?
-* `V221`: Crisis Zone?
-* `V233`: Truck Kyosokyoku
-* `V239`: 
-* `V257`: Ridge Racer V
-* `V260`
-* `V290`: 
-* `V291`: Time Crisis 3
-* `V300`:
-* `V315`: Wangan Midnight Maximum Tune 2
-* `V320`:
-* `V329`: Time Crisis 4
-* `V337`: Wangan Midnight Maximum Tune 3
-* `V349`: 
-* `V351`: Nirin
-* `V352`: Tank!Tank!Tank!
-* `V363`: Wangan Midnight Maximum Tune 3
-* `V371`: 
-* `V376`: 
-* `V386`: Wangan Midnight Maximum Tune 3DX+
-* `V388`: Wangan Midnight Maximum Tune 4
-* `V389`: Dead Heat
-* `V403`: 機動戦士ガンダム 戦場の絆 REV.4.x
-* `V405`: Maximum Heat
-* `V406`: Time Crisis 5?
+V147 - Point Blank?
+V151 - 
+V159 - Time Crisis
+V162 - Tokyo Wars?
+V168 -
+V173 - Alpine Racer 2
+V185 - Time Crisis 2
+V187 - Rapid River or Final Furlong
+V194 - Race On!
+V198 - 
+V208 - Crisis Zone rear-projection?
+V221 - Crisis Zone?
+V233 - Truck Kyosokyoku
+V239 - 
+V257 - Ridge Racer V
+V260 - 
+V290 - 
+V291 - Time Crisis 3
+V300 -
+V315 - Wangan Midnight Maximum Tune 2
+V320 -
+V329 - Time Crisis 4
+V337 - Wangan Midnight Maximum Tune 3
+V349 - 
+V351 - Nirin
+V352 - Tank!Tank!Tank!
+V363 - Wangan Midnight Maximum Tune 3
+V371 - 
+V376 - 
+V386 - Wangan Midnight Maximum Tune 3DX+
+V388 - Wangan Midnight Maximum Tune 4
+V389 - Dead Heat
+V403 - 機動戦士ガンダム 戦場の絆 REV.4.x
+V405 - Maximum Heat
+V406 - Time Crisis 5?
+```
 
 ### [Gamecodes](identifiers.md#game-code)
 
