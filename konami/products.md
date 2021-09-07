@@ -423,7 +423,7 @@ chronologic order, e.g. regarding release dates.
   * `GEKDZ-JA`
 * `KFC`: SOUND VOLTEX BOOTH, SOUND VOLTEX II -infinite infection-, SOUND VOLTEX III GRAVITY WARS, SOUND VOLTEX IV HEAVENLY HAVEN, SOUND VOLTEX VIVID WAVE, SOUND VOLTEX EXCEED GEAR
   * `GQKFC-JA`
-  * `GEKFC-JF`
+  * `GEKFC-JF`: Vivid Wave upgrade kit
   * `GUKFC-JZ`: SDVX generator real model
   * `GCKFC-JF`: Vivid Wave offline kit
 * `KGG`: Steel Chronicle, Steel Chronicle VICTROOPERS
