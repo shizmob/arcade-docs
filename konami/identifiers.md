@@ -72,11 +72,18 @@ The following variables are used across the different identifiers and can denote
 * Format: `$p$t$g-$d$s`
 * Example: [GQLDJ-JA](product/GQLDJ-JA.md)
 
+### Serial number
+
+* Source: stickers on hardware
+* Format: `$g$t$d$s$n`
+  * `$n`: A six-digit number, e.g. `038902`
+* Example: `MBRQJA038902`, corresponds to [product identifier](#product-identifier) `*QMBR-JA`, number `038902`.
+
 ### Mcode, Contents Code
 
 * Source: License dongle certificate CN, game data
 * Format: `$g-$n`
-  * `$n`: An integer number, e.g. `001`
+  * `$n`: An three-digit number, e.g. `001`
 * Example: `PIX-001`
 
 ### Security code
