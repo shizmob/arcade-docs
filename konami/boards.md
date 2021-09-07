@@ -238,7 +238,7 @@ Ennocom embedded boards: https://www.ennoconn.com/producttype_en-us_0_21_1.html
   
 ### HM65
 
-Also known as: "ITHM65".
+Also known as: "ITHM65", "ITHM65_E4690".  `#DOC:KONAMI:116245360000`
 
 **MBD:** ADE-704A  
 **STH:** Intel HM65  
