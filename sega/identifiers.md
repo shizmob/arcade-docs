@@ -153,6 +153,9 @@ Known part categories (tree view):
  01: CARTON BOX / KIT / KNOB / L-LOCK BK / YURIA M4×12 BLACK K-UN / OUTLET AC F / CHAIN LATCH / CHAIN W FOOK / FAN GUARD / BUSH 1.2T 180MM
  05: CABLE (SCSI?)
  10: MEDIA (RETAIL)?
+   -0373-xx:    ST-V cartridge
+        -05:    FINAL ARCH
+        -20:    COLUMNS 97
    -0624-xxxx:  NAOMI GD-ROM
    -0630-xxxx:  NAOMI GD-ROM
    -0650-xxxx:  Triforce GD-ROM
