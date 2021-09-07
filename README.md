@@ -40,7 +40,7 @@ Types can be:
 
 Examples:
 * `#WEB:http://kururusky.com/?p=1458`, a website source
-* `#DOC:KONAMI:114946810000`, an official document source: the KONAMI beatmania IIDX 23 tricoro cabinet manua
+* `#DOC:KONAMI:114946810000`, an official document source: the KONAMI beatmania IIDX 23 tricoro cabinet manual
 
 In the meantime here are some major sources used:
 
