@@ -207,6 +207,7 @@ chronologic order, e.g. regarding release dates.
   * [`GEC02-JA`: Hardware conversion kit](product/GEC02-JA.md)
   * [`GEC02-JB`: Hardware conversion kit](product/GEC02-JB.md)
   * [`GEC02-JC`: Hardware conversion kit](product/GEC02-JC.md)
+  * `GUC02-JA`: エントリーカード (100枚入り)　/ entry card (100 pack)
 * `C07`: DrumMania 7thMIX
   * `GCC07`
   * `GEC07`: Power up version
@@ -254,6 +255,7 @@ chronologic order, e.g. regarding release dates.
   * [`GEE11-JB`: Hardware conversion kit](product/GEE11-JB.md)
   * `GCE11-JA`
   * `GCE11-JB`
+  * `GUE11-JA`: ビートマニア IIDX 11 エントリーカード / beatmania IIDX II entry card (100 pack)  `#DOC:KONAMI:0000363152`
 * `E12`: pop'n music 12
   * `GCE12-JA`
   * `GCE12-JC`
@@ -266,8 +268,8 @@ chronologic order, e.g. regarding release dates.
   * [`GQECO-JA`: Dedicated cabinet](product/GQECO-JA.md)
   * `GCECO-JA`
   * `GCECO-JB`
-  * [`GEECO-JA`: Hardware conversion kit](software/GEECO-JA.md)
-  * [`GEECO-JB`: Hardware conversion kit](software/GEECO-JB.md)
+  * [`GEECO-JA`: Hardware conversion kit](product/GEECO-JA.md)
+  * [`GEECO-JB`: Hardware conversion kit](product/GEECO-JB.md)
 * `EGG`: Quiz Magic Academy 2
 * `F02`: DrumMania V2
   * `GEF02`
@@ -287,8 +289,8 @@ chronologic order, e.g. regarding release dates.
   * [`GQFDD-JA`: Dedicated cabinet](product/GQFDD-JA.md)
   * `GCFDD-JA`
   * `GCFDD-JB`
-  * [`GEFDD-JA`: Hardware conversion kit](software/GEFDD-JA.md)
-  * [`GEFDD-JB`: Hardware conversion kit](software/GEFDD-JB.md)
+  * [`GEFDD-JA`: Hardware conversion kit](product/GEFDD-JA.md)
+  * [`GEFDD-JB`: Hardware conversion kit](product/GEFDD-JB.md)
 * `FDH`: DanceDanceRevolution SuperNOVA
   * `GKFDH`
   * `GQFDH`
@@ -544,17 +546,16 @@ List of misc/random stuff that could not be sorted properly so far, e.g. due to 
 * Native resolution: ???
 * Input: DVI
 
-### Toshiba rear projection
+### IIDX rear projection monitor
 
-* First gen/old IIDX rear projection monitor
-* Monitor manufacturer: Toshiba
-* Size: ???
+* Model: Toshiba 40Z1P  `#DOC:KONAMI:0000252536`
+* Size: 40"  `#WEB:https://mirais-station.hatenablog.com/entry/2020/01/23/180000`
 * Native resolution: 640x480
 * Input: VGA, S-Video
 
-### CRT IIDX
+### IIDX CRT monitor
 
-* Size: 37"
-* Monitor manufacturer: ???
+* Size: 36"  `#DOC:KONAMI:0000252536`
+* Model: Panasonic? TC-PXF363SOK  `#DOC:KONAMI:0000252536`
 * Native resolution: 640x480
 * Input: VGA
