@@ -175,6 +175,12 @@ External serial interface, revision 2. Looks identical to the [H039 ESIF](#h039-
 * Label: 汎用 NAJV2 PCB; 汎用 NAJV2 PCB [sticker]
 * Copyright: NAMCO
 
+# NA-JV(S)
+
+* Product: ... / (8682970602); 8682961002 [sticker]
+* Label: ...; 汎用(PCB) NA-JV(S) PCB [sticker]
+* Copyright: NAMCO
+
 ## USIO
 
 * Product: 8682960801 / (8682970801); 2655961101
