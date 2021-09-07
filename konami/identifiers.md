@@ -29,8 +29,8 @@ The following variables are used across the different identifiers and can denote
   * `C`: Conversion: Software/art/dongle only
   * `E`: Extension: Software + hardware
   * `K`: Cabinet manufactured by third-party?
-  * `N`: Cabinet manufactured by third-party?
-  * `O`: New dedicated cabinet?
+  * `N`: Cabinet?
+  * `O`: Cabinet?
   * `S`: Medal cabinet (station?)
   * `Q`: Cabinet
   * `U`: Upgrade or utility: Hardware only
