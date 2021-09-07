@@ -43,9 +43,11 @@ V376 -
 V386 - Wangan Midnight Maximum Tune 3DX+
 V388 - Wangan Midnight Maximum Tune 4
 V389 - Dead Heat
+V402 - 
 V403 - 機動戦士ガンダム 戦場の絆 REV.4.x
 V405 - Maximum Heat
 V406 - Time Crisis 5?
+V418 - 
 ```
 
 ### [Gamecodes](identifiers.md#game-code)
