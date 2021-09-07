@@ -26,14 +26,14 @@ The following variables are used across the different identifiers and can denote
   * `H`: Hardware/Helper? e.g. card dispenser
 * `$t`: Product type
   * `A`: ???
-  * `C`: Conversion: Software/art/dongle only
+  * `C`: Conversion: Software/rom/art/dongle only
   * `E`: Extension: Software + hardware
-  * `K`: Cabinet manufactured by third-party?
-  * `N`: Cabinet?
+  * `K`: Conversion/Extension by/for third party?
+  * `N`: Cabinet manufactured by third party?
   * `O`: Cabinet?
   * `S`: Medal cabinet (station?)
   * `Q`: Cabinet
-  * `U`: Upgrade or utility: Hardware only
+  * `U`: Upgrade or utility: Hardware/art only
   * `X`: Hardware/board?
   * `Z`: ???
 * `$g`: Gamecode, identifies a game or series in [Konami's product portfolio](products.md)
