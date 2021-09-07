@@ -186,6 +186,7 @@ KTD - Kart Duel
 KW  - Kaiun Quiz
 KY  - Kyuukai Douchuuki
 LG  - Libero Grande
+LLA - Lost Land Adventure
 LW  - Lucky & Wild
 MB  - Mach Breakers - Numan Athletics 2 / Mach Breakers
 MDH - Derby Quiz My Dream Horse

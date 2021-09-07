@@ -182,16 +182,16 @@ Playstation 3 debugkit-based with special arcade firmware (GEX/GECR).
 
 ```
   A?
-    07J - Tekken 6 Bloodline Rebellion - https://www.aussiearcade.com/forum/arcade/arcade-technical-and-repair-questions/81507-namco-357-help
+    07J - Tekken 6 Bloodline Rebellion (T6B) - https://www.aussiearcade.com/forum/arcade/arcade-technical-and-repair-questions/81507-namco-357-help
   B
     08E - Dead Storm Pirates (DPK) - https://page.auctions.yahoo.co.jp/jp/auction/g470416629
-    08J - Tekken 6 Bloodline Rebellion - (T6B, https://www.worthpoint.com/worthopedia/namco-system-357-tekken-bloodline-483692406)
+    08J - Tekken 6 Bloodline Rebellion (T6B) - https://www.worthpoint.com/worthopedia/namco-system-357-tekken-bloodline-483692406
   C
     07J - Tekken 6 Bloodline Rebellion - https://page.auctions.yahoo.co.jp/jp/auction/l656392283 / https://page.auctions.yahoo.co.jp/jp/auction/t755935691
     10J - Gundam Extreme Vs. Full Boost (GEF)
           Gundam Extreme Vs. Maxi Boost (GEM)
           Gundam Extreme Vs. Maxi Boost ON (GXO)
-          Dragon Ball Zenkai Battle Royal (DZB, https://page.auctions.yahoo.co.jp/jp/auction/t785913926)
+          Dragon Ball Zenkai Battle Royal (DZB) - https://page.auctions.yahoo.co.jp/jp/auction/t785913926
     11E - Taiko no Tatsujin (S01)
           Taiko no Tatsujin KATSU-DON (S02)
           Taiko no Tatsujin Sorairo (S03)
@@ -201,12 +201,12 @@ Playstation 3 debugkit-based with special arcade firmware (GEX/GECR).
           Taiko no Tatsujin White (S07)
           Taiko no Tatsujin Red (S08)
           Taiko no Tatsujin Yellow (S09)
-          Taiko no Tatsujin Blue (S10, https://page.auctions.yahoo.co.jp/jp/auction/j714056990)
-          Taiko no Tatsujin Green (S11, https://page.auctions.yahoo.co.jp/jp/auction/f485271868)
-          Dark Escape 3D (DES, ABDN/268611, https://page.auctions.yahoo.co.jp/jp/auction/e524815974)
-          Dark Escape 4D (https://www.betsonparts.com/media/hbi/service-manuals/271/Dark_Escape_Manual.pdf)
+          Taiko no Tatsujin Blue (S10) - https://page.auctions.yahoo.co.jp/jp/auction/j714056990
+          Taiko no Tatsujin Green (S11) - https://page.auctions.yahoo.co.jp/jp/auction/f485271868
+          Dark Escape 3D (DES, ABDN-268611) - https://page.auctions.yahoo.co.jp/jp/auction/e524815974
+          Dark Escape 4D - https://www.betsonparts.com/media/hbi/service-manuals/271/Dark_Escape_Manual.pdf
   ?
-          Razing Storm (RST, https://www.manualslib.com/manual/1303372/Bandai-Namco-Razing-Storm.html)
+          Razing Storm (RST) - https://www.manualslib.com/manual/1303372/Bandai-Namco-Razing-Storm.html
 ```
 
 ## System 369
@@ -215,8 +215,8 @@ Playstation 3 Slim debugkit-based with special arcade firmware (GEX/GECR).
 
 ```
     11E - Sailor Zombie AKB48
-          Deadstorm Pirates Special Edition (DSP, https://manualzz.com/doc/6364309/deadstorm-pirates-se-manual)
-    11J - Tekken Tag Tournament 2 (TG2, https://page.auctions.yahoo.co.jp/jp/auction/e490040245)
+          Deadstorm Pirates Special Edition (DSP) - https://manualzz.com/doc/6364309/deadstorm-pirates-se-manual
+    11J - Tekken Tag Tournament 2 (TG2) - https://page.auctions.yahoo.co.jp/jp/auction/e490040245
 ```
 
 ## System N2
@@ -244,7 +244,7 @@ Export:
 **HDD:** WD WD800BB-55JKC0 (80GB PATA)  
 
 ```
-       - Counter-Strike Neo (CSN1, https://www.gamoover.net/Forums/index.php?topic=28671.16)
+       - Counter-Strike Neo (CSN) - https://www.gamoover.net/Forums/index.php?topic=28671.16
        - Gundam: Bonds of the Battlefield 1.0
        - Gundam: Bonds of the Battlefield 2.0
    WM3 - Midnight Tune 3(WM3)/3DX(W3X)/3DX+(W3P)
@@ -265,13 +265,13 @@ PC, x86-based. Variants: ES1, ES1(A2).
 **IO:** \[ES1(A2)\] "SERIAL 3 (CARD IF)" (expansion slot, to motherboard COM4, pinout up-down: GND CTS RTS TXD RXD)  
 
 ```
-       - Nirin (NRN, https://www.bandainamco-am.co.uk/files/41)
-         Tank! Tank! Tank! (TTT, https://www.bandainamco-am.com/images/content/Tank%20Tank%20Tank%20Manual.pdf)
+       - Nirin (NRN) - https://www.bandainamco-am.co.uk/files/41)
+         Tank! Tank! Tank! (TTT) - https://www.bandainamco-am.com/images/content/Tank%20Tank%20Tank%20Manual.pdf
          Sailor Zombie AKB48(??)
-         Dead Heat/Maximum Heat (DDH, https://www.bandainamco-am.co.uk/files/27, http://collectedit.com/collectors/shou-time-213/arcade-pcbs-281/dead-heat-us-by-namco-12558)
+         Dead Heat/Maximum Heat (DDH) - https://www.bandainamco-am.co.uk/files/27, http://collectedit.com/collectors/shou-time-213/arcade-pcbs-281/dead-heat-us-by-namco-12558
          Midnight Tune 4 (US, WM4)/5 (US, WM5)
-    A2 - Gundam: Bonds of the Battlefield 3.0 (GKE?) (GSK? http://collectedit.com/collectors/shou-time-213/arcade-pcbs-281/mobile-suit-gundam-bonds-of-the-battlefield-japan-by-namco-19629)
-         Gundam: Bonds of the Battlefield 4.0 (GK4) (GKE?) (GKN? https://page.auctions.yahoo.co.jp/jp/auction/g495616988)
+    A2 - Gundam: Bonds of the Battlefield 3.0 (GKE? GSK?) - http://collectedit.com/collectors/shou-time-213/arcade-pcbs-281/mobile-suit-gundam-bonds-of-the-battlefield-japan-by-namco-19629
+         Gundam: Bonds of the Battlefield 4.0 (GK4, GKE? GKN?) - https://page.auctions.yahoo.co.jp/jp/auction/g495616988
          Midnight Tune 4 (Japan/Asia, WM4, https://www.arcade-projects.com/threads/namco-es1-wmmt4.2270/)/5 (Asia, WM5)/5DX (Asia, W5X)/5DX+ (Asia, W5P) https://www.facebook.com/weedxy2gab/photos/pcb.665771777362930/665771667362941/?type=3&theater
          Maximum Heat 3D (MMH)
 ```
@@ -337,16 +337,16 @@ ES3(X):
 
 ```
      A - Pokken Tournament (PKF)
-       - Mario Kart GP DX (MK3, https://www.bandainamco-am.co.uk/files/37)
-       - Dead Heat Riders/Street Racing (DHR, https://www.bandainamco-am.co.uk/files/25)
-     B - Midnight Tune 5(WM5)/5DX(W5X)/5DX+(W5P)/6/6R (JP)
+       - Mario Kart GP DX (MK3) - https://www.bandainamco-am.co.uk/files/37)
+       - Dead Heat Riders/Street Racing (DHR) - https://www.bandainamco-am.co.uk/files/25)
+     B - Midnight Tune 5(WM5)/5DX(W5X)/5DX+(W5P)/6(WM6)/6R(W6R) (JP)
          Pokken Tournament (PKF)
      X - Tekken 7 (TE7)/FR(TER)/FR2(TR2)
-       - Time Crisis 5 (TC5, https://www.bandainamco-am.co.uk/files/93)
+       - Time Crisis 5 (TC5) - https://www.bandainamco-am.co.uk/files/93)
        - Star Wars Battle Pod (DSW)
      ? - Synchronica
        - Lost Land Adventures (LLA)
-       - Mach Storm
+       - Mach Storm (DAC)
 ```
 
 ## System ES4
@@ -389,10 +389,11 @@ BNA1(LITE): BNA1LT-00-64G-2016W
 
 ```
        - Gundam: Bonds of the Battlefield II
-         Gundam: Extreme Vs. 2 (GX2, https://page.auctions.yahoo.co.jp/jp/auction/f501215923)
+         Gundam: Extreme Vs. 2 (GX2) - https://page.auctions.yahoo.co.jp/jp/auction/f501215923)
          JoJo: Last Survivor
          Sword Art Online Arcade
          Midnight Tune 6 (WM6, export)
+         Midnight Tune 6R (W6R, export)
   LITE - Taiko no Tatsujin: Rainbow (S12)
      ? - Poker Stadium
 ```
