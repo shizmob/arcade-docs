@@ -1,6 +1,6 @@
 ## System 147
 
-Playstation 2-based, SoC. Game stored in on-board flash chips.
+Playstation 2-based, SoC cost-reduced version of System 246/256. Game stored in on-board flash chips.
 
 ```
      - Pacman Arcade Party Home (PMA? https://picclick.com/Namco-System147-IO-I-O-PCB-8916960205-8916970205-112877479087.html)
@@ -9,7 +9,7 @@ Playstation 2-based, SoC. Game stored in on-board flash chips.
 
 ## System 246
 
-Playstation 2 devkit-based with special arcade firmware.
+Playstation 2 devkit-based with special arcade firmware. Variants: A, B, C.
 
 ```
           - Wangan Midnight (JP, WMN1)
@@ -25,6 +25,8 @@ Playstation 2 devkit-based with special arcade firmware.
 ## System 256
 
 Playstation 2-devkit based with special arcade firmware. Variants: S256, S256(+LH), S256(+LC), S256B, Super S256.
+
+(+LM) indicates LAN module, (+LC) indicates LAN and EXCARD module.
 
 ```
         - Taiko no Tatsujin 9  (TK91, https://page.auctions.yahoo.co.jp/jp/auction/c889225321 & https://page.auctions.yahoo.co.jp/jp/auction/b533726007)
