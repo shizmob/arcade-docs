@@ -311,12 +311,12 @@ Konami's own gaming PCs.
 
 (name tentative)
 
-**MBD:** Supermicro SuperO MBD-C7B360-CB-MW-O (microATX)  
+**MBD:** Supermicro SuperO MBD-C7B360-CB-MW-O custom variant (microATX)  
 **STH:** Intel B360  
 **CPU:** Intel Core i5-9400F  
 **RAM:** 1x Innodisk M4US-8GSSKCRG-S (8GB DDR4 2133 DIMM)  
 **GPU:** GIGABYTE GV-N1650IXOC-4GD (Nvidia GeForce GTX 1650)  
-**SSD:** Innodisk 3ME3 2.5" SATA (256GB, DES25-B56D08BC1QC)  
+**SSD:** Innodisk 3ME3 DES25-B56D08BC1QC (SATA 2.5", 256GB)  
 **SND:** ASUS Xonar AE  
 **IO:** [BIO2(BI2X)](io.md#bio2)  
 **Games:** TDJ, UFC  
