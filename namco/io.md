@@ -42,7 +42,7 @@ External serial interface. Connects to motherboard serial, and exposes JVS and s
 
 ## H055 CARD-IF
 
-Banapass card reader. Connects to the motherboard via a custom serial port connector.
+Banapass card reader. Connects to host via a custom serial port connector, usually labeled "SERIAL 3 (CARD IF)".
 
 * Product: 8918960101 / (8918970101)
 * Label: H055 CARD-IF PCB
@@ -55,7 +55,7 @@ Banapass card reader. Connects to the motherboard via a custom serial port conne
   - Murata Piezo Buzzer
 * Connectors:
   - (external) 1x 3pin (CN2)
-  - (external) 1x 9pin (CN1, SERIAL + POWER, guessed pinout left-right: 12V GND COM-RXD COM-TXD COM-RTS COM-CTS COM-GND) 
+  - (external) 1x 9pin (CN1, SERIAL + POWER, pinout left-right: 12V GND COM-RXD COM-TXD COM-RTS COM-CTS COM-GND NC NC)
 
 ## H058 TSIF
 
