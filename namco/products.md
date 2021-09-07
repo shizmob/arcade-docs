@@ -67,13 +67,11 @@ V418 -
 ??? - Pokemon Round 'n Round Get
 ??? - Pokemon Tug of War Medal Get
 ??? - Poker Stadium
-??? - Sailor Zombie AKB48
 ??? - Sea Story Lucky Marine Theater Deluxe
 ??? - Sea Story Lucky Marine Tours
 ??? - Sea Story in Okinawa: Ukiuki vacation
 ??? - SHOOT AWAY PRO
 ??? - Sword Art Online Arcade
-??? - Synchronica
 ??? - Yujo Sochaku! Butt Burst
 
 5GP - 500 GP
@@ -293,6 +291,7 @@ STP - Star Sweep
 STT - Star Trigon
 SV  - Solvalou
 SWS - Super World Stadium
+SYN - Synchronica
 T10 - Taiko no Tatsujin 10
 T11 - Taiko no Tatsujin 11
 T12 - Taiko no Tatsujin 12
@@ -325,6 +324,7 @@ TK9 - Taiko no Tatsujin 9
 TKK - Truck Kyosokyoku
 TKM - Tenkomori Shooting
 TNB - Technic Beat
+TON - Sailor Zombie AKB48
 TR  - Toukon Retsuden 3
 TR2 - Tekken 7 Fated Retribution Round 2
 TS  - Time Crisis
