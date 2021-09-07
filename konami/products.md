@@ -31,8 +31,8 @@ chronologic order, e.g. regarding release dates.
   * `GK845-AA`: DanceDanceRevolution \[Asian cab, https://manualzz.com/download/48538447 \]
   * `GN845-AA`: DanceDanceRevolution \[Asian cab, https://manualzz.com/download/48538447 \]
   * `GN845-TB`: DanceDanceRevolution \[Asian cab, 110V, https://manualzz.com/download/48538447 & https://tamdb.net/downloads/?sa=downfile&id=2700 \]
-  * `GN845-HD`: DanceDanceRevolution \[Asian cab, 220V, https://manualzz.com/download/48538447 & https://tamdb.net/downloads/?sa=downfile&id=2700 \]
   * `GN845-UC`: DanceDanceRevolution \[US cab, https://www.yumpu.com/en/document/view/59902551/dance-dance-revolution-operators-manual-model-gn845-uc \]
+  * `GN845-HD`: DanceDanceRevolution \[Asian cab, 220V, https://manualzz.com/download/48538447 & https://tamdb.net/downloads/?sa=downfile&id=2700 \]
   * `GN845-EA`: Dancing Stage
   * `GN845-EB`: Dancing Stage INTERNET R@NKING
 * `847`: beatmania 4thMIX
@@ -48,6 +48,8 @@ chronologic order, e.g. regarding release dates.
 * `874`: Dance Maniax
 * `881`: DrumMania
   * `GQ881`
+  * `GQ881-HD`: Percussion Freaks
+  * `GQ881-TB`: Percussion Freaks
 * `883`: GuitarFreaks 2ndMIX
   * `GQ883`
 * `884`: Dancing Stage featuring TRUE KiSS DESTiNATiON
@@ -58,6 +60,8 @@ chronologic order, e.g. regarding release dates.
   * `GU885-JA`
 * `886`: GuitarFreaks
   * `GQ886`
+  * `GQ886-HD`: GUITAR FREAKS
+  * `GQ886-TB`: GUITAR FREAKS
 * `887`: DanceDanceRevolution 3rdMIX
   * `GN887-JA`
   * `GE887-JA`
@@ -149,6 +153,8 @@ chronologic order, e.g. regarding release dates.
   * `GCA23`
 * `A24`: GuitarFreaks 4thMIX
   * `GEA24`
+  * `GEA24-HD`
+  * `GEA24-TB`
 * `A25`: DrumMania 4thMIX
   * `GEA25`
 * `A26`: GuitarFreaks 5thMIX
@@ -247,8 +253,12 @@ chronologic order, e.g. regarding release dates.
   * `GCD40`
 * `E02`: DrumMania V
   * `GEE02`
+  * `GNE02-HD`: DrumManiaV
+  * `GNE02-TB`: DrumManiaV
 * `E03`: GuitarFreaks V
   * `GEE03`
+  * `GNE03-HD`: GuitarFreaksV
+  * `GNE03-TB`: GuitarFreaksV
 * [`E11`: beatmania IIDX 11 IIDX RED](software/E11.md)
   * [`GQE11-JA`: Dedicated cabinet](product/GQE11-JA.md)
   * [`GEE11-JA`: Hardware conversion kit](product/GEE11-JA.md)
@@ -273,6 +283,8 @@ chronologic order, e.g. regarding release dates.
 * `EGG`: Quiz Magic Academy 2
 * `F02`: DrumMania V2
   * `GEF02`
+  * `GNF02-HD`
+  * `GNF02-TB`
 * `F03`: GuitarFreaks V2
   * `GEF03`
 * `F14`: pop'n music 14
@@ -300,8 +312,16 @@ chronologic order, e.g. regarding release dates.
   * `GEG15-JA`
 * `G23`: ホースライダーズ / HORSERIDERS
 * `G32`: DrumMania V4
+  * `GQG32-HA`
+  * `GQG32-TA`
+  * `GEG32-AA`: PCB and software conversion kit
+  * `GUG32-AA`: Expansion IC Card Unit
   * `GCG32`
 * `G33`: GuitarFreaks V4
+  * `GQG33-HA`
+  * `GQG33-TA`
+  * `GEG33-AA`: PCB and software conversion kit
+  * `GUG32-AA`: Expansion IC Card Unit
   * `GCG33`
 * `GDJ`: DanceDanceRevolution SuperNOVA2
   * `GCGDJ`
@@ -375,6 +395,7 @@ chronologic order, e.g. regarding release dates.
   * `GCK33`
 * `K39`: pop'n music 19
   * `GQK39-JA`
+  * `GUK39-JA`: card dispenser
 * `K44`: jubeat copious, jubeat copious APPEND
   * `GEK44-JA`
 * `KA9`: PASELI カード

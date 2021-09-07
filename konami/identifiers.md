@@ -26,14 +26,14 @@ The following variables are used across the different identifiers and can denote
   * `H`: Hardware/Helper? e.g. card dispenser
 * `$t`: Product type
   * `A`: ???
-  * `C`: Conversion? Software only
-  * `E`: Extension? Software + hardware
-  * `K`: Possibility for offline/no e-AMUSEMENT?
-  * `N`: New dedicated cabinet?
+  * `C`: Conversion: Software/art/dongle only
+  * `E`: Extension: Software + hardware
+  * `K`: Cabinet manufactured by third-party?
+  * `N`: Cabinet manufactured by third-party?
   * `O`: New dedicated cabinet?
   * `S`: Medal cabinet (station?)
-  * `Q`: New dedicated cabinet?
-  * `U`: Upgrade or utility? Hardware only
+  * `Q`: Cabinet
+  * `U`: Upgrade or utility: Hardware only
   * `X`: Hardware/board?
   * `Z`: ???
 * `$g`: Gamecode, identifies a game or series in [Konami's product portfolio](products.md)
@@ -45,8 +45,10 @@ The following variables are used across the different identifiers and can denote
   * `A`: Asia
   * `C`: China
   * `E`: Europe
+  * `H`: Asia (220V)
   * `J`: Japan
   * `K`: Korea
+  * `T`: Asia (110V)
   * `U`: US
   * `Y`: Indonesia
 * `$s`: Specification: Product type and game dependent, e.g. type of cabinet or hardware
