@@ -3,6 +3,25 @@
 An open (to read and contribute) repository of arcade hardware and software documentation,
 started from consolidating the various text files on my drives.
 
+## Scope
+
+This repository aims to document both arcade hardware and software to the extent that it's necessary and useful.
+This is not a hard and fast rule: listing every single software revision changes for every game may be out of scope and quickly bloat the repository,
+but full PCB descriptions and pinouts may be useful for repair.
+
+There's no hard boundary or ruleset yet, but please keep in mind whether the you're not directly duplicating another source's effort
+(for instance, Bemaniwiki is pretty good at documenting Konami software changes).
+If you're unsure, just send in a pull request and we'll see what we can work out!
+
+Note that we won't accept copyrighted materials or anything that could get us into trouble:
+(self-made) pictures are fine, but please don't contribute manuals or similar copyrighted content.
+They're extremely useful, but due to DMCA limitations this is sadly not the place for them.
+
+Finally, this is not the place for contents that directly and solely help bootleggers:
+while security details for arcade systems are useful and important for preservation,
+consider the age of the system and whether it is still under active support from its manufacturer or distributor first,
+as well as whether parts of that security system are still relevant for newer, more current, systems.
+
 ## Sources
 
 Due to the origin of this repository, there is almost no information of the sources of the information contained within it right now.
