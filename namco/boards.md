@@ -1,10 +1,98 @@
+## System 10
+
+Playstation 1-based, cost-reduced version of System 11/12. Game stored in on-board flash chips: some games require additional CD-ROM.
+
+```
+- GAHAHA Ippatsu-dou (GID)
+  GAHAHA Ippatsu-dou 2 (GIS)
+  Gegege no Kitarō Yōkai Yokochō Matsuri De Batoru Ja (GYM)
+  Golgo 13 Juusei no Chinkonka (GLT)
+  Gunbalina / Point Blank 3 (GNN)
+  Hard Puncher Hajime no Ippo 2 Ouja e no Chousen
+  Honne Hakkenki
+  Keroro Gunsō Chikyū Shinryaku Shirei Dearimasu! (KRG)
+  Knock Down 2001
+  Kotoba no Puzzle Mojipittan (KPM)
+  Kurukuru Food
+  Mr. Driller 2 (DR2)
+  Mr. Driller G (DRG)
+  NFL Classic Football (NCF)
+  Pacman Ball (PMB)
+  Panicuru Panekuru (PPA)
+  Photo Battle
+  Ren-ai Quiz High School Angel
+  Seishun Quiz Colorful High School (CHS)
+  Sekai Kaseki Hakken (SKH)
+  Shamisen Brothers
+  Star Trigon (STT)
+  Taiko no Tatsujin/2(TK2)/3(TK3)/4(TK4)/5(TK5)/6(TK6)
+  Tsukkomi Yousei Gips Nice Tsukkomi (NTK)
+  Uchuu Daisakusen Chocovader Contactee (CVC)
+```
+
+## System 11
+
+Playstation 1-based. Game stored in on-board flash chips. Variants: (B).
+
+```
+    - Dancing Eyes (DC)
+      Dunk Mania (DM)
+      Gunbarl / Point Blank 2 (GNB)
+      Pocket Racer (PKR)
+      Prime Goal EX (PG)
+      Soul Edge (SO)
+      Tekken (TE)
+      Tekken 2 (TES)
+      Xevious 3D/G (XV3)
+(B) - Kosodate Quiz My Angel 3 (KQT)
+      Star Sweep (STP)
+```
+
+## System 12
+
+Playstation 1-based. Game stored in on-board flash chips. Variants: (B), (C).
+
+```
+    - Soul Calibur (SOC)
+      Tekken 3 (TET)
+(B) - Attack Pla-Rail (AP)
+      Derby Quiz My Dream Horse (MDH)
+      Ehrgeiz (EG)
+      Fighting Layer (FTL)
+      Gunbarl / Point Blank 2 (GNB)
+      Kart Duel (KTD)
+      Libero Grande (LG)
+      Oh! Bakyuuun / Ghoul Panic (OB)
+      Paca Paca Passion (PPP)
+      Paca Paca Passion 2 (PKS)
+      Soul Calibur (SOC)
+      Super World Stadium '98 (SS8)
+      Super World Stadium '99 (SS9)
+      Techno Drive (TH)
+      Tekken 3 (TET)
+      Tekken Tag Tournament (TEG)
+      Tenkomori Shooting (TKM)
+      Toukon Retsuden 3 (TR)
+(C) - Aqua Rush (AQ)
+      Golgo 13 (GLG)
+      Golgo 13 Kiseki no Dandou (GLS)
+      Kaiun Quiz (KW)
+      Mr. Driller (DRI)
+      Paca Paca Passion Special (PSP)
+      Super World Stadium 2000 (SS0)
+      Super World Stadium 2001 (SS1)
+      Truck Kyosokyoku (TKK)
+```
+
 ## System 147
 
 Playstation 2-based, SoC cost-reduced version of System 246/256. Game stored in on-board flash chips.
 
 ```
-     - Pacman Arcade Party Home (PMA? https://picclick.com/Namco-System147-IO-I-O-PCB-8916960205-8916970205-112877479087.html)
-     - Pacman Battle Royale (PBR, https://arcadeheroes.com/2013/05/01/pac-man-battle-royale-unboxing-and-review/)
+- Medal no Tatsujin
+  Medal no Tatsujin 2
+  Pacman Battle Royale (PBR, https://arcadeheroes.com/2013/05/01/pac-man-battle-royale-unboxing-and-review/)
+  Pacman Arcade Party Home (PMA, https://picclick.com/Namco-System147-IO-I-O-PCB-8916960205-8916970205-112877479087.html)
 ```
 
 ## System 246
@@ -12,14 +100,37 @@ Playstation 2-based, SoC cost-reduced version of System 246/256. Game stored in 
 Playstation 2 devkit-based with special arcade firmware. Variants: A, B, C.
 
 ```
-          - Wangan Midnight (JP, WMN1)
-            Wangan Midnight (EXP, WMN2)
-            Wangan Midnight R (WMR1)
-            Ridge Racer V (RRV1)
-  A       -
-  B       -
-  C       - Taiko no Tatsujin 7 (TK71, https://page.auctions.yahoo.co.jp/jp/auction/u397987501)
-            Taiko no Tatsujin 8 (TK81, https://page.auctions.yahoo.co.jp/jp/auction/c889225321)
+          - Ridge Racer V (RRV) : NM00001
+            Wangan Midnight (WMN) : NM00008
+            Wangan Midnight R (WMR) : NM00005
+  A       - Bloody Roar 3 (BRT) : NM00002
+            Vampire Night (VPN) : NM00003
+  B       - Battle Gear 3 : NM00010
+            Netchuu Pro Yakyuu 2002 (NPY) : NM00009
+            Soul Calibur II (SC2) : NM00007
+            Tekken 4 (TEF) : NM00004
+            Time Crisis 3 (TST) : NM00012
+  B/C     - Battle Gear 3 Tuned : NM00015
+            Fate/Unlimited Codes (?, FUD) : NM00048
+            Mobile Suit Gundam SEED O.M.N.I. vs Z.A.F.T (?, SED) : NM00024
+            Mobile Suit Gundam SEED Destiny O.M.N.I. vs Z.A.F.T. II (?, GSD) : NM00034
+            Mobile Suit Z Gundam A.E.U.G. vs Titans (?, ZGA) : NM00013
+            Mobile Suit Z Gundam DX A.E.U.G. vs Titans (?, ZDX) : NM00017
+            Pride GP 2003 (?, PR2) : NM00011
+            Quiz Mobile Suit Gundam Tou Senshi (?, QG) : NM00030
+            Sengoku Basara X Cross (?, BAX) : NM00042
+            Soul Calibur III Arcade Edition (?, SC3) : NM00031
+            Sukusuku Inufuku 2 / The Dog Luck 2 (?, IN2) : NM00037
+            Taiko no Tatsujin 7 (TK7, https://page.auctions.yahoo.co.jp/jp/auction/u397987501)
+            Taiko no Tatsujin 8 (TK8, https://page.auctions.yahoo.co.jp/jp/auction/c889225321)
+        ? - Dragon Chronicles (DCO) : NM00020
+          - Dragon Chronicles Legend of the Master Ark (DGC) : NM00014
+          - Smash Court Pro Tournament (SCP) : NM00006
+          - Technic Beat (TNB)
+          - The Battle of Yu Yu Hakusho Dark Tournament (YH) : NM00035
+          - Zoids Infinity : NM00016
+          - Zoids Infinity Ex : NM00025
+          - Zoids Infinity Ex Plus : NM00025
 ```
 
 ## System 256
@@ -29,15 +140,40 @@ Playstation 2-devkit based with special arcade firmware. Variants: S256, S256(+L
 (+LM) indicates LAN module, (+LC) indicates LAN and EXCARD module.
 
 ```
-        - Taiko no Tatsujin 9  (TK91, https://page.auctions.yahoo.co.jp/jp/auction/c889225321 & https://page.auctions.yahoo.co.jp/jp/auction/b533726007)
-          Taiko no Tatsujin 10 (T101, https://page.auctions.yahoo.co.jp/jp/auction/c889225321)
-          Taiko no Tatsujin 11 (T111, https://page.auctions.yahoo.co.jp/jp/auction/k491286252)
-          Taiko no Tatsujin 12 (T121, https://page.auctions.yahoo.co.jp/jp/auction/c885026105)
-          Taiko no Tatsujin 13
-          Taiko no Tatsujin 14 (T141,  https://page.auctions.yahoo.co.jp/jp/auction/d500177087)
-  (+LC) - Gundam vs. Gundam NEXT (GNX1, https://page.auctions.yahoo.co.jp/jp/auction/j710168908)
-      B -
-  Super - Time Crisis 4 (TSF1)
+     /B - Capcom Fighting Jam / Capcom Fighting Evolution (JAM) : NM00018
+          Cobra The Arcade (CBR) : NM00021
+          Druaga Online The Story Of Aon : NM00028
+          Fate/Unlimited Codes (?, FUD) : NM00048
+          Gundam vs Gundam Next (GNX) : NM00052
+          Kinnikuman Muscle Grand Prix (KN1) : NM00029
+          Kinnikuman Muscle Grand Prix 2 KN2) : NM00040
+          Minna de Kitaeru Zenno Training (ZNT) : NM00036
+          Mobile Suit Gundam: Gundam vs Gundam (GVS) : NM00043
+          Mobile Suit Gundam SEED O.M.N.I. vs Z.A.F.T (?, SED) : NM00024
+          Mobile Suit Gundam SEED Destiny O.M.N.I. vs Z.A.F.T. II (?, GSD) : NM00034
+          Mobile Suit Z Gundam A.E.U.G. vs Titans (?, ZGA) : NM00013
+          Mobile Suit Z Gundam DX A.E.U.G. vs Titans (?, ZDX) : NM00017
+          Moto GP (MGP) : NM00039
+          Pride GP 2003 (?, PR2) : NM00011
+          Quiz Mobile Suit Gundam Tou Senshi (?, QG) : NM00030
+          Sengoku Basara X Cross (?, BAX) : NM00042
+          Soul Calibur II (?, SC2) : NM00007
+          Soul Calibur III Arcade Edition (?, SC3) : NM00031
+          Sukusuku Inufuku 2 / The Dog Luck 2 (?, IN2) : NM00037
+          Super Dragon Ball Z / Chou Dragon Ball Z (DB) : NM00027
+          Taiko no Tatsujin 7 (TK7) : NM00023
+          Taiko no Tatsujin 8 (TK8) : NM00033
+          Taiko no Tatsujin 9 (TK9) : NM00038
+          Taiko no Tatsujin 10 (T10) : NM00041
+          Taiko no Tatsujin 11 (T11) : NM00044
+          Taiko no Tatsujin 12 (T12) : NM00051
+          Taiko no Tatsujin 13 (T13) : NM00056
+          Taiko no Tatsujin 14 (T14) : NM00057
+          Tekken 5 (TE5) : NM00019
+          Tekken 5 Dark Resurrection (TED) : NM00026
+  (+LC) - Gundam vs. Gundam NEXT (GNX, https://page.auctions.yahoo.co.jp/jp/auction/j710168908)
+  (+LM) - The IDOLM@STER (IDM, https://imgur.com/a/isBNG62) : NM00022
+  Super - Time Crisis 4 (TSF) : NM00032
 ```
 
 ## System 357
