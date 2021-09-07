@@ -1,7 +1,6 @@
 # arcade documentation
 
-An open (to read and contribute) repository of arcade hardware and software documentation,
-started from consolidating the various text files on my drives.
+An open (to read and contribute) repository of arcade hardware and software documentation.
 
 ## Scope
 
@@ -25,7 +24,8 @@ as well as whether parts of that security system are still relevant for newer, m
 ## Sources
 
 Due to the origin of this repository, there is almost no information of the sources of the information contained within it right now.
-We're fairly certain on the accuracy of most of it, however do not take it as gospel and always measure before working on hardware!
+**We're fairly certain on the accuracy of most of it, however do not take it as gospel and *always* measure before working on hardware!
+You are *solely* responsible for working on your own, and especially other peoples', cabinets.**
 
 A source tagging system is in the works, the preliminary version consists of adding the following information at the end of a line:
 
@@ -39,16 +39,20 @@ Types can be:
 * `DOC`: official documentation, info identifies the producer and identifier of the document
 
 Examples:
-* `#WEB:http://kururusky.com/?p=1458`, a website source
-* `#DOC:KONAMI:114946810000`, an official document source: the KONAMI beatmania IIDX 23 tricoro cabinet manual
+* `#WEB:http://kururusky.com/?p=1458`, a website source;
+* `#SCRAPE:sega:arcade-history`, a scrape source (SEGA's [arcade history](https://sega.jp/history/arcade) page);
+* `#GAME:namco:PBN100-1-NA-MPRO-A:AMCUS/AMConfig.ini`, a game data source (`AMConfig.ini` in Pokemon Battle Network);
+* `#MAME:namcops2`: a MAME source (the `namcops2.cpp` driver comments);
+* `#DOC:konami:114946810000`, an official document source: the KONAMI beatmania IIDX 23 tricoro cabinet manual (doc #114946810000);
 
 In the meantime here are some major sources used:
 
-* First-hand accounts, observations and research;
+* First-hand accounts, observations and research of hardware and software;
 * Manuals and other official documentation;
 * Photos from various sites, most notably [Yahoo! Auctions / ヤフオク!](https://auctions.yahoo.co.jp/) and [eBay](https://ebay.com);
 * Direct conversations with trusted sources;
 * [MAME](https://git.redump.net/mame/)'s inimitable documentation;
+* [BEMANIWiki 2nd](bemaniwiki.com/);
 * [Callus Next's arcade board game information](http://callusnext.com/pcbs/);
 * [Guru's rom dumping news](https://members.iinet.net.au/~lantra9jp1_nbn/gurudumps/);
 * The [Redump database](http://redump.org/);
@@ -56,8 +60,8 @@ In the meantime here are some major sources used:
 
 Notable sources that are often incorrect and should not be solely relied upon:
 
-* [System16](https://www.system16.com/)
-* [Wikipedia](https://en.wikipedia.org) (yes, Japanese Wikipedia too!) and its million scrapers, clones and mirrors
+* [System16](https://www.system16.com/);
+* [Wikipedia](https://en.wikipedia.org) (yes, Japanese Wikipedia too!) and its million scrapers, clones and mirrors;
 
 
 ## License
