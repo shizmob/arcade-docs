@@ -92,3 +92,86 @@ External serial interface, revision 2. Looks identical to the [H039 ESIF](#h039-
   - (internal) 1x 12pin (to motherboard front panel and motherboard serial header)
   - (internal) 1x 7pin (to power supply 12V and 5V, pinout left-right: GND GND NC GND 12V 5V)
   - (internal) 1x 4pin (to JVS expansion card, pinout left-right: V+ D+ D- V-)
+
+# Boards
+
+## IO
+
+* Product: 2479961102 / (2479971102); 2591982102
+* Label: V185 I/O PCB; V291 I/O PCB
+* Copyright: NAMCO
+
+## STD CONNECT
+
+* Product: 8523960201 / (8523970201) / A05585
+* Label: 汎用 STD CONNECT PCB
+* Copyright: 2007 NAMCO BANDAI Games Inc.
+
+## FCA
+
+* Product: 8662969102 / (8662979102)
+* Label: FCA PCB
+* Copyright: NAMCO
+
+## FCA2
+
+* Product: 8662969200 / (8662979100)
+* Label: FCA2(B) PCB
+
+## FCB
+
+* Product: 2582960101 (2582970101)
+* Label: V290 FCB PCB
+
+## MIU
+
+* Product: 2512960101 / (2512970101); 8662969301; 2591961001
+* Label: V221 MIU PCB; (JV) TMIU PCB; V291 XMIU PCB
+
+## STR
+
+* Product: 2487960103 / (2487970103); 2553960100; 2600960100
+* Label: V194 STR PCB; V257 STR PCB; V315 STR PCB
+
+## STR2
+
+* Product: 2609965100 / (2609970100)
+* Label: V320 STR2(B) PCB
+* Copyright: 2006 NAMCO BANDAI Games Inc.
+
+## STR3
+
+* Product: 8670961500 / (8670971500)
+* Label: 汎用（ドライブ））STR3 PCB
+
+## STR4
+
+## NA-JV
+
+* Product: 8682960602 / (8682970602); 26169605
+* Label: 汎用 NA-JV PCB; V329 NA-JV PCB
+* Copyright: NAMCO
+
+## NA-JV2
+
+* Product: 8682960602 / (8682970602); 8523961000 [sticker]
+* Label: 汎用 NAJV2 PCB; 汎用 NAJV2 PCB [sticker]
+* Copyright: NAMCO
+
+## USIO
+
+* Product: 8682960801 / (8682970801); 2655961101
+* Label: 汎用 (PCB) USIO PCB; V371 USIO PCB
+* Copyright: 2008 NAMCO BANDAI GAMES Inc.
+
+## USIO(T)
+
+* Product:  8682960902 / (8682970902); 2686962102 [sticker]
+* Label: ...; V406 USIO(T) PCB [sticker]
+* Copyright: 2010 NAMCO BANDAI Games Inc.
+
+## WIDE USIO
+
+* Product: 1892960100 / (1892970100)
+* Label: WIDE USIO PCB
+* Copyright: 2014 NAMCO BANDAI Games Inc.
