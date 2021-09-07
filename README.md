@@ -27,7 +27,22 @@ as well as whether parts of that security system are still relevant for newer, m
 Due to the origin of this repository, there is almost no information of the sources of the information contained within it right now.
 We're fairly certain on the accuracy of most of it, however do not take it as gospel and always measure before working on hardware!
 
-A better source tagging system is in the works, and in the meantime here are some major sources used:
+A source tagging system is in the works, the preliminary version consists of adding the following information at the end of a line:
+
+`#<type>:<info*>`
+
+Types can be:
+* `WEB`: website, info identifies the website in question
+* `SCRAPE`: scrape, info identiies the source of the scrape
+* `GAME`: game data, info identifies the data and location
+* `MAME`: MAME sources, info identifies the driver filename
+* `DOC`: official documentation, info identifies the producer and identifier of the document
+
+Examples:
+* `#WEB:http://kururusky.com/?p=1458`, a website source
+* `#DOC:KONAMI:114946810000`, an official document source: the KONAMI beatmania IIDX 23 tricoro cabinet manua
+
+In the meantime here are some major sources used:
 
 * First-hand accounts, observations and research;
 * Manuals and other official documentation;
