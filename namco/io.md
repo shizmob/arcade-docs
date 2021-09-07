@@ -40,6 +40,22 @@ External serial interface. Connects to motherboard serial, and exposes JVS and s
   - (internal) 1x 7pin (to power supply 12V and 5V, pinout left-right: GND GND NC GND 12V 5V)
   - (internal) 1x 4pin (to JVS expansion card, pinout left-right: V+ D+ D- V-)
 
+## H055 CARD-IF
+
+Banapass card reader. Connects to the motherboard via a custom serial port connector.
+
+* Product: 8918960101 / (8918970101)
+* Label: H055 CARD-IF PCB
+* Copyright: 2010 NAMCO BANDAI Games Inc.
+* Chips:
+  - RENESAS F3062F25V (QFP100 Micro-controller)
+  - Toshiba TD62083AFG (8ch Darlington Sink Driver for the LEDs)
+  - Sony RC-S620/S (NFC Reader Module via UART)
+  - Murata Piezo Buzzer
+* Connectors:
+  - (external) 1x 3pin (CN2)
+  - (external) 1x 9pin (CN1, SERIAL + POWER, only 7 pins are actually connected on the header)
+
 ## H058 TSIF
 
 External interface. Connects to motherboard and exposes a bunch of custom connectors.
