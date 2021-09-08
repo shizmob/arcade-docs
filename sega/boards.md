@@ -24,7 +24,7 @@ SEGA parts are referred to using a [proprietary format](identifiers.md#part-numb
    840-0071D-01:  NAOMI2 + 840-0001F + GD-rom drive kit ("ASSY CASE NAT PCI DIMM BD")
    840-0080D-01?: 840-0001F + GD-rom drive kit?         ("ASSY CASE PC1 DIMM BD")
    840-0089D:     NAOMI + 840-0004F + GD-rom drive kit  ("ASSY CASE NAO RTOS DIMM BD")
-   840-0091D-1x:  "ASSY CASE NAT RT/232C &COM" 
+   840-0091D-1x:  "ASSY CASE NAT RT/232C &COM"
    840-0106D-01:  "ASSY CASE TRF 512 DIMM BD"
 
    Y = A: hardware
@@ -100,7 +100,7 @@ SEGA parts are referred to using a [proprietary format](identifiers.md#part-numb
          -0x: "ASSY CASE BOX MAIN BD"
          -1x: "ASSY CASE BOX MAIN BD X-B"
   C = B (game DIMM):
-     * 843-xxxxB, xxxx = linear to GDX-xxxx game ID: "ASSY CASE BOX DIMM BD"   
+     * 843-xxxxB, xxxx = linear to GDX-xxxx game ID: "ASSY CASE BOX DIMM BD"
 ```
 
 ## Lindbergh
@@ -185,7 +185,7 @@ SEGA parts are referred to using a [proprietary format](identifiers.md#part-numb
   * RingEdge             (AAL, JP, 846-0001D, "ASSY CASE EDG W") [known revisions: 0, 1]
         MBD: MSI MS-9667 VER:1.0 (838-14852) [revision 0]
              Advantech DAC-BJ01 Rev.A1 (838-15014-01-91 / 19A8BJ0103 / 9696BJ0102E) [revision 1]
-        CPU: 
+        CPU:
         RAM: 1x Transcend TS128MLQ64V8J? [1GB, DDR2-800, "1G DDR2 800 DIMM"]
         GPU: Nvidia GeForce 9600 GS (180-10545-0002-A01 / 600-10545-0021-106 A / 900-60545-2321-000 K, BIOS Version 62.94.4F.00.04, Samsung Memory 161-0070-600) [revision 1?]
         IO:  JVS/keychip card 837-14902 [custom connector]
@@ -234,12 +234,11 @@ SEGA parts are referred to using a [proprietary format](identifiers.md#part-numb
         PSU: Delta EDPS-250AB A [250W]
 
   * Nu2             (AAVE, JP, 848-2001D, "ASSY CASE NU2")
-        MBD: ???
+        MBD: Gigabyte MDH11BM
         CPU: Intel Core i5-6500
-        RAM: 
-        GPU: Nvidia GeForce GTX 950
-        SSD: MDA-E0013
-        HDD: ???
+        RAM: 2x 4GB SK Hynix [8GB, DDR4-2133]
+        GPU: Nvidia GeForce GTX 960
+        SSD: TDK GBDisk GS1 120GB [MDA-E0013]
         PSU: ???
 
   * NuSX            (AAWE, JP, 848-1001D, "ASSY NUSX GAMEBOARD")
@@ -263,26 +262,26 @@ SEGA parts are referred to using a [proprietary format](identifiers.md#part-numb
         CPU: Intel Core i5-6500
         RAM: 2x SK Hynix HMA81GU6AFR8N-UH [8GB, DDR4-2400]
         GPU: ELSA GeForce GTX1070 8GB ST for SEGA
-        SSD: MDA-E0017
-        HDD: ??? [849-0004, 849-0005]
+        SSD: TDK GBDisk GS1 120GB [MDA-E0017]
+        HDD: HGST HTS725050A7E630 500GB [849-0004, 849-0005]
         PCI: "SoundBlaster" [849-0005]
         PSU: ???
 
   * ALLS HX                       (ACAX, JP, 849-0006, "ASSY CASE ALLS HX")
-        MBD: ???
-        CPU: ???
-        RAM: 2x 4GB
+        MBD: Gigabyte MDH11BM
+        CPU: Intel Core i5-6500
+        RAM: 2x 4GB SK Hynix [8GB, DDR4-2133]
         GPU: Nvidia GeForce GTX 1050
-        SSD: ???
+        SSD: TDK GBDisk GS1 120GB [MDA-E0017]
         PSU: ???
 
   * ALLS UX2                      (ACAE, JP, 849-1001?)
   * ALLS UX2 (with sub-storage)   (ACAE, JP, 849-1002?)
-        MBD: ???
+        MBD: Gigabyte MCH31AM-S2
         CPU: ???
         RAM: 2x 8GB
         GPU: Gigabyte GeForce RTX 2070 WINDFORCE 8G?
-        SSD: ???
+        SSD: TDK GBDisk GS1 120GB [MDA-E0019]
         HDD: ???
         PSU: ???
 
@@ -293,7 +292,8 @@ SEGA parts are referred to using a [proprietary format](identifiers.md#part-numb
         CPU: Intel Core i3-8100
         RAM: 2x 4GB
         GPU: Nvidia GeForce GTX 1050Ti
-        SSD: MDA-E0019 [OP]
+        SSD: TDK GBDisk GS1 120GB [MDA-E0019]
+        HDD: Western Digital WD5000LUCT 500GB
         PSU: ???
 
   * ALLS MX2                      (ACA?, JP, 849-1005)

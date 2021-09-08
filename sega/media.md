@@ -47,7 +47,7 @@ Y = B: game DIMM
 840-0131B:    ???
 840-0147B:                                             (840-0001F DIMM, "DIMM BD NAO DGS SATL")
 840-0183B:    STAR HORSE PROGRESS RETURNS : main & (video left/backup) (probably stacked on 840-0034B board)
-840-0184B:    STAR HORSE PROGRESS RETURNS : video right 
+840-0184B:    STAR HORSE PROGRESS RETURNS : video right
 840-0185B:    STAR HORSE PROGRESS RETURNS : live/voice
 840-0186B:    STAR HORSE PROGRESS RETURNS : satellite
 840-0187B:    STAR HORSE PROGRESS RETURNS : sound
@@ -718,7 +718,7 @@ DVP-???? : StarHorse2: Fourth Ambition : Star Horse
 
 ## DVR
 
-DVD (Ring). 610-0816-xxxx = DVR-xxxx ("DVD SOFT KIT *").
+DVD (Ring). 610-0816-xxxx = DVR-xxxx ("DVD SOFT KIT \*").
 
 ```
 DVR-0001  : BORDER BREAK : RingEdge : SBPU
@@ -1194,25 +1194,25 @@ SD.
 
 ```
 MDA-S0001 :
-MDA-S0002 : 
-MDA-S0003 : 
-MDA-S0004 : 
-MDA-S0005 : 
-MDA-S0006 : 
-MDA-S0007 : 
-MDA-S0008 : 
-MDA-S0009 : 
-MDA-S0010 : 
+MDA-S0002 :
+MDA-S0003 :
+MDA-S0004 :
+MDA-S0005 :
+MDA-S0006 :
+MDA-S0007 :
+MDA-S0008 :
+MDA-S0009 :
+MDA-S0010 :
 MDA-S0011 :
-MDA-S0012 : 
-MDA-S0013 : 
-MDA-S0014 : 
-MDA-S0015 : 
-MDA-S0016 : 
-MDA-S0017 : 
+MDA-S0012 :
+MDA-S0013 :
+MDA-S0014 :
+MDA-S0015 :
+MDA-S0016 :
+MDA-S0017 :
 MDA-S0018 : REVOLUTION3 : ELEFUN
-MDA-S0019 : 
-MDA-S0020 : 
+MDA-S0019 :
+MDA-S0020 :
 MDA-S0021 : Maimai camera "SD CAMERA CTRL BD MAI" : RingEdge2
 ```
 
@@ -1275,8 +1275,8 @@ MDA-E0014 :
 MDA-E0015 :
 MDA-E0016 :
 MDA-E0017 : TDK GBDisk GS1 120GB                    : ALLS UX
-MDA-E0018 : 
-MDA-E0019 : TDK GBDisk GS1 ???GB                    : ALLS HX2 OP
+MDA-E0018 :
+MDA-E0019 : TDK GBDisk GS1 120GB                    : ALLS HX2 OP
 ```
 
 ## MDA-U
