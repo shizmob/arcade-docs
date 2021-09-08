@@ -270,7 +270,7 @@ SEGA parts are referred to using a [proprietary format](identifiers.md#part-numb
   * ALLS HX                       (ACAX, JP, 849-0006, "ASSY CASE ALLS HX")
         MBD: Gigabyte MDH11BM
         CPU: Intel Core i5-6500
-        RAM: 2x 4GB SK Hynix [8GB, DDR4-2133]
+        RAM: 2x SK Hynix [4GB, DDR4-2133]
         GPU: Nvidia GeForce GTX 1050
         SSD: TDK GBDisk GS1 120GB [MDA-E0017]
         PSU: ???
