@@ -1063,15 +1063,15 @@ CDA-0009A-1D: ALL.Net P-ras MULTI バージョン3 (Disc.1) : JPN : SDEM
             : Rolling Gunner : SDGW
             : Goonya Fighters APM3 : SDGX
             : Virtua Fighter esports : SDHF
+            : Senxin Aleste : SDHB
 ????        : SEGA WORLD DRIVER CHAMPIONSHIP 2019 (No.1) : ALLS UX : JPN : SDDS
 ????        : WCCF FOOTISTA 2019 : ALLS UX : JPN : SDEB
 ????        : House of the Dead Scarlet Dawn : ALLS HX2 : JPN : SDEE
-????        : 鬼屋:猩红黎明 : CHN
 ????        : StarHorse4 Medal Station : JPN : SDEP
 ????        : House of the Dead Scarlet Dawn : CHN : SDEV
 ????        : StarHorse4 : ALLS MX2(client)/UX2(server) : JPN : SDFT
 ????        : Fiz : ALLS MX2 : JPN
-????        : Initial D THE ARCADE
+????        : Initial D THE ARCADE : ALLS MX? : JPN : SDGT
 ```
 
 ## MDA-G
