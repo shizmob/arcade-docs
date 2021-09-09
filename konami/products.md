@@ -262,6 +262,8 @@ chronologic order, e.g. regarding release dates.
   * `GCD39`
 * `D40`: DrumMania 10thMIX
   * `GCD40`
+* `DK9`: 麻雀格闘倶楽部3
+  * `GUDK9-JB` 
 * `E02`: DrumMania V
   * `GEE02`
   * `GNE02-HD`: DrumManiaV
@@ -292,6 +294,7 @@ chronologic order, e.g. regarding release dates.
   * [`GEECO-JA`: Hardware conversion kit](product/GEECO-JA.md)
   * [`GEECO-JB`: Hardware conversion kit](product/GEECO-JB.md)
 * `EGG`: Quiz Magic Academy 2
+* `EK9`: 麻雀格闘倶楽部4
 * `F02`: DrumMania V2
   * `GEF02`
   * `GNF02-HD`
@@ -338,7 +341,8 @@ chronologic order, e.g. regarding release dates.
   * `GCGDJ`
 * `GEM`: Quiz Magic Academy 4
 * `GGG`: オトメディウス / OTOMEDIUS
-  * `GEGGG-JAA`
+  * `GEGGG-JA`
+  * `GEGGG-JB`
 * `GHL`: Silent Hill THE ARCADE
 * `GK9`: 麻雀格闘倶楽部6
 * `GLD`: beatmania IIDX 14 GOLD
@@ -392,6 +396,7 @@ chronologic order, e.g. regarding release dates.
 * [`JDJ`: beatmania IIDX 17 SIRIUS](software/JDJ.md)
   * `GCJDJ`
 * `JDX`: DanceDanceRevolution X2
+  * `GCJDX-JA`
   * `GKJDX`
 * [`JDZ`: beatmania IIDX 18 Resort Anthem](software/JDZ.md)
   * [`GQJDZ-JA`: Dedicated cabinet](product/GQJDZ-JA.md)
@@ -433,6 +438,7 @@ chronologic order, e.g. regarding release dates.
 * `KGL`: GOLF CONNECTION  `#SCRAPE:konami:eagate`
 * `KMA`: Quiz Magic Academy 8  `#SCRAPE:konami:eagate`
 * `KK9`: 麻雀格闘倶楽部 ultimate version, 麻雀格闘倶楽部 NEXT, 麻雀格闘倶楽部 頂の陣, 麻雀格闘倶楽部 彩の華, 麻雀格闘倶楽部 ZERO, 麻雀格闘倶楽部 豪華絢爛, 麻雀格闘倶楽部 GRAND MASTER, 麻雀格闘倶楽部 疾風
+  * `GEKK9-JA`
   * `GEKK9-JB`
 * `KLP`: ラブプラス アーケード カラフル Clip
 * `KPM`: ラブプラス MEDAL Happy Daily Life
@@ -498,6 +504,7 @@ chronologic order, e.g. regarding release dates.
 * `NBT`: ビートストリーム / BeatStream
   * `GQNBT-JA`
 * `NCG`: オトカ ドール
+  * `GENCG-JB`
 * `NDD`: SILENT SCOPE BONE-EATER
 * `NCK`: Winning Eleven ARCADE CHAMPIONSHIP 2014
 * `NDD`: Silent Scope Bone Eater
@@ -529,7 +536,7 @@ chronologic order, e.g. regarding release dates.
 * `QCV`: SOUND VOLTEX III(コナステ) / SOUND VOLTEX III (e-AMUSEMENT CLOUD) [e-AMUSEMENT CLOUD/home version]
 * `QPP`: Printer paper and ink
   * `GUQPP-AB`: For SDVX generator (?)
-  * `GULMM-JA`
+  * `GULMM-JA`: Oreca Battle (compatible with SDVX)
   * `GUQPP-JB`
 * `QS3`: EATURE Premium 5・6弾
 * `QVO`: FEATURE Premium MB
@@ -540,7 +547,7 @@ chronologic order, e.g. regarding release dates.
   * `GQREC-JA`: Additional paseli fee added for plays depending on the model (?): 40 - 120%
   * `GQREC-JB`: Additional paseli fee added for plays depending on the model (?): 60 - 120%
   * `GQREC-JC`: Additional paseli fee added for plays depending on the model (?): 40 - 120%, different to JA, trial?
-  * `GKREC-CA`
+  * `GKREC-CA`: Chinese UNIS cabinet
 * `RPU`: マーブルフィーバー  `#SCRAPE:konami:eagate`
 * `RSB`: ボンバーマン・ザ・メダル  `#SCRAPE:konami:eagate`
 * `RTA`: カラコロッタ 太陽とひみつの島  `#SCRAPE:konami:eagate`
@@ -552,6 +559,7 @@ chronologic order, e.g. regarding release dates.
 * `SPU`: GRANDCROSS LEGEND  `#SCRAPE:konami:eagate`
 * `SS4`: FEATURE Premium 7・8弾  `#SCRAPE:konami:eagate`
 * `T44`: jubeat (新筐体) [unreleased]  `#WEB:https://game.mirai-media.net/jubeat-jaepo2020/`
+  * `GQT44-JA`
 * `TBS`: 武装神姫　アーマードプリンセス　バトルコンダクター
 * `TCS`: カードコネクト / CARD CONNECT
 * `TDJ`: beatmania IIDX 27 HEROIC VERSE \[Lightning model\]
