@@ -347,7 +347,7 @@ Formats:
    - `GDL`: GD-ROM (NAOMI, licensed)
    - `GDT`: GD-ROM (Triforce)
    - `GDX`: GD-ROM (Chihiro)
-   - `CDP`: CD  ((NAOMI/Triforce/Chihiro)
+   - `CDP`: CD  (NAOMI/Triforce/Chihiro)
    - `CDV`: DVD (NAOMI/Triforce/Chihiro/additional disc)
    - `DVP`: DVD (Lindbergh)
    - `DVR`: DVD (RINGEDGE/RINGWIDE)
