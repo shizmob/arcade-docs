@@ -236,6 +236,7 @@ chronologic order, e.g. regarding release dates.
   * `GKC23`: casette label
 * `C32`: Card dispenser
   * `HOC32`
+* `C33`: ee'MALL
 * `C36`: DanceDanceRevolution EXTREME
   * `GCC36`
 * `C38`: DrumMania 8thMIX
@@ -256,6 +257,7 @@ chronologic order, e.g. regarding release dates.
 * `D11`: pop'n music 11
   * `GCD11-JA`
   * `GCD11-JC`
+* `D33`: ee'MALL 2nd avenue
 * `D39`: GuitarFreaks 11thMIX
   * `GCD39`
 * `D40`: DrumMania 10thMIX
