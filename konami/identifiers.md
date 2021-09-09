@@ -56,13 +56,14 @@ The following variables are used across the different identifiers and can denote
   * コナステ streamed games use `K`
 * `$r`: Software revision. Modern games utilizing the extension part pinned this to the value `A`
   * `A`, `B`, `C`, ..., `Z`
-* `$e`: Extension/build date of the software
+* `$e`: Extension/release date of the software
   * Format: `yyyymmddnn`
     * `yyyy` = year, e.g. `2020`
     * `mm` = month, e.g. `11` for November
     * `dd` = day of month, e.g. `03`
     * `nn` = build number on the day, e.g. `00`, `01`, ...
-  * Example: `201807300200`
+    * Older games may omit `nn`, example: `FK9:J:A:A:20060217``
+  * Example: `2018073002`
 
 ## Identifiers
 
@@ -96,7 +97,7 @@ The following variables are used across the different identifiers and can denote
 
 * Source: Game data
 * Format: `$e`
-* Example: `201807300200`
+* Example: `2018073002`
 
 ### System ID
 
@@ -140,5 +141,6 @@ The following variables are used across the different identifiers and can denote
 ### Soft ID code
 
 * Source: [Security code](#security-code) and [release code](#release-code) combined and shown in-game
+  * Some games change the security code, for example jubeat: `GQL44JBA` (security code) -> `L44:J:F:A` (in-game)
 * Format: `$g:$d:$s:$r:$e`
 * Example: `PIX:J:B:A:201807300200`
