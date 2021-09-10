@@ -342,12 +342,12 @@ ES3(X):
        - Dead Heat Riders/Street Racing (DHR) - https://www.bandainamco-am.co.uk/files/25)
      B - Midnight Tune 5(WM5)/5DX(W5X)/5DX+(W5P)/6(WM6)/6R(W6R) (JP)
          Pokken Tournament (PKF) - https://aucview.aucfan.com/yahoo/x538486776/
-     X - Tekken 7 (TE7)/FR(TER)/FR2(TR2)
+     X - Lost Land Adventures (LLA)
+       - Mach Storm (DAC)
+       - Tekken 7 (TE7)/FR(TER)/FR2(TR2)
        - Time Crisis 5 (TC5) - https://www.bandainamco-am.co.uk/files/93)
        - Star Wars Battle Pod (DSW)
-     ? - Synchronica
-       - Lost Land Adventures (LLA)
-       - Mach Storm (DAC)
+     ? - Synchronica (SYN)
 ```
 
 ## System ES4
