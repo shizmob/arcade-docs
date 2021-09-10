@@ -175,12 +175,14 @@ Also known as: "BemaniPC Type 2" (unofficially).
 
 **MBD:** Toshiba TEM100-01B  
 **CPU:** Intel Core 2 Duo 2.13GHz  
-**RAM:** 512MB  
+**RAM:** 512MB/512MBx2/1GBx2  
 **HDD:** 160GB  
 **Sticker:** C3  
-**Games:** HGT, LMA, JMA  
+**Games:** HGT, LMA, JMA  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/p870019570`  
 
 ### FAB-e965-KN313
+
+`#WEB:https://page.auctions.yahoo.co.jp/jp/auction/1004281047`
 
 **MBD:** Toshiba TEM100-01B (TOPS BIOS Ver.1.08K1 02/22/10 16:57:28)  
 **CPU:** Intel Core 2 Duo 2.13 GHz  

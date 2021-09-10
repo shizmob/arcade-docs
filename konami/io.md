@@ -44,6 +44,22 @@
 [JDJ](software/JDJ.md), [JDZ](software/JDZ.md), [KDZ](software/KDZ.md), 
 [LDJ (only up to 24 included)](software/LDJ.md)
 
+## D55 IO
+
+`#WEB:https://page.auctions.yahoo.co.jp/jp/auction/v1004013462`
+
+* GSD55 PWB(K1?) HPST
+* Product: PWB11??????????
+* Compatible games: D55, F56, K56
+
+## K39 IO
+
+`#WEB:https://page.auctions.yahoo.co.jp/jp/auction/u452002755`
+
+* `GUK39-JA`: used in pop'n card dispenser?
+* Product: PWB11106490000
+* Codename: "Alard"
+
 ## USBIO2
 
 * KDE-J
@@ -72,7 +88,9 @@
 * Connectors: USB
 * Compatible games: [LDJ (starting 25)](software/LDJ.md)
 
-### BIO2 sub IO
+### BIO2 LDJ sub IO
+
+* Product: PWB116784480000
 
 # Devices
 

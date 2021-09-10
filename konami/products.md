@@ -8,8 +8,13 @@ For identification purpose, Konami labels their products using a
 Lex-sorted by [gamecode](identifiers.md#gamecode). Gamecodes do not necessarily reflect a
 chronologic order, e.g. regarding release dates.
 
+* `067`: ゼクセクス  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1004550491
 * `400`: Bubble System
   * `GX400`: Bubble System main board (?)
+* `427`: サッカースーパースターズ  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/s1004169835
+  * `GX427`: CONNECTOR PCB
+  * `GU427`: CONNECTOR PCB  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/p1004071283
+* `505`: スラムダンク  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/p1004071283
 * `700`: System 573
   * `GX700`: System 573 main board (?)
   * `700A01`: Boot ROM: "573 BIOS EEPROM - KWS"
@@ -18,6 +23,8 @@ chronologic order, e.g. regarding release dates.
   * `700B04`: CD-ROM Drive Updater 2.0  `#MAME:ksys573`
 * `706`: Dark Horse Legend  `#MAME:ksys573`
   * `GX706-JAA`
+* `707`:
+  * `GO707-PWB(B)A`: Jamma to JVS converter PCB
 * `710`: Handle Champ / Steering Champ  `#MAME:ksys573`
   * `GQ710-JAB`
   * `GQ710-SAA`
@@ -285,6 +292,8 @@ chronologic order, e.g. regarding release dates.
   * `GKA44-UA`
 * `A48`: Great Bishi Bashi Champ
   * `GCA48-JA`
+* `A89`
+  * `GSA89`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1003284408`
 * `B00`: pop'n music 7
   * `GCB00`
 * `B05`: DrumMania 5thMIX / PercussionFreaks 5hMIX
@@ -366,6 +375,8 @@ chronologic order, e.g. regarding release dates.
 * `D40`: DrumMania 10thMIX / PercussionFreaks 10thMIX
   * `GCD40`
   * `G*D40-JBA`: e-AMUSEMENT  `#MAME:ksys573`
+* `D55`: Horse Park?
+  * `GSD55`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/p1003284956`
 * `DK9`: 麻雀格闘倶楽部3
   * `GUDK9-JB` 
 * `D44`: スリルドライブ3
@@ -395,6 +406,7 @@ chronologic order, e.g. regarding release dates.
   * `GCE13-JC`
 * `E33`: Dancing Stage Fusion
   * `GKE33-EA`
+* `E99`: ビシバシチャンプオンライン 〜笑撃の全国対戦!?〜 / Bishi Bashi Champ Online  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/p1004650716`
 * [`ECO`: beatmania IIDX 12 HAPPY SKY](software/ECO.md)
   * [`GQECO-JA`: Dedicated cabinet](product/GQECO-JA.md)
   * `GCECO-JA`
@@ -421,6 +433,7 @@ chronologic order, e.g. regarding release dates.
 * `F33`: GuitarFreaks V3
   * `GEF33`
 * `F55`: GI-VICTORY ROAD  `#SCRAPE:konami:eagate`
+* `F56`
 * `F96`: クルクルラボ
 * [`FDD`: beatmania IIDX 13 DistorteD](software/FDD.md)
   * [`GQFDD-JA`: Dedicated cabinet](product/GQFDD-JA.md)
@@ -456,6 +469,7 @@ chronologic order, e.g. regarding release dates.
   * `GEGGG-JB`
 * `GHL`: Silent Hill THE ARCADE
 * `GK9`: 麻雀格闘倶楽部6
+  * `GEGK9-JB`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/k1002469035`
 * `GLD`: beatmania IIDX 14 GOLD
   * [`GQGLD-JA`: Dedicated cabinet](product/GQGLD-JA.md)
   * `GEGLD-JA`: conversion kit  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/e1002287142`
@@ -505,6 +519,7 @@ chronologic order, e.g. regarding release dates.
 * `J39`: pop'n music 18
   * `GCJ39-JA`
 * `J44`: jubeat knit, jubeat knit APPEND
+* `J55`: GI-HORSEPARK GX [station?]  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/o1000215728`
 * `JC9`: オンガクパラダイス / Ongaku Paradise
 * [`JDJ`: beatmania IIDX 17 SIRIUS](software/JDJ.md)
   * `GCJDJ`
@@ -516,7 +531,7 @@ chronologic order, e.g. regarding release dates.
   * `GCJDZ-JA`
   * `GUJDZ-JB`: Resort Anthem LCD monitor  `#WEB:http://kururusky.com/?p=1458`
 * `JMA`: Quiz Magic Academy 7
-  * `GEJMA-JB`
+  * `GEJMA-JB`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/p870019570`
 * `JMP`: HELLO! POP'N MUSIC / ヘロー！！ポップンミュージック
 * `K32`: DrumMania V8, DrumManiaXG2 Groove to Live
   * `GCK32`
@@ -527,6 +542,8 @@ chronologic order, e.g. regarding release dates.
   * `GUK39-JA`: card dispenser
 * `K44`: jubeat copious, jubeat copious APPEND
   * `GEK44-JA`
+* `K56`
+  * `*E56-J*`: K56 `<PDP>`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/v1004013462`
 * `KA9`: PASELI カード
   * `GUKA9-JA`: 50 pack
 * `KBI`: 天下一将棋会2
@@ -541,7 +558,7 @@ chronologic order, e.g. regarding release dates.
 * `KDX`: DanceDanceRevolution X3 VS 2ndMIX
   * `GEKDX-JA`
 * [`KDZ`: beatmania IIDX 19 Lincle](software/KDZ.md)
-  * `GEKDZ-JA`
+  * `GEKDZ-JA`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/d1003782469`
 * `KFC`: SOUND VOLTEX BOOTH, SOUND VOLTEX II -infinite infection-, SOUND VOLTEX III GRAVITY WARS, SOUND VOLTEX IV HEAVENLY HAVEN, SOUND VOLTEX VIVID WAVE, SOUND VOLTEX EXCEED GEAR
   * `GQKFC-JA`
   * `GEKFC-JF`: Vivid Wave upgrade kit
@@ -549,7 +566,7 @@ chronologic order, e.g. regarding release dates.
   * `GUKFC-JD`: Exceed Gear art kit
   * `GUKFC-JZ`: SDVX generator real model
 * `KGG`: Steel Chronicle, Steel Chronicle VICTROOPERS
-  * `GQKGG-JA`
+  * `GQKGG-JA`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/1004281047`
 * `KGL`: GOLF CONNECTION  `#SCRAPE:konami:eagate`
 * `KMA`: Quiz Magic Academy 8  `#SCRAPE:konami:eagate`
 * `KK9`: 麻雀格闘倶楽部 ultimate version, 麻雀格闘倶楽部 NEXT, 麻雀格闘倶楽部 頂の陣, 麻雀格闘倶楽部 彩の華, 麻雀格闘倶楽部 ZERO, 麻雀格闘倶楽部 豪華絢爛, 麻雀格闘倶楽部 GRAND MASTER, 麻雀格闘倶楽部 疾風
@@ -645,6 +662,7 @@ chronologic order, e.g. regarding release dates.
 * `PS2`: FEATURE PREMIUM 3・4弾  `#SCRAPE:konami:eagate`
 * `PTA`: カラコロッタ2 ワンダフルオーシャン  `#SCRAPE:konami:eagate`
 * `PTL`: ツナガロッタ  `#SCRAPE:konami:eagate`
+  * `GSPTL-JA`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1001466025`
   * `GSPTL-JB`
 * `PWT`: トレジャーシュート  `#SCRAPE:konami:eagate`
 * `PX8`: フォーチュントリニティ3 三神獣の秘宝  `#SCRAPE:konami:eagate`
@@ -668,7 +686,7 @@ chronologic order, e.g. regarding release dates.
 * `RPU`: マーブルフィーバー  `#SCRAPE:konami:eagate`
 * `RSB`: ボンバーマン・ザ・メダル  `#SCRAPE:konami:eagate`
 * `RTA`: カラコロッタ 太陽とひみつの島  `#SCRAPE:konami:eagate`
-* `RTL`: ツナガロッタ アニマと虹色の秘境  `#SCRAPE:konami:eagate`
+* `RTL`: ツナガロッタ アニマと虹色の秘境  `#SCRAPE:konami:eagate` `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1001466025`
 * `S18`: e-amusement pass カード [amusement IC]  `#DOC:konami:117194030000 #DOC:konami:117371830000`
   * `GUS18-JA`: 汎用絵柄カード 100 枚入り / 100 pack
 * `S36`: 極寒ヒエヒエペン太  `#SCRAPE:konami:eagate`
