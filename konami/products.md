@@ -559,7 +559,6 @@ chronologic order, e.g. regarding release dates.
 * `SPU`: GRANDCROSS LEGEND  `#SCRAPE:konami:eagate`
 * `SS4`: FEATURE Premium 7・8弾  `#SCRAPE:konami:eagate`
 * `T44`: jubeat (新筐体) [unreleased]  `#WEB:https://game.mirai-media.net/jubeat-jaepo2020/`
-  * `GQT44-JA`
 * `TBS`: 武装神姫　アーマードプリンセス　バトルコンダクター
 * `TCS`: カードコネクト / CARD CONNECT
 * `TDJ`: beatmania IIDX 27 HEROIC VERSE \[Lightning model\]
