@@ -12,29 +12,54 @@ chronologic order, e.g. regarding release dates.
   * `GX400`: Bubble System main board (?)
 * `700`: System 573
   * `GX700`: System 573 main board (?)
+  * `700A01`: Boot ROM: "573 BIOS EEPROM - KWS"
+  * `700B01`: Boot ROM (Dancin Stage EuroMIX2?)
+  * `700A04`: CD-ROM Drive Updater  `#MAME:ksys573`
+  * `700B04`: CD-ROM Drive Updater 2.0  `#MAME:ksys573`
+* `706`: Dark Horse Legend  `#MAME:ksys573`
+  * `GX706-JAA`
+* `710`: Handle Champ / Steering Champ  `#MAME:ksys573`
+  * `GQ710-JAB`
+  * `GQ710-SAA`
+  * `GQ710-UAA`
 * `751`
   * `GQ751`: Twinkle main board (?)
 * `753`: beatmania
   * `GQ753`
+* `765`: Bass Angler / Fisherman's Bait - A Bass Challenge  `#MAME:ksys573`
+  * `GE765-JAA`: Bass Angler
+  * `GE765-UAB`: Fisherman's Bait - A Bass Challenge
 * `785`: Gradius 2
-* `945`: Gradius 3
+* `802`: Jikkyou Powerful Pro Yakyuu EX  `#MAME:ksys573`
+  * `GX802-JAB`
 * `803`: pop'n music
   * `GC803`
+* `811`: Jikkyou Powerful Pro Yakyuu EX '98  `#MAME:ksys573`
+  * `GC811-JAA`
 * `825`: beatmania 3rdMIX
   * `GQ825`
   * `GC825`
+* `826`: Konami 80's Gallery / Konami 80's AC Special  `#MAME:ksys573`
+  * `GC826-JAA`: Konami 80's Gallery
+  * `GC826-AAA`: Konami 80's AC Special
+  * `GC826-KAA`: Konami 80's AC Special
+  * `GC826-UAA`: Konami 80's AC Special
+  * `GC826-EAA`: Konami 80's AC Special
 * `831`: pop'n music 2
   * `GC831`
-* `845`: DanceDanceRevolution, Dancing Stage
+* `845`: DanceDanceRevolution / Dancing Stage
   * `GN845-JA` / `GC845-JA? (MAME)`: DanceDanceRevolution
   * `GN845-JB` / `GC845-JB? (MAME)`: DanceDanceRevolution インターネットランキングVer.
-  * `GK845-AA`: DanceDanceRevolution \[Asian cab, https://manualzz.com/download/48538447 \]
-  * `GN845-AA`: DanceDanceRevolution \[Asian cab, https://manualzz.com/download/48538447 \]
-  * `GN845-TB`: DanceDanceRevolution \[Asian cab, 110V, https://manualzz.com/download/48538447 & https://tamdb.net/downloads/?sa=downfile&id=2700 \]
-  * `GN845-UC`: DanceDanceRevolution \[US cab, https://www.yumpu.com/en/document/view/59902551/dance-dance-revolution-operators-manual-model-gn845-uc \]
-  * `GN845-HD`: DanceDanceRevolution \[Asian cab, 220V, https://manualzz.com/download/48538447 & https://tamdb.net/downloads/?sa=downfile&id=2700 \]
+  * `GK845-AA`: DanceDanceRevolution \[Asian cab\]  `#WEB:https://manualzz.com/download/48538447`
+  * `GN845-AA`: DanceDanceRevolution \[Asian cab\]  `#WEB:https://manualzz.com/download/48538447`
+  * `GN845-TB`: DanceDanceRevolution \[Asian cab, 110V\]  `#WEB:https://manualzz.com/download/48538447 #WEB:https://tamdb.net/downloads/?sa=downfile&id=2700`
+  * `GN845-UC`: DanceDanceRevolution \[US cab\]  `#WEB:https://www.yumpu.com/en/document/view/59902551/dance-dance-revolution-operators-manual-model-gn845-uc`
+  * `GN845-HD`: DanceDanceRevolution \[Asian cab, 220V\]  `#WEB:https://manualzz.com/download/48538447  #WEB:https://tamdb.net/downloads/?sa=downfile&id=2700`
+  * `GN845-UAA`: DanceDanceRevolution \[US cab\]  `#MAME:ksys573`
   * `GN845-EA`: Dancing Stage
-  * `GN845-EB`: Dancing Stage INTERNET R@NKING
+  * `GK845-EC`: Dancing Stage INTERNET R@NKING Ver. (on casette, sample #1)
+  * `GC845-EB`: Dancing Stage INTERNET R@NKING Ver.  `#MAME:ksys573`
+  * `GC845-EC`: Dancing Stage INTERNET R@NKING Ver. (on casette, sample #1)
 * `847`: beatmania 4thMIX
   * `GC847-JA`
 * `853`: beatmania 2ndMIX
@@ -45,17 +70,33 @@ chronologic order, e.g. regarding release dates.
   * `GC858`
 * `863`: beatmania IIDX
   * [`GQ863-JA`: Dedicated cabinet](product/GQ863-JA.md)
-* `874`: Dance Maniax
+* `865`: Bass Angler 2 / Fisherman's Bait 2 - A Bass Challenge  `#MAME:ksys573`
+  * `GE865-JAA`: Bass Angler 2
+  * `GE865-UAB`: Fisherman's Bait 2 - A Bass Challenge
+* `874`: Dance Maniax / Dance Freaks
   * `GK874-KA`: Dance Freaks
-* `877`: Gachagchamp
+* `876`: Hyper Bishi Bashi Champ  `#MAME:ksys573`
+  * `GQ876-AAA`
+  * `GE876-KAA`
+  * `GQ876-EAA`
+* `877`: Gachagachamp
   * `GQ877-JA`
   * `GE877-JA`: on PCMCIA card
-* `881`: DrumMania
-  * `GQ881`
+* `881`: DrumMania / Percussion Freaks
+  * `GQ881-JAD`: DrumMania  `#MAME:ksys573`
+  * `GQ881-UAB`: DrumMania  `#MAME:ksys573`
+  * `GQ881-AAB`: Percussion Freaks  `#MAME:ksys573`
+  * `GQ881-KAB`: Percussion Freaks  `#MAME:ksys573`
+  * `GQ881-EAB`: Percussion Freaks  `#MAME:ksys573`
   * `GQ881-HD`: Percussion Freaks
   * `GQ881-TB`: Percussion Freaks
 * `883`: GuitarFreaks 2ndMIX
-  * `GQ883`
+  * `GQ883-JAA`  `#MAME:ksys573`
+  * `GQ883-JAD`: Ver 1.01  `#MAME:ksys573`
+  * `GQ883-AAA`  `#MAME:ksys573`
+  * `GQ883-KAA`  `#MAME:ksys573`
+  * `GQ883-UAA`  `#MAME:ksys573`
+  * `GQ883-EAA`  `#MAME:ksys573`
 * `884`: Dancing Stage featuring TRUE KiSS DESTiNATiON
   * `GN884-JA`:
 * `885`: DanceDanceRevolution 2ndMIX Link Version
@@ -63,17 +104,33 @@ chronologic order, e.g. regarding release dates.
   * `GE885-JB`: DanceDanceRevolution リンクキット?
   * `GU885-JA`
 * `886`: GuitarFreaks
-  * `GQ886`
+  * `GQ886-JAC`  `#MAME:ksys573`
+  * `GQ886-JAD`: Ver 1.01  `#MAME:ksys573`
+  * `GQ886-AAC`  `#MAME:ksys573`
+  * `GQ886-AAD`: Ver 1.01  `#MAME:ksys573`
+  * `GQ886-UAC`  `#MAME:ksys573`
+  * `GQ886-UAD`: Ver 1.01  `#MAME:ksys573`
+  * `GQ886-EAC`  `#MAME:ksys573`
+  * `GQ886-EAD`: Ver 1.01  `#MAME:ksys573`
   * `GQ886-HD`: GUITAR FREAKS
   * `GQ886-TB`: GUITAR FREAKS
 * `887`: DanceDanceRevolution 3rdMIX
   * `GN887-JA`
+  * `GN887-AAA`  `#MAME:ksys573`
+  * `GN887-KAA`  `#MAME:ksys573`
+  * `GN887-KBA`  `#MAME:ksys573`
   * `GE887-JA`: DanceDanceRevolution 3rdMIX コンバーシオンキット (for GN895-JA, GC895-JA, GE896-JA, GE885-JB)
   * `GE887-JB`: DanceDanceRevolution 3rdMIX コンバーシオンキット (for GN884-JA)
+* `889`: Fisherman's Bait - Marlin Challenge  `#MAME:ksys573`
+  * `GX889-JA`
+  * `GX889-AA`
+  * `GX889-UA`
+  * `GX889-EA`
 * `892`: DanceDanceRevolution Best of Cool Dancers
+  * `GE892-JAA`  `#MAME:ksys573`
   * `GC892`
 * `894`: DanceDanceRevolution Solo BASS MIX
-  * `GQ894`
+  * `GQ894-JAA`  `#MAME:ksys573`
 * `895`: DanceDanceRevolution 2nd MIX
   * `GN895-JA`: DanceDanceRevolution 2nd MIX
   * `GC895-JA`: DanceDanceRevolution 2nd MIX コンバーシオンキット
@@ -81,17 +138,42 @@ chronologic order, e.g. regarding release dates.
   * `GN896`: DanceDanceRevolution 2ndMIX with beatmania IIDX CLUB VERSiON
   * `GE896-JA`: DanceDanceRevolution クラブキット
 * `905`: DanceDanceRevolution Solo 2000
-  * `GC905`
+  * `GC905-JAA`  `#MAME:ksys573`
+  * `GC905-AAA`  `#MAME:ksys573`
+* `906`: GunMania  `#MAME:ksys573`
+  * `GL906-JAA`
+* `908`: Hyper Bishi Bashi Champ [two player]  `#MAME:ksys573`
+  * `GX908-JAA`
+  * `GX908-KAA`
 * `910`: Dancing Stage featuring DREAMS COME TRUE
-  * `GC910`
-* `912`: DrumMania 2ndMIX
-  * `GE912`
+  * `GC910-JAA`  `#MAME:ksys573`
+  * `GC910-JCA`  `#MAME:ksys573`
+* `912`: DrumMania 2ndMIX / Percussion Freaks 2ndMIX
+  * `GE912-JAB`: DrumMania 2ndMIX
+  * `GE912-JAB?`: DrumMania 2ndMIX Session Power Up Kit  `#MAME:ksys573`
+  * `GE912-AAA`: Percussion Freaks 2ndMIX  `#MAME:ksys573`
+  * `GE912-KAA`: Percussion Freaks 2ndMIX  `#MAME:ksys573`
+* `918`: Punch Mania: Hokuto no Ken / Fighting Mania  `#MAME:ksys573`
+  * `GQ918-JAB`: Punch Mania: Hokuto no Ken
+  * `GQ918-AAA`: Fighting Mania
+  * `GQ918-KAA`: Fighting Mania
+  * `GQ918-UAA`: Fighting Mania
+  * `GQ918-AAA`: Fighting Mania
+* `921`: DanceDanceRevolution Karaoke MIX  `#MAME:ksys573`
+  * `GQ921-JBB`
+* `929`: GuitarFreaks 2ndMIX Link Kit  `#MAME:ksys573`
+  * `GE929-JAA`: 1
+  * `GC929-JBB`: 2
+* `930`: Step Champ  `#MAME:ksys573`
+  * `GQ930-JA`
 * `936`: Dancing Stage EuroMIX
   * `GE936`
   * `GN936`: cab label
   * `GK936`: casette label
+* `945`: Gradius 3
 * `949`: GuitarFreaks 3rdMIX
   * `GE949`
+  * `949JAZ02`: version update security casette
 * `970`: pop'n stage
   * `GQ970`
   * `GC970`: pop'n stage EX
@@ -143,6 +225,10 @@ chronologic order, e.g. regarding release dates.
   * `GCA05-JB`
 * `A05`: beatmania III APPEND CORE REMIX
   * `GCA05-JC`
+* `A07`: Anime Champ  `#MAME:ksys573`
+  * `GCA07-JAA`
+* `A09`: Punch Mania 2: Hokuto no Ken  `#MAME:ksys573`
+  * `GQA09-JAA`
 * `A11`: ParaParaParadise 1st MIX Plus
   * `GQA11`
 * `A12`: KEYBOARDMANIA 3rdMIX
@@ -152,17 +238,19 @@ chronologic order, e.g. regarding release dates.
 * `A16`: pop'n music 6
 * `A17`: beatmania IIDX 5th Style
   * `GCA17-JA`
+* `A18`: Salary Man Champ  `#MAME:ksys573`
+  * `GCA18-JAA`
 * `A21`: beatmania 6thMIX -THE UK UNDERGROUND MUSIC-, beatmania III APPEND 6thMIX
   * `GCA21-JC`: beatmania III APPEND 6thMIX
 * `A22`: DanceDanceRevolution 3rdMIX PLUS
   * `GCA22`
-* `A23`: DrumMania 3rdMIX
+* `A23`: DrumMania 3rdMIX / Percussion Freaks 3rdMIX
   * `GCA23`
 * `A24`: GuitarFreaks 4thMIX
   * `GEA24`
   * `GEA24-HD`
   * `GEA24-TB`
-* `A25`: DrumMania 4thMIX
+* `A25`: DrumMania 4thMIX / Percussion Freaks 4thMIX
   * `GEA25`
   * `GKA25-KA`: Percussion Freaks 4thMIX
 * `A26`: GuitarFreaks 5thMIX
@@ -171,27 +259,35 @@ chronologic order, e.g. regarding release dates.
   * `GCA27-JA`
 * `A33`: DanceDanceRevolution 4thMIX, DanceDanceRevolution 4thMIX SOLO
   * `GCA33-JA`: DanceDanceRevolution 4thMIX
+  * `G*A33-JBA`: DanceDanceRevolution 4thMIX SOLO  `#MAME:ksys573`
+  * `G*A33-AAA`: DanceDanceRevolution 4thMIX  `#MAME:ksys573`
+  * `G*A33-ABA`: DanceDanceRevolution 4thMIX SOLO  `#MAME:ksys573`
   * `GCA33-RAA`: DanceDanceRevolution 4thMIX
   * `GCA33-RBA`: DanceDanceRevolution 4thMIX SOLO
   * `GEA33-JY`: DanceDanceRevolution 4thMIX
   * `GEA33-JZ`: DanceDanceRevolution 4thMIX
 * `A34`: DanceDanceRevolution 4thMIX PLUS/DanceDanceRevolution 4thMIX PLUS SOLO
+  * `G*A34-JAA`: DanceDanceRevolution 4thMIX PLUS  `#MAME:ksys573`
+  * `G*A34-JBA`: DanceDanceRevolution 4thMIX PLUS SOLO  `#MAME:ksys573`
   * `GCA34-RAA`: DanceDanceRevolution 4thMIX PLUS
   * `GCA34-RBA`: DanceDanceRevolution 4thMIX PLUS SOLO
 * `A37`: Dancing Stage featuring Disney's RAVE
-  * `GCA37`
+  * `GCA37-JAA`  `#MAME:ksys573`
 * `A38`: Dance Maniax 2ndMIX append JPARADISE
   * `GCA38-JA`
   * `GCA38-JB`
 * `A39`: Dance Maniax 2ndMIX
   * `GCA39`
 * `A40`: MAMBO A GOGO
-  * `GQA40`
+  * `GQA40-JAB`  `#MAME:ksys573`
+  * `GQA40-JRB`: e-AMUSEMENT  `#MAME:ksys573`
 * `A44`: DanceDanceRevolution USA
   * `GKA44-UA`
+* `A48`: Great Bishi Bashi Champ
+  * `GCA48-JA`
 * `B00`: pop'n music 7
   * `GCB00`
-* `B05`: DrumMania 5thMIX
+* `B05`: DrumMania 5thMIX / PercussionFreaks 5hMIX
   * `GCB05`
 * `B06`: GuitarFreaks 6thMIX
   * `GCB06`
@@ -199,7 +295,8 @@ chronologic order, e.g. regarding release dates.
   * `GEB07-JA`: beatmania 7thMIX
   * `GEB07-JB`: beatmania 7thMIX
   * `GCB07-JC`: beatmania III APPEND 7thMIX
-* `B16`: DrumMania 6thMIX
+* `B08`: Python PCB?
+* `B16`: DrumMania 6thMIX / PercussionFreaks 6thMIX
   * `GCB16`
 * `B17`: GuitarFreaks 7thMIX
   * `GCB17`
@@ -222,7 +319,7 @@ chronologic order, e.g. regarding release dates.
   * [`GEC02-JB`: Hardware conversion kit](product/GEC02-JB.md)
   * [`GEC02-JC`: Hardware conversion kit](product/GEC02-JC.md)
   * `GUC02-JA`: エントリーカード (100枚入り)　/ entry card (100 pack)
-* `C07`: DrumMania 7thMIX
+* `C07`: DrumMania 7thMIX / PercussionFreaks 7thMIX
   * `GCC07`
   * `GEC07`: Power up version
 * `C08`: GuitarFreaks 8thMIX
@@ -232,14 +329,15 @@ chronologic order, e.g. regarding release dates.
   * `GCC20-JB`
   * `GCC20-JD`
 * `C23`: Dancing Stage EuroMIX2
-  * `GNC23`: cab label
-  * `GKC23`: casette label
+  * `GNC23`: (on cab)
+  * `GKC23`: (on casette, sample #1)
+  * `GCC23`: (on casette, sample #2)
 * `C32`: Card dispenser
   * `HOC32`
 * `C33`: ee'MALL
 * `C36`: DanceDanceRevolution EXTREME
   * `GCC36`
-* `C38`: DrumMania 8thMIX
+* `C38`: DrumMania 8thMIX / PercussionFreaks 8thMIX
   * `GCC38`
 * `C39`: GuitarFreaks 9thMIX
   * `GCC39`
@@ -250,18 +348,21 @@ chronologic order, e.g. regarding release dates.
   * [`GQD01-JA`: Dedicated cabinet](product/GQD01-JA.md)
   * `GCD01-JA`
   * `GCD01-JB`
-* `D09`: DrumMania 9thMIX
+* `D09`: DrumMania 9thMIX / PercussionFreaks 9thMIX
   * `GCD09`
+  * `G*D09-ABA`: e-AMUSEMENT  `#MAME:ksys573`
 * `D10`: GuitarFreaks 10thMIX
   * `GCD10`
+  * `G*D10-JBA`: e-AMUSEMENT  `#MAME:ksys573`
 * `D11`: pop'n music 11
   * `GCD11-JA`
   * `GCD11-JC`
 * `D33`: ee'MALL 2nd avenue
 * `D39`: GuitarFreaks 11thMIX
   * `GCD39`
-* `D40`: DrumMania 10thMIX
+* `D40`: DrumMania 10thMIX / PercussionFreaks 10thMIX
   * `GCD40`
+  * `G*D40-JBA`: e-AMUSEMENT  `#MAME:ksys573`
 * `DK9`: 麻雀格闘倶楽部3
   * `GUDK9-JB` 
 * `E02`: DrumMania V
@@ -286,7 +387,7 @@ chronologic order, e.g. regarding release dates.
   * `GCE13-JA`
   * `GCE13-JC`
 * `E33`: Dancing Stage Fusion
-  * `GKE33`
+  * `GKE33-EA`
 * [`ECO`: beatmania IIDX 12 HAPPY SKY](software/ECO.md)
   * [`GQECO-JA`: Dedicated cabinet](product/GQECO-JA.md)
   * `GCECO-JA`
@@ -350,6 +451,8 @@ chronologic order, e.g. regarding release dates.
   * `GEGLD-JA`: conversion kit  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/e1002287142`
 * `H16`: pop'n music 16
   * `GQH16-JA`
+* `H24`: Byon Byon Action Arcade
+  * `GLH24-JA`
 * `H32`: DrumMania V5
   * `GCH32`
 * `H33`: GuitarFreaks V5
@@ -424,6 +527,7 @@ chronologic order, e.g. regarding release dates.
 * `KCK`: ウイニングイレブン
   * `GCKCK-JA`
 * `KDM`: DanceEvolution ARCADE
+  * `GQKDM-JA`: cabinet
 * `KDX`: DanceDanceRevolution X3 VS 2ndMIX
   * `GEKDX-JA`
 * [`KDZ`: beatmania IIDX 19 Lincle](software/KDZ.md)
@@ -431,8 +535,9 @@ chronologic order, e.g. regarding release dates.
 * `KFC`: SOUND VOLTEX BOOTH, SOUND VOLTEX II -infinite infection-, SOUND VOLTEX III GRAVITY WARS, SOUND VOLTEX IV HEAVENLY HAVEN, SOUND VOLTEX VIVID WAVE, SOUND VOLTEX EXCEED GEAR
   * `GQKFC-JA`
   * `GEKFC-JF`: Vivid Wave upgrade kit
-  * `GUKFC-JZ`: SDVX generator real model
   * `GCKFC-JF`: Vivid Wave offline kit
+  * `GUKFC-JD`: Exceed Gear art kit
+  * `GUKFC-JZ`: SDVX generator real model
 * `KGG`: Steel Chronicle, Steel Chronicle VICTROOPERS
   * `GQKGG-JA`
 * `KGL`: GOLF CONNECTION  `#SCRAPE:konami:eagate`
@@ -452,6 +557,7 @@ chronologic order, e.g. regarding release dates.
   * `GCL39-JA`
 * `L44`: jubeat saucer, jubeat saucer fulfill, jubeat prop, jubeat Qubell, jubeat clan, jubeat festo
   * `GQL44-JB`
+  * `GUL44-JH`: clan art kit
 * `L57`: GI-GranDesire  `#SCRAPE:konami:eagate`
 * `LA9`: PASELIチャージ機 / PASELI Charging Machine
   * `GQLA9-JA`
@@ -489,7 +595,7 @@ chronologic order, e.g. regarding release dates.
 * `M33`: GITADORA (Drums)
   * `GCM33`
 * `M39`: pop'n music Sunny Park, pop'n music ラピストリア, pop'n music éclale, pop'n music うさぎと猫と少年の夢, pop'n music peace, pop'n music 解明リドルズ
-  * `GCM39-JA`
+  * `GCM39-JA`: upgrade + generic art kit?
 * `MBR`: REFLEC BEAT colette (from 2013051300), REFLEC BEAT groovin'!!, REFLEC BEAT VOLZZA, REFLEC BEAT VOLZZA 2, REFLEC BEAT 悠久のリフレシア
   * `GEMBR-JA`
 * `MDX`: DanceDanceRevolution [2013], DanceDanceRevolution [2014], DanceDanceRevolution A, DanceDanceRevolution A20, DanceDanceRevolution A20 PLUS
@@ -499,6 +605,7 @@ chronologic order, e.g. regarding release dates.
   * `GKMDX-UD`
   * `GKMDX-AE`
 * `MMD`: ミライダガッキ / FutureTomTom, ミライダガッキ Ver.2 / FutureTomTom Ver.2
+  * `GQMMD-JA`: cabinet
 * `MX8`: フォーチュントリニティ2  `#SCRAPE:konami:eagate`
 * `NBF`: アルティメットストライカー / Ultimate Strikers
 * `NBT`: ビートストリーム / BeatStream
@@ -520,9 +627,9 @@ chronologic order, e.g. regarding release dates.
 * `P2D`: beatmania IIDX INFINITAS [home version]
 * `P65`: エルドラクラウン  `#SCRAPE:konami:eagate`
 * `PAN`: ノスタルジア / NOSTALGIA, スタルジア FORTE / NOSTALGIA FORTE, スタルジア Op.2 / NOSTALGIA Op.2, スタルジア Op.3 / NOSTALGIA Op.3
-  * `GEPAN-JA`
+  * `GEPAN-JA`: NBT -> PAN conversion kit
 * `PIX`: MÚSECA
-  * `GQPIX-JA`
+  * `GQPIX-JA`: cabinet
 * `PMF`: マジカルシューター  `#SCRAPE:konami:eagate`
 * `PS1`: FEATURE Premium  `#SCRAPE:konami:eagate`
 * `PS2`: FEATURE PREMIUM 3・4弾  `#SCRAPE:konami:eagate`
@@ -556,6 +663,7 @@ chronologic order, e.g. regarding release dates.
   * `GUS18-JA`: 汎用絵柄カード 100 枚入り / 100 pack
 * `S36`: 極寒ヒエヒエペン太  `#SCRAPE:konami:eagate`
 * `S65`: エルドラクラウン 紅蓮の覇者  `#SCRAPE:konami:eagate`
+* `SA1`: TREASURE ROAD  `#DOC:konami:GKSA1-UA`
 * `SPU`: GRANDCROSS LEGEND  `#SCRAPE:konami:eagate`
 * `SS4`: FEATURE Premium 7・8弾  `#SCRAPE:konami:eagate`
 * `T44`: jubeat (新筐体) [unreleased]  `#WEB:https://game.mirai-media.net/jubeat-jaepo2020/`
