@@ -29,6 +29,7 @@ The following variables are used across the different identifiers and can denote
   * `E`: Extension: Software + hardware
   * `L`: Redemption cabinet?
   * `K`: Conversion/Extension by/for third party?
+  * `M`: ???
   * `N`: Cabinet manufactured by third party?
   * `O`: Cabinet?
   * `S`: Medal cabinet (station?)

@@ -325,6 +325,8 @@ chronologic order, e.g. regarding release dates.
 * `C08`: GuitarFreaks 8thMIX
   * `GCC08`
   * `GEC08`: Power Up Version 
+* `C18`: World Soccer Winning Eleven Arcade Game Style / Pro Evolution Soccer The Arcade  `#MAME:kpython`
+  * `GXC18-EAA`: Pro Evolution Soccer The Arcade
 * `C20`: pop'n music 10
   * `GCC20-JB`
   * `GCC20-JD`
@@ -332,6 +334,7 @@ chronologic order, e.g. regarding release dates.
   * `GNC23`: (on cab)
   * `GKC23`: (on casette, sample #1)
   * `GCC23`: (on casette, sample #2)
+* `C27`: World Soccer Winning Eleven Arcade Game 2003  `#MAME:kpython`
 * `C32`: Card dispenser
   * `HOC32`
 * `C33`: ee'MALL
@@ -365,6 +368,10 @@ chronologic order, e.g. regarding release dates.
   * `G*D40-JBA`: e-AMUSEMENT  `#MAME:ksys573`
 * `DK9`: 麻雀格闘倶楽部3
   * `GUDK9-JB` 
+* `D44`: スリルドライブ3
+  * `GMD44-JA`  `#WEB:http://collectedit.com/collectors/shou-time-213/arcade-pcbs-281/thrill-drive-3-japan-by-konami-9999`
+* `E00`: Toy's March
+  * `GQE00-JA`
 * `E02`: DrumMania V
   * `GEE02`
   * `GNE02-HD`: DrumManiaV
@@ -396,6 +403,9 @@ chronologic order, e.g. regarding release dates.
   * [`GEECO-JB`: Hardware conversion kit](product/GEECO-JB.md)
 * `EGG`: Quiz Magic Academy 2
 * `EK9`: 麻雀格闘倶楽部4
+* `F00`: Toy's March 2
+  * `GQF00-JA`
+  * `GEF00-JA`  `#WEB:http://collectedit.com/collectors/shou-time-213/arcade-pcbs-281/toys-march-2-japan-by-konami-34733`
 * `F02`: DrumMania V2
   * `GEF02`
   * `GNF02-HD`
