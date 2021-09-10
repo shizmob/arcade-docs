@@ -194,7 +194,7 @@ Also known as: "BemaniPC Type 2" (unofficially).
 ### FAB-e67-TP601
 
 **MBD:** Toshiba TEM130  
-**Games:** KPU  
+**Games:** KDM, KPU  
 
 ### FAB-e67-KN612
 
