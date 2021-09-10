@@ -230,7 +230,7 @@ JP/Asia/China:
 **RAM:** 1x Samsung M368L2923DUN  (DDR, PC-3200, 1GB)  
 **GPU:** \[N2\] Nvidia GeForce 4 series?  
 **GPU:** \[N2(WM3)(Asia/China)\] Nvidia GeForce 7600GS (AGP, 256MB) (China 7600GS has rubber material covering VRAM chips)  
-**GPU:** \[N2(WM3)(Japan)\] Nvidia GeForce 7800GS (AGP, 512MB?, red sticker on N2(WM3) type sticker, game: W3P)  
+**GPU:** \[N2(WM3)(Japan)\] Nvidia GeForce 7800GS (AGP, 256MB, red sticker on N2(WM3) type sticker, game: W3P)  
 **HDD:** Seagate ST380215A/ST380011A (80GB PATA) / WD WD800BB-55JKC0 (80GB PATA)  
 **IO:** [Namco V337 RC PCB](io.md#v337-rc) (expansion slot, to motherboard JAUD1)  
 **IO:** RATOC PCI604 (PCI, 1x USB, 1x RS232 DE-9 serial, 2x internal COM header with ribbon cable to V337 RS, REX-PCI60 variant? https://www.ratocsystems.com/products/subpage/pci60.html)  
