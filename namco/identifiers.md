@@ -8,9 +8,21 @@ This file describes the various identifiers and their formats that are used in p
 
 A sequence of two or three letters or numbers that identifies a specific NAMCO title. Example: `TE7` is Tekken 7.
 
+### J-code
+
+The letter `J` followed by a sequence of three digits. Current purpose unknown. Example: `J006`.
+
+### M-code
+
+The letter `M` followed by a sequence of three digits. Current purpose unknown. Example: `M188`.
+
 ### V-code
 
 The letter `V` followed by a sequence of three digits that identifies a specific NAMCO title. Example: `V386` is Wangan Midnight Maximum Tune 3DX+.
+
+### Z-code
+
+The letter `Z` followed by a sequence of three digits. Current purpose unknown. Example: `Z085`.
 
 ### Region code
 

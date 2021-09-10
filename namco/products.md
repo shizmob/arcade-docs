@@ -100,6 +100,8 @@ BZ  - Blazer
 CB  - Cyber Cycles
 CBR - Cobra The Arcade
 CHS - Seishun Quiz Colorful High School
+CA  - プセルゴルフ / Capsule Golf  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/h392582969
+CL  - ???  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/c906436276
 CO  - Cosmo Gang the Video
 CP  - Cosmo Gang the Puzzle
 CSN - Counter Strike Neo
@@ -142,7 +144,7 @@ FH  - Fine Hour
 FL  - Final Lap
 FLR - Final Lap R
 FLS - Final Lap 2
-FLT - Final Lap 3
+FLT - Final Lap 3  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/e1004132515
 FO  - Face Off
 FTL - Fighting Layer
 FUD - Fate/Unlimited Codes
@@ -173,9 +175,10 @@ GXO - Gundam Extreme Vs. Maxi Boost ON (GXO)
 GY  - Gynotai
 GYM - Gegege no Kitarō Yōkai Yokochō Matsuri De Batoru Ja
 HM  - Hopping Mappy
-IDM - The IDOLM@STER
+IDM - The IDOLM@STER  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/j1004144883 (IDMS1) #WEB:https://page.auctions.yahoo.co.jp/jp/auction/d1004142476 (IDMT1)
 IN2 - Sukusuku Inufuku 2 / The Dog Luck 2
 JAM - Capcom Fighting Jam / Capcom Fighting Evolution
+JS  - じゃんけんしようよメイン 
 KH  - Kunckle Heads
 KN1 - Kinnikuman Muscle Grand Prix
 KN2 - Kinnikuman Muscle Grand Prix 2
@@ -194,8 +197,10 @@ MG  - Motocross Go!
 MGP - Moto GP
 MH  - Metal Hawk
 MHM - Disney Magic Castle: Magical Happy Mirror
-MK3 - Mario Kart GP DX
-MM  - Marchen Maze
+MKA - Mario Kart Arcade GP
+MK2 - Maria Kart Arcade GP2
+MK3 - Mario Kart Arcade GP DX
+MM  - Marchen Maze  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/e416013533
 MMH - Maximum Heat 3D
 MN  - Mirai Ninja
 MQ  - Bakuretsu Quiz Ma-Q Dai Bouken
@@ -227,7 +232,7 @@ PMB - Pacman Ball
 PMW - Pokemon Medal World
 PN  - Pac-Mania
 PNP - Panic Park
-PPA - Panicuru Panekuru
+PPA - パニクル　パネクル / Panicuru Panekuru  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/j684176374
 PPP - Paca Paca Passion
 PR  - Prop Cycle
 PR2 - Pride GP 2003
@@ -269,7 +274,8 @@ SCP - Smash Court Pro Tournament
 SE  - Speed Racer
 SED - Mobile Suit Gundam SEED O.M.N.I. vs Z.A.F.T
 SG  - Winning Run Suzuka Grand Prix
-SH  - Splatter House
+SGR - ???  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/t802818945
+SH  - Splatter House  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/h548583253
 SK  - Sky Kid Deluxe
 SKH - Sekai Kaseki Hakken
 SN  - Steel Gunner
@@ -290,6 +296,8 @@ ST  - Starblade
 STP - Star Sweep
 STT - Star Trigon
 SV  - Solvalou
+SWB - M188???  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/l1003283787
+SWF - M143???  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/h1003281724
 SWS - Super World Stadium
 SYN - Synchronica
 T10 - Taiko no Tatsujin 10
@@ -299,6 +307,7 @@ T13 - Taiko no Tatsujin 13
 T14 - Taiko no Tatsujin 14
 T6B - Tekken 6 Bloodline Rebellion
 TC5 - Time Crisis 5
+TCH - ビンゴキッズ  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/d298580939
 TE  - Tekken
 TE5 - Tekken 5
 TE6 - Tekken 6
@@ -309,7 +318,7 @@ TEG - Tekken Tag Tournament
 TER - Tekken 7 Fated Retribution
 TES - Tekken 2
 TET - Tekken 3
-TF  - Tank Force
+TF  - Tank Force  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/x1004252803
 TG2 - Tekken Tag Tournament 2
 TH  - Techno Drive
 TK  - Tinkle Pit
@@ -358,9 +367,11 @@ WMN - Wangan Midnight
    1- JP
    2- EXP
 WMR - Wangan Midnight R
+WPD - ワニワニパラダイス / Wani Wani Paradise  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/p755515979
 WR  - Winning Run
 WS  - Pro Yakyuu World Stadium
 WS9 - Pro Yakyuu World Stadium '90
+WWC - ワイワイクリッパー  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/w290817382
 XDS - X-Day 2
 XV3 - Xevious 3D/G
 YD  - Youkai Douchuuki / Shadowland
@@ -369,4 +380,30 @@ ZDX - Mobile Suit Z Gundam DX A.E.U.G. vs Titans
 ZGA - Mobile Suit Z Gundam A.E.U.G. vs Titans
 ZNT - Minna de Kitaeru Zenno
 ZS  - Zelos
+```
+
+## Misc
+
+### [J-codes](identifiers.md#j-code)
+
+```
+J006 - MAIN PCB [ビンゴキッズ]     #WEB:https://page.auctions.yahoo.co.jp/jp/auction/d298580939
+```
+
+### [M-codes](identifiers.md#m-code)
+
+```
+M103 - MAIN PCB [ワニワニパラダイス]  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/p755515979
+M143 - MAIN PCB [SWF]              #WEB:https://page.auctions.yahoo.co.jp/jp/auction/h1003281724
+M168 - DRIVE PCB                   #WEB:https://page.auctions.yahoo.co.jp/jp/auction/u243960159
+M188 - MAIN PCB [SWB]              #WEB:https://page.auctions.yahoo.co.jp/jp/auction/l1003283787
+M171 - SIA PCB [ワイワイクリッパー]   #WEB:https://page.auctions.yahoo.co.jp/jp/auction/w290817382 
+```
+
+### [Z-codes](identifiers.md#z-code)
+
+```
+Z008 - Led PCB, lrサテライト PCB    #WEB:https://page.auctions.yahoo.co.jp/jp/auction/u1004573209 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/w1004574667
+Z068 - ST-ION PCB                  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/r1004096725
+Z085 - Clerk PCB                   #WEB:https://page.auctions.yahoo.co.jp/jp/auction/x1003283688
 ```
