@@ -21,7 +21,6 @@ string is provided to constrain the format properly.
 The following variables are used across the different identifiers and can denote the listed values:
 
 * `$p`: Product category
-  * `CG`: Card game?
   * `G`: Game
   * `H`: Hardware/Helper? e.g. card dispenser
 * `$t`: Product type
