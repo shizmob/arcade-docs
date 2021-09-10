@@ -312,6 +312,7 @@ A  - game boards, keychips
  61  - Nu/NuSX keychip
  63  - ALLS keychip
  67  - NuSX AMEX
+ 68  - Nu2 AMEX
  69  - Nu/NuSX keychip
  71  - ELEFUN keychip
  72  - RingEdge/RingWide/RingEdge2 keychip

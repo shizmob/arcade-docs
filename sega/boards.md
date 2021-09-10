@@ -130,7 +130,8 @@ SEGA parts are referred to using a [proprietary format](identifiers.md#part-numb
               839-1370 "IDE 2.5-3.5 TRANSLATION BD": Transcend TS8GSS25-S [2.5" IDE SSD 8GB] (server)
         IDE2: 2x 512MB Hagiwara SYS-COM IDT-512MSH [3.5" IDE SSD 512MB, produced by Toshiba: THNID512MSAIH10AAB] (server)
         OS:   MontaVista Linux
-        IO:   parallel card 837-14443-01
+        IO:   parallel card 837-14443-01 (server/video?/satellite)
+        IO:   audio card (sound)
 
   * Lindbergh Blue                  (AAJE, 844-30xxD, "ASSY CASE LBG W *")
         Case: blue, Lindbergh B logo top left
@@ -234,12 +235,12 @@ SEGA parts are referred to using a [proprietary format](identifiers.md#part-numb
         PSU: Delta EDPS-250AB A [250W]
 
   * Nu2             (AAVE, JP, 848-2001D, "ASSY CASE NU2")
-        MBD: Gigabyte MDH11BM
+        MBD: Gigabyte MDH11BM [837-15384]
         CPU: Intel Core i5-6500
-        RAM: 2x 4GB SK Hynix [8GB, DDR4-2133]
-        GPU: Nvidia GeForce GTX 960
+        RAM: 2x SK Hynix HMA451U6AFR8N [4GB, DDR4-2133]
+        GPU: Nvidia GeForce GTX 950 (BIOS 84.06.5A.00.05)
         SSD: TDK GBDisk GS1 120GB [MDA-E0013]
-        PSU: ???
+        PSU: Tiger Power TG-4080 [400W]
 
   * NuSX            (AAWE, JP, 848-1001D, "ASSY NUSX GAMEBOARD")
   * NuSX1.1         (AAWE, JP)
