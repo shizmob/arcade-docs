@@ -503,6 +503,7 @@ chronologic order, e.g. regarding release dates.
 * `I33`: GuitarFreaks V6
   * `GCI33`
 * `I36`: Metal Gear Solid Arcade
+  * `GPI36-JA`: Dedicated cabinet `#MEDIA:konami/GPI36-JA-sticker.jpg`
 * `I44`: jubeat ripples, jubeat ripples APPEND
   * `GCI44`
 * `IBB`: ザ・ビシバシ / THE*BISHIBASHI
