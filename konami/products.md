@@ -486,6 +486,7 @@ chronologic order, e.g. regarding release dates.
 * [`HDD`: beatmania IIDX 15 DJ TROOPERS](software/HDD.md)
   * [`GQHDD-JA`: Dedicated cabinet](product/GQHDD-JA.md)
   * [`GUHDD-JB`: LCD monitor](product/GUHDD-JB.md)  `#WEB:http://kururusky.com/?p=1458`
+  * `GQHDD-AA`: `#WEB:https://twitter.com/kururusky/status/1175652027067535360/photo/1`
 * `HCK`: ウイニングイレブン2008
 * `HCV`: 悪魔城ドラキュラ THE ARCADE
 * `HDX`: DanceDanceRevolution X
@@ -522,7 +523,7 @@ chronologic order, e.g. regarding release dates.
 * `J55`: GI-HORSEPARK GX [station?]  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/o1000215728`
 * `JC9`: オンガクパラダイス / Ongaku Paradise
 * [`JDJ`: beatmania IIDX 17 SIRIUS](software/JDJ.md)
-  * `GCJDJ`
+  * `GCJDJ-JA`
 * `JDX`: DanceDanceRevolution X2
   * `GCJDX-JA`
   * `GKJDX`
@@ -530,6 +531,7 @@ chronologic order, e.g. regarding release dates.
   * [`GQJDZ-JA`: Dedicated cabinet](product/GQJDZ-JA.md)
   * `GCJDZ-JA`
   * `GUJDZ-JB`: Resort Anthem LCD monitor  `#WEB:http://kururusky.com/?p=1458`
+  * `GCJDZ-AA`: Asia, round plug, no paseli `#WEB:https://twitter.com/kururusky/status/1175652027067535360/photo/1`
 * `JMA`: Quiz Magic Academy 7
   * `GEJMA-JB`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/p870019570`
 * `JMP`: HELLO! POP'N MUSIC / ヘロー！！ポップンミュージック
