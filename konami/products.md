@@ -115,8 +115,9 @@ chronologic order, e.g. regarding release dates.
   * `GC845-EC`: Dancing Stage INTERNET R@NKING Ver. (on casette, sample #1)
 * `847`: beatmania 4thMIX
   * `GC847-JA`
-* `853`: beatmania 2ndMIX
-  * `GQ853`
+* `853`: beatmania 2ndMIX/hiphopmania
+  * `GQ853-JA`: Dedicated cabinet, beatmania 2ndMIX, `#CLAIM:voidderef`
+  * `GQ853-EA`: Dedicated cabinet, hiphopmania, `#MEDIA:konami/GQ853-EA/sticker.jpg`
   * `GC853`
 * `858`: beatmania completeMIX
   * `GQ858`
