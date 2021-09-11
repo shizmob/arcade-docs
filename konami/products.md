@@ -419,7 +419,7 @@ chronologic order, e.g. regarding release dates.
   * `GCC20-JD`
 * `C22`: World Combat / Warzaid  `#MAME:viper`
 * `C23`: Dancing Stage EuroMIX2
-  * `GNC23`: (on cab)
+  * `GNC23`: Sticker on cabinet body, `#MEDIA:konami/GNC23-sticker.jpg`
   * `GKC23`: (on casette, sample #1)
   * `GCC23`: (on casette, sample #2)
 * `C27`: World Soccer Winning Eleven Arcade Game 2003  `#MAME:kpython`
