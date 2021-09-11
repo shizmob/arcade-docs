@@ -8,13 +8,39 @@ For identification purpose, Konami labels their products using a
 Lex-sorted by [gamecode](identifiers.md#gamecode). Gamecodes do not necessarily reflect a
 chronologic order, e.g. regarding release dates.
 
-* `067`: ゼクセクス  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1004550491
+* `067`: ゼクセクス  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1004550491`
+* `300`: System GX  `#MAME:konamiic.txt`
 * `400`: Bubble System
   * `GX400`: Bubble System main board (?)
 * `427`: サッカースーパースターズ  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/s1004169835
   * `GX427`: CONNECTOR PCB
   * `GU427`: CONNECTOR PCB  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/p1004071283
+* `455`: Badlands  `#MAME:konblands`
+  * `GX455`
+* `476`: Midnight Run  `#MAME:zr107`
+  * `GX476`
+* `523`: Finalizer  `#MAME:finalizr`
+  * `GX523`
 * `505`: スラムダンク  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/p1004071283
+* `672`: ソーラーアサルト
+  * `GN672 PWB(A)`: CPU board  `#MAME:gticlub`
+* `676`: Racing Jam  `#MAME:nwk-tr`
+  * `GN676-JAC`
+  * `GN676-JAE`: Racing Jam: Chapter 2?
+  * `GN676-EAE`: Racing Jam: Chapter 2?
+  * `GN676-PWB(H)A`: LAN board
+* `677`: Winding Heat  `#MAME:zr107`
+  * `GX677`
+* `678`: Jet Wave / Wave Shark  `#MAME:zr107`
+  * `GX678`
+  * `GN678-PWB(B)`: GPU board  `#MAME:gticlub`
+* `680`: Operation: Thunder Hurricane  `#MAME:gticlub #MAME:hornet`
+  * `GN680 PWB(E)`: I/O board
+* `685`: Hang Pilot  `#MAME:gticlub`
+* `688`: GTI Club  `#MAME:gticlub`
+  * `GN688 PWB`: Driver board  `#WEB:https://www.zax.com.au/buy/konami-driver-board-pcb/GN688-PWB403454`
+* `690`: Double Dribble  `#MAME:ddribble`
+  * `GX690`
 * `700`: System 573
   * `GX700`: System 573 main board (?)
   * `700A01`: Boot ROM: "573 BIOS EEPROM - KWS"
@@ -29,14 +55,28 @@ chronologic order, e.g. regarding release dates.
   * `GQ710-JAB`
   * `GQ710-SAA`
   * `GQ710-UAA`
+* `713`: Thrill Drive  `#MAME:nwk-tr`
+  * `GC713-JC`
+  * `G*713-JAB`
+  * `G*713-JAE`
+  * `G*713-EAA`
+  * `GE713-UF`: Hornet upgrade?  `#MAME:hornet`
+* `715`: TeraBurst  `#MAME:hornet`
+  * `GX715`
+  * `GN715 PWB(A)A`: Hornet CPU board
+  * `GN715 PWB(B)A`: Hornet GPU board
 * `751`
   * `GQ751`: Twinkle main board (?)
 * `753`: beatmania
   * `GQ753`
+  * `GX753`: DJMAIN board
 * `765`: Bass Angler / Fisherman's Bait - A Bass Challenge  `#MAME:ksys573`
   * `GE765-JAA`: Bass Angler
   * `GE765-UAB`: Fisherman's Bait - A Bass Challenge
+* `778`: NBA Play by Play  `#MAME:hornet`
+  * `GX778`
 * `785`: Gradius 2
+* `792`: Solar Assault  `#MAME:gticlub`
 * `802`: Jikkyou Powerful Pro Yakyuu EX  `#MAME:ksys573`
   * `GX802-JAB`
 * `803`: pop'n music
@@ -52,8 +92,14 @@ chronologic order, e.g. regarding release dates.
   * `GC826-KAA`: Konami 80's AC Special
   * `GC826-UAA`: Konami 80's AC Special
   * `GC826-EAA`: Konami 80's AC Special
+* `830`: Silent Scope  `#MAME:hornet`
+  * `GQ830`
 * `831`: pop'n music 2
   * `GC831`
+* `837`: Gradius 4  `#MAME:hornet`
+  * `GX837`
+* `840`
+  * `GX840`  `#WEB:http://www.system16.com/hardware.php?id=548`
 * `845`: DanceDanceRevolution / Dancing Stage
   * `GN845-JA` / `GC845-JA? (MAME)`: DanceDanceRevolution
   * `GN845-JB` / `GC845-JB? (MAME)`: DanceDanceRevolution インターネットランキングVer.
@@ -80,6 +126,8 @@ chronologic order, e.g. regarding release dates.
 * `865`: Bass Angler 2 / Fisherman's Bait 2 - A Bass Challenge  `#MAME:ksys573`
   * `GE865-JAA`: Bass Angler 2
   * `GE865-UAB`: Fisherman's Bait 2 - A Bass Challenge
+* `871`: Unknown Hornet title?  `#MAME:hornet`
+  * `GQ871`
 * `874`: Dance Maniax / Dance Freaks
   * `GK874-KA`: Dance Freaks
 * `876`: Hyper Bishi Bashi Champ  `#MAME:ksys573`
@@ -104,11 +152,12 @@ chronologic order, e.g. regarding release dates.
   * `GQ883-KAA`  `#MAME:ksys573`
   * `GQ883-UAA`  `#MAME:ksys573`
   * `GQ883-EAA`  `#MAME:ksys573`
-* `884`: Dancing Stage featuring TRUE KiSS DESTiNATiON
-  * `GN884-JA`:
+* `884`: Dancing Stage featuring TRUE KiSS DESTiNATiON  `#WEB:https://www.zax.com.au/buy/true-kiss-destination-system573-software/SYSTEM573_TRUEKISS`
+  * `GN884-JA`
+  * `GC884-JA`
 * `885`: DanceDanceRevolution 2ndMIX Link Version
-  * `GE885-JA`: DanceDanceRevolution リンクキット?
-  * `GE885-JB`: DanceDanceRevolution リンクキット?
+  * `GE885-JA`: DanceDanceRevolution リンクキット
+  * `GE885-JB`: DanceDanceRevolution リンクキット
   * `GU885-JA`
 * `886`: GuitarFreaks
   * `GQ886-JAC`  `#MAME:ksys573`
@@ -128,6 +177,7 @@ chronologic order, e.g. regarding release dates.
   * `GN887-KBA`  `#MAME:ksys573`
   * `GE887-JA`: DanceDanceRevolution 3rdMIX コンバーシオンキット (for GN895-JA, GC895-JA, GE896-JA, GE885-JB)
   * `GE887-JB`: DanceDanceRevolution 3rdMIX コンバーシオンキット (for GN884-JA)
+* `888`: Racing Jam 2  `#MAME:nwk-tr`
 * `889`: Fisherman's Bait - Marlin Challenge  `#MAME:ksys573`
   * `GX889-JA`
   * `GX889-AA`
@@ -168,15 +218,26 @@ chronologic order, e.g. regarding release dates.
   * `GQ918-AAA`: Fighting Mania
 * `921`: DanceDanceRevolution Karaoke MIX  `#MAME:ksys573`
   * `GQ921-JBB`
+* `922`: Code One Dispatch  `#MAME:viper`
+  * `GK922`
 * `929`: GuitarFreaks 2ndMIX Link Kit  `#MAME:ksys573`
   * `GE929-JAA`: 1
   * `GC929-JBB`: 2
 * `930`: Step Champ  `#MAME:ksys573`
   * `GQ930-JA`
+* `931`: Silent Scope 2  `#MAME:hornet`
+  * `GQ931`
+  * `GQ931 PWB(H)`: LAN PCB
 * `936`: Dancing Stage EuroMIX
   * `GE936`
   * `GN936`: cab label
   * `GK936`: casette label
+* `941`: GTI Club 2  `#MAME:viper`
+  * `GM941`
+  * `GM941-PWB(A)B`: Viper main board (early)
+  * `GM941-PWB(A)C`: Viper main board (late)
+  * `941A01`: Viper BIOS (early)
+  * `941B01`: Viper BIOS (late)
 * `945`: Gradius 3
 * `949`: GuitarFreaks 3rdMIX
   * `GE949`
@@ -184,14 +245,17 @@ chronologic order, e.g. regarding release dates.
 * `970`: pop'n stage
   * `GQ970`
   * `GC970`: pop'n stage EX
-* `972`: beatmania III
+* `971`: Firebeat
+* `972`: beatmania III  `#MAME:firebeat`
   * `GQ972`
-* `974`: KEYBOARDMANIA
+* `974`: KEYBOARDMANIA / Keyboard Heaven (Korea)  `#MAME:firebeat`
   * `GQ974`
-* `976`: pop'n music MICKEY TUNES
+  * `GU974`: Keyboard Heaven
+* `976`: pop'n music MICKEY TUNES  `#MAME:firebeat`
   * `GQ976-JR`
-* `977`: ParaParaParadise, ParaParaParadise V1.1
-  * `GQ977`
+* `977`: ParaParaParadise / ParaParaDancing (Korea)  `#MAME:firebeat`
+  * `GQ977`: ParaParaParadise / ParaParaDancing
+  * `GC977`: ParaParaParadise 1.1
 * `980`: pop'n music 3
   * `GC980`
 * `981`: beatmania 5thMIX
@@ -206,9 +270,9 @@ chronologic order, e.g. regarding release dates.
   * `GC985`
   * [`GQ985-JA`: Dedicated cabinet](product/GQ985-JA.md)
   * `GU985`
-* `986`: pop'n music 4
+* `986`: pop'n music 4  `#MAME:firebeat`
   * `GQ986`
-* `987`: pop'n music アニメロ
+* `987`: pop'n music アニメロ  `#MAME:firebeat`
  * `GQ987`
 * `988`: beatmania completeMIX 2
   * `GC988-JA`
@@ -218,36 +282,41 @@ chronologic order, e.g. regarding release dates.
 * `993`: beatmania ClubMIX
   * `GC993-JA`
 * `995`: beatmania featuring DREAMS COME TRUE
-* `A01`: KEYBOARDMANIA 2ndMIX
+* `A00`: ザ・警察官 新宿24時 / Police 911 / Police 24/7  `#MAME:viper`
+* `A01`: KEYBOARDMANIA 2ndMIX  `#MAME:firebeat`
   * `GCA01`
-* `A02`: pop'n music アニメロ2号
+* `A02`: pop'n music アニメロ2号  `#MAME:firebeat`
   * `GCA02-JA`
   * `GCA02-JB`
   * `GEA02-JA`
 * `A03`: beatmania IIDX 4th Style
   * `GCA03`
-* `A04`: pop'n music 5
-* `A05`: beatmania CORE REMIX
+* `A04`: pop'n music 5  `#MAME:firebeat`
+* `A05`: beatmania CORE REMIX, beatmania III APPEND CORE REMIX  `#MAME:firebeat`
   * `GCA05-JA`
   * `GCA05-JB`
-* `A05`: beatmania III APPEND CORE REMIX
-  * `GCA05-JC`
+  * `GCA05-JC`: beatmania III APPEND CORE REMIX
 * `A07`: Anime Champ  `#MAME:ksys573`
   * `GCA07-JAA`
 * `A09`: Punch Mania 2: Hokuto no Ken  `#MAME:ksys573`
   * `GQA09-JAA`
-* `A11`: ParaParaParadise 1st MIX Plus
+* `A11`: ParaParaParadise 1st MIX Plus  `#MAME:firebeat`
   * `GQA11`
-* `A12`: KEYBOARDMANIA 3rdMIX
+* `A12`: KEYBOARDMANIA 3rdMIX  `#MAME:firebeat`
   * `GCA12`
+* `A13`: Sogeki / Silent Scope EX  `#MAME:viper`
+  * `GKA13`
+  * `GQA13-PWB(D)`: monitor driver PCB
 * `A14`: ParaParaParadise 2nd MIX
   * `GQA14`
-* `A16`: pop'n music 6
+* `A15`: GunMania  `#WEB:https://www.zax.com.au/buy/gun-mania-konami-system-573-pcb/SYSTEM573_GUNM`
+  * `GCA15-JA`
+* `A16`: pop'n music 6  `#MAME:firebeat`
 * `A17`: beatmania IIDX 5th Style
   * `GCA17-JA`
 * `A18`: Salary Man Champ  `#MAME:ksys573`
   * `GCA18-JAA`
-* `A21`: beatmania 6thMIX -THE UK UNDERGROUND MUSIC-, beatmania III APPEND 6thMIX
+* `A21`: beatmania 6thMIX -THE UK UNDERGROUND MUSIC-, beatmania III APPEND 6thMIX  `#MAME:firebeat`
   * `GCA21-JC`: beatmania III APPEND 6thMIX
 * `A22`: DanceDanceRevolution 3rdMIX PLUS
   * `GCA22`
@@ -264,6 +333,8 @@ chronologic order, e.g. regarding release dates.
   * `GCA26`
 * `A27`: DanceDanceRevolution 5thMIX
   * `GCA27-JA`
+* `A29`: Mocap Boxing  `#MAME:viper`
+* `A30`: Tsurugi  `#MAME:viper`
 * `A33`: DanceDanceRevolution 4thMIX, DanceDanceRevolution 4thMIX SOLO
   * `GCA33-JA`: DanceDanceRevolution 4thMIX
   * `G*A33-JBA`: DanceDanceRevolution 4thMIX SOLO  `#MAME:ksys573`
@@ -288,23 +359,27 @@ chronologic order, e.g. regarding release dates.
 * `A40`: MAMBO A GOGO
   * `GQA40-JAB`  `#MAME:ksys573`
   * `GQA40-JRB`: e-AMUSEMENT  `#MAME:ksys573`
+* `A41`: Thrill Drive 2  `#MAME:viper`
+  * `GMA41`
 * `A44`: DanceDanceRevolution USA
   * `GKA44-UA`
+* `A45`: Boxing Mania  `#MAME:viper`
 * `A48`: Great Bishi Bashi Champ
   * `GCA48-JA`
 * `A89`
   * `GSA89`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1003284408`
-* `B00`: pop'n music 7
+* `B00`: pop'n music 7  `#MAME:firebeat`
   * `GCB00`
 * `B05`: DrumMania 5thMIX / PercussionFreaks 5hMIX
   * `GCB05`
 * `B06`: GuitarFreaks 6thMIX
   * `GCB06`
-* `B07`: beatmania 7thMIX, beatmania III APPEND 7thMIX
+* `B07`: beatmania 7thMIX, beatmania III APPEND 7thMIX  `#MAME:firebeat`
   * `GEB07-JA`: beatmania 7thMIX
   * `GEB07-JB`: beatmania 7thMIX
   * `GCB07-JC`: beatmania III APPEND 7thMIX
 * `B08`: Python PCB?
+* `B11`: ザ・警察官 新宿24時2 / Police 911 2 / Police 24/7 2  `#MAME:viper`
 * `B16`: DrumMania 6thMIX / PercussionFreaks 6thMIX
   * `GCB16`
 * `B17`: GuitarFreaks 7thMIX
@@ -314,6 +389,8 @@ chronologic order, e.g. regarding release dates.
 * `B20`: DDRMAX2 -DanceDanceRevolution 7thMIX-
   * `GCB20`
 * `B30`: pop'n music 8
+* `B33`: Mocap Golf  `#MAME:viper`
+* `B41`: Jurassic Park 3  `#MAME:viper`
 * `B44`: beatmania IIDX 7th Style
   * `GCB44`
 * `B47`: Martial Beat
@@ -321,7 +398,7 @@ chronologic order, e.g. regarding release dates.
 * `B4U`: beatmania IIDX 6th Style
   * `GCB4U-JA`
 * `C00`: pop'n music 9
-* `C01`: beatmania THE FINAL, beatmania III THE FINAL
+* `C01`: beatmania THE FINAL, beatmania III THE FINAL  `#MAME:firebeat`
   * `GCC01-JC`: beatmania III THE FINAL
 * [`C02`: beatmania IIDX 9th Style](software/C02.md)
   * [`GEC02-JA`: Hardware conversion kit](product/GEC02-JA.md)
@@ -333,12 +410,14 @@ chronologic order, e.g. regarding release dates.
   * `GEC07`: Power up version
 * `C08`: GuitarFreaks 8thMIX
   * `GCC08`
-  * `GEC08`: Power Up Version 
+  * `GEC08`: Power Up Version
+* `C09`: Mahjong Fight Club  `#MAME:viper`
 * `C18`: World Soccer Winning Eleven Arcade Game Style / Pro Evolution Soccer The Arcade  `#MAME:kpython`
   * `GXC18-EAA`: Pro Evolution Soccer The Arcade
 * `C20`: pop'n music 10
   * `GCC20-JB`
   * `GCC20-JD`
+* `C22`: World Combat / Warzaid  `#MAME:viper`
 * `C23`: Dancing Stage EuroMIX2
   * `GNC23`: (on cab)
   * `GKC23`: (on casette, sample #1)
@@ -348,9 +427,12 @@ chronologic order, e.g. regarding release dates.
   * `HOC32`
 * `C33`: ee'MALL
 * `C36`: DanceDanceRevolution EXTREME
-  * `GCC36`
+  * `GCC36`  `#WEB:https://www.zax.com.au/buy/dance-dance-revolution-extreme-system-573-gameboar/DDRX_SYSTEM573`
 * `C38`: DrumMania 8thMIX / PercussionFreaks 8thMIX
+  * `GNC38-JA`  `#WEB:https://www.zax.com.au/buy/drum-mania-8th-mix-system-573/DM8_SYSTEM573`
   * `GCC38`
+  * `GCC38-JA`  `#WEB:https://www.zax.com.au/buy/drum-mania-8th-mix-system-573/DM8_SYSTEM573`
+  * `GCC38-JB`  `#WEB:https://www.zax.com.au/buy/drum-mania-8th-mix-system-573/DM8_SYSTEM573`
 * `C39`: GuitarFreaks 9thMIX
   * `GCC39`
 * `C44`: beatmania IIDX 8th Style
