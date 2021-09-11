@@ -729,6 +729,7 @@ chronologic order, e.g. regarding release dates.
 * `NDD`: Silent Scope Bone Eater
 * `NPU`: DreamSphere GRANDCROSS  `#SCRAPE:konami:eagate`
 * `NSC`: Scotto
+  * `GQNSC-JA`: Dedicated cabinet, `#MEDIA:konami/GQNSC-JA-sticker.jpg`
 * `O26`: ディズニー ツムツム
   * `GUO26-JA`
   * `GOO26-AB`: Figurine dispenser main unit
