@@ -221,20 +221,21 @@ SEGA parts are referred to using a [proprietary format](identifiers.md#part-numb
 ## Nu
 
 ```
-  * Nu              (AAVE, JP, 848-0001D, "ASSY CASE NU W HDD")
-  * Nu1.1           (AAVE, JP, 848-0002D, "ASSY CASE NU W HDD 750 TI")
+  * Nu              (AAVE-01A*, JP, 848-0001D, "ASSY CASE NU W HDD")
+  * Nu1.1           (AAVE-11A/B*, JP, 848-0002D, "ASSY CASE NU W HDD 750 TI")
         MBD: Advantech DAC-BJ05 (838-15284 / 19A2BJ0500-01) [AIMB-582 derivative]
         CPU: Intel i3-3220
         RAM: 2x Transcend TS256MLK64V6N [2GB, DDR3-1600, "2G 1Rx8 DDR3 1600 U"]
         GPU: Nvidia GeForce GTX 650Ti [Nu]
              Nvidia GeForce GTX 750Ti [Nu1.1]
         SSD: MDA-E0010 [Nu]
-             MDA-E0012 [Nu1.1]
+             MDA-E0012 [Nu1.1, AAVE-11A*]
+             MDA-E0015 [Nu1.1, AAVE-11B*]
         HDD: HGST HTB-TT5SAE500(B) [500GB]
         IO:  JVS/RS232/CAN card 837-15280 [PCIe: 11DB:????]
         PSU: Delta EDPS-250AB A [250W]
 
-  * Nu2             (AAVE, JP, 848-2001D, "ASSY CASE NU2")
+  * Nu2             (AAVE-21A*, JP, 848-2001D, "ASSY CASE NU2")
         MBD: Gigabyte MDH11BM [837-15384]
         CPU: Intel Core i5-6500
         RAM: 2x SK Hynix HMA451U6AFR8N [4GB, DDR4-2133]
@@ -242,8 +243,8 @@ SEGA parts are referred to using a [proprietary format](identifiers.md#part-numb
         SSD: TDK GBDisk GS1 120GB [MDA-E0013]
         PSU: Tiger Power TG-4080 [400W]
 
-  * NuSX            (AAWE, JP, 848-1001D, "ASSY NUSX GAMEBOARD")
-  * NuSX1.1         (AAWE, JP)
+  * NuSX            (AAWE-01A*, JP, 848-1001D, "ASSY NUSX GAMEBOARD")
+  * NuSX1.1         (AAWE-11A*?, JP)
     MBD: ??? (838-15297 / IAI5I013X14A70042) [NuSX]
     TPM: Infineon SLB9635TT12
     APU: AMD R-268D [NuSX]

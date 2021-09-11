@@ -1269,10 +1269,10 @@ MDA-E0008 : TDK GBDisk RS2 8GB                      : ??? : https://archive.is/0
 MDA-E0009 :
 MDA-E0010 : Apacer SAFD 64GB                        : Nu
 MDA-E0011 : TDK GBDisk RS3 64GB                     : RingEdge2
-MDA-E0012 : Apacer SAFD 64GB                        : Nu1.1
+MDA-E0012 : Apacer SAFD 64GB                        : Nu1.1 [AAVE-11A*]
 MDA-E0013 : TDK GBDisk GS1 120GB                    : Nu2
-MDA-E0014 :
-MDA-E0015 :
+MDA-E0014 : TDK GBDisk GS1 120GB?                   : Nu?
+MDA-E0015 : TDK GBDisk GS1 120GB                    : Nu1.1 [AAVE-11B*]
 MDA-E0016 :
 MDA-E0017 : TDK GBDisk GS1 120GB                    : ALLS UX
 MDA-E0018 :

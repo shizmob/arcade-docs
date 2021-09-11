@@ -258,7 +258,7 @@ Specific for board assemblies (84x):
 
 A specific identifier for a physical product. Seems to have been introduced around the NAOMI launch.
 
-Format: `[A-Z]{4}-[0-9]{2}[A-Z][0-9]+`. The first part indicates the product type, second and third possibly the batch, and the fourth the identifier.
+Format: `[A-Z]{4}-[0-9]{2}[A-Z][0-9]+`. The first part indicates the product type, second and third the revision, and the fourth the identifier.
 
 Known product types (tree view):
 
