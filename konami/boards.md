@@ -1,3 +1,17 @@
+## System GX
+
+## Bubble System
+
+## DJ-MAIN
+
+Based on the [System GX](#system-gx).
+
+## M2
+
+Based on the 3DO.
+
+## NWK-TR
+
 ## System 573
 
 References:
@@ -20,6 +34,10 @@ Has twice as much RAM (4MB) as a retail PS1. According to BIOS ROM, runs "Konami
 
 **MBD:** Sony Playstation 1 (custom)  
 **IO:** [MAIN] IDE, 10pin (analog), 12pin (ext-out), 10pin (ext-in), VGA, 4pin (stereo out), 80pin (aux), 4pin (CD-DA input), parallel 44-pin (security), 4pin (CD power), 2pin (fan), 6pin (power), 30pin, USB (IO), RCA  
+
+## Hornet
+
+Seemingly based on the [NWK-TR](#nwk-tr).
 
 ## Twinkle
 
@@ -47,6 +65,10 @@ Has twice as much RAM (4MB) as a retail PS1. According to BIOS ROM, runs "Konami
 A DVD player is used to play back mpeg encoded Video CDs and DVDs. The decoded video is forwarded
 via composite input to the main unit and blit into the UI by software.
 
+## Viper
+
+## Firebeat
+
 ## Python
 
 Sony Playstation 2-based board. Based on a development system. Similar to Namco's System 246 and System 256.
@@ -54,14 +76,6 @@ Sony Playstation 2-based board. Based on a development system. Similar to Namco'
 ## Python 2
 
 Sony Playstation 2-based board. Unlike the first Python, based on a retail board using Sony's DNAS protection system.
-
-## Bubble System
-
-## Firebeat
-
-## Dj Main
-
-## Viper
 
 ## `KNM-*`
 
