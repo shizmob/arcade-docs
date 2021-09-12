@@ -122,6 +122,8 @@ chronologic order, e.g. regarding release dates.
 * `858`: beatmania completeMIX
   * `GQ858`
   * `GC858`
+* `859`: beatmania completeMIX (alternative cabinet?)
+  * `GQ859`: `#WEB:https://twitter.com/oyakodon_oniku/status/1383799356323602439`
 * `863`: beatmania IIDX
   * [`GQ863-JA`: Dedicated cabinet](product/GQ863-JA.md)
 * `865`: Bass Angler 2 / Fisherman's Bait 2 - A Bass Challenge  `#MAME:ksys573`
@@ -424,6 +426,7 @@ chronologic order, e.g. regarding release dates.
   * `GKC23`: (on casette, sample #1)
   * `GCC23`: (on casette, sample #2)
 * `C27`: World Soccer Winning Eleven Arcade Game 2003  `#MAME:kpython`
+  * `GCC27-JA`  `#WEB:https://twitter.com/oyakodon_oniku/status/1420537222336434176`
 * `C32`: Card dispenser
   * `HOC32`
 * `C33`: ee'MALL
@@ -500,7 +503,7 @@ chronologic order, e.g. regarding release dates.
 * `EK9`: 麻雀格闘倶楽部4
 * `F00`: Toy's March 2
   * `GQF00-JA`
-  * `GEF00-JA`  `#WEB:http://collectedit.com/collectors/shou-time-213/arcade-pcbs-281/toys-march-2-japan-by-konami-34733`
+  * `GEF00-JA` `#WEB:http://collectedit.com/collectors/shou-time-213/arcade-pcbs-281/toys-march-2-japan-by-konami-34733`
 * `F02`: DrumMania V2
   * `GEF02`
   * `GNF02-HD`
@@ -526,6 +529,7 @@ chronologic order, e.g. regarding release dates.
   * [`GEFDD-JB`: Hardware conversion kit](product/GEFDD-JB.md)
 * `FDH`: DanceDanceRevolution SuperNOVA
   * `GKFDH`
+  * `GKFDH-EA`: Europe `#WEB:https://twitter.com/TheDeepStriker1/status/1426662011442708493`
   * `GQFDH`
 * `FK9`: 麻雀格闘倶楽部5
 * `FLY`: Quiz Magic Academy 3
@@ -574,6 +578,7 @@ chronologic order, e.g. regarding release dates.
 * `HCV`: 悪魔城ドラキュラ THE ARCADE
 * `HDX`: DanceDanceRevolution X
   * `GKHDX`
+  * `GKHDX-EA`: Europe `#WEB:https://twitter.com/TheDeepStriker1/status/1426660504643198980`
 * `HK9`: 麻雀格闘倶楽部7
 * [`I00`: beatmania IIDX 16 EMPRESS](software/I00.md)
   * [`GQI00-JA`: Dedicated cabinet](product/GQI00-JA.md)
@@ -593,8 +598,8 @@ chronologic order, e.g. regarding release dates.
 * `IBI`: 天下一将棋会
   * `GQIBI-JA`
 * `ICE`: Quiz Magic Academy 6
+  * `GCICE-JA` `#WEB:https://twitter.com/oyakodon_oniku/status/1383799356323602439`
   * `GCICE-JB`
-  * `GCICE-JA`
 * `IK9`: 麻雀格闘倶楽部 我龍転生
   * `GCIK9-JB` 
 * `J32`: DrumMania V7, DrumManiaXG
