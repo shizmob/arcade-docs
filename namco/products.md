@@ -27,9 +27,11 @@ V233 - Truck Kyosokyoku
 V239 - 
 V257 - Ridge Racer V
 V260 - 
+V281 - Wangan Midnight JP?
 V290 - 
 V291 - Time Crisis 3
 V300 -
+V307 - Wangan Midnight Maximum Tune
 V315 - Wangan Midnight Maximum Tune 2
 V320 -
 V329 - Time Crisis 4
@@ -37,7 +39,7 @@ V337 - Wangan Midnight Maximum Tune 3
 V349 - 
 V351 - Nirin
 V352 - Tank!Tank!Tank!
-V363 - Wangan Midnight Maximum Tune 3
+V363 - Wangan Midnight Maximum Tune 3DX
 V371 - 
 V376 - 
 V386 - Wangan Midnight Maximum Tune 3DX+
