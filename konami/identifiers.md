@@ -27,13 +27,14 @@ The following variables are used across the different identifiers and can denote
   * `A`: ???
   * `C`: Conversion: Software/rom/art/dongle only
   * `E`: Extension: Software + hardware
-  * `L`: Redemption cabinet?
   * `K`: Conversion/Extension by/for third party?
-  * `M`: ???
+  * `L`: Redemption cabinet?
+  * `M`: Cabinet?
   * `N`: Cabinet manufactured by third party?
   * `O`: Cabinet?
-  * `S`: Medal cabinet (station?)
+  * `P`: Cabinet?
   * `Q`: Cabinet
+  * `S`: Medal cabinet (station?)
   * `U`: Upgrade or utility: Hardware/art only
   * `X`: Hardware/board?
   * `Z`: ???
