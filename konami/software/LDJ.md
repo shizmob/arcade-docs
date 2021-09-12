@@ -1,5 +1,13 @@
 # `LDJ` Beatmania IIDX tricoro and newer
 
+* Compatible main PCB
+  * 20 - 24: [`HM65`](../boards.md#hm65)
+  * 25+: [`ADE-6291`](../boards.md#ade-6291)
+* Compatible IO
+  * 20 - 24: [C02 IO](../io.md#c02-io), [D01 IO](../io.md#d01-io), [USBIO2](../io.md#usbio2)
+  * 25+: [BIO2](../io.md#bio2)
+* Compatible card reader: [ICC NFC reader](../io.md#icc)
+
 ## Software versions
 
 * 20 Tricoro
