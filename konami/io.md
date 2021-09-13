@@ -66,7 +66,7 @@
 * Product: PWB114435950000
 * Codename: "Nadeshiko"
 * Firmware families:
-  - ACIO name: "KFCA" (ID: 0x09060000) \[KFC/PAN\]
+  - ACIO name: "KFCA" (ID: 0x09060000) \[KFC/NBT/PAN\]
     * Known versions: 1.0.5 / Aug 30 2011 13:23:47 / PAN
   - ACIO name: "KFCA" (ID: 0x09060001) \[PIX\]
     * Referred to as "RVOL"  `#GAME:konami:PIX:modules/libacio_pix.dll`
@@ -126,7 +126,7 @@ e-AMUSEMENT pass (IC card) reader. Is really two types of devices: the old slot 
     * Known versions: 1.1.0 / Oct 26 2005 13:55:03 / FDH/GDJ
   - ACIO name: "ICCB" (ID: 0x03000000) [NFC reader]
     * Known versions: 1.5.1 / Apr 12 2010 09:29:00 / KFC/LDJ
-  - ACIO name: "ICCC" [NFC reader]
+  - ACIO name: "ICCC" (ID: 0x03000000) [NFC reader]
     * Known versions: 1.7.3 / Oct 05 2012 20:26:53 / L44, 1.7.4 / Feb 27 2013 16:44:51 / PIX/PAN
 
 ## J32D
