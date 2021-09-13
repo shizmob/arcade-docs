@@ -68,7 +68,9 @@
 * Firmware families:
   - ACIO name: "KFCA" (ID: 0x09060000) \[KFC/PAN\]
     * Known versions: 1.0.5 / Aug 30 2011 13:23:47 / PAN
-  - ACIO name: "RVOL" (ID: 0x09060001) \[PIX\]
+  - ACIO name: "KFCA" (ID: 0x09060001) \[PIX\]
+    * Referred to as "RVOL"  `#GAME:konami:PIX:modules/libacio_pix.dll`
+    * Known versions: 1.6.1 / Oct 21 2015 16:39:52 / PIX
 
 ## BIO2
 
@@ -78,7 +80,7 @@
   - BI2A (ID: 0x0D060000)
   - BI2X
 * Connectors: USB
-* Compatible games: [LDJ (starting 25)](software/LDJ.md)
+* Compatible games: KFC (starting Vivid Wave), [LDJ (starting 25 CANNON BALLERS)](software/LDJ.md), MDX (GQMDX-JG 20th anniversary model), QBG, REC
 
 ### BIO2 LDJ sub IO
 
