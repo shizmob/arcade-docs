@@ -115,15 +115,16 @@ chronologic order, e.g. regarding release dates.
   * `GC845-EC`: Dancing Stage INTERNET R@NKING Ver. (on casette, sample #1)
 * `847`: beatmania 4thMIX
   * `GC847-JA`
-* `853`: beatmania 2ndMIX/hiphopmania
+* `853`: beatmania 2ndMIX / hiphopmania
   * `GQ853-JA`: Dedicated cabinet, beatmania 2ndMIX, `#CLAIM:voidderef`
   * `GQ853-EA`: Dedicated cabinet, hiphopmania, `#MEDIA:konami/GQ853-EA/sticker.jpg`
   * `GC853`
-* `858`: beatmania completeMIX
+* `858`: beatmania completeMIX  `#WEB:https://twitter.com/oyakodon_oniku/status/1383799356323602439`
   * `GQ858`
   * `GC858`
-* `859`: beatmania completeMIX (alternative cabinet?)
-  * `GQ859`: `#WEB:https://twitter.com/oyakodon_oniku/status/1383799356323602439`
+* `859`: beatmania completeMIX [ミニタオル/miniature cabinet]  `#WEB:https://twitter.com/oyakodon_oniku/status/1383799356323602439`
+  * `GQ859`
+  * `GC859`
 * `863`: beatmania IIDX
   * [`GQ863-JA`: Dedicated cabinet](product/GQ863-JA.md)
 * `865`: Bass Angler 2 / Fisherman's Bait 2 - A Bass Challenge  `#MAME:ksys573`
@@ -218,7 +219,9 @@ chronologic order, e.g. regarding release dates.
   * `GQ918-AAA`: Fighting Mania
   * `GQ918-KAA`: Fighting Mania
   * `GQ918-UAA`: Fighting Mania
-  * `GQ918-AAA`: Fighting Mania
+  * `GQ918-AAA / GQ918-TB`: Fighting Mania (Asia, 110V)  `#DOC:konami:00000*****GK918-EA:PROVISIONAL`
+  * `GQ918-AAA / GQ918-HD`: Fighting Mania (Asia, 220V)  `#DOC:konami:00000*****GK918-EA:PROVISIONAL`
+  * `GK918-EA / GQ918-RG`: Fighting Mania / KEN IL GUERRIERO / FIST OF THE NORTH STAR (manufactured by Rimini Games s.r.l. - Rimini - Italia)  `#DOC:konami:000000*****:GK918-EA`
 * `921`: DanceDanceRevolution Karaoke MIX  `#MAME:ksys573`
   * `GQ921-JBB`
 * `922`: Code One Dispatch  `#MAME:viper`
@@ -245,6 +248,8 @@ chronologic order, e.g. regarding release dates.
 * `949`: GuitarFreaks 3rdMIX
   * `GE949`
   * `949JAZ02`: version update security casette
+* `956`: Cabinet rental system  `#MEDIA:konami/GQ976/GU956`
+  * [`GU956`: Mobile bookkeeping unit](product/GU956.md)
 * `970`: pop'n stage
   * `GQ970`
   * `GC970`: pop'n stage EX
@@ -286,6 +291,7 @@ chronologic order, e.g. regarding release dates.
   * `GC993-JA`
 * `995`: beatmania featuring DREAMS COME TRUE
 * `A00`: ザ・警察官 新宿24時 / Police 911 / Police 24/7  `#MAME:viper`
+  * `GQA00-TB`  `#DOC:konami:64712`
 * `A01`: KEYBOARDMANIA 2ndMIX  `#MAME:firebeat`
   * `GCA01`
 * `A02`: pop'n music アニメロ2号  `#MAME:firebeat`
@@ -569,6 +575,8 @@ chronologic order, e.g. regarding release dates.
 * `H33`: GuitarFreaks V5
   * `GCH33`
 * `H44`: jubeat
+  * `GQH44-JA`: 1 cabinet  `#DOC:konami:112476060000`
+  * `GQH44-JB`: 2 cabinets with hub  `#DOC:konami:112476060000`
 * `HAL`: Quiz Magic Academy 5
 * [`HDD`: beatmania IIDX 15 DJ TROOPERS](software/HDD.md)
   * [`GQHDD-JA`: Dedicated cabinet](product/GQHDD-JA.md)
@@ -590,8 +598,8 @@ chronologic order, e.g. regarding release dates.
   * `GCI32`
 * `I33`: GuitarFreaks V6
   * `GCI33`
-* `I36`: Metal Gear Solid Arcade
-  * `GPI36-JA`: Dedicated cabinet `#MEDIA:konami/GPI36-JA-sticker.jpg`
+* `I36`: Metal Gear Arcade
+  * `GPI36-JA`: Dedicated cabinet `#MEDIA:konami/GPI36-JA-sticker.jpg #DOC:konami:113088440000 #DOC:konami:113088450000`
 * `I44`: jubeat ripples, jubeat ripples APPEND
   * `GCI44`
 * `IBB`: ザ・ビシバシ / THE*BISHIBASHI
@@ -633,6 +641,7 @@ chronologic order, e.g. regarding release dates.
   * `GUK39-JA`: card dispenser
 * `K44`: jubeat copious, jubeat copious APPEND
   * `GEK44-JA`
+  * `GCK44-JC`: jubeat copious APPEND  `#DOC:konami:114589450000
 * `K56`
   * `*E56-J*`: K56 `<PDP>`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/v1004013462`
 * `KA9`: PASELI カード
