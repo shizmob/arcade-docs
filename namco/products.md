@@ -34,6 +34,7 @@ V300 -
 V307 - Wangan Midnight Maximum Tune
 V315 - Wangan Midnight Maximum Tune 2
 V320 -
+V322 - Wangan Midnight Maximum Tune 2
 V329 - Time Crisis 4
 V337 - Wangan Midnight Maximum Tune 3
 V349 - 
