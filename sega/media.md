@@ -1003,11 +1003,11 @@ CDN-0007 -1D: 頭文字D ARCADE STAGE ZERO (No.1) : Nu2 : JPN/EXP? : SDDF : 610-
         H-2D: ^ (No.1)
         M-1D: ^ v2.20
         M-2D: ^ (No.2)
-CDN-0008 -1D: 初音ミク Project DIVA Future Tone (No.1) : Nu1 : EXP : SBZV : v7.01.00
+CDN-0008 -1D: 初音ミク Project DIVA Future Tone (No.1) : Nu1 : JPN/EXP : SBZV : v7.01.00
          -2D: ^ (No.2)
          -3D: ^ (No.3)
          -4D: ^ (No.4)
-        A-1D: ^
+        A-1D: ^ v7.01.00
         A-2D: ^ (No.2)
         A-3D: ^ (No.3)
         A-4D: ^ (No.4)
