@@ -11,6 +11,7 @@ V??? - 機動戦士ガンダム 戦場の絆 REV.2.x
 V??? - 機動戦士ガンダム 戦場の絆 REV.3.x
 V??? - Sailor Zombie AKB48
 
+V136 - Tokyo Wars?
 V147 - Point Blank?
 V151 - 
 V159 - Time Crisis
@@ -113,7 +114,7 @@ CVC - Uchuu Daisakusen Chocovader Contactee
 CY  - Cyber Commando, Cyber Sled
 DAC - Mach Storm
 DB  - Super Dragon Ball Z / Chou Dragon Ball Z
-DC  - Dancing Eyes
+DC  - ダンシングアイ / Dancing Eyes  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/g1005480922
 DCO - Dragon Chronicles
 DDH - Dead Heat / Maximum Heat
 DE  - Driver's Eyes
@@ -149,7 +150,7 @@ FLR - Final Lap R
 FLS - Final Lap 2
 FLT - Final Lap 3  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/e1004132515
 FO  - Face Off
-FTL - Fighting Layer
+FTL - Fighting Layer  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/k1005494679
 FUD - Fate/Unlimited Codes
 FX  - Four Trax
 G8  - Galaga '88
@@ -168,7 +169,7 @@ GN  - Gunbullet / Point Blank
 GNB - Gunbarl / Point Blank 2
 GNN - Gunbalina / Point Blank 3
 GNX - Gundam vs. Gundam NEXT
-GS  - Great Sluggers
+GS  - Great Sluggers  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/j1005459303
 GSE/GS4 - Great Sluggers '94
 GSD - Mobile Suit Gundam SEED Destiny O.M.N.I. vs Z.A.F.T. II
 GT  - Genpei Toumaden
@@ -284,7 +285,7 @@ SKH - Sekai Kaseki Hakken
 SN  - Steel Gunner
 SNS - Steel Gunner 2
 SO  - Soul Edge
-SOC - Soul Calibur
+SOC - Soul Calibur  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/l1005492307
 SS0 - Super World Stadium 2000
 SS1 - Super World Stadium 2001
 SS5 - Super World Stadium '95
@@ -321,7 +322,7 @@ TEG - Tekken Tag Tournament
 TER - Tekken 7 Fated Retribution
 TES - Tekken 2
 TET - Tekken 3
-TF  - Tank Force  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/x1004252803
+TF  - Tank Force  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/x1004252803 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/u1005527169
 TG2 - Tekken Tag Tournament 2
 TH  - Techno Drive
 TK  - Tinkle Pit
