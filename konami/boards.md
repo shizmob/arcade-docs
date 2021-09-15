@@ -10,12 +10,23 @@ Based on the [System GX](#system-gx).
 
 Based on the 3DO.
 
+## GV System
+
+`#MAME:konamigv`
+
+Sony Playstation 1-based board. Consists of either of the following boards:
+* `ZV610 PWB301331`
+* `GV999 PWB301949A`: has expansion connector and some newer IC revisions
+
+According to BIOS ROM, runs "Konami OS by T.H.".
+
+**MBD:** Sony Playstation 1 (custom)  
+
 ## NWK-TR
 
 ## System 573
 
-References:
-* https://github.com/mamedev/mame/blob/master/src/mame/drivers/ksys573.cpp
+`#MAME:ksys573`
 
 Sony Playstation 1-based board. Consist of at least MAIN and either the ANALOG or DIGITAL board:
 * GX700-PWB(A)B: main
@@ -23,6 +34,7 @@ Sony Playstation 1-based board. Consist of at least MAIN and either the ANALOG o
 
 And possibly any of the following boards:
 * GX700-PWB(F):  analog I/O
+* GX700-PWB(J):
 * GX894-PWB(B)A: digital I/O
 * GE765-PWB(B)A: bass challenge aux input
 * GE877-PWB(C):  gachaga champ aux input
@@ -228,7 +240,7 @@ Also known as: "BemaniPC Type 3" (unofficially).
 
 **MBD:** AOpen IT855GME-LX (AOpen i855G*-based?)  
 **CPU:** Intel Celeron M 370  
-**RAM:** 1x Buffalo ??? (DDR, 512MB, PC2700)  
+**RAM:** 1x Buffalo DD4333-S512HCJ (DDR, 512MB, PC3200U)  
 **GPU:** ATi Radeon 9600 XT (embedded)  
 **IO:** \[M39\] [USB I/O 2](io.md#usbio2)  
 **IO:** \[Others\] [P3IO](io.md#p3io)  
