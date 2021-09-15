@@ -59,7 +59,7 @@
   * Case/metal housing: PN00001_1263
 * Interface to main PCB: USB 2.0
 * Compatible games: [GLD](software/GLD.md), [HDD](software/HDD.md), [I00](software/I00.md),
-[JDJ](software/JDJ.md), [JDZ](software/JDZ.md), [KDZ](software/KDZ.md), [LDJ (only up to 24 included)](software/LDJ.md)
+[JDJ](software/JDJ.md), [JDZ](software/JDZ.md), [KDZ](software/KDZ.md), [LDJ (up to 24 SINOBUZ)](software/LDJ.md)
 
 ## KFCA
 
@@ -77,10 +77,11 @@
 * Product: PWB116784030000
 * Codename: "xenolithus"
 * Firmware families:
-  - BI2A (ID: 0x0D060000)
-  - BI2X
+  - ACIO name: "BI2A" (ID: 0x0D060000) \[KFC/LDJ/MDX/REC\]
+    * Known versions: 1.2.1 / Nov 27 2017 14:48:52
+  - BI2X \[S36/SA1/T44/TBS/TCS/TDJ/UFC\]
 * Connectors: USB
-* Compatible games: KFC (starting Vivid Wave), [LDJ (starting 25 CANNON BALLERS)](software/LDJ.md), MDX (GQMDX-JG 20th anniversary model), QBG, REC
+* Compatible games: KFC (starting Vivid Wave), [LDJ (starting 25 CANNON BALLERS)](software/LDJ.md), MDX (GQMDX-JG 20th anniversary model), REC, S36, SA1, T44, TBS, TCS, TDJ, UFC
 
 ### BIO2 LDJ sub IO
 
@@ -127,7 +128,7 @@ e-AMUSEMENT pass (IC card) reader. Is really two types of devices: the old slot 
   - ACIO name: "ICCB" (ID: 0x03000000) [NFC reader]
     * Known versions: 1.5.1 / Apr 12 2010 09:29:00 / KFC/LDJ
   - ACIO name: "ICCC" (ID: 0x03000000) [NFC reader]
-    * Known versions: 1.7.3 / Oct 05 2012 20:26:53 / L44, 1.7.4 / Feb 27 2013 16:44:51 / PIX/PAN
+    * Known versions: 1.7.3 / Oct 05 2012 20:26:53 / L44, 1.7.4 / Feb 27 2013 16:44:51 / PIX/PAN/TDJ
 
 ## J32D
 
