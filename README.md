@@ -38,9 +38,11 @@ Types can be:
 * `GAME`: game data, info identifies the data and location
 * `MAME`: MAME sources, info identifies the driver filename
 * `DOC`: official documentation, info identifies the producer and identifier of the document
-* `CLAIM`: observation or information without direct proof, e.g. picture
 * `MEDIA`: uploaded media to [media repository](https://github.com/Shizmob/arcade-docs-media), e.g. pictures of
   cabinets, boards, model stickers, etc.
+* `CLAIM`: observation or information without direct proof, e.g. picture
+* `MISC`: everything else, info identifies it further:
+  - `oyakodon_oniku_list`: comprehensive list of Konami product codes maintained by [おにく太郎](https://twitter.com/oyakodon_oniku)さん, referenced with permission
 
 Examples:
 
@@ -51,7 +53,7 @@ Examples:
 * `#DOC:konami:114946810000`, an official document source: the KONAMI beatmania IIDX 23 tricoro cabinet manual (doc #114946810000);
 * `#CLAIM:shiz`, an observation by [shiz](https://github.com/Shizmob)
 * `#MEDIA:konami/GPI36-JA-sticker.jpg`, picture of the model sticker of the Metal Gear Arcade cabinet
-
+  
 In the meantime here are some major sources used:
 
 * First-hand accounts, observations and research of hardware and software;
