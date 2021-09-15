@@ -76,7 +76,7 @@ Known part categories (tree view):
  70: BARE BD
  71: BARE BD
 2  - medium-size auxiliary parts, displays, connectors, sockets, accessories
- 00: DISPLAY
+ 00: DISPLAY, DISPLAY ACCESSORIES
  09: CONN TERMINATOR? ("CONN CLOSED END")
  11: CONNECTOR        ("CONN OPT JOINT" / "CONN PIN TEST PT" / "CONN RING LUG")
  12: CONNECTOR        ("CONN JST" / "CONN M")
@@ -121,6 +121,8 @@ Known part categories (tree view):
  00: "SW REGU" / INVERTER / PSU
 4  - manuals, stickers, emblems, batteries, electronic parts
  01: BATTERY
+   -0054: BATTERY CR2032/1F MATSUSHITA
+   -0065: BATTERY CR2032 HITACHIMAXELL
  20: MANUAL / STICKER / DECAL
  21: STICKER / FILM
  22: PLAY INSTR

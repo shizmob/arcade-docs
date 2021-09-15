@@ -59,6 +59,7 @@ SEGA parts are referred to using a [proprietary format](identifiers.md#part-numb
   * 834-14789 /          :                     : Bingo Galaxy [satl] : JP
   * 834-14792 /          :                     : Dinosaur King 2 : EXP
   * 834-14865 /          :                     :
+  * 834-14881 /          : GAME BD SP 512 BLP  : Block People : JP  `#DOC:sega:420-7184`
   * 834-14970 /          : GAME BD SP DKC      : Tetris Giant / Dekai Tetris : GL
   * 834-14750 /          :                     : Ami-no-San : JP : https://webcache.googleusercontent.com/search?q=cache:VCAbfytrwvYJ:https://aucfree.com/items/d359606190+&cd=14&hl=nl&ct=clnk&gl=nl
   * 834-15041 /          :                     : Ami-no-San : JP
