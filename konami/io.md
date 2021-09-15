@@ -75,7 +75,7 @@
 ## BIO2
 
 * Product: PWB116784030000
-* Codename: "xenolithus"
+* Codename: "xenoliths"
 * Firmware families:
   - ACIO name: "BI2A" (ID: 0x0D060000) \[KFC/LDJ/MDX/REC\]
     * Known versions: 1.2.1 / Nov 27 2017 14:48:52
