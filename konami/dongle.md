@@ -33,19 +33,19 @@ Document about Konami's software and hardware license management using different
 ## Serial plug
 
 * Connection: RS232 DE-9
-* Housing: black plastic case, "www.iButton.com" engraving, white label
+* Housing: Dallas DS1411 black plastic case, "www.iButton.com" engraving, custom white label
 * Variants:
-  - Old
-    * White label with Konami logo and hand-written serial number
+  - Old (DS1411-009)
+    * Custom white label with Konami logo and hand-written serial number
     * Dallas DS1991L-F5 (iButton, 1-wire)
     * Dallas DS2502 (1Kbit memory, 1-wire)
     * Dallas DS2480B (1-wire to RS232 driver)
     * Dallas DS9502P (ESD protection diode)
   - New
-    * White label with Konami logo, game name and product code, and serial number
-    * Dallas ??? (iButton, 1-wire)
+    * Custom white label with Konami logo, game name and product code, and serial number
+    * Dallas DS1991L-F5 (iButton, 1-wire)
     * Dallas DS2401 (serial number, 1-wire)
-    * Dallas DS2480 (1-wire to RS232 driver)
+    * Dallas DS2480B (1-wire to RS232 driver)
 * Used in: [Firebeat](boards.md#firebeat)
 
 ## iKey
@@ -62,6 +62,6 @@ Document about Konami's software and hardware license management using different
 * Housing: stock
 * Components:
   - Safenet eToken 5110 or 5100
-  - Identifier tag attached in blue/white (license), black/white (license, PASELI charger), white/red (account), white/black (account, PASELI charger)
+  - Identifier tag attached in blue/white (license), black/white (license, alt?), white/red (account), white/black (account, PASELI charger)
 * Used in: Konami PC hardware post-iKey
 * Later eTokens have a Gemalto engraving
