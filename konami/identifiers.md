@@ -56,6 +56,7 @@ The following variables are used across the different identifiers and can denote
 * `$s`: Specification: Product type and game dependent, e.g. type of cabinet or hardware
   * `A`, `B`, `C`, ..., `Z`
   * コナステ streamed games use `N`
+  * In some [System 573](boards.md#system-573) and [Firebeat](boards.md#firebeat) games, rental cabinets (at the time referred to as e-Amusement: not the online network!) use `R`
 * `$r`: Software revision. Modern games utilizing the extension part pinned this to the value `A`
   * `A`, `B`, `C`, ..., `Z`
 * `$e`: Extension/release date of the software
