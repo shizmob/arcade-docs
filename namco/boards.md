@@ -252,28 +252,28 @@ Export:
 
 ## System ES1
 
-PC, x86-based. Variants: ES1, ES1(A2).
+PC, x86-based. Variants: ES1(A), ES1(A/NO-USB), ES1(A2).
 
-**MBD:** Supermicro C2SBM-Q (ES1(A2): "FB16M-LS-C2D30-2G1")  
+**MBD:** Supermicro C2SBM-Q (ES1(A): "F1B16M-LS-C2D30-51M2"), ES1(A/NO-USB): "FB16M-LS-C2D30-512M2", ES1(A2): "FB16M-LS-C2D30-2G1")  
 **CPU:** Intel Core 2 Duo E8400  
-**RAM:** \[ES1\] 2x ??? (DDR2, PC2-6400, 512MB)  
+**RAM:** \[ES1(A), ES1(A/NO-USB)\] 2x SanMax SMD-51246NP-8E (DDR2 DIMM, PC2-6400U-555, 512MB)  
 **RAM:** \[ES1(A2)\] 1x SanMax SMD-2G88HP-8E (DDR2 DIMM, PC2-6400U-555, 2GB)  
-**GPU:** \[ES1(A2)\] Nvidia GeForce 9600 GT (PCIe, 512MB, BIOS Version: 62.94.61.00.08)  
+**GPU:** Nvidia GeForce 9600 GT (PCIe, 512MB, BIOS Version: 62.94.61.00.08)  
 **HDD:** Seagate ST3160318AS (SATA, 160GB, 7200RPM) / Hitachi HDS721016CLA382 (SATA, 160GB, 7200RPM)  
 **IO:** [Namco H039 ESIF PCB](io.md#h039-esif) (1x internal 4pin connector with cable to "JV IO (JAMMA)", to motherboard COM3 and JF1)  
 **IO:** "JV IO (JAMMA)" (expansion slot, 1x JVS USB, 1x internal connector with cable to H039)  
 **IO:** \[ES1(A2)\] "SERIAL 3 (CARD IF)" (expansion slot, to motherboard COM4, pinout up-down: GND CTS RTS TXD RXD)  
 
 ```
-       - Nirin (NRN) - https://www.bandainamco-am.co.uk/files/41)
-         Tank! Tank! Tank! (TTT) - https://www.bandainamco-am.com/images/content/Tank%20Tank%20Tank%20Manual.pdf
-         Sailor Zombie AKB48(??)
-         Dead Heat/Maximum Heat (DDH) - https://www.bandainamco-am.co.uk/files/27, http://collectedit.com/collectors/shou-time-213/arcade-pcbs-281/dead-heat-us-by-namco-12558
-         Midnight Tune 4 (US, WM4)/5 (US, WM5)
-    A2 - Gundam: Bonds of the Battlefield 3.0 (GKE? GSK?) - http://collectedit.com/collectors/shou-time-213/arcade-pcbs-281/mobile-suit-gundam-bonds-of-the-battlefield-japan-by-namco-19629
+        A - Nirin (NRN) - https://www.bandainamco-am.co.uk/files/41)
+            Sailor Zombie AKB48(??)
+            Dead Heat/Maximum Heat (DDH) - https://www.bandainamco-am.co.uk/files/27, http://collectedit.com/collectors/shou-time-213/arcade-pcbs-281/ dead-heat-us-by-namco-12558
+            Midnight Tune 4 (US, WM4)/5 (US, WM5)
+ A/NO-USB - Tank! Tank! Tank! (TTT) - https://www.bandainamco-am.com/images/content/Tank%20Tank%20Tank%20Manual.pdf
+       A2 - Gundam: Bonds of the Battlefield 3.0 (GKE? GSK?) - http://collectedit.com/collectors/shou-time-213/arcade-pcbs-281/mobile-suit-gundam-bonds-of-the-battlefield-japan-by-namco-19629
          Gundam: Bonds of the Battlefield 4.0 (GK4, GKE? GKN?) - https://page.auctions.yahoo.co.jp/jp/auction/g495616988
-         Midnight Tune 4 (Japan/Asia, WM4, https://www.arcade-projects.com/threads/namco-es1-wmmt4.2270/)/5 (Asia, WM5)/5DX (Asia, W5X)/5DX+ (Asia, W5P) https://www.facebook.com/weedxy2gab/photos/pcb.665771777362930/665771667362941/?type=3&theater
-         Maximum Heat 3D (MMH)
+            Midnight Tune 4 (Japan/Asia, WM4, https://www.arcade-projects.com/threads/namco-es1-wmmt4.2270/)/5 (Asia, WM5)/5DX (Asia, W5X)/5DX+ (Asia, W5P) https://www.facebook.com/weedxy2gab/photos/pcb.665771777362930/665771667362941/?type=3&theater
+            Maximum Heat 3D (MMH)
 ```
 
 ## System ES2

@@ -117,6 +117,7 @@ Formats:
 Unknowns:
 - System 256 dongle (memory card): `a 026161 351019 a`
 - System N2 W3X (Asia) dongle: `a 026441 275842 a`
+- System ES1 Nirin (export) case: `a 026411 278435 a` (`NRN 一般海外`, HDD: `NRN100-4-NA-DAT0-A`)
 
 ## Net ID
 
