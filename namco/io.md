@@ -155,7 +155,7 @@ External serial interface, revision 2. Looks identical to the [H039 ESIF](#h039-
 * Product: 2609965100 / (2609970100)
 * Label: V320 STR2(B) PCB
 * Copyright: 2006 NAMCO BANDAI Games Inc.
-* Board Dimensions: W 215MM, H 190mm
+* Board Dimensions: W 215mm, H 190mm
 
 ## STR3
 
