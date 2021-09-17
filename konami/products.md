@@ -253,6 +253,7 @@ chronologic order, e.g. regarding release dates.
   * `G*705-JAA`: ウイニングスパイク
   * `G*705-EAA`: Winning Spike
 * `706`: ダークホースレジェンド / Dark Horse Legend (1998, SYSTEM573-CDROM)  `#MAME:ksys573 #MISC:oyakodon_oniku_list`
+  * `GX706-JA`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/x1005904395`
   * `GX706-JAA`
 * `707`: ウィンディ II / Windy II (1997)  `#WEB:https://wiki.arcadeotaku.com/images/e/e7/Windy_II_IO_2.jpg`
   * `GO707`
@@ -298,7 +299,7 @@ chronologic order, e.g. regarding release dates.
   * `GE755-JAB`  `#MAME:konamigv`
 * `763`: ホットチェイス (1988, 68000-ROM)  `#MISC:oyakodon_oniku_list`
 * `765`: バスアングラー A Bass Challenge / Fisherman's Bait - A Bass Challenge (1998, SYSTEM573-CDROM)  `#MAME:ksys573 #MISC:oyakodon_oniku_list`
-  * `GE765-JAA`: バスアングラー A Bass Challenge
+  * `GE765-JAA`: バスアングラー A Bass Challenge  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/u1005657673`
   * `GE765-UAB`: Fisherman's Bait - A Bass Challenge
 * `768`: 悪魔城ドラキュラ (1988, CONTRA-ROM)  `#MISC:oyakodon_oniku_list #WEB:https://page.auctions.yahoo.co.jp/jp/auction/c917269668`
   * `GX768`
@@ -894,7 +895,7 @@ chronologic order, e.g. regarding release dates.
   * `GCFDD-JB`
   * [`GEFDD-JA`: Hardware conversion kit](product/GEFDD-JA.md)
   * [`GEFDD-JB`: Hardware conversion kit](product/GEFDD-JB.md)
-* `FDH`: DanceDanceRevolution SuperNOVA (2006, PYTHON2-HDD)  `#CLAIM:shiz`
+* `FDH`: DanceDanceRevolution SuperNOVA / Dancing Stage SuperNOVA (2006, PYTHON2-HDD)  `#CLAIM:shiz`
   * `GKFDH`
   * `GKFDH-EA`: Europe `#WEB:https://twitter.com/TheDeepStriker1/status/1426662011442708493`
   * `GKFDH-UA`: US  `#WEB:https://www.worthpoint.com/worthopedia/dance-dance-revolution-supernova-3843354880`
@@ -947,7 +948,7 @@ chronologic order, e.g. regarding release dates.
 * `GLD`: beatmania IIDX 14 GOLD (2007, PC(B5)IO(C02/D01/USB2)-HDD)  `#MISC:oyakodon_oniku_list`
   * [`GQGLD-JA`: Dedicated cabinet](product/GQGLD-JA.md)
   * `GEGLD-JA`: conversion kit  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/e1002287142`
-* `GPB`: スピンフィーバー (2007, ? -HDD)   `#MISC:oyakodon_oniku_list`
+* `GPB`: スピンフィーバー (2007, PC-HDD)   `#MISC:oyakodon_oniku_list #WEB:https://page.auctions.yahoo.co.jp/jp/auction/f1005757296`
 * `H16`: ポップンミュージック 16 PARTY♪ / pop'n music 16 PARTY♪ (2008, PC(?)IO(USB2)-HDD)  `#MISC:oyakodon_oniku_list`
   * `GQH16-JA`: Type B/C/D? cabinet  `#DOC:konami:113204880000`
   * `GCH16-JA`: Type A cabinet conversion kit  `#DOC:konami:113707830000 #DOC:konami:113204880000`
@@ -961,7 +962,7 @@ chronologic order, e.g. regarding release dates.
 * `H27`: ベースボールヒーローズ3  `#MISC:oyakodon_oniku_list`
 * `H32`: DrumMania V5 (2008, PC(855))  `#CLAIM:shiz`
   * `GCH32`
-  * `GCH32-JA`  `#WEB:https://www.mercari.com/jp/items/m14516750937/`
+  * `GCH32-JA`: conversion kit (soft)  `#WEB:https://www.mercari.com/jp/items/m14516750937/`
 * `H33`: GuitarFreaks V5 (2008, PC(855))  `#CLAIM:shiz`
   * `GCH33`
 * `H44`: jubeat (2008, PC(855))  `#CLAIM:shiz`
@@ -1039,7 +1040,7 @@ chronologic order, e.g. regarding release dates.
 * `J33`: GuitarFreaks V7 (2010, PC(855)), GuitarFreaksXG  (2010, PC(?))
   * `GCJ33`
 * `J39`: pop'n music 18 せんごく列伝
-  * `GCJ39-JA`: Type A cabinet conversion kit  `#DOC:konami:113707830000 #DOC:konami:113204880000`
+  * `GCJ39-JA`: Type A cabinet conversion kit  `#DOC:konami:113707830000 #DOC:konami:113204880000 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/l1005777046`
   * `GCJ39-JB`: Type B/C/D cabinet conversion kit  `#DOC:konami:113204880000`
 * `J44`: jubeat knit (2010, PC(855)), jubeat knit APPEND (2011, PC(855))
 * `J55`: GI-HORSEPARK GX [station?]  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/o1000215728`
@@ -1298,7 +1299,7 @@ chronologic order, e.g. regarding release dates.
   * スタルジア FORTE / NOSTALGIA FORTE (2017, PC)
   * スタルジア Op.2 / NOSTALGIA Op.2 (2018, PC)
   * スタルジア Op.3 / NOSTALGIA Op.3 (2019, PC)
-  * `GEPAN-JA`: NBT -> PAN conversion kit
+  * `GEPAN-JA`: NBT -> PAN conversion kit  `#WEB:https://www.mercari.com/jp/items/m16863367891/`
 * `PIX`: MÚSECA (2015, PC)
   * `GQPIX-JA`: cabinet
 * `PMF`: マジカルシューター (2017)  `#SCRAPE:konami:eagate`
@@ -1306,8 +1307,8 @@ chronologic order, e.g. regarding release dates.
 * `PS2`: FEATURE PREMIUM Twinkle Drop JUKE/FROZEN TOWER / FEATURE PREMIUM 3・4弾  `#SCRAPE:konami:eagate #MISC:oyakodon_oniku_list`
 * `PTA`: カラコロッタ2 ワンダフルオーシャン  `#SCRAPE:konami:eagate`
 * `PTL`: ツナガロッタ  `#SCRAPE:konami:eagate`
-  * `GSPTL-JA`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1001466025`
-  * `GSPTL-JB`
+  * `GSPTL-JA`: main  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1001466025`
+  * `GSPTL-JB`: station  `#CLAIM:felix`
 * `PWT`: トレジャーシュート, マジカルシューター?  `#SCRAPE:konami:eagate #MISC:oyakodon_oniku_list`
 * `PX8`: フォーチュントリニティ3 三神獣の秘宝  `#SCRAPE:konami:eagate`
 * `Q70`: アニマロッタ おとぎの国のアニマ  `#SCRAPE:konami:eagate`
@@ -1335,6 +1336,8 @@ chronologic order, e.g. regarding release dates.
 * `RTA`: カラコロッタ 太陽とひみつの島  `#SCRAPE:konami:eagate`
 * `RTJ`: アニマロッタ おとぎの国のアニマ  `#MISC:oyakodon_oniku_list`
 * `RTL`: ツナガロッタ アニマと虹色の秘境  `#SCRAPE:konami:eagate` `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1001466025`
+  * `G*RTL-JA`: main
+  * `GERTL-JB`: station  `#CLAIM:felix`
 * `S18`: e-amusement pass カード [amusement IC]  `#DOC:konami:117194030000 #DOC:konami:117371830000 #DOC:konami:117196570000`
   * `GUS18-JA`: 汎用絵柄カード 100 枚入り / 100 pack
 * `S36`: 極寒ヒエヒエペン太  `#SCRAPE:konami:eagate`

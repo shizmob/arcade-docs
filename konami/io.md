@@ -72,6 +72,11 @@
     * Referred to as "RVOL"  `#GAME:konami:PIX:modules/libacio_pix.dll`
     * Known versions: 1.6.1 / Oct 21 2015 16:39:52 / PIX
 
+## BIO
+
+* Product: GSO65 PWB(A1)116148170000
+* Compatible games: O65, PTL, RTL
+
 ## BIO2
 
 * Product: PWB116784030000
