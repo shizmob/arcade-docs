@@ -11,7 +11,7 @@
 |  007A | Cel 2.5GHz | 256MB | 9600SE | DINOMAX / RAIDEN4-EXP M9007369AVER.1.0000                                           |
 |  014A | Cel 2.5GHz | 256MB | 9600SE | 極上！！めちゃモテ委員長 M9008084A                                                      |
 |  017A | Cel 2.0GHz | 256MB | 9550SE |                                                                                     |
-|  021A | Cel 2.5GHz | 256MB | 9600SE | TETRIS THE GRAND MASTER 3 2.01J / RAIDEN III / RAIDEN 4 VER.1.00J / CHAOS BREAKER / TROUBLE WITHCES M9008007A Ver.1.00J |
+|  021A | Cel 2.5GHz | 256MB | 9600SE | TETRIS THE GRAND MASTER 3 2.01J / RAIDEN III / RAIDEN 4 VER.1.00J / CHAOS BREAKER / TROUBLE WITHCES M9008007A Ver.1.00J / SNK PLAYMORE KOF98UM M9007690A VER1.00 (B3900118A black/gray) |
 |  022A | Cel 2.5GHz | 256MB | 9600SE | SNK PLAYMORE KOF98UM M9007690A VER1.00 (B3900118A black/gray) / 豪血寺一族 先祖供養 M9008014A Ver.200906230 |
 
 Missing: 002, 004, 008, 009, 010, 015, 016, 018, 019, 020, 023
@@ -82,7 +82,7 @@ Missing: 303, 304, 305
 |---------|---------------------|--------|---------------|------------------------------------------------------------------------------|
 |  401?   | ???                 | ???    | ???           |                                                                              |
 |  402    | Core i5-2400 3.1GHz | 2GB x4 | N560 Ti-Hawk  |                                                                              |
-|  402[U] | Core i5-2400 3.1Ghz | 2GB x4 | N660GTX       | GPU upgrade sticker / GUNS 3-(STANDARD) / GUNS 3-(ADVANCE) / GUNS 3-(INSTALMENT) M9009093A |
+|  402[U] | Core i5-2400 3.1Ghz | 2GB x4 | N660GTX       | GPU upgrade sticker / GUNSLINGER STRATOS2 M9008929A / GUNS 3-(STANDARD) / GUNS 3-(ADVANCE) / GUNS 3-(INSTALMENT) M9009093A |
 |  403    | Core i5-2400 3.1GHz | 2GB x2 | N560 Ti-Hawk? |                                                                              |
 |  403[U] | Core i5-2400 3.1GHz | 2GB x4 | N660GTX       | RAM + GPU upgrade sticker / GUNS 3-(ADVANCE)                                 |
 |  404    | Core i5-2400 3.1GHz | 2GB x4 | N660GTX       | GUNS 3-(STANDARD) / ULTRA STREET FIGHTER IV / LORD OF VERMILLION IV 20 PLAY  |       
