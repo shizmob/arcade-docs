@@ -47,10 +47,10 @@ The following variables are used across the different identifiers and can denote
   * `A`: Asia
   * `C`: China
   * `E`: Europe
-  * `H`: Asia (220V)
+  * `H`: Asia (Hong Kong, 220V; software is often/always? A-region)
   * `J`: Japan
   * `K`: Korea
-  * `T`: Asia (110V)
+  * `T`: Asia (Taiwan, 110V; software is often/always? A-region)
   * `U`: US
   * `Y`: Indonesia
 * `$s`: Specification: Product type and game dependent, e.g. type of cabinet or hardware

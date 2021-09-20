@@ -24,7 +24,7 @@ chronologic order, e.g. regarding release dates.
   * `GX060 PWB352439B`
 * `061`: ゴルフィンググレイツ (1991, TMNT2-ROM)  `#MISC:oyakodon_oniku_list`
 * `063`: TMNT TURTLES IN TIME (1991, TMNT2-ROM)  `#MISC:oyakodon_oniku_list`
-* `064`: サンセットライダーズ (1991, TMNT2-ROM)  `#MISC:oyakodon_oniku_list`
+* `064`: サンセットライダーズ (1991, TMNT2-ROM)  `#MISC:oyakodon_oniku_list #WEB:https://page.auctions.yahoo.co.jp/jp/auction/1006566439`
 * `065`: X-Men (1992, X-MEN-ROM)  `#MISC:oyakodon_oniku_list`
 * `067`: ゼクセクス (1991, XENEX-ROM)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1004550491 #MISC:oyakodon_oniku_list`
   * `G*067-JAA`
@@ -344,6 +344,7 @@ chronologic order, e.g. regarding release dates.
   * `GQ728-UAA`  `#MAME:konamigv`
 * `830`: サイレントスコープ / Silent Scope (1999, HORNET-ROM)  `#MAME:hornet #MISC:oyakodon_oniku_list #WEB:https://page.auctions.yahoo.co.jp/jp/auction/c1005211507`
   * `GQ830`
+  * `G*830-JZ`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/r1006468088`
 * `831`: ポップンミュージック 2 / pop'n music 2 (1998, DJMAIN-ROM+HDD)  `#MISC:oyakodon_oniku_list`
   * `GC831`
 * `834`: 遊戯王 モンスターカプセル  `#MISC:oyakodon_oniku_list`
@@ -895,7 +896,7 @@ chronologic order, e.g. regarding release dates.
   * `GCFDD-JB`
   * [`GEFDD-JA`: Hardware conversion kit](product/GEFDD-JA.md)
   * [`GEFDD-JB`: Hardware conversion kit](product/GEFDD-JB.md)
-* `FDH`: DanceDanceRevolution SuperNOVA / Dancing Stage SuperNOVA (2006, PYTHON2-HDD)  `#CLAIM:shiz`
+* `FDH`: DanceDanceRevolution SuperNOVA / Dancing Stage Supernova (2006, PYTHON2-HDD)  `#CLAIM:shiz`
   * `GKFDH`
   * `GKFDH-EA`: Europe `#WEB:https://twitter.com/TheDeepStriker1/status/1426662011442708493`
   * `GKFDH-UA`: US  `#WEB:https://www.worthpoint.com/worthopedia/dance-dance-revolution-supernova-3843354880`
@@ -1104,6 +1105,8 @@ chronologic order, e.g. regarding release dates.
   * `GUKCK-JA`: 装節等キット
 * `KDM`: DanceEvolution ARCADE (2012, PC(E?))
   * `GQKDM-JA`: cabinet
+  * `GQKDM-HA`: cabinet (Hong Kong, running A-region software)  `#WEB:https://zh.wikipedia.org/wiki/%E8%88%9E%E8%B9%88%E8%BF%9B%E5%8C%96#%E4%BA%9E%E6%B4%B2%E5%8D%80Dance_Evolution_Arcade`
+  * `GKKDM-CA`: cabinet (China, made by UNIS, roundplug dongles)  `#MEDIA:konami/GKKDM-CA-sticker.jpg`
 * `KDX`: DanceDanceRevolution X3 VS 2ndMIX (2012, PC(945)-HDD)
   * `GEKDX-JA`
 * [`KDZ`: beatmania IIDX 19 Lincle](software/KDZ.md) (2011, PC(B5)IO(C02/D01/USB2)-HDD)  `#MISC:oyakodon_oniku_list`
