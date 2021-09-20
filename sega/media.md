@@ -1011,6 +1011,8 @@ CDN-0008 -1D: 初音ミク Project DIVA Future Tone (No.1) : Nu1 : JPN/EXP : SBZ
         A-2D: ^ (No.2)
         A-3D: ^ (No.3)
         A-4D: ^ (No.4)
+CDN-0010R-1D: Wonderland Wars (Disc.1) : Nu1 : JPN : ??? : `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/s1006273203`
+         -2D: ^ (Disc.2)
 ????        : Cross Beats Rev : Nu1.1 : JPN : SDCA : 610-0891-002BJ
 ????        : Luigi's Mansion : Nu1.1 : EXP : SDCF : 610-0891-001BE
 ????        : Mario & Sonic at the Rio Olympic Games : Nu1.1 : JPN/EXP : SDCH : 610-0890-010BJ
