@@ -166,6 +166,16 @@ External serial interface, revision 2. Looks identical to the [H039 ESIF](#h039-
 
 ## STR4
 
+## MGEXIO
+
+* Product: 8681960201 / (8681970201)
+* Label: 汎用(S10) MGEXIO PCB
+* Copyright: NAMCO
+* Purpose: seemingly video-related
+* Connectors:
+  - (external) 1x 4-pin, pinout: RXD- RXD+ TXD- TXD+
+  - (external) 1x JST XH 5-pin, pinout: RED GRN BLU SYNC V-GND
+
 ## NA-JV
 
 * Product: 8682960602 / (8682970602); 26169605

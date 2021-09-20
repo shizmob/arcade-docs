@@ -245,6 +245,7 @@ PR  - Prop Cycle
 PR2 - Pride GP 2003
 PS  - Phelios
 PSP - Paca Paca Passion Special
+PZB - ?  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/l1006800069
 QG  - Quiz Mobile Suit Gundam Tou Senshi
 QS  - Quester
 QT  - Nettou! Gekitou! Quiztou!!
@@ -305,7 +306,7 @@ STT - Star Trigon
 SV  - Solvalou
 SWB - M188???  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/l1003283787
 SWF - M143???  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/h1003281724
-SWS - Super World Stadium
+SWS - Super World Stadium  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/l1006800069
 SYN - Synchronica
 T10 - Taiko no Tatsujin 10
 T11 - Taiko no Tatsujin 11
