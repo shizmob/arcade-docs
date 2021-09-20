@@ -62,6 +62,7 @@ Components:
   * `HDD0`: HDD (on N2 HDD)
   * `DVD0`: DVD (on System 246 game DVD)
   * `DAT0`: data (on ES1 HDD)
+  * `SYS0`: base system (in ES3 registry)
 - `$r`: revision, `[A-Z]`
 - `$R`: revision, `[A-Z][0-9]{2}`
 - `$u`: unknown, `[A-Z]{2}`

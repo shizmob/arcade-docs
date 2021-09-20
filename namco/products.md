@@ -41,6 +41,7 @@ V337 - Wangan Midnight Maximum Tune 3
 V349 - 
 V351 - Nirin
 V352 - Tank!Tank!Tank!
+V355 -   #WEB:https://page.auctions.yahoo.co.jp/jp/auction/p1006230498
 V363 - Wangan Midnight Maximum Tune 3DX
 V371 - 
 V376 - 
@@ -169,6 +170,7 @@ GN  - Gunbullet / Point Blank
 GNB - Gunbarl / Point Blank 2
 GNN - Gunbalina / Point Blank 3
 GNX - Gundam vs. Gundam NEXT
+GP  - ギャプラス / Gapius  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1006134243
 GS  - Great Sluggers  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/j1005459303
 GSE/GS4 - Great Sluggers '94
 GSD - Mobile Suit Gundam SEED Destiny O.M.N.I. vs Z.A.F.T. II
@@ -207,6 +209,7 @@ MK3 - Mario Kart Arcade GP DX
 MM  - Marchen Maze  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/e416013533
 MMH - Maximum Heat 3D
 MN  - Mirai Ninja
+MP  - Mappy  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/u1006258813
 MQ  - Bakuretsu Quiz Ma-Q Dai Bouken
 MTL -
 MV  - Marvel Land
@@ -247,7 +250,7 @@ QS  - Quester
 QT  - Nettou! Gekitou! Quiztou!!
 R91 - Winning Run '91
 RD  - Rapid River
-RI  - The Return of Ishtar
+RI  - The Return of Ishtar  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/d1006131810
 RO  - Race On!
 RP  - Rompers
 RR  - Ridge Racer
@@ -312,6 +315,7 @@ T14 - Taiko no Tatsujin 14
 T6B - Tekken 6 Bloodline Rebellion
 TC5 - Time Crisis 5
 TCH - ビンゴキッズ  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/d298580939
+TD  -  ドルアーガの塔 / Tower of Druaga
 TE  - Tekken
 TE5 - Tekken 5
 TE6 - Tekken 6
@@ -328,7 +332,7 @@ TH  - Techno Drive
 TK  - Tinkle Pit
 TK2 - Taiko no Tatsujin 2
 TK3 - Taiko no Tatsujin 3
-TK4 - Taiko no Tatsujin 4
+TK4 - Taiko no Tatsujin 4  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/k1006517518
 TK5 - Taiko no Tatsujin 5
 TK6 - Taiko no Tatsujin 6
 TK7 - Taiko no Tatsujin 7
@@ -378,6 +382,7 @@ WS9 - Pro Yakyuu World Stadium '90
 WWC - ワイワイクリッパー  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/w290817382
 XDS - X-Day 2
 XV3 - Xevious 3D/G
+XV  - Xevious  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/p1006260281
 YD  - Youkai Douchuuki / Shadowland
 YH  - The Battle of Yu Yu Hakusho Dark Tournament
 ZDX - Mobile Suit Z Gundam DX A.E.U.G. vs Titans
