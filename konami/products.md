@@ -697,8 +697,10 @@ chronologic order, e.g. regarding release dates.
 * `AN6`: 筋肉番付 スプレー ヒッター (2000)  `#MISC:oyakodon_oniku_list`
 * `AN8`: 筋肉番付 キックターゲット (2001, DDR_MET-ROM)  `#MISC:oyakodon_oniku_list`
 * `AN9`: 筋肉番付 ストラック アウト (2000)  `#MISC:oyakodon_oniku_list`
-* `B00`: ポップンミュージック 7 / pop'n music 7 (2001, FIREBEAT-CDROM)  `#MAME:firebeat`
-  * `GCB00`
+* `B00`: ポップンミュージック 7 / pop'n music 7 (2001, FIREBEAT-CDROM)  `#MAME:firebeat MEDIA:konami/popn-manuals.jpg`
+  * `GCB00-JA`: conversion kit
+  * `GCB00-JB`: conversion kit
+  * `GEB00-JA`: conversion kit
 * `B01`: セレブリティスタジオ  `#MISC:oyakodon_oniku_list`
 * `B02`: プリティングスタイル (2002)  `#MISC:oyakodon_oniku_list`
 * `B05`: DrumMania 5thMIX / PercussionFreaks 5hMIX (2001, SYSTEM573-CDROM)  `#MAME:ksys573`
@@ -721,7 +723,10 @@ chronologic order, e.g. regarding release dates.
 * `B20`: DDRMAX2 -DanceDanceRevolution 7thMIX- (2002, SYSTEM573-CDROM)  `#MAME:ksys573`
   * `GCB20`
 * `B22`: ドッグ・ステーション  `#MISC:oyakodon_oniku_list`
-* `B30`: ポップンミュージック 8 / pop'n music 8 (2002, FIREBEAT-CDROM)  `#MISC:oyakodon_oniku_list`
+* `B30`: ポップンミュージック 8 / pop'n music 8 (2002, FIREBEAT-CDROM)  `#MISC:oyakodon_oniku_list MEDIA:konami/popn-manuals.jpg`
+  * `GCB30-JA`: conversion kit
+  * `GCB30-JB`: conversion kit
+  * `GEB30-JA`: conversion kit
 * `B31`: カード販売機 2券種  `#MISC:oyakodon_oniku_list`
 * `B33`: モーキャップゴルフ / Mocap Golf (2001, VIPER-CFCARD)   `#MAME:viper #MISC:oyakodon_oniku_list`
 * `B36`: ヒエヒエペン太  `#MISC:oyakodon_oniku_list`
@@ -753,7 +758,9 @@ chronologic order, e.g. regarding release dates.
 * `C09`: 麻雀格闘倶楽部2 / Mahjong Fight Club (2?) (2002, VIPER-CFCARD)  `#MAME:viper #MISC:oyakodon_oniku_list`
 * `C18`: ウイニングイレブン / World Soccer Winning Eleven Arcade Game Style / Pro Evolution Soccer The Arcade (2002, PYTHON-CFCARD)  `#MAME:kpython  #MISC:oyakodon_oniku_list`
   * `GXC18-EAA`: Pro Evolution Soccer The Arcade
-* `C20`: ポップンミュージック 10 / pop'n music 10 (2002, PYTHON-HDD)  `#WEB:https://www.mercari.com/jp/items/m27619565194/ #MISC:oyakodon_oniku_list`
+* `C20`: ポップンミュージック 10 / pop'n music 10 (2002, PYTHON-HDD)  `#WEB:https://www.mercari.com/jp/items/m27619565194/ #MISC:oyakodon_oniku_list MEDIA:konami/popn-manuals.jpg`
+  * `GEC20-JB`: conversion kit
+  * `GEC20-JD`: conversion kit
   * `GCC20-JB`
   * `GCC20-JD`
 * `C22`: ワールドコンバット / World Combat / Warzaid (2002, VIPER-CFCARD)  `#MAME:viper #MISC:oyakodon_oniku_list`
@@ -828,12 +835,16 @@ chronologic order, e.g. regarding release dates.
   * `GCE11-JA`
   * `GCE11-JB`
   * `GUE11-JA`: ビートマニア IIDX 11 エントリーカード / beatmania IIDX II entry card (100 pack)  `#DOC:konami:0000363152`
-* `E12`: ポップンミュージック 12 / pop'n music 12 (2004, PYTHON-HDD)  `#MISC:oyakodon_oniku_list`
+* `E12`: ポップンミュージック 12 / pop'n music 12 (2004, PYTHON-HDD)  `#MISC:oyakodon_oniku_list MEDIA:konami/popn-manuals.jpg`
   * `GCE12-JA`
+  * `GCE12-JB`: conversion kit
   * `GCE12-JC`
-* `E13`: ポップンミュージック 13 / pop'n music 13 (2005, PYTHON-HDD)  `#MISC:oyakodon_oniku_list`
+  * `GCE12-JD`: conversion kit
+* `E13`: ポップンミュージック 13 / pop'n music 13 (2005, PYTHON-HDD)  `#MISC:oyakodon_oniku_list MEDIA:konami/popn-manuals.jpg`
   * `GCE13-JA`
+  * `GCE13-JB`: conversion kit
   * `GCE13-JC`
+  * `GCE13-JD`: conversion kit
 * `E17`: 健身計画 歩数計専用ツール / Konami Health Plan with dedicated pedometer (2007)  `#MISC:oyakodon_oniku_list`
   * `HAE17-JA`: TV utility (white)  `#WEB:https://www.yodobashi.com/product/100000001000970121/`
   * `HAE17-JZJ`: TV utility + white e-walkeylife2  `#WEB:https://www.nts.ne.jp/asp/item_order.asp?ItemCD=FTN-KNM-HAE17JZJ`
@@ -864,8 +875,10 @@ chronologic order, e.g. regarding release dates.
   * `GNF02-TB`
 * `F03`: GuitarFreaks V2 (2005, PYTHON2-HDD)  `#MISC:oyakodon_oniku_list`
   * `GEF03`
-* `F14`: ポップンミュージック 14 / pop'n music 14 (2006, PYTHON-HDD)  `#MISC:oyakodon_oniku_list`
-  * `GCF14`
+* `F14`: ポップンミュージック 14 / pop'n music 14 (2006, PYTHON-HDD)  `#MISC:oyakodon_oniku_list MEDIA:konami/popn-manuals.jpg`
+  * `GCF14-JB`: conversion kit
+  * `GCF14-JD`: conversion kit
+  * `GCF14-JE`: conversion kit
 * `F17`: e-walkeylife2  `#MISC:oyakodon_oniku_list`
   * `HAF17-JA`: white  `#WEB:https://www.mercari.com/jp/items/m49218827649/`
   * `HAF17-JB`: black  `#WEB:https://www.mercari.com/jp/items/m25529569961/`
@@ -966,6 +979,7 @@ chronologic order, e.g. regarding release dates.
   * `GCH32-JA`: conversion kit (soft)  `#WEB:https://www.mercari.com/jp/items/m14516750937/`
 * `H33`: GuitarFreaks V5 (2008, PC(855))  `#CLAIM:shiz`
   * `GCH33`
+  * `GCH33-JA`: conversion kit (soft)  `MEDIA:konami/popn-manuals.jpg`
 * `H44`: jubeat (2008, PC(855))  `#CLAIM:shiz`
   * `GQH44-JA`: 1 cabinet  `#DOC:konami:112476060000`
   * `GQH44-JB`: 2 cabinets with hub  `#DOC:konami:112476060000`
@@ -1003,8 +1017,10 @@ chronologic order, e.g. regarding release dates.
 * `I27`: ベースボールヒーローズ2008 (2008, PC(C3))  `#MISC:oyakodon_oniku_list`
 * `I32`: DrumMania V6 (2009, PC(855)-HDD)  `#MISC:oyakodon_oniku_list`
   * `GCI32`
+  * `GCI32-JA`: conversion kit (soft)  `MEDIA:konami/popn-manuals.jpg`
 * `I33`: GuitarFreaks V6 (2009, PC(855)-HDD)  `#MISC:oyakodon_oniku_list`
   * `GCI33`
+  * `GCI33-JA`: conversion kit (soft)  `MEDIA:konami/popn-manuals.jpg`
 * `I36`: Metal Gear Arcade (2010, PC-HDD)
   * `GPI36-JA`: Dedicated cabinet `#MEDIA:konami/GPI36-JA-sticker.jpg #DOC:konami:113088440000 #DOC:konami:113088450000`
 * `I44`: jubeat ripples, jubeat ripples APPEND (2009, PC(855)-HDD)
