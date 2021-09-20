@@ -1106,7 +1106,7 @@ chronologic order, e.g. regarding release dates.
 * `KDM`: DanceEvolution ARCADE (2012, PC(E?))
   * `GQKDM-JA`: cabinet
   * `GQKDM-HA`: cabinet (Hong Kong, running A-region software)  `#WEB:https://zh.wikipedia.org/wiki/%E8%88%9E%E8%B9%88%E8%BF%9B%E5%8C%96#%E4%BA%9E%E6%B4%B2%E5%8D%80Dance_Evolution_Arcade`
-  * `GKKDM-CA`: cabinet (China, made by UNIS, roundplug dongles)  `#MEDIA:konami/GKKDM-CA-sticker.jpg`
+  * `GKKDM-CA`: cabinet (China, made by UNIS, roundplug dongles)  `#MEDIA:konami/GKKDM-CA-dongles.jpg`
 * `KDX`: DanceDanceRevolution X3 VS 2ndMIX (2012, PC(945)-HDD)
   * `GEKDX-JA`
 * [`KDZ`: beatmania IIDX 19 Lincle](software/KDZ.md) (2011, PC(B5)IO(C02/D01/USB2)-HDD)  `#MISC:oyakodon_oniku_list`
