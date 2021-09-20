@@ -1138,7 +1138,7 @@ chronologic order, e.g. regarding release dates.
   * `GQKFC-JB`  `#DOC:konami:116495120000`
   * `GQKFC-JC`: Sound Voltex III GRAVITY WARS cabinet  `#DOC:konami:116245360000`
   * `GEKFC-JF`: Vivid Wave upgrade kit
-  * `GCKFC-JF`: Vivid Wave offline kit
+  * `GCKFC-JF`: Vivid Wave offline kit  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/l1006825022`
   * `GUKFC-JD`: Exceed Gear art kit
   * `GUKFC-JZ`: SDVX generator real model
 * `KGG`: Steel Chronicle (2011, PC(E1)), Steel Chronicle VICTROOPERS (2013, PC(E1))  `#MISC:oyakodon_oniku_list`

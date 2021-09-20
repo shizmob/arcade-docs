@@ -1341,7 +1341,7 @@ MDA-U0051 :
 MDA-U0052 :
 MDA-U0053 :
 MDA-U0054 :
-MDA-U0055 : 北斗の拳 BATTLE MEDAL          : RingEdge2
+MDA-U0055 : 北斗の拳 BATTLE MEDAL          : RingEdge2 : JPN : SBYQ  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1006804513
 MDA-U0056 :
 MDA-U0057 :
 MDA-U0058 :
