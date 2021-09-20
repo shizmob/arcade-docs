@@ -1201,7 +1201,7 @@ chronologic order, e.g. regarding release dates.
   * Quiz Magic Academy 夢幻の鏡界 (2021)
   * `GELMA-JA`
   * `GELMA-JB`  `#WEB:https://www.mercari.com/jp/items/m91656375975/`
-  * `GULMA-JD`: 夢幻の鏡界 art kit `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/f1006651842`
+  * `GULMA-JN`: 夢幻の鏡界 art kit `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/f1006651842`
 * `LMM`: モンスター烈伝 オレカバトル / Monster Retsuden Oreca Battle  `#MISC:oyakodon_oniku_list`
 * `LND`: e-walkeylife3 (2012, 歩数計)  `#MISC:oyakodon_oniku_list`
 * `LPH`: Venus Fountain  `#SCRAPE:konami:eagate`
@@ -1215,7 +1215,7 @@ chronologic order, e.g. regarding release dates.
   * GITADORA Matixx (2017, PC)
   * GITADORA EXCHAIN (2018, PC)
   * GITADORA NEX+AGE (2019, PC)
-  * GITADORA HIGH-VOLTAGE (2020, PC)
+  * GITADORA HIGH-VOLTAGE (2021, PC)
   * `GCM32`
   * `GQM32-JA`: Guitar
   * `GQM32-JB`: Drums
