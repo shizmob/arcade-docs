@@ -50,7 +50,7 @@ Missing: 002, 004, 008, 009, 010, 015, 016, 018, 019, 020, 023
 | 204A   | Cel 3.2GHz    | 512MB | X1600PRO    |                                                                                             |
 | 205A   | P4 3.4GHz     | 512MB | GF7900GS    |                                                                                             |
 | 207A   | P4 3.4Ghz     | 1GB   | GF7900GS    | STREET FIGHTER4 VER1.00                                                                     |
-| 208A   | P4 3.4GHz     | 512MB | GF7900GS    | LORD OF VERMILLION2-SATE / STREET FIGHTER 4 VER1.00                                         |
+| 208A   | P4 3.4GHz     | 512MB | GF7900GS    | LORD OF VERMILLION2-SATE / STREET FIGHTER 4 VER1.00 / CAPCOM SSF4 M9008361A VER1.0 (B3900154A, green) |
 | 209A   | P4 3.4GHz     | 512MB | GF7900GS    | CAPCOM SSF4 Ver1.0                                                                          |
 | 210A   | P4 3.4GHz     | 512MB | GF7900GS    | BLAZ BLUE M9007861A VER.1.01 (B3900123A, black/gray) / CAPCOM SSF4 M9008561A? Ver1.0 / HOPPING ROAD KIDS M9008194A Ver1.02JPN (B3900144A, black/gray) |
 | 2101A  | P4 3.4GHz     | 512MB | X1600PRO    | BLAZBLUE CONTINUUM SHIFT M9008080A https://forum.arcadeotaku.com/viewtopic.php?t=25696      |
