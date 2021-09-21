@@ -322,7 +322,7 @@ ES3(B):
 **CPU:** Intel Pentium G2120  
 **RAM:** 1x SanMax Technologies SMD-4G68H1P-16K (4GB, DDR3, PC3-12800U)  
 **GPU:** Nvidia GeForce GTX650 Ti  
-**HDD:** HGST HTS725025A7E630 (SATA, 250GB, 7200RPM)
+**HDD:** HGST HTS725025A7E630 (SATA, 250GB, 7200RPM)  
 **IO:** [Namco ESIF2 PCB](io.md#esif2) (above motherboard shield)  
 **IO:** "JV IO (JAMMA)" (expansion slot, 1x JVS USB, 1x internal connector with cable to ESIF2)  
 **IO:** "SERIAL 3 (CARD IF)" (expansion slot, to motherboard, pinout up-down: COM-GND COM-CTS COM-RTS COM-TXD COM-RXD GND 12V?, hooks up to [Namco H055 CARD-IF](io.md#h055-card-if))    
