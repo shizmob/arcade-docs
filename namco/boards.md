@@ -310,7 +310,7 @@ PC, x86-based. Variants: ES3(A), ES3(B), ES3(X).
 ES3(A):  
 **MBD:** SuperMicro C7B75-O Rev 1.01  
 **CPU:** ???  
-**RAM:** 1x SanMax Technologies ??? (4GB)  
+**RAM:** 1x SanMax Technologies SMD-4G68H1P-16K (4GB, DDR3, PC3-12800U)   
 **GPU:** AMD Radeon HD 7750 (PCIe, 1GB)  
 **SSD:** Kingston SSDNow V200 SV200S37A/64G (SATA 2.5", 64GB)  
 **IO:** [Namco ESIF2 PCB](io.md#esif2) (above motherboard shield)  
@@ -318,10 +318,11 @@ ES3(A):
 **IO:** "SERIAL 3 (CARD IF)" (expansion slot, to motherboard, pinout up-down: COM-GND COM-CTS COM-RTS COM-TXD COM-RXD GND 12V?, hooks up to [Namco H055 CARD-IF](io.md#h055-card-if))   
 
 ES3(B):  
-**MBD:** ???  
+**MBD:** SuperMicro C7B75-OC012 Rev 1.01  
 **CPU:** Intel Pentium G2120  
-**RAM:** 1x ??? (8GB, DDR3, PC3-19200)  
-**GPU:** Nvidia GeForce GTX650 Ti  
+**RAM:** 1x SanMax Technologies SMD-4G68H1P-16K (4GB, DDR3, PC3-12800U)  
+**GPU:** Nvidia GeForce GTX650 Ti 
+**HDD:** HGST HTS725025A7E630 (SATA, 250GB, 7200RPM)
 **IO:** [Namco ESIF2 PCB](io.md#esif2) (above motherboard shield)  
 **IO:** "JV IO (JAMMA)" (expansion slot, 1x JVS USB, 1x internal connector with cable to ESIF2)  
 **IO:** "SERIAL 3 (CARD IF)" (expansion slot, to motherboard, pinout up-down: COM-GND COM-CTS COM-RTS COM-TXD COM-RXD GND 12V?, hooks up to [Namco H055 CARD-IF](io.md#h055-card-if))    
