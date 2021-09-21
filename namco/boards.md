@@ -321,7 +321,7 @@ ES3(B):
 **MBD:** SuperMicro C7B75-OC012 Rev 1.01  
 **CPU:** Intel Pentium G2120  
 **RAM:** 1x SanMax Technologies SMD-4G68H1P-16K (4GB, DDR3, PC3-12800U)  
-**GPU:** Nvidia GeForce GTX650 Ti 
+**GPU:** Nvidia GeForce GTX650 Ti  
 **HDD:** HGST HTS725025A7E630 (SATA, 250GB, 7200RPM)
 **IO:** [Namco ESIF2 PCB](io.md#esif2) (above motherboard shield)  
 **IO:** "JV IO (JAMMA)" (expansion slot, 1x JVS USB, 1x internal connector with cable to ESIF2)  
