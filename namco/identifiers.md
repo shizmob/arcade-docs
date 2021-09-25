@@ -29,7 +29,7 @@ The letter `Z` followed by a sequence of three digits. Current purpose unknown. 
 A single digit indicating the region for a specific release.
 
 * `1`: JPN / (unreadable kanji)
-* `2`: ASIA / 一般海外 ASIA
+* `2`: ASIA / 一般海外 ASIA / NEL
 * `3`: EXP / EXP、NAI
 * `4`: CHINA (https://www.ebay.co.uk/itm/165005792426?mkevt=1&mkcid=1&mkrid=710-53481-19255-0&campid=5338722076&toolid=10001)
 * `5`: CHINA
@@ -61,7 +61,7 @@ Components:
   * `MPRO`: M production? (on ES2 HDD, ES4 HDD)
   * `HDD0`: HDD (on N2 HDD)
   * `DVD0`: DVD (on System 246 game DVD)
-  * `DAT0`: data (on ES1 HDD)
+  * `DAT0`: data (on ES1 HDD, also on W3P HDDs)
   * `SYS0`: base system (in ES3 registry)
 - `$r`: revision, `[A-Z]`
 - `$R`: revision, `[A-Z][0-9]{2}`
