@@ -309,7 +309,7 @@ PC, x86-based. Variants: ES3(A), ES3(B), ES3(X).
 
 ES3(A):  
 **MBD:** SuperMicro C7B75-O Rev 1.01  
-**CPU:** ???  
+**CPU:** Intel Pentium G2120  
 **RAM:** 1x SanMax Technologies SMD-4G68H1P-16K (4GB, DDR3, PC3-12800U)   
 **GPU:** AMD Radeon HD 7750 (PCIe, 1GB)  
 **SSD:** Kingston SSDNow V200 SV200S37A/64G (SATA 2.5", 64GB)  
