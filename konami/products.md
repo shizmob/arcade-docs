@@ -195,7 +195,8 @@ chronologic order, e.g. regarding release dates.
   * `G*615-JAA`
 * `620`: 恋のホットロック (1986, BLADES_OF_STEEL-ROM)  `#MISC:oyakodon_oniku_list`
 * `621`: Mr.五右衛門 (1986, GREEN_BERET_ROM)  `#MISC:oyakodon_oniku_list`
-* `623`: 飛べ!ポリスターズ (1997, M2-CDROM)  `#MISC:oyakodon_oniku_list`
+* `623`: 飛べ!ポリスターズ (1997, M2-CDROM)  `#MISC:oyakodon_oniku_list #WEB:https://docs.google.com/spreadsheets/d/196LGamRp2aMasmTIPFMEPe1U779QbZp8vC-pPJ9RvrI/edit#gid=0`
+  * `G*623-JAA`
 * `624`: ウェディングラプソディ (1997, GV-CDROM)  `#MISC:oyakodon_oniku_list`
   * `GX624-JAA`  `#MAME:konamigv`
 * `627`: バーサスネットサッカー / Vs. Net Soccer (1996, GX-ROM)  `#MISC:oyakodon_oniku_list #MAME:konamigx #WEB:https://page.auctions.yahoo.co.jp/jp/auction/j725321082`
@@ -208,8 +209,18 @@ chronologic order, e.g. regarding release dates.
 * `631`: 特殊部隊ジャッカル (1986, DOUBLE_DRIBBLE-ROM)  `#MISC:oyakodon_oniku_list`
 * `633`: 魂斗羅 (1987, CONTRA-ROM)  `#MISC:oyakodon_oniku_list #WEB:https://www.mercari.com/jp/items/m44040269371/`
   * `GX633`
-* `636`: バトルトライスト / Bttle Tryst (1998, M2-CDROM)  `#MISC:oyakodon_oniku_list #WEB:https://page.auctions.yahoo.co.jp/jp/auction/v1004563297`
-* `639`: トータルバイス (1997, M2-CDROM)  `#MISC:oyakodon_oniku_list`
+* `636`: バトルトライスト / Battle Tryst (1998, M2-CDROM)  `#MISC:oyakodon_oniku_list #WEB:https://page.auctions.yahoo.co.jp/jp/auction/v1004563297 #WEB:https://docs.google.com/spreadsheets/d/196LGamRp2aMasmTIPFMEPe1U779QbZp8vC-pPJ9RvrI/edit#gid=0`
+  * `GX636-JAA`
+  * `GC636-JAC`
+* `639`: トータルバイス / Total Vice (1997, M2-CDROM)  `#MISC:oyakodon_oniku_list #WEB:https://docs.google.com/spreadsheets/d/196LGamRp2aMasmTIPFMEPe1U779QbZp8vC-pPJ9RvrI/edit#gid=0`
+  * `GQ639-JAD`
+  * `GQ639-JAF`
+  * `GQ639-AAB`
+  * `GQ639-AAC`
+  * `GQ639-UAC`
+  * `GQ639-EAC`
+  * `GQ639-EAD`
+  * `GQ639-EBA`
 * `640`: どぼちゃん (1996, MEDAL-ROM)  `#MISC:oyakodon_oniku_list`
 * `641`: パワフルストライカー (1996)  `#MISC:oyakodon_oniku_list`
 * `642`: スペースポカーン (1996, MEDAL-ROM)  `#MISC:oyakodon_oniku_list`
@@ -248,7 +259,9 @@ chronologic order, e.g. regarding release dates.
   * `700B01`: Boot ROM (Dancin Stage EuroMIX2?)  `#MAME:ksys573`
   * `700A04`: CDROM Drive Updater  `#MAME:ksys573`
   * `700B04`: CDROM Drive Updater 2.0  `#MAME:ksys573`
-* `703`: Heat Of Eleven '98 (1998, M2-CDROM)  `#MISC:oyakodon_oniku_list`
+* `703`: The World Soccer Championship / Heat Of Eleven '98 (1998, M2-CDROM)  `#MISC:oyakodon_oniku_list #WEB:https://docs.google.com/spreadsheets/d/196LGamRp2aMasmTIPFMEPe1U779QbZp8vC-pPJ9RvrI/edit#gid=0`
+  * `G*703-JAA`: The World Soccer Championship
+  * `G*703-EAA`: Heat of Eleven '98
 * `705`: ウイニングスパイク / Winning Spike (1997, GX-ROM)  `#MISC:oyakodon_oniku_list #MAME:konamigx`
   * `G*705-JAA`: ウイニングスパイク
   * `G*705-EAA`: Winning Spike
@@ -288,7 +301,7 @@ chronologic order, e.g. regarding release dates.
 * `751`
   * `GQ751`: Twinkle main board (?)
 * `752`: ファストレーン (1987, CONTRA-ROM)  `#MISC:oyakodon_oniku_list`
-* `753`: beatmania (1997, DJMAIN-ROM+HDD)  `#MAME:djmain #MISC:oyakodon_oniku_list`
+* `753`: beatmania / beatstage (1997, DJMAIN-ROM+HDD)  `#MAME:djmain #MISC:oyakodon_oniku_list #WEB:https://dpg.danawa.com/mobile/news/view?boardSeq=60&listSeq=2649929`
   * `GQ753`  `#WEB:https://www.mercari.com/jp/items/m91194310353/`
   * `GX753`: DJMAIN board
 * `755`: ときめきメモリアル -おしえてYour Heart- シールバージョン (1998)  `#MISC:oyakodon_oniku_list`
@@ -299,6 +312,7 @@ chronologic order, e.g. regarding release dates.
   * `GE755-JAB`  `#MAME:konamigv`
 * `763`: ホットチェイス (1988, 68000-ROM)  `#MISC:oyakodon_oniku_list`
 * `765`: バスアングラー A Bass Challenge / Fisherman's Bait - A Bass Challenge (1998, SYSTEM573-CDROM)  `#MAME:ksys573 #MISC:oyakodon_oniku_list`
+  * `GX765`
   * `GE765-JAA`: バスアングラー A Bass Challenge  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/u1005657673`
   * `GE765-UAB`: Fisherman's Bait - A Bass Challenge
 * `768`: 悪魔城ドラキュラ (1988, CONTRA-ROM)  `#MISC:oyakodon_oniku_list #WEB:https://page.auctions.yahoo.co.jp/jp/auction/c917269668`
@@ -307,6 +321,7 @@ chronologic order, e.g. regarding release dates.
   * `GX770`
 * `771`: ラビリンスランナー (1987, CONTRA-ROM)  `#MISC:oyakodon_oniku_list`
 * `775`: スーパー魂斗羅 エイリアンの逆襲 (1988, TMNT-ROM)  `#MISC:oyakodon_oniku_list`
+  * `GX775`  `#WEB:http://solid-orange.com/1738`
 * `777`: バトランティス (1987, BLADES_OF_STEEL-ROM)  `#MISC:oyakodon_oniku_list`
 * `778`: NBA プレイ バイ プレイ / NBA Play by Play (1997, HORNET-ROM)  `#MAME:hornet`
   * `GX778-JA`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/x773402480`
@@ -326,7 +341,9 @@ chronologic order, e.g. regarding release dates.
 * `803`: ポップンミュージック / pop'n music (1998, DJMAIN-ROM+HDD)  `#MISC:oyakodon_oniku_list`
   * `GC803`
 * `808`: M.I.A. (1989, TWIN16-ROM)  `#MISC:oyakodon_oniku_list`
-* `810`: Hell Night (1998, M2-ROM)  `#MISC:oyakodon_oniku_list`
+* `810`: Evil Night / Hell Night (1998, M2-ROM)  `#MISC:oyakodon_oniku_list #WEB:https://docs.google.com/spreadsheets/d/196LGamRp2aMasmTIPFMEPe1U779QbZp8vC-pPJ9RvrI/edit#gid=0 #MAME:konamim2`
+  * `G*810-UBA`: Evil Night
+  * `G*810-EAA`: Evil Night / Hell Night
 * `811`: 実況パワフルプロ野球 EX'98 (1998, SYSTEM573-CDROM)  `#MAME:ksys573 #MISC:oyakodon_oniku_list`
   * `GC811-JAA`
 * `813`: (Com'on Mama)  `#MISC:oyakodon_oniku_list`
@@ -451,6 +468,7 @@ chronologic order, e.g. regarding release dates.
   * `GN887-AAA`  `#MAME:ksys573`
   * `GN887-KAA`  `#MAME:ksys573`
   * `GN887-KBA`  `#MAME:ksys573`
+  * `GK887-KA` (casette)
   * `GE887-JA`: DanceDanceRevolution 3rdMIX コンバーシオンキット (for GN895-JA, GC895-JA, GE896-JA, GE885-JB)  `#WEB:https://www.mercari.com/jp/items/m66844480457/`
   * `GE887-JB`: DanceDanceRevolution 3rdMIX コンバーシオンキット (for GN884-JA)
 * `888`: レーシングジャム CHAPTER 2 / Racing Jam 2 (1999, NWK-TR-ROM)  `#MAME:nwk-tr`
@@ -466,6 +484,7 @@ chronologic order, e.g. regarding release dates.
   * `GC892`
 * `894`: DanceDanceRevolution Solo BASS MIX (1999, SYSTEM573-CDROM)
   * `GQ894-JAA`  `#MAME:ksys573`
+  * `GX894`: "MP3/LANC subboard"  `#DATA:konami:C23:PSX.EXE`
 * `895`: DanceDanceRevolution 2nd MIX (1999, SYSTEM573-CDROM)
   * `GN895-JA`: DanceDanceRevolution 2nd MIX
   * `GC895-JA`: DanceDanceRevolution 2nd MIX コンバーシオンキット
@@ -570,7 +589,7 @@ chronologic order, e.g. regarding release dates.
   * `GQ977`: ParaParaParadise / ParaParaDancing [Korea]
   * `GC977`: ParaParaParadise 1.1
 * `980`: ポップンミュージック 3 / pop'n music 3 (1998, DJMAIN-ROM+HDD)  `#MISC:oyakodon_oniku_list`
-  * `GC980`
+  * `GC980`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/w1007075866`
 * `981`: beatmania 5thMIX (1999, TWINKLE-CDROM)  `#MISC:oyakodon_oniku_list #WEB:https://www.mercari.com/jp/items/m25653065390/`
   * `GC981-JA`
 * `983`: beatmania IIDX Substream (1999, TWINKLE-CDROM)
@@ -579,7 +598,7 @@ chronologic order, e.g. regarding release dates.
   * [`GQ983-JA`: Dedicated cabinet](product/GQ983-JA.md)
 * `984`: DanceDanceRevolution 2ndMIX AND beatmania IIDX substream CLUB VERSiON 2 / beatmania IIDX Substream with DDR 2nd CLUB VERSiON 2 (1999)  `#MAME:twinkle MAME:ksys573`
   * `GE984`: DanceDanceRevolution 2ndMIX AND beatmania IIDX substream CLUB VERSiON 2
-* `985`: beatmania IIDX 2nd Style (1999, TWINKLE-CDROM)
+* `985`: beatmania IIDX 2nd Style / beatstage II 2nd Style (1999, TWINKLE-CDROM)  `#WEB:https://dpg.danawa.com/mobile/news/view?boardSeq=60&listSeq=2649929`
   * `GC985`
   * [`GQ985-JA`: Dedicated cabinet](product/GQ985-JA.md)
   * `GU985`
@@ -601,6 +620,7 @@ chronologic order, e.g. regarding release dates.
   * ローラーゲームズ  `#MISC:oyakodon_oniku_list`
   * `GV999`: GV main board  `#MAME:konamigv`
 * `A00`: ザ・警察官 新宿24時 / Police 911 / Police 24/7 (2001, VIPER-CFCARD)  `#MAME:viper`
+  * `GQA00-JA`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/u1007337477`
   * `GQA00-TB`  `#DOC:konami:64712`
 * `A01`: KEYBOARDMANIA 2ndMIX (2000, FIREBEAT-CDROM)  `#MAME:firebeat`
   * `GCA01`
@@ -692,9 +712,14 @@ chronologic order, e.g. regarding release dates.
 * `A89`
   * `GSA89`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1003284408`
 * `AN1`: らんらん ぱぴい 2000 DDR MET-ROM   `#MISC:oyakodon_oniku_list`
+  * `GSAN1`  `#WEB:https://callusnext.com/diary/diarylog.cgi?date=2009/07 #MAME:konamigs`
 * `AN4`: Dance Dance Revolution Kids (2000, DDR_MET-ROM)  `#MISC:oyakodon_oniku_list`
+  * `GQAN4`  `#WEB:https://callusnext.com/diary/diarylog.cgi?date=2009/07`
+  * `GQAN4-JAA`  `#DATA:konami:gqan4_b-005.chd:met.mot`
 * `AN5`: それいけ!はなぷー (2000, DDR_MET-ROM)  `#MISC:oyakodon_oniku_list`
+  * `GSAN5`  `#MAME:konamigs`
 * `AN6`: 筋肉番付 スプレー ヒッター (2000)  `#MISC:oyakodon_oniku_list`
+  * `GSAN6`  `#MAME:konamigs`
 * `AN8`: 筋肉番付 キックターゲット (2001, DDR_MET-ROM)  `#MISC:oyakodon_oniku_list`
 * `AN9`: 筋肉番付 ストラック アウト (2000)  `#MISC:oyakodon_oniku_list`
 * `B00`: ポップンミュージック 7 / pop'n music 7 (2001, FIREBEAT-CDROM)  `#MAME:firebeat MEDIA:konami/popn-manuals.jpg`
@@ -813,7 +838,8 @@ chronologic order, e.g. regarding release dates.
   * `GMD44-JA`  `#WEB:http://collectedit.com/collectors/shou-time-213/arcade-pcbs-281/thrill-drive-3-japan-by-konami-9999`
 * `D50`: GALAXY DRAGOON  `#MISC:oyakodon_oniku_list`
 * `D55`: Horse Park?
-  * `GSD55`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/p1003284956`
+  * `GSD55 PWB(E3)`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/r1007620432`
+  * `GSD55 PWB(Y)`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/p1003284956`
 * `D68`: Wing Fantasia (2004, MEDAL)  `#MISC:oyakodon_oniku_list`
 * `DK9`: 麻雀格闘倶楽部3
   * `GUDK9-JB` 
@@ -932,14 +958,15 @@ chronologic order, e.g. regarding release dates.
   * `GUG27-JA`: ブースターパックVol.2.0 200P  `#WEB:https://www.mercari.com/jp/items/m55764431618/`
   * `GUG27-JE`: ブースターパックVol.2.5 200P  `#WEB:https://www.mercari.com/jp/items/m60718296349/`
   * `GUG27-JF`: ブースターパックVol.2.51 200P  `#WEB:https://www.mercari.com/jp/items/m97203307565/`
-* `G32`: DrumMania V4 (2007, PYTHON2-HDD)  `#MISC:oyakodon_oniku_list`
+* `G32`: DrumMania V4 (2007, PC(855)-HDD)  `#MISC:oyakodon_oniku_list`
   * `GQG32-HA`
   * `GQG32-TA`
   * `GEG32-JA`  `#WEB:https://www.mercari.com/jp/items/m17051864666/`
   * `GEG32-AA`: PCB and software conversion kit
   * `GUG32-AA`: Expansion IC Card Unit
   * `GCG32`
-* `G33`: GuitarFreaks V4 (2007, PYTHON2-HDD)  `#MISC:oyakodon_oniku_list`
+* `G33`: GuitarFreaks V4 (2007, PC(855)-HDD)  `#MISC:oyakodon_oniku_list`
+  * `GQG33-JA`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1007229080`
   * `GQG33-HA`
   * `GQG33-TA`
   * `GEG33-AA`: PCB and software conversion kit
@@ -962,7 +989,7 @@ chronologic order, e.g. regarding release dates.
 * `GLD`: beatmania IIDX 14 GOLD (2007, PC(B5)IO(C02/D01/USB2)-HDD)  `#MISC:oyakodon_oniku_list`
   * [`GQGLD-JA`: Dedicated cabinet](product/GQGLD-JA.md)
   * `GEGLD-JA`: conversion kit  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/e1002287142`
-* `GPB`: スピンフィーバー (2007, PC-HDD)   `#MISC:oyakodon_oniku_list #WEB:https://page.auctions.yahoo.co.jp/jp/auction/f1005757296`
+* `GPB`: スピンフィーバー / Spin Fever (2007, PC-HDD)   `#MISC:oyakodon_oniku_list #WEB:https://page.auctions.yahoo.co.jp/jp/auction/f1005757296 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/m1007089335`
 * `H16`: ポップンミュージック 16 PARTY♪ / pop'n music 16 PARTY♪ (2008, PC(?)IO(USB2)-HDD)  `#MISC:oyakodon_oniku_list`
   * `GQH16-JA`: Type B/C/D? cabinet  `#DOC:konami:113204880000`
   * `GCH16-JA`: Type A cabinet conversion kit  `#DOC:konami:113707830000 #DOC:konami:113204880000`
@@ -1007,6 +1034,7 @@ chronologic order, e.g. regarding release dates.
 * [`I00`: beatmania IIDX 16 EMPRESS](software/I00.md) (2008, PC(B5)IO(C02/D01/USB2)-HDD)  `#MISC:oyakodon_oniku_list`
   * [`GQI00-JA`: Dedicated cabinet](product/GQI00-JA.md)
   * `GUI00`: EMPRESS LCD monitor  `#WEB:http://kururusky.com/?p=1458`
+  * `GCI00-JA`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/k1006672366`
 * `I17`: ポップンミュージック 17 / THE MOVIE, pop'n music 17 THE MOVIE (2009, PC(?)IO(USB2))  `#MISC:oyakodon_oniku_list`
   * `GCI17-JA`: Type A cabinet conversion kit  `#DOC:konami:113707830000 #DOC:konami:113204880000 #WEB:https://www.mercari.com/jp/items/m56622862470/`
   * `GCI17-JB`: Type B/C/D? cabinet conversion kit  `#DOC:konami:113204880000 #WEB:https://www.mercari.com/jp/items/m56622862470/ #WEB:https://www.mercari.com/jp/items/m77603699735/`
@@ -1139,7 +1167,7 @@ chronologic order, e.g. regarding release dates.
   * `GQKFC-JC`: Sound Voltex III GRAVITY WARS cabinet  `#DOC:konami:116245360000`
   * `GEKFC-JF`: Vivid Wave upgrade kit
   * `GCKFC-JF`: Vivid Wave offline kit  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/l1006825022`
-  * `GUKFC-JD`: Exceed Gear art kit
+  * `GUKFC-JD`: Exceed Gear art kit  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/c1006655225`
   * `GUKFC-JZ`: SDVX generator real model
 * `KGG`: Steel Chronicle (2011, PC(E1)), Steel Chronicle VICTROOPERS (2013, PC(E1))  `#MISC:oyakodon_oniku_list`
   * `GQKGG-JA`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/1004281047`
@@ -1152,7 +1180,7 @@ chronologic order, e.g. regarding release dates.
 * `KPM`: ラブプラス MEDAL Happy Daily Life (2011, PC-HDD)  `#MISC:oyakodon_oniku_list`
 * `KPP`: ミリオネット モニター (2009)  `#SCRAPE:konami:eagate`
 * `KPU`: グランドクロス・クロニクル  `#MISC:oyakodon_oniku_list`
-* `KSF`: スピンフィーバー 3章 夢幻のオーケストラ (2011)  `#MISC:oyakodon_oniku_list`
+* `KSF`: スピンフィーバー 3章 夢幻のオーケストラ / Spin Fever 3: Dream Orchestra (2011)  `#MISC:oyakodon_oniku_list #WEB:https://page.auctions.yahoo.co.jp/jp/auction/m1007089335`
 * `KTA`: MILLION KEEPER  `#MISC:oyakodon_oniku_list`
 * `L27`: Baseball Heroes 2011 (2011, PC) `#MISC:oyakodon_oniku_list`
 * `L32`: DrumManiaXG3 (2012, PC)
@@ -1220,7 +1248,7 @@ chronologic order, e.g. regarding release dates.
   * Quiz Magic Academy 夢幻の鏡界 (2021)
   * `GELMA-JA`
   * `GELMA-JB`  `#WEB:https://www.mercari.com/jp/items/m91656375975/`
-  * `GULMA-JN`: 夢幻の鏡界 art kit `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/f1006651842`
+  * `GULMA-JN`: 夢幻の鏡界 装飾キット [art kit]  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/f1006651842`
 * `LMM`: モンスター烈伝 オレカバトル / Monster Retsuden Oreca Battle  `#MISC:oyakodon_oniku_list`
 * `LND`: e-walkeylife3 (2012, 歩数計)  `#MISC:oyakodon_oniku_list`
 * `LPH`: Venus Fountain  `#SCRAPE:konami:eagate`
@@ -1352,7 +1380,8 @@ chronologic order, e.g. regarding release dates.
   * `GQREC-JC`: Additional paseli fee added for plays depending on the model (?): 40 - 120%, different to JA, trial?
   * `GKREC-CA`: Chinese UNIS cabinet
 * `RPU`: マーブルフィーバー  `#SCRAPE:konami:eagate`
-* `RSB`: ボンバーマン・ザ・メダル  `#SCRAPE:konami:eagate`
+* `RSB`: ボンバーマン・ザ・メダル / BOMBERMAN ARCADE  `#SCRAPE:konami:eagate`
+  * `GSRSB-U*`
 * `RTA`: カラコロッタ 太陽とひみつの島  `#SCRAPE:konami:eagate`
 * `RTJ`: アニマロッタ おとぎの国のアニマ  `#MISC:oyakodon_oniku_list`
 * `RTL`: ツナガロッタ アニマと虹色の秘境  `#SCRAPE:konami:eagate` `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1001466025`
