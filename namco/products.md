@@ -117,6 +117,7 @@ DAC - Mach Storm
 DB  - Super Dragon Ball Z / Chou Dragon Ball Z
 DC  - ダンシングアイ / Dancing Eyes  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/g1005480922
 DCO - Dragon Chronicles
+DD  - Dig Dug  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/h1008317911
 DDH - Dead Heat / Maximum Heat
 DE  - Driver's Eyes
 DES - Dark Escape 3D
@@ -129,7 +130,7 @@ DO  - Dragon Saber
 DOL - Druaga Online: The Story of Aon
 DPK - Dead Storm Pirates
 DR  - Dangerous Seed
-DR2 - Mr. Driller 2
+DR2 - Mr. Driller 2  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/t1008404316
 DRG - Mr. Driller G
 DRI - Mr. Driller
 DS  - Dragon Spirit
@@ -304,6 +305,7 @@ ST  - Starblade
 STP - Star Sweep
 STT - Star Trigon
 SV  - Solvalou
+SW  - Sweet Land  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/m1008182755
 SWB - M188???  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/l1003283787
 SWF - M143???  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/h1003281724
 SWS - Super World Stadium  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/l1006800069
@@ -316,7 +318,7 @@ T14 - Taiko no Tatsujin 14
 T6B - Tekken 6 Bloodline Rebellion
 TC5 - Time Crisis 5
 TCH - ビンゴキッズ  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/d298580939
-TD  -  ドルアーガの塔 / Tower of Druaga
+TD  - ドルアーガの塔 / Tower of Druaga
 TE  - Tekken
 TE5 - Tekken 5
 TE6 - Tekken 6
@@ -334,7 +336,7 @@ TK  - Tinkle Pit
 TK2 - Taiko no Tatsujin 2
 TK3 - Taiko no Tatsujin 3
 TK4 - Taiko no Tatsujin 4  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/k1006517518
-TK5 - Taiko no Tatsujin 5
+TK5 - Taiko no Tatsujin 5  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/f1007483601
 TK6 - Taiko no Tatsujin 6
 TK7 - Taiko no Tatsujin 7
 TK8 - Taiko no Tatsujin 8
