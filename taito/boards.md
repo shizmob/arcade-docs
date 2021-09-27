@@ -87,7 +87,7 @@ Missing: 303, 304, 305
 |  403[U] | Core i5-2400 3.1GHz | 2GB x4 | N660GTX       | RAM + GPU upgrade sticker / GUNS 3-(ADVANCE)                                 |
 |  404    | Core i5-2400 3.1GHz | 2GB x4 | N660GTX       | GUNS 3-(STANDARD) / ULTRA STREET FIGHTER IV / LORD OF VERMILLION IV 20 PLAY  |       
 |  405    | Core i3-2120 3.3GHz | 2GB x2 | N640          | PUZZLE & DRAGONS M9008936A VER.1.000                                         |
-|  406    | Core i5-2400 3.1GHz | 4GB x2 | N660GTX       | GUNS 3-(ADVANCE) M9009092A (M9009088A, black) / NESICA X LIVE 2 / LEFT4DEAD 生存者たち M9008990A VER.1.0004 |
+|  406    | Core i5-2400 3.1GHz | 4GB x2 | N660GTX       | GUNS 3-(ADVANCE) M9009092A (M9009088A, black) / NESICA X LIVE 2 M9009197A / LEFT4DEAD 生存者たち M9008990A VER.1.0004 |
 |  407    | Core i5-2400 3.1GHz | 8GB x2 | GTX760 CRB    | FIGUREHEADS A                                                                |
 |  ???    | Core i7-2600 2.6Ghz | ???    | ???           | Specified as part of press release to be a CPU option, maybe model 400/401?  |
 |  ???    | ???                 | ???    | HD6770        | Specified as part of press release to be a GPU option, maybe model 400/401?  |
