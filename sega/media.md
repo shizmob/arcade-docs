@@ -309,7 +309,7 @@ GDL-0042 : たころん : JPN
 GD-ROM (Triforce). 610-0650-xxxx = GDT-xxxx.
 
 ```
-GDT-0001 : VIRTUA STRIKER 2002 : JPN
+GDT-0001 : VIRTUA STRIKER 2002 : JPN : 253-5508-0337J  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/c1008354555
 GDT-0002 : VIRTUA STRIKER 2002 : EXP
 GDT-0003 :
 GDT-0004 : F-ZERO AX
@@ -911,8 +911,10 @@ DVR-5049  : 戦国大戦　Ver3.2 (No.1) : RingEdge : JPN : SDCU
 CDV-30049 : 戦国大戦　Ver3.2 (No.2) : RingEdge : JPN : SDCU
 DVR-5050  :
 DVR-5051  :
-DVR-5052A : CODE OF JOKER (No.1) : RingEdge2 : JPN : SBYT
-CDV-30052 : CODE OF JOKER (No.2) : RingEdge2 : JPN : SBYT
+DVR-5052  : CODE OF JOKER : RingEdge2 : JPN : SBYT
+        A : ^ (No.1)
+        F : ^ (No.1)
+CDV-35052F: CODE OF JOKER (No.2) : RingEdge2 : JPN : SBYT
 DVR-5053  : BORDER BREAK X : RingEdge : JPN : SBVA : v5.00/v5.02/v5.06
 DVR-5054  :
 DVR-5055  :
