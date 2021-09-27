@@ -1,12 +1,18 @@
 ## System GX
 
+`#MAME:konamigx`
+
 ## Bubble System
 
 ## DJ-MAIN
 
+`#MAME:djmain`
+
 Based on the [System GX](#system-gx).
 
 ## M2
+
+`#MAME:konamim2`
 
 Based on the 3DO.
 
@@ -23,6 +29,8 @@ According to BIOS ROM, runs "Konami OS by T.H.".
 **MBD:** Sony Playstation 1 (custom)  
 
 ## NWK-TR
+
+`#MAME:nwk-tr`
 
 ## System 573
 
@@ -77,9 +85,15 @@ Has twice as much RAM (4MB) as a retail PS1. According to BIOS ROM, runs "Konami
 A DVD player is used to play back mpeg encoded Video CDs and DVDs. The decoded video is forwarded
 via composite input to the main unit and blit into the UI by software.
 
+## Firebeat
+
 ## Viper
 
-## Firebeat
+## MET
+
+`#MAME:konamigs`
+
+Custom Hitachi SH3-based boards, used for DDR Kids and medal games.
 
 ## Python
 

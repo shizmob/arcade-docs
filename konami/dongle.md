@@ -7,8 +7,41 @@ Document about Konami's software and hardware license management using different
 * Connection: custom edge connector
 * Housing: custom plastic case in blue
 * Variants:
-  - Small (used in games without digital I/O)
-  - Wide (used in games with digital I/O): has extra connectors on the cartride for amp control and linking
+  * Small, used in games without digital I/O:
+    - GX700-PWB(D)
+      - Xicor X76F041 (SOIC8, 4k-bit EEPROM, I2C, label "0038323")
+    - GX894-PWB(D)
+      - Xicor X76F041 (SOIC8, 4k-bit EEPROM, I2C, label "0038323")
+      - TI ADC0838-N (A/D converter, SPI)?
+      - Dallas Semiconductor DS2401 (SOIC6, serial number, 1-wire)
+  * Wide, used in games with digital I/O:
+    - GX883-PWB(D): has possible extra connectors on the cartridge front for amp control and linking
+      - Xicor X76F041 (SOIC8, 1k-bit EEPROM, I2C, label "0038323")
+      - Dallas Semiconductor DS2401 (SOIC6, serial number, 1-wire)
+      - Analog Devices ADM232LJR (SOIC32, 2x RS-232 transceiver)
+      - Cosel ZUS 1R5 0505 (DC-DC converter, 4.5V-9V -> 5V)
+    - GE949-PWB(D)
+      - GE949-PWB(D)A: has possible extra connectors on the cartridge front for amp control and linking
+        - Microchip PIC16CE625 (TSSOP20, MCU+EEPROM, "ZS01")
+        - Dallas Semiconductor DS2401 (SOIC6, serial number, 1-wire)
+        - Linear Technology LT1381CS / Analog Devices ADM232AARN (SOIC32, 2x RS-232 transceiver)
+        - Cosel ZUS 1R5 0505 (DC-DC converter, 4.5-9V -> 5V)
+      - GE949-PWB(D)B: mostly unpopulated (including extra connector headers), silkscreen label "TYPE-B"
+        - Microchip PIC16CE625 (TSSOP20, MCU+EEPROM, "ZS01")
+        - Dallas Semiconductor DS2401 (SOIC6, serial number, 1-wire)
+  * Custom:
+    - PWB0000068810 (wide, used in 908): has extra connectors on the cartridge front for light control
+      - Xicor X76F100 (SOIC8, 1k-bit EEPROM, I2C, label "0038323")
+      - 2x Mitsubishi M54585FP (SOIC20, transistor array)
+      - 2x 74LS175 (SOIC16, 4x D-flipflop)
+      - bunch of capacitors and resistors
+    - PWB0000088954 (wide, used in A18): has extra connectors on the cartridge front for light control
+      - Xicor X76F100 (SOIC8, 1k-bit EEPROM, I2C, label "0038323")
+      - Dallas Semiconductor DS2401 (SOIC6, serial number, 1-wire)
+      - 2x Mitsubishi M54585FP (SOIC20, transistor array)
+      - 2x 74HC4094 (SOIC16, shift register)
+      - bunch of capacitors and resistors
+  * Likely others for at least 876, 930, A07
 * Used in: [System 573](boards.md#system-573)
 
 ## Card
