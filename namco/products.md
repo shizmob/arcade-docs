@@ -36,6 +36,7 @@ V307 - Wangan Midnight Maximum Tune
 V315 - 
 V320 -
 V322 - Wangan Midnight Maximum Tune 2
+V328 - Taiko no Tatsujin?  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/s1009957619`
 V329 - Time Crisis 4
 V337 - Wangan Midnight Maximum Tune 3
 V349 - 
@@ -108,7 +109,7 @@ CHS - Seishun Quiz Colorful High School
 CA  - プセルゴルフ / Capsule Golf  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/h392582969
 CL  - ???  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/c906436276
 CO  - Cosmo Gang the Video
-CP  - Cosmo Gang the Puzzle
+CP  - Cosmo Gang the Puzzle / コズモギャング・ザ・パズル  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/l1008541783
 CSN - Counter Strike Neo
 CSZ - Crisis Zone
 CVC - Uchuu Daisakusen Chocovader Contactee
@@ -175,7 +176,7 @@ GP  - ギャプラス / Gapius  #WEB:https://page.auctions.yahoo.co.jp/jp/auctio
 GS  - Great Sluggers  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/j1005459303
 GSE/GS4 - Great Sluggers '94
 GSD - Mobile Suit Gundam SEED Destiny O.M.N.I. vs Z.A.F.T. II
-GT  - Genpei Toumaden
+GT  - Genpei Toumaden  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/w1009919083`
 GVS - Mobile Suit Gundam: Gundam vs Gundam
 GX2 - Gundam Extreme Vs. 2
 GXO - Gundam Extreme Vs. Maxi Boost ON (GXO)
@@ -189,6 +190,7 @@ JS  - じゃんけんしようよメイン
 KH  - Kunckle Heads
 KN1 - Kinnikuman Muscle Grand Prix
 KN2 - Kinnikuman Muscle Grand Prix 2
+KP  - カニカニパニック / Kani Kani Panic  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/o1009159025
 KPM - Kotoba no Puzzle Mojipittan
 KQT - Kosodate Quiz My Angel 3
 KRG - Keroro Gunsō Chikyū Shinryaku Shirei Dearimasu!
@@ -295,7 +297,7 @@ SS0 - Super World Stadium 2000
 SS1 - Super World Stadium 2001
 SS5 - Super World Stadium '95
 SS6 - Super World Stadium '96
-SS7 - Super World Stadium '97
+SS7 - Super World Stadium '97  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/552682989
 SS8 - Super World Stadium '98
 SS9 - Super World Stadium '99
 SSG - Super World Stadium '92?'94?
@@ -373,7 +375,7 @@ WM3 - Wangan Midnight Maximum Tune 3
 WM4 - Wangan Midnight Maximum Tune 4
 WM5 - Wangan Midnight Maximum Tune 5
 WM6 - Wangan Midnight Maximum Tune 6
-WM  - Wonder Momo
+WM  - Wonder Momo  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/t1008419203
 WMN - Wangan Midnight
    1- JP
    2- EXP
