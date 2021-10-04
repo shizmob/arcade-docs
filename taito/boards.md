@@ -14,15 +14,16 @@
 |  021A | Cel 2.5GHz | 256MB | 9600SE | TETRIS THE GRAND MASTER 3 2.01J / RAIDEN III / RAIDEN 4 VER.1.00J / CHAOS BREAKER / TROUBLE WITHCES M9008007A Ver.1.00J / SNK PLAYMORE KOF98UM M9007690A VER1.00 (B3900118A black/gray) |
 |  022A | Cel 2.5GHz | 256MB | 9600SE | SNK PLAYMORE KOF98UM M9007690A VER1.00 (B3900118A black/gray) / 豪血寺一族 先祖供養 M9008014A Ver.200906230 |
 
-Missing: 002, 004, 008, 009, 010, 015, 016, 018, 019, 020, 023
+Missing: 002, 004, 009, 010, 015, 016, 018, 019, 020, 023
 
 ## Type X+
 
 |    ID | CPU        | RAM   | GPU     | Notes                                                                               |
 |-------|------------|-------|---------|-------------------------------------------------------------------------------------|
 |  005  | P4 2.8GHz  | 512MB | 9600XT  | BG4-TUNED-KIT VER2.04JPN                                                            |
-|  005A | P4 2.8GHz  | 512MB | 9600XT  | BG4 2.03 GBR                                                                                    |
+|  005A | P4 2.8GHz  | 512MB | 9600XT  | BG4 2.03 GBR                                                                        |
 |  005B | P4 2.8GHz  | 512MB | 9600XT  | BG4-TUNED_KIT M9007072A VER2.04JPN                                                  |
+|  008A | P4 2.8GHz  | 1GB   | 9800PRO | +sound card / HL2S VER2.0 M9007579A VER2.01 JPN `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/t1009983944` |
 |  011A | P4 3.0GHz  | 512MB | X580PRO | SO2 (せンシノキオク)                                                                  |
 |  012A | P4 2.8GHz  | 512MB | 9600XT  |                                                                                     |
 |  013A | P4 2.8GHz  | 512MB | 9800PRO | Used in BG4 Tuned Pro cabinets                                                      |
@@ -39,7 +40,7 @@ Missing: 002, 004, 008, 009, 010, 015, 016, 018, 019, 020, 023
 |     ID | CPU           | RAM   | GPU         | Notes                                                                                       |
 |--------|---------------|-------|-------------|---------------------------------------------------------------------------------------------|
 | 101A   | Cel 3.2GHz    | 512MB | GF9300      | CHABUDAI KYOJINNOHSI M9008535A Ver/1.04                                                     |
-| 101A   | Cel 3.2GHz    | 512MB | GF7300GS    | CHOU-CHABUDAIGAESHI M9008076A VER1.06JPN*  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/r1004562224` |
+| 101A   | Cel 3.2GHz    | 512MB | GF7300GS    | CHOU-CHABUDAIGAESHI M9008076A VER1.06JPN*  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/r1004562224` / ちゃぶ台返し！ M9008076A  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1009320772` |
 | 102A   | Cel 3.2GHz    | 512MB | X1300LE     | M/F LUPIN the3rd M9007317A VER.1.00 / M/F KINNIKUMAN M9007581A VER1.00                      |
 | 103A   | Cel 3.2GHz    | 1GB   | HD2400LE    | SONIC BLAST HEROES M9008438A Ver1.03 (B3900161A, green)                                     |
 | 105A   | Cel 3.2GHz    | 2GB   |             |                                                                                             |
@@ -57,7 +58,7 @@ Missing: 002, 004, 008, 009, 010, 015, 016, 018, 019, 020, 023
 | 211A-R | P4 3.4GHz     | 512MB | GF7900GS    | NESICA X LIVE / HAUNTED MUSEUM2 VER1.01JPN                                                  |
 | 212A   | Core2 2.12Ghz | 2GB   | GF9800GT SP |                                                                                             |
 | 213A   | ??? 1.8GHz    | 1GB   | GF7900GS    |                                                                                             |
-| 215A   | P4 3.4GHz     | 1GB   | GF7900GS    | NESICA X LIVE / HOPPING ROAD KIDS Ver1.02JPN / ELEVATOR ACTION DEATHPARADE(CHN) VER1.01CHN / DARIUS BURST ANOTHER CHRONICLE M9008278A Ver1.05JPN / DARIUS BURST ANOTHER CHRONICLE (CHN) M9008387A ver1.0 (B3900160A, black/gray)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/e1004013846` |
+| 215A   | P4 3.4GHz     | 1GB   | GF7900GS    | NESICA X LIVE M9008355A VER.2.00/ HOPPING ROAD KIDS Ver1.02JPN / ELEVATOR ACTION DEATHPARADE(CHN) VER1.01CHN / DARIUS BURST ANOTHER CHRONICLE M9008278A Ver1.05JPN / DARIUS BURST ANOTHER CHRONICLE (CHN) M9008387A ver1.0 (B3900160A, black/gray)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/e1004013846` |
 | 217A   | P4 3.4GHz     | 1GB   | GF7900GS    |                                                                                             |
 | 218A   | PenDC 1.8GHz  | 2GB   | HD5770      | CAPCOM MB4 M9008420A Ver1.0 [Mario Coin World]                                              |
 | ???    | Core2 Duo     | ???   | ???         | special red/black PCB                                                                       |
