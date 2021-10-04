@@ -106,6 +106,13 @@ DDR led spike. Also used in Reflec Beat.
 
 * ACIO name: "DDRS" (ID: 0x05010000)
 
+## EXTIO
+
+Interface board for lighting and individual sensor data in P2IO and P3IO-based DDR cabinets.
+
+* Product: PWB0000373993
+* Copyright: 2004 KONAMI
+
 ## H44B
 
 jubeat (H44) lights.
