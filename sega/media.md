@@ -130,7 +130,7 @@ Y = C: cartridge
 840-0164C: MUSHIKING TKOB II ENG : 1.001/2.001 : EXP
 840-0166C: Touch de Zunou
 840-0167C: MUSHIKING 2K6 1ST : JPN
-840-0170C: MANIC PANIC GHOST!
+840-0170C: ポカ☆スカ ゴースト! : JPN  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/u1008571879
 840-0171C: MUSHIKING 2K6 2ND : JPN
 840-0174C: MUSHIKING 2K7 1ST : JPN
 840-0175C: ダイナマイト でか EX/ASIAN DYNAMITE
@@ -258,8 +258,8 @@ GDL-0007 : CAPCOM VS. SNK 2 MILLIONAIRE FIGHTING 2001
         A: ^
 GDL-0008 : CAPCOM VS. SNK 2 MARK OF THE MILLENNIUM : EXP
 GDL-0009 :
-GDL-0010 : 斑鳩 (Ikaruga)
-GDL-0011 : Guilty Gear XX
+GDL-0010 : 斑鳩 / Ikaruga
+GDL-0011 : ギルティギアXX / Guilty Gear XX : 253-5509-5082  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/1008570890
 GDL-0012 : Cleopatra Fortune Plus
 GDL-0013 : Moeru Casinyo : JPN
 GDL-0014 : Musapey's Choco Marker
@@ -297,16 +297,16 @@ GDL-0035 : Under Defeat
 GDL-0036 : Trigger Heart Exelica : JPN
 GDL-0037 : Jingi Storm - The Arcade : JPN
 GDL-0038 : Senko No Ronde Special : JPN/EXP
-GDL-0039 : MELTY BLOOD Act Cadenza Ver.B
+GDL-0039 : MELTY BLOOD Act Cadenza Ver.B  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/c1008419351
         A: ^ Ver.B(2?)
 GDL-0040 : Karous : JPN
-GDL-0041 : GUILTY GEAR XX ΛCORE
+GDL-0041 : GUILTY GEAR XX ΛCORE : JPN : 253-5509-5126J  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/p1008578926
 GDL-0042 : たころん : JPN
 ```
 
 ## GDT
 
-GD-ROM (Triforce). 610-0650-xxxx = GDT-xxxx.
+GD-ROM (Triforce). 610-0650-xxxx = GDT-0651-xxxx (soft kit) = GDT-xxxx.
 
 ```
 GDT-0001 : VIRTUA STRIKER 2002 : JPN : 253-5508-0337J  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/c1008354555
@@ -578,11 +578,11 @@ DVP-0007 : Ami-Gyo : SBLP
         A: ^
         B: ^
         C: ^
-DVP-0008A: Virtua Fighter 5 : EXP : SBLM : 253-5508-0438
+DVP-0008A: Virtua Fighter 5 : EXP? : SBLM : 253-5508-0438
         B: ^
         C: ^
         D: ^
-        E: ^
+        E: ^  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/m1008826148
 DVP-0009 : AFTER BURNER CLIMAX : EXP : SBLR : 253-5508-0440A
         A: ^
         B: ^
@@ -614,7 +614,7 @@ DVP-0023 : VBIOS UPDATE [For VTF] : SBLM
         C: ^
 DVP-0024E: StarHorse2: Second Fusion : Star Horse : SBKM
 DVP-0025 : ネットワーク対戦クイズ Answer x Answer : Red Terminal : SBMS : 253-5508-0618J
-DVP-0026 : Router Update [For VTF] : SBLM
+DVP-0026 : Router Update [For VTF] : SBLM  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/m1008826148
 DVP-0027A: 2SPICY : Red : SBMF : 253-5508-0491
 DVP-0028 : toアミー漁 : SBLP : 253-5508-0476J
 DVP-0029 : GHOST SQUAD EVOLUTION : Red : 253-5508-0485
@@ -696,13 +696,13 @@ DVP-0086A: StarHorse2: Final Destination : Star Horse : SBUN : 253-5508-0508J/25
 DVP-0087 : ネットワーク対戦クイズ Answer x Answer Live! : Red Terminal : SBUR : 253-5508-0618J
 DVP-5004 : Virtua Fighter5 R : SBQU : 253-5508-0622J
         B: ^
-        D: ^
+        D: ^  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/m1008826148
 DVP-5006C: Derby Owners Club 2008: Feel the Rush : Blue : SBMQ : 253-5508-0511/253-5508-0510
 DVP-5007 : Harley Davidson: King of the Road : Red Ex : SBRG : 253-5508-0555
 DVP-5012 : WORLD CLUB Champion Football Intercontinental Clubs 2008-2009 : Blue : SBSH : 253-5508-0581J
 DVP-5014 : Derby Owners Club 2009: Ride for the Life : Blue : SBMQ : 253-5508-0511/253-5508-0510
 DVP-5016 : WORLD CLUB Champion Football Intercontinental Clubs 2009-2010 : Blue : 253-5508-0580J
-DVP-5019A: Virtua Fighter5 Final Showdown : 253-5508-0622J
+DVP-5019A: Virtua Fighter5 Final Showdown : 253-5508-0622J  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/m1008826148
 DVP-5020 : Virtua Fighter5 Final Showdown : 253-5508-0622J/253-5640-008(ver.B server?)/253-5640-009(ver.B satellite?)
 DVP-???? : Club Majesty: Gatling Poker : Red
 DVP-???? : WORLD CLUB Champion Football Intercontinental Club 2006-2007 : Blue
@@ -739,7 +739,7 @@ DVR-0014  :
 DVR-0015  :
 DVR-0016  : Let's Go ISLAND! : RingWide : SBUH
         A : ^
-DVR-0017A : 戦国大戦 : RingEdge : JPN : Ver1.0 (1560)
+DVR-0017A : 戦国大戦 : RingEdge : JPN : Ver1.0 (1560)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/f1009902696`
         D : ^ Ver1.0 (1570)
         F : ^ Ver1.x (1582) : SBUK
         K : ^
@@ -799,7 +799,7 @@ DVR-0066  :
 DVR-0067  :
 DVR-0068  : Sega Card Gen MLB 2013 : RingEdge2 : JPN : SBYU
 DVR-0069  : ALL.Net P-ras MULTI バーシオン2 : RingEdge2 : JPN : SBYG : v0.13
-        A : ^ v2.20
+        A : ^ v2.20  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/g1008171095
 DVR-0070  :
 DVR-0071  : セガネットワーク対戦麻雀 MJ5 EVOLUTION : RingEdge : JPN : SBYX ; v2.10
 DVR-0072  :
@@ -857,7 +857,7 @@ DVR-5015A : 頭文字D ARCADE STAGE 7 AA X (クロス) : RingEdge : SBYD
 DVR-5016  :
 DVR-5017B : maimai (WUMENGOOO) : RingEdge2 : CHN : SBYC
 DVR-5018  :
-DVR-5019C : 戦国大戦 Ver2 : RingEdge : JPN : SBYJ
+DVR-5019C : 戦国大戦 Ver.2 : RingEdge : JPN : SBYJ  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/f1009902696`
 DVR-5020  :
 DVR-5021D : Hokuto no Ken Battle Medal : RingEdge2 : JPN : SBYQ
 DVR-5022  : INTIAL D ARCADE STAGE 7 : RingEdge : CHN : SBYY
@@ -898,8 +898,8 @@ DVR-5044  : maimai ORANGE PLUS (No.1) : RingEdge2 : JPN : SDBM
 CDV-30044 : maimai ORANGE PLUS (No.2) : RingEdge2 : JPN : SDBM
 CDV-60044 : maimai ORANGE PLUS (No.3) : RingEdge2 : JPN : SDBM
 DVR-5045  : StarHorse3 SeasonIV DREAM ON THE TURF (No.1) : RingEdge2 : JPN : SDCE
-DVR-5046  : 戦国大戦 Ver3.1 (No.1) : RingEdge : JPN : SDCG
-CDV-30046 : 戦国大戦 Ver3.1 (No.2) : RingEdge : JPN : SDCG
+DVR-5046  : 戦国大戦 Ver.3.1 (No.1) : RingEdge : JPN : SDCG  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/f1009902696`
+CDV-30046 : 戦国大戦 Ver.3.1 (No.2) : RingEdge : JPN : SDCG  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/f1009902696`
 DVR-5047  :
 DVR-5048  : maimai PiNK (No.1) : RingEdge2 : JPN : SDCQ
         B : maimai PiNK PLUS (No.1) : RingEdge2 : JPN : SDCQ
