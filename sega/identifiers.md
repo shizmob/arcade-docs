@@ -159,12 +159,13 @@ Known part categories (tree view):
         -05:    FINAL ARCH
         -20:    COLUMNS 97
    -0624-xxxx:  NAOMI GD-ROM
-   -0630-xxxx:  NAOMI GD-ROM
+   -0630-xxxx:  NAOMI2 GD-ROM
    -0650-xxxx:  Triforce GD-ROM
+   -0651-xxxx:  Tirforce GD-ROM + keychip
    -0652-xxxx:  Chihiro GD-ROM
+   -0719:       Lindbergh DVD drive
    -0726-xxxx:  Lindbergh DVD
    -0727-xxxx:  Lindbergh DVD + keychip
-   -0719:       Lindbergh DVD drive
    -0817-xxxx:  RingEdge/RingWide DVD ("DVD SOFT KIT *")
    -0837-xxxYY: ELEFUN keychip
    -0890-xxxYY: Nu keychip (SEGA, black)
