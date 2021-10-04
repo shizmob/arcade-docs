@@ -43,9 +43,13 @@ Sony Playstation 1-based board. Consist of at least MAIN and either the ANALOG o
 And possibly any of the following boards:
 * GX700-PWB(F):  analog I/O
 * GX700-PWB(J):
+* GX700-PWB(K)A: analog I/O used in F24, similar to GX700-PWB(F)
 * GX894-PWB(B)A: digital I/O
-* GE765-PWB(B)A: bass challenge aux input
-* GE877-PWB(C):  gachaga champ aux input
+* GE765-PWB(B)A: analog I/O used in 765/865/889
+
+Optional external boards:
+* GE877-PWB(C):  gachagachamp aux input
+* GN845-PWB(B):  DDR stage board
 * G????:         network unit expansion
 
 Note that even with the same I/O board, it can still be wired up differently to the external connector panel on a per-game basis.
