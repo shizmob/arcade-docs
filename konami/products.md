@@ -298,7 +298,7 @@ chronologic order, e.g. regarding release dates.
 * `685`: Hang Pilot (1997, HORNET-ROM)  `#MAME:gticlub #MISC:oyakodon_oniku_list`
 * `687`: 魔獣の王国 (1987, TWIN16-ROM)  `#MISC:oyakodon_oniku_list`
 * `688`: GTI Club: Rally Côte d'Azur (1996, GTI_CLUB-ROM)  `#MAME:gticlub #MISC:oyakodon_oniku_list #WEB:https://www.ebay.com/itm/233883175741`
-  * `GN688 PWB`: Driver board  `#WEB:https://www.zax.com.au/buy/konami-driver-board-pcb/GN688-PWB403454`
+  * `GN688 PWB403454`: Driver board  `#WEB:https://www.zax.com.au/buy/konami-driver-board-pcb/GN688-PWB403454 #WEB:https://www.ebay.com/itm/284206667426`
 * `690`: ダブルドリブル / Double Dribble (1996, DOUBLE_DRIBBLE-ROM)  `#MAME:ddribble #MISC:oyakodon_oniku_list #WEB:https://www.ebay.com/itm/185026300782`
   * `GX690`
 * `700`: System 573  `#MAME:ksys573`
@@ -718,21 +718,26 @@ chronologic order, e.g. regarding release dates.
 * `999`:
   * ローラーゲームズ  `#MISC:oyakodon_oniku_list`
   * `GV999`: GV main board  `#MAME:konamigv`
-* `9P1`: [casino-related, Advantage?]
-  * `GG9P1-US PWB(A2)0000126034 `: PRCB [backplane board (small)?]  `#WEB:https://www.ebay.com/itm/KONAMI-BOARD-PRCB-gg9p1-us-pwb-A2-0000126034-/143583098453`
+* `9P1`: Upright Video Slot [casino, Podium 1?, Herculite?] (2000)
+  * `GG9P1-US PWB(A2)0000126034 `: PRCB [backplane board (small, Advantage 1.5/2.0)?]  `#WEB:https://www.ebay.com/itm/KONAMI-BOARD-PRCB-gg9p1-us-pwb-A2-0000126034-/143583098453 #WEB:https://www.ebay.com/itm/251633953955`
   * `GG9P1    PWB(A4)0000091917 `: BCKB-2 [backplane board]  `#WEB:http://newlifegames.com/nlg/index.php?topic=20540.0 #WEB:http://www.slottechforum.com/slotinfo/Techstuff/CD9%20Systems/CD%20of%20Manuals/Konami/Konami%201.pdf`
-  * `GG9P1    PWB(B1)0000081466 `: MCTB-2 [main control board]  `#WEB:http://newlifegames.com/nlg/index.php?topic=29829.0 #WEB:http://www.slottechforum.com/slotinfo/Techstuff/CD9%20Systems/CD%20of%20Manuals/Konami/Konami%201.pdf`
-  * `GG9P1-US PWB(B3)0000125939 `: NSRB [CPU/MPU board]  `#WEB:http://newlifegames.com/nlg/index.php?topic=20540.0 #WEB:https://get-t.net/product/konami-game-board-gg9p1-us-with-diamond-solitaire-deluxe-software-installed-gett-part-cpu184/`
+  * `GG9P1    PWB(B1)0000081466 `: MCTB-2 [main control board, K2V1.5?]  `#WEB:http://newlifegames.com/nlg/index.php?topic=29829.0 #WEB:http://www.slottechforum.com/slotinfo/Techstuff/CD9%20Systems/CD%20of%20Manuals/Konami/Konami%201.pdf #WEB:https://www.ebay.com/itm/303753855319`
+  * `GG9P1-US PWB(B3)0000125939 `: NSRB [CPU/MPU board, K2V1.5/Herculite?]  `#WEB:http://newlifegames.com/nlg/index.php?topic=20540.0 #WEB:https://get-t.net/product/konami-game-board-gg9p1-us-with-diamond-solitaire-deluxe-software-installed-gett-part-cpu184/ #WEB:https://www.ebay.com/itm/143546147735?`
   * `GG9P1    PWB(C1)0000081467?`: COMB-2 [communication board]  `#WEB:http://www.slottechforum.com/slotinfo/Techstuff/CD9%20Systems/CD%20of%20Manuals/Konami/Konami%201.pdf`
-  * `GG9P1    PWB(D1)0000081468?`: IOAB-2 [I/O drive A board]  `#WEB:http://www.slottechforum.com/slotinfo/Techstuff/CD9%20Systems/CD%20of%20Manuals/Konami/Konami%201.pdf`
+  * `GG9P1    PWB(D1)0000081468?`: IOAB-2 [I/O drive A board, K2V1.5/Herculite?]  `#WEB:http://www.slottechforum.com/slotinfo/Techstuff/CD9%20Systems/CD%20of%20Manuals/Konami/Konami%201.pdf`
   * `GG9P1-US PWB(D2)0000126507 `: LCCB [display controller board]  `#WEB:https://www.ebay.com/itm/203489933262`
   * `GG9P1    PWB(E1)0000081470?`: IOBB-2 [I/O drive B board]  `#WEB:http://www.slottechforum.com/slotinfo/Techstuff/CD9%20Systems/CD%20of%20Manuals/Konami/Konami%201.pdf` 
-  * `GG9P1-US PWB(E2)0000190018 `: NASB [buttons/door/segment display board]  `#WEB:https://get-t.net/product/power-control-board-for-konami-gaming-konami-part-gg9p1-interface-buttons-door-7-segment-board-gett-part-pcb114/`
+  * `GG9P1-US PWB(E2)0000190018 `: NASB [buttons/door/segment display board]  `#WEB:https://get-t.net/product/power-control-board-for-konami-gaming-konami-part-gg9p1-interface-buttons-door-7-segment-board-gett-part-pcb114/ #WEB:https://www.ebay.com/itm/262628883891`
+  * `GG9P1    PWB(E3)0000081470 `: IOBB-2 [I/O drive B board]  `#WEB:https://www.worthpoint.com/worthopedia/konami-k2v-5-herculite-complete-kit-1816268975`
   * `GG9P1    PWB(F) 0000081471 `: CTRB-2 [counter board]  `#WEB:http://www.slottechforum.com/slotinfo/Techstuff/CD9%20Systems/CD%20of%20Manuals/Konami/Konami%201.pdf`
+  * `GG9P1    PWB(G)            `: SNSA-2 [sensor A board]
+  * `GG9P1    PWB(H)            `: SNSB-2 [sensor B board]
+  * `GG9P1    PWB(H3)           `:  `#WEB:https://www.ebay.com/itm/124651238670`
   * `GG9P1    PWB(J) 0000068061 `: NVMB-2 [non-volatile memory board]  `#WEB:http://www.slottechforum.com/slotinfo/Techstuff/CD9%20Systems/CD%20of%20Manuals/Konami/Konami%201.pdf`
   * `GG9P1    PWB(K1)0000078433 `: DCNB-2 [door connector board]  `#WEB:http://www.slottechforum.com/slotinfo/Techstuff/CD9%20Systems/CD%20of%20Manuals/Konami/Konami%201.pdf`
-  * `GG9P1    PWB(KA)0000119486 `: DCNB-2.1 [door connector board]  `#WEB:https://get-t.net/product/power-control-board-for-konami-gaming-konami-part-gg9p1-interface-buttons-door-7-segment-board-gett-part-pcb114/`
-  * `GG9P1    PWB(N) 0000081473?`: SASB-2 [SAS board]  `#WEB:http://www.slottechforum.com/slotinfo/Techstuff/CD9%20Systems/CD%20of%20Manuals/Konami/Konami%201.pdf`
+  * `GG9P1    PWB(KA)0000119486 `: DCNB-2.1 [door connector board, Advantage 1.5/2.0?]  `#WEB:https://get-t.net/product/power-control-board-for-konami-gaming-konami-part-gg9p1-interface-buttons-door-7-segment-board-gett-part-pcb114/ #WEB:https://www.ebay.com/itm/254694048433`
+  * `GG9P1    PWB(N) 0000081473?`: SASB-2 [SAS (slot accounting system) board]  `#WEB:http://www.slottechforum.com/slotinfo/Techstuff/CD9%20Systems/CD%20of%20Manuals/Konami/Konami%201.pdf`
+  * `GG9P1    PWB(T)            `: PRIB-2 [printer indicator board]
 * `A00`: ザ・警察官 新宿24時 / THE KEISATSUKAN / Police 911 / Police 24/7 (2001, VIPER-CFCARD)  `#MAME:viper`
   * `GQA00-JA`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/u1007337477`
   * `GQA00-TB`: THE KEISATSUKAN cabinet (Taiwan, 110V)  `#DOC:konami:64712 #DOC:konami:0000091670`
@@ -945,8 +950,11 @@ chronologic order, e.g. regarding release dates.
 * `C65`: MONSTER GATE ONLINE (2004, PC+HDD)  `#MISC:oyakodon_oniku_list`
 * `CCB`: Quiz Magic Academy (2003, PC(EPIA-5000)I/O(USB1)+HDD)  `#MISC:oyakodon_oniku_list`
 * `CLX`: バトルクライマックス (2004)  `#MISC:oyakodon_oniku_list`
-* `CT3`: [casino-related, Advantage 5/K2V?]
-  * `GQCT3 PWB(B5?)0000252?6?: MPU [MPU board]  `#WEB:http://newlifegames.com/nlg/index.php?topic=19790.0`
+* `CT3`: K2V/Advantage [casino]
+  * `GGCT3 PWB(A2) 0000306668`: IFB [backplane board]  `#WEB:https://newlifegames.com/nlg/index.php?topic=23028.0 #WEB:https://www.ebay.com/itm/254862055621`
+  * `GGCT3 PWB(B5?)0000292786`: MPU [K2V/KP2? MPU board]  `#WEB:http://newlifegames.com/nlg/index.php?topic=19790.0 #WEB:https://www.ebay.com/itm/164239622610 #WEB:https://www.inminternationalllc.com/konami/cpu-board-konami-kp2`
+  * `GGCT3 PWB(C1) 0000295351`: MMB [K2V/KP2? ROM board]  `#WEB:https://www.ebay.com/itm/143546140963 #WEB:https://www.inminternationalllc.com/konami/cpu-board-konami-kp2`
+  *  GGCT3 PWB(F1) 0000311683`: DENB [seven-segment credit display board]  `#WEB:https://www.ebay.com/itm/254450862971`
   * `GGCT3 PWB(AG2)111128470000`: LED-HUR [LED driver board]  `#WEB:https://get-t.net/product/reel-driver-board-for-konami-advantage-5-5-reel-and-3-reel-also-listed-as-konami-part-pwb-ag2111128470000-also-listed-as-konami-part-ct3b000703-gett-part-rdb105/`
 * [`D01`: beatmania IIDX 10th Style](software/D01.md) (2004, PC(KNM-845G3-A02)I/O(C02/D01)+HDD)  `#WEB:https://www.mercari.com/jp/items/m30149431750/ #MISC:oyakodon_oniku_list`
   * [`GQD01-JA`: Dedicated cabinet](product/GQD01-JA.md)
@@ -1087,6 +1095,11 @@ chronologic order, e.g. regarding release dates.
   * `GKFDH-UA`: US  `#WEB:https://www.worthpoint.com/worthopedia/dance-dance-revolution-supernova-3843354880`
   * `GEFDH-UA`: US  `#WEB:https://www.worthpoint.com/worthopedia/dance-dance-revolution-supernova-1922614824 #WEB:https://www.ebay.com/itm/284469048620`
   * `GQFDH`
+* `FK3`: Podium KP3 [casino] (2007) `#WEB:https://newlifegames.com/nlg/index.php?topic=23028.0 #WEB:http://www.spininc.com/konami-mother-board-backplane-podium-kp3-530307-ssid`
+  * `GGFK3 PWB(A2) 112488370000 `: K3-IFB [interface board]  `#DOC:konami:810054`
+  * `GGFK3 PWB(A3) 112488370000 `: K3-IFB [interface board]  `#WEB:https://www.ebay.com/itm/154613698890`
+  * `GGFK3 PWB(B4) 112486360000?`: K3-IOB [I/O board]  `#WEB:https://get-t.net/product/konami-kp3-5-for-the-corcherto-crecent%EF%BC%8Cgett-part-cpu151/ #WEB:https://www.inminternationalllc.com/konami/konami-kp35-cpu`
+  * ?: K3-MMB [ROM board]  `#WEB:https://www.inminternationalllc.com/konami/konami-kp35-cpu`
 * `FK9`: 麻雀格闘倶楽部5 / Mahjong Fight Club 5 (2006, PC(EPIA-M1000)-CF)  `#MISC:oyakodon_oniku_list`
 * `FLY`: Quiz Magic Academy 3 (2005, PC(A6)IO(USB1)-HDD)  `#MISC:oyakodon_oniku_list #WEB:https://aucview.aucfan.com/yahoo/f434430222`
   * `FLY JA A03`: application disc 2 (client/center monitor)
@@ -1121,6 +1134,7 @@ chronologic order, e.g. regarding release dates.
   * `GUG32-AA`: Expansion IC Card Unit
   * `GCG33`
 * `G51`: Twinkle Drop (2007)  `#MISC:oyakodon_oniku_list`
+  * `GSG51 PWB(A1)111492900000`: PCSUB [PCI I/O expansion card]  `#WEB:https://www.ebay.com/itm/283530238417`
 * `G52`: パニックパイレーツ (2007)  `#MISC:oyakodon_oniku_list`
 * `G78`: ワンダーマーチ (2008)  `#MISC:oyakodon_oniku_list`
 * `GBG`: ボンバーガール  `#MISC:oyakodon_oniku_list`
@@ -1646,6 +1660,93 @@ chronologic order, e.g. regarding release dates.
 * `1282`: `JD6`: 遊戯王 デュエルターミナル 星の騎士団 セイクリッド!! (software)
 * `1311`: `JD6`: 遊戯王 デュエルターミナル 破滅の邪龍 ウロボロス!! (cards)
 * `1312`: `JD6`: 遊戯王 デュエルターミナル 破滅の邪龍 ウロボロス!! (software)
+
+### Casino games
+
+* `00-NVD-002-S-001-1`: ALOHA GOLD (L01-0954)  `#WEB:https://www.ebay.com/itm/324248911069`
+
+* `GMD01003-001-3`: 3 WILD FREE BEES  `#WEB:https://www.ebay.com/itm/324240831776`
+* `GMD01006-007-3`: STAR FEVER  `#WEB:https://www.ebay.com/itm/324240861516`
+* `GMD01009-000-0`: DRAGON TREASURE  `#WEB:https://www.ebay.com/itm/324240836939`
+* `GMD01010-000-B`: SUBMARINE TREASURE  `#WEB:https://www.ebay.com/itm/324240872159`
+* `GMD01012-000-E`: GREAT VOYAGER  `#WEB:https://www.ebay.com/itm/324240839434`
+* `GMD02001-000-0`: TAKE OUT  `#WEB:https://www.ebay.com/itm/324240874897`
+* `GMD02003-000-6`: INSPECTOR WINMORE  `#WEB:https://www.ebay.com/itm/324240851507`
+* `GMD02006-000-4`: MARIACHI MADNESS (Herculite)  `#WEB:https://www.ebay.com/itm/144173245608`
+* `KGI00015-003-3`: Hot Dawgs (Herculite)  `#WEB:https://www.ebay.com/itm/144173255166`
+* `KGI00016-003-2`: MOST WANTED  `#WEB:https://www.ebay.com/itm/324348927542`
+* `KGI00029-002-3`: Money in the Bank (Herculite)  `#WEB:https://www.ebay.com/itm/144173237242`
+* `KGI00038-001-3`: DRAGON TREASURE  `#WEB:https://www.ebay.com/itm/324240835441`
+* `KGI00041-001-1`: SHOW ME THE MUMMY  `#WEB:https://www.ebay.com/itm/324240858923`
+* `KGI00042-003-0`: WINNY  `#WEB:https://www.ebay.com/itm/324240878183`
+* `KGI00043-003-1`: SGT.FRITTER 9L  `#WEB:https://www.ebay.com/itm/324240857008`
+
+* `KGI_LLPSYSC043XX`: KP3 Platform (KP3, S2013-1316)  `#WEB:https://www.ebay.com/itm/384357191594`
+* `KGI_LLWRTVC006XX`: Run Time (KP3, S2012-0218)  `#WEB:https://www.ebay.com/itm/384357191594`
+* `KGI_LLWRTVC008XX`: Run Time (KP3)  `#WEB:https://nomadgaming.com/parts-store/konami-kp3-cpu-mainboard`
+* `KGI_LLWRTVC010XX`: Run Time (KP3.5, S2016-1043)  `#WEB:https://nomadgaming.com/parts-store/ahiwb53qjhxqpzhoq9ezop60guzzvk`
+* `KGI_LBMRTVC005XX`: Power Up (KP3, S2012-0218)  `#WEB:https://www.ebay.com/itm/384357191594`
+* `KGI_LMBRTVC006XX`: Power Up (KP3.5, S2016-0095)  `#WEB:https://nomadgaming.com/parts-store/ahiwb53qjhxqpzhoq9ezop60guzzvk`
+* `KGI_LRAMCLC008IS?`: South America  `#WEB:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_VaYP6w36neWKKm0FId9Ht8bPgQG5jcFgV8UutsFV-lEiXRtIbeqPAPPk4pDzHlAo0o&usqp=CAU`
+* `KGI_LRAMCLC010NV`: Nevada (KP3)  `#WEB:http://newlifegames.com/nlg/index.php?topic=23355.0`
+* `KGI_LRAMCLC013US`: General (KP3)  `#WEB:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSuJ-7AoOZKDZGD1nONh1sMYC9C2KDmyxoIZ95XCgUlAX-rrvR5xFwia67YNrVU_Xsudw&usqp=CAU`
+* `KGI_L516MLA006WD00`: Heavenly World (KP3)  `#WEB:https://www.ebay.com/itm/384357191594`
+* `KGI_L578MLB002XX`: The Force of Legend (KP3)  `#WEB:https://www.ebay.com/itm/353647626252`
+* `KGI_L600MLA005WD04`: Dynasty Riches (KP3, S2013-1384)  `#WEB:https://www.ebay.com/itm/353647623076`
+
+* `AFTAM58US`: African Treasure (L04-2620, Herculite)  `#WEB:https://www.ebay.com/itm/144173237242`
+* `ATDBC61US`: African Treasure - Dlx (MS106)  `#WEB:https://rudysdeals.com/index.php?route=product/product&path=104&product_id=3267`
+* `BABAM58US`: BARKIN' BUCKS (IM124, L04-2463, Herculite)  `#WEB:https://www.worthpoint.com/worthopedia/konami-k2v-5-herculite-complete-kit-1816268975`
+* `BBBAM32US`: Buzzin' Bee Band (Herculite)  `#WEB:https://www.ebay.com/itm/144173237242`
+* `CANAM58US`: CARNAVAL NIGHTS (IM132)  `#WEB:https://www.ebay.com/itm/254298519901`
+* `COMM5BUS`: COMMUNICATIONS (Advantage)  `#WEB:https://www.ebay.com/itm/254298527432`
+* `COMM5CUS`: COMMUNICATIONS (Advantage)  `#WEB:https://www.ebay.com/itm/264492280141`
+* `COMM12US`: COMMUNICATIONS (Advantage)  `#WEB:https://www.ebay.com/itm/264492280198`
+* `EGKAM59US`: Egyptian King (IM134, Herculite)  `#WEB:https://www.ebay.com/itm/254298519903`
+* `FJDBC5AUS`: FLAME JUMPER DELUXE (MS101, Advantage)  `#WEB:https://www.ebay.com/itm/264492280141`
+* `HIGBA35AUS`: HIGHWAY 777 (NS131, Advantage)  `#WEB:https://www.ebay.com/itm/254298527432`
+* `JASAM59US`: JACKPOT SAFARI (IM130)  `#WEB:https://www.ebay.com/itm/254298519907`
+* `KITBAM59US`: KING TIKI (NS133)  `#WEB:https://www.ebay.com/itm/224477740333`)
+* `MAMAM52US`: Mariachi Madness (Herculite)  `#WEB:https://www.ebay.com/itm/144173245608`
+* `SIUAM59US`: SPICE IT UP (IM149, KV)  `#WEB:https://www.ebay.com/itm/224477952756`
+* `SOGAM58US`: Solstice Gold (L04-2310, Herculite)  `#WEB:https://www.ebay.com/itm/144173237242`
+* `SOGBA351US`/`SOGBA355US`: SOLSTICE GOLD (Advantage)  `#WEB:https://www.ebay.com/itm/254383388882`
+* `SPSBA340US`: SPARLING SEVENS (Advantage)  `#WEB:https://www.ebay.com/itm/264492280198`
+
+* `CACA14US-ESU`: CASH CROSSING  `#WEB:https://www.ebay.com/itm/324240833510`
+* `UGMA14US-ESU`: UNDERGROUND MONEY  `#WEB:https://www.ebay.com/itm/324240876781`
+
+* `ADJF101G12`: AF Diamond Jewels of the Wild (KF108)  `#WEB:https://www.ebay.com/itm/184588749986`
+* `ANDV103G12`: Ancient Dragon (KS801, S2009-1556)  `#WEB:https://www.ebay.com/itm/184588768173`
+* `CHCV102G12`: CHIP CITY (KS540, S2008-0143)  `#WEB:https://www.ebay.com/itm/184588884425`
+* `CHMV100G12`: China Mystery (KS576)  `#WEB:https://www.ebay.com/itm/184588790924`
+* `DIQV101G12`: Diamond Quest (KS536, L07-0402)  `#WEB:https://www.ebay.com/itm/184588944960`
+* `EGPV100G12`: Egyptian Prince (KS621)  `#WEB:https://www.ebay.com/itm/283556791750`
+* `FLOS101G12`: FLAME OF THE ORIENT (CM121)  `#WEB:https://www.ebay.com/itm/143014727678`
+* `GFAC104G12`: GAME FIX CHIP (L06-2774-01)  `#WEB:https://www.ebay.com/itm/164239622610`
+* `GFBC104G12`: GAME FIX CHIP (L06-2774-02)  `#WEB:https://www.ebay.com/itm/164239622610`
+* `GOFF101G23`: Gold Frenzy (KF109)  `#WEB:https://www.worthpoint.com/worthopedia/konami-gold-frenzy-diamond-spinner-1886419590`
+* `MAWV102G12`: Masked Warrior (KS519, L06-3125)  `#WEB:https://www.ebay.com/itm/184588928942`
+* `MEPV100G12`: Mermaid Paradise (KS567, S2009-0549)  `#WEB:https://www.ebay.com/itm/184588798033?`
+* `NOWV101G12`: Norse Warrior (KS541)  `#WEB:https://www.ebay.com/itm/184588898945`
+* `PHAV102G12`: PHANTASMIC (KS502, L07-0398)  `#WEB:https://www.ebay.com/itm/184588907252`
+* `PICV100G12`: Pineapple Coast (KS558, S2008-1333)  `#WEB:https://www.ebay.com/itm/184588808844`
+* `PILC104G12`: Pirate's Loot (S2015-0213)  `#WEB:https://www.ebay.com/itm/184453451131`
+* `PLAS100G14`: 3 REEL STEPPER PLATFORM (S2008-1719)  `#WEB:https://www.ebay.com/itm/164239622610`
+* `PLAS164G18`: ADV+Stepper Platform (S2012-1419)  `#WEB:https://www.ebay.com/itm/143014727678`
+* `QUSC301G12`: QUICK STRIKE (L07-1731)  `#WEB:https://www.ebay.com/itm/164239622610 #WEB:https://www.ebay.com/itm/143014727678`
+* `RAWV102G12`: RAWHIDE (KS503, L07-0301)  `#WEB:https://www.ebay.com/itm/184588926130`
+* `RCCA100G00`: GENERAL RAM CLEAR (Advantage 5)  `#WEB:https://www.ebay.com/itm/303753854719`
+* `RCCC200G`: GENERAL RAM CLEAR  `#WEB:https://www.worthpoint.com/worthopedia/konami-general-ram-clear-card-1813879755`
+* `RCCC200N`: GENERAL RAM CLEAR [Nevada]  `#WEB:https://www.worthpoint.com/worthopedia/konami-ram-clear-rccc200n-cf-slot-ram-53024654?popular`
+* `RCCC203G`: GENERAL RAM CLEAR  `#WEB:https://www.worthpoint.com/worthopedia/konami-gaming-ram-clear-cf-card-134488326`
+* `RCCC209G`: GENERAL RAM CLEAR (KP3)  `#WEB:https://www.worthpoint.com/worthopedia/konami-podium-general-ram-clear-kp3-1953984373`
+* `RNRV101G12`: Rapa Nui Riches (KS545)  `#WEB:https://www.ebay.com/itm/184588891624`
+* `SFAC103G11`: SYSTEM FIX CHIP (S2008-0089)  `#WEB:https://www.ebay.com/itm/164239622610`
+* `SRGS101G12`: SUPER RUINS OF GOLD (KM110, S2007-3759)  `#WEB:https://www.ebay.com/itm/164239622610`
+* `THWF102G23`: Thunder Warrior (KF105)  `#WEB:https://www.ebay.com/itm/184588775781`
+* `VILV101G12`: VIKING LEGEND (KS542, S2008-0348)  `#WEB:https://www.ebay.com/itm/184959282175`
+* `WITV101G01`: WILD TROPIC (Advantage 5)  `#WEB:https://www.ebay.com/itm/303753854719`
 
 ### Portable games
 
