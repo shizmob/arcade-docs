@@ -132,7 +132,8 @@ DDR front panel and speaker lights.
 e-AMUSEMENT pass (IC card) reader. Is really two types of devices: the old slot card reader, and the new NFC card reader.
 
 * Product:
-  - Secure-Tech NS-ARW13T-KNM2 (case) / ARW13T-RS01B-CSW01 (PCB) / ARW13T-KNM-FM HM (radio) [slot reader]  `#WEB:https://fccid.io/VCTKJ111703250000/Internal-Photos/internal-photos-812722`
+  - Secure-Tech NS-ARW13T-KNM2 (case) / ARW13T-RS01B-CSW01 (PCB) / 5GSR02360F PCB(ST-20-MN2)Assy (PCB) / ARW13T-KNM-FM HM (radio) [slot reader]  `#WEB:https://fccid.io/VCTKJ111703250000/Internal-Photos/internal-photos-812722`
+  - FRWF-K01A / FRWF-K02B [NFC]  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/o488584375 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/e1005557840 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/q465608697`
 * Firmware families:
   - ACIO name: "ICCA" (ID: 0x03000000) [slot reader]
     * Known versions: 1.1.0 / Oct 26 2005 13:55:03 / FDH/GDJ
