@@ -676,8 +676,8 @@ chronologic order, e.g. regarding release dates.
 * `975`: エスケープキッズ (1991, XEXEX-ROM)  `#MISC:oyakodon_oniku_list`
 * `976`: ポップンミュージック MICKEY TUNES / pop'n music MICKEY TUNES (2001, FIREBEAT-CDROM)  `#MAME:firebeat #MISC:oyakodon_oniku_list`
   * `GQ976-JR`
-  * `G*976-JA`: ポップンミュージック MICKEY TUNES / pop'n music MICKEY TUNES 
-  * `G*976-JB`: ポップンミュージック MICKEY TUNES! / pop'n music MICKEY TUNES!
+  * `G?976-JA`: ポップンミュージック MICKEY TUNES / pop'n music MICKEY TUNES
+  * `G?976-JB`: ポップンミュージック MICKEY TUNES! / pop'n music MICKEY TUNES!
 * `977`: ParaParaParadise / ParaParaDancing (2000, FIREBEAT-CDROM)  `#MAME:firebeat`
   * `GQ977`: ParaParaParadise / ParaParaDancing [Korea]
   * `GC977`: ParaParaParadise 1.1
@@ -1063,8 +1063,8 @@ chronologic order, e.g. regarding release dates.
    JA(white) JB (black) (2006, 歩数計)  
 * `F18`: e-AMUSEMENT PASS カード [wavepass]
   * `GUF18-JA`: 100 pack
-  * `G*F18-JB`: card dispenser conversion kit (12V)  `#MISC:oyakodon_oniku_list`
-  * `G*F18-JC`: card dispenser conversion kit (24V)  `#MISC:oyakodon_oniku_list`
+  * `G?F18-JB`: card dispenser conversion kit (12V)  `#MISC:oyakodon_oniku_list`
+  * `G?F18-JC`: card dispenser conversion kit (24V)  `#MISC:oyakodon_oniku_list`
 * `F24`: 投球王国GASHAAAAN (2006, PC(A3))   `#MISC:oyakodon_oniku_list`
   * `GLF24-HA`
   * `GLF24-JA`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/549695347`
@@ -1325,9 +1325,9 @@ chronologic order, e.g. regarding release dates.
   * `GUK39-JA`: card dispenser
   * `G?K39-JB`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/n504238029`
 * `K40`: ポップンミュージック / pop'n music cards (2010)  `#MISC:oyakodon_oniku_list`
-  * `G*K40-JA`
-  * `G*K40-JB`
-  * `G*K40-JC`
+  * `G?K40-JA`
+  * `G?K40-JB`
+  * `G?K40-JC`
 * `K44`: jubeat copious (2011, PC(855)), jubeat copious APPEND (2012, PC(855))
   * `GEK44-JA`
   * `GCK44-JC`: jubeat copious APPEND  `#DOC:konami:114589450000 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/m484017927`
@@ -1609,8 +1609,8 @@ chronologic order, e.g. regarding release dates.
   * `GSRSB-U*`
 * `RTA`: カラコロッタ 太陽とひみつの島  `#SCRAPE:konami:eagate`
 * `RTJ`: アニマロッタ おとぎの国のアニマ  `#MISC:oyakodon_oniku_list`
-* `RTL`: ツナガロッタ アニマと虹色の秘境  `#SCRAPE:konami:eagate` `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1001466025`
-  * `G*RTL-JA`: main
+* `RTL`: ツナガロッタ アニマと虹色の秘境  `#SCRAPE:konami:eagate #WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1001466025`
+  * `G?RTL-JA`: main
   * `GERTL-JB`: station  `#CLAIM:felix`
   * `RTL-JB[STATION]`: dongle label (station)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/o486106608`
 * `S18`: e-amusement pass カード [amusement IC]  `#DOC:konami:117194030000 #DOC:konami:117371830000 #DOC:konami:117196570000`
