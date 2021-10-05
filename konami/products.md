@@ -910,6 +910,7 @@ chronologic order, e.g. regarding release dates.
 * `C07`: DrumMania 7thMIX / PercussionFreaks 7thMIX (2002, SYSTEM573-CDROM)  `#MAME:ksys573`
   * `GCC07`
   * `GEC07`: Power up version
+  * `GUC07-JA`: GUITARFREAKS drummania ネットワークPCBユニット / network PCB unit  `#WEB:https://aucview.aucfan.com/yahoo/x694692210`
 * `C08`: GuitarFreaks 8thMIX
   * `GCC08`
   * `GEC08`: Power Up Version
@@ -993,15 +994,18 @@ chronologic order, e.g. regarding release dates.
 * `DK9`: 麻雀格闘倶楽部3
   * `GUDK9-JB` 
 * `DPU`: グランドクロス / GRAND CROSS (2006, PC-?)  `#WEB:https://jp.mercari.com/item/m99953644832 #WEB:https://jp.mercari.com/item/m40578244175`
+  * `GSDPU`  `#WEB:https://manualzz.com/doc/4989853/%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%82%AF%E3%83%AD%E3%82%B9---konami`
   * `DPU HAP P01`: APPLICATION UPDATE DISC  `#WEB:https://jp.mercari.com/item/m52525770760`
   * `DPU OS C01`: SYSTEM DISC
 * `E00`: トイズマーチ / Toy's March (2005, PYTHON2-HDD)  `#CLAIM:shiz`
   * `GQE00-JA`
 * `E01`: DANCE 86.4 FUNKY RADIO STATION (2005)  `#MISC:oyakodon_oniku_list`
 * `E02`: DrumMania V (2005, PYTHON2-HDD)
-  * `GEE02-JA`  `#WEB:https://www.mercari.com/jp/items/m17051864666/`
   * `GNE02-HD`: DrumManiaV
   * `GNE02-TB`: DrumManiaV
+  * `GEE02-JA`: conversion kit (e-AMUSEMENT)  `#WEB:https://www.mercari.com/jp/items/m17051864666/ #WEB:https://www.ebay.co.uk/itm/124063850837`
+  * `GEE02-JB`: conversion kit (no e-AMUSEMENT)  `#WEB:https://www.ebay.co.uk/itm/124063850837`
+  * `GUE02-JB`: card reader unit  `#WEB:https://www.ebay.co.uk/itm/124063850837`
 * `E03`: GuitarFreaks V (2005, PYTHON2-HDD)
   * `GEE03`
   * `GNE03-HD`: GuitarFreaksV
@@ -1032,7 +1036,8 @@ chronologic order, e.g. regarding release dates.
   * `GKE33-EA`
 * `E65`: MONSTER GATE ONLINE II (2003?, PC-HDD)  `#MISC:oyakodon_oniku_list`
 * `E68`: Infinity Rings (2009?, PC-HDD)   `#MISC:oyakodon_oniku_list`
-* `E77`: プレシャスパーティー (2006)  `#MISC:oyakodon_oniku_list`
+* `E77`: プレシャスパーティー (2006)  `#MISC:oyakodon_oniku_list #WEB:https://manualzz.com/doc/4905761/%E3%83%97%E3%83%AC%E3%82%B7%E3%83%A3%E3%82%B9%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%EF%BC%88%E3%83%A1%E3%82%A4%E3%83%B3%E3%81%AE%E3%81%BF%EF%BC%89`
+  * `GSE77`
 * `E99`: ビシバシチャンプオンライン 〜笑撃の全国対戦!?〜 / Bishi Bashi Champ Online (2005, PC(EPIA-5000)IO(USB1)-HDD)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/p1004650716 #MISC:oyakodon_oniku_list`
 * [`ECO`: beatmania IIDX 12 HAPPY SKY](software/ECO.md) (2005, PC(KNM-845G3-A12)IO(C02/D01)-HDD)  `#MISC:oyakodon_oniku_list`
   * [`GQECO-JA`: Dedicated cabinet](product/GQECO-JA.md)
@@ -1051,6 +1056,10 @@ chronologic order, e.g. regarding release dates.
   * `GEF02`
   * `GNF02-HD`
   * `GNF02-TB`
+  * `GCF02-JA`: conversion kit (e-AMUSEMENT)  `#WEB:https://www.coinopexpress.com/products/pcbs/music-pcbs-upgrades/drum-mania-v2-upgrade-kit-6409.html`
+  * `GCF02-JB`: converison kit (no e-AMUSEMENT)  `#WEB:https://www.coinopexpress.com/products/pcbs/music-pcbs-upgrades/drum-mania-v2-upgrade-kit-6409.html`
+  * `F02 JA A03`: disc  `#WEB:https://www.coinopexpress.com/products/pcbs/music-pcbs-upgrades/drum-mania-v2-upgrade-kit-6409.html`
+  * `F02 JA B03`: 1.01 disc  `#WEB:https://www.coinopexpress.com/products/pcbs/music-pcbs-upgrades/drum-mania-v2-upgrade-kit-6409.html`
 * `F03`: GuitarFreaks V2 (2005, PYTHON2-HDD)  `#MISC:oyakodon_oniku_list`
   * `GEF03`
 * `F14`: ポップンミュージック 14 / pop'n music 14 (2006, PYTHON-HDD)  `#MISC:oyakodon_oniku_list MEDIA:konami/popn-manuals.jpg`
@@ -1077,10 +1086,12 @@ chronologic order, e.g. regarding release dates.
   * `GEF33`
 * `F51`: G1ターフワイルド3 (2005)  `#MISC:oyakodon_oniku_list`
 * `F55`: GI-VICTORY ROAD  `#SCRAPE:konami:eagate`
-* `F56`
+* `F56`: ジーワンホースパーク EX STD / G1 HORSE PARK EX STD  `#WEB:https://manualzz.com/doc/5003270/%E3%82%B8%E3%83%BC%E3%83%AF%E3%83%B3%E3%83%9B%E3%83%BC%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF-ex-std`
+  * `GSF56`
 * `F60`: LATINO BEAT (2006)  `#MISC:oyakodon_oniku_list`
-* `F96`: クルクルラボ (2006, PC(C3)IO(e-amu))  `#MISC:oyakodon_oniku_list`
-* `FA5`: NOVAうさぎのゲームde留学!? (2006)  `#MISC:oyakodon_oniku_list`
+* `F96`: 脳開発研究所クルクルラボ (2006, PC(C3)IO(e-amu))  `#MISC:oyakodon_oniku_list #WEB:https://manualzz.com/doc/4747757/%E8%84%B3%E9%96%8B%E7%99%BA%E7%A0%94%E7%A9%B6%E6%89%80%E3%82%AF%E3%83%AB%E3%82%AF%E3%83%AB%E3%83%A9%E3%83%9C`
+  * `GEF96-JA`
+* `FA5`: NOVAうさぎのゲームde留学!? (2006)  `#MISC:oyakodon_oniku_list #WEB:https://manualzz.com/doc/4854961/nova%E3%81%86%E3%81%95%E3%81%8E%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0de%E7%95%99%E5%AD%A6-%3F`
 * `FAL`: イーアミューズメントキャビネット  `#MISC:oyakodon_oniku_list`
 * `FCK`: ウイニングイレブン 2006 (2006)  `#MISC:oyakodon_oniku_list`
 * [`FDD`: beatmania IIDX 13 DistorteD](software/FDD.md) (2006, PC(KNM-845G3-A12)IO(C02/D01)-HDD)  `#MISC:oyakodon_oniku_list`
@@ -1101,7 +1112,9 @@ chronologic order, e.g. regarding release dates.
   * `GGFK3 PWB(B4) 112486360000?`: K3-IOB [I/O board]  `#WEB:https://get-t.net/product/konami-kp3-5-for-the-corcherto-crecent%EF%BC%8Cgett-part-cpu151/ #WEB:https://www.inminternationalllc.com/konami/konami-kp35-cpu`
   * ?: K3-MMB [ROM board]  `#WEB:https://www.inminternationalllc.com/konami/konami-kp35-cpu`
 * `FK9`: 麻雀格闘倶楽部5 / Mahjong Fight Club 5 (2006, PC(EPIA-M1000)-CF)  `#MISC:oyakodon_oniku_list`
+  * `GQFK9-JA`  `#WEB:https://manualzz.com/doc/4777359/%E5%AF%BE%E7%AD%96%E3%81%AB%E3%81%A8%E3%82%82%E3%81%AA%E3%81%86%E6%B3%A8%E6%84%8F%E7%82%B9-%E9%BA%BB%E9%9B%80%E6%A0%BC%E9%97%98%E5%80%B6%E6%A5%BD%E9%83%A8-ultimate-version-a`
 * `FLY`: Quiz Magic Academy 3 (2005, PC(A6)IO(USB1)-HDD)  `#MISC:oyakodon_oniku_list #WEB:https://aucview.aucfan.com/yahoo/f434430222`
+  * `GEFLY-JB`  `#WEB:https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0202/users/0393ad4c2742f226ddf91a7ed66f6c1918f25010/i-img1200x608-1613823342lgofyc107765.jpg`
   * `FLY JA A03`: application disc 2 (client/center monitor)
   * `FLY JA CLT`: client PCB  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/g517358569`
 * `FW2`: アラビアンクリスタル (2005, MEDAL)  `#MISC:oyakodon_oniku_list`
@@ -1123,9 +1136,10 @@ chronologic order, e.g. regarding release dates.
   * `GQG32-HA`
   * `GQG32-TA`
   * `GEG32-JA`  `#WEB:https://www.mercari.com/jp/items/m17051864666/`
-  * `GEG32-AA`: PCB and software conversion kit
+  * `GEG32-AA`: PCB and software conversion kit  `#WEB:https://www.worthpoint.com/worthopedia/drummania-konami-main-pcb-computer-1920019997`
   * `GUG32-AA`: Expansion IC Card Unit
   * `GCG32`
+  * `G*G32-AA`  `#WEB:https://www.worthpoint.com/worthopedia/drummania-konami-main-pcb-computer-1920019997`
 * `G33`: GuitarFreaks V4 (2007, PC(855)-HDD)  `#MISC:oyakodon_oniku_list`
   * `GQG33-JA`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1007229080`
   * `GQG33-HA`
@@ -1141,12 +1155,13 @@ chronologic order, e.g. regarding release dates.
 * `GDJ`: DanceDanceRevolution SuperNOVA2 (2007, PYTHON2-HDD)  `#MISC:oyakodon_oniku_list`
   * `GCGDJ`
 * `GDK`: アクション刑事 (2008?)  `#WEB:https://www.ebay.com/itm/165026090678 #WEB:https://www.ebay.com/itm/165001727510`
-  * `GNGDK-JA`  `#MEDIA:konami/roundplugs-taobao.png`
+  * `GNGDK-JA`  `#MEDIA:konami/roundplugs-taobao.png #WEB:https://manualzz.com/doc/4869177/%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E5%88%91%E4%BA%8B---konami`
 * `GEM`: Quiz Magic Academy 4 (2007, PC(A6)IO(USB1/USB2)-HDD)  `#MISC:oyakodon_oniku_list`
-* `GGG`: オトメディウス / OTOMEDIUS (2007, PC(C3)IO(e-amu))  `#MISC:oyakodon_oniku_list`
+* `GGG`: オトメディウス / OTOMEDIUS (2007, PC(C3)IO(e-amu))  `#MISC:oyakodon_oniku_list #WEB:https://manualzz.com/doc/5000543/%E3%82%AA%E3%83%88%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A6%E3%82%B9---konami`
   * `GEGGG-JA`
   * `GEGGG-JB`
-* `GHL`: サイレントヒルアーケード / Silent Hill THE ARCADE (2007, PC(B?)IO(serial?))  `#MISC:oyakodon_oniku_list #WEB:https://twitter.com/infinity8686/status/1066677366414397441`
+* `GHL`: サイレントヒルアーケード / Silent Hill THE ARCADE (2007, PC(B?)IO(serial?))  `#MISC:oyakodon_oniku_list #WEB:https://twitter.com/infinity8686/status/1066677366414397441 #WEB:https://manualzz.com/doc/5003619/%E3%82%B5%E3%82%A4%E3%83%AC%E3%83%B3%E3%83%88%E3%83%92%E3%83%AB%E3%83%BB%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89`
+  * `GNGHL-JA`
   * `GKGHL-EA`  `#DOC:konami:?`
   * `GHL JA A01`: system disc
 * `GK9`: 麻雀格闘倶楽部6 / Mahjong Fight Club 6 (2007, PC(RICOH)-HDD)  `#MISC:oyakodon_oniku_list`
@@ -1172,13 +1187,15 @@ chronologic order, e.g. regarding release dates.
 * `H32`: DrumMania V5 (2008, PC(855))  `#CLAIM:shiz`
   * `GCH32`
   * `GCH32-JA`: conversion kit (soft)  `#WEB:https://www.mercari.com/jp/items/m14516750937/`
-* `H33`: GuitarFreaks V5 (2008, PC(855))  `#CLAIM:shiz`
+* `H33`: GuitarFreaks V5 (2008, PC(855))  `#WEB:https://manualzz.com/doc/4849848/%E3%82%AE%E3%82%BF%E3%83%BC%E3%83%95%E3%83%AA%E3%83%BC%E3%82%AF%E3%82%B9-v%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA`
+  * `GQH33-JA`
   * `GCH33`
   * `GCH33-JA`: conversion kit (soft)  `MEDIA:konami/popn-manuals.jpg`
 * `H44`: jubeat (2008, PC(855))  `#CLAIM:shiz`
   * `GQH44-JA`: 1 cabinet  `#DOC:konami:112476060000`
   * `GQH44-JB`: 2 cabinets with hub  `#DOC:konami:112476060000`
 * `H53`: 悪魔城ドラキュラ THE MEDAL (2008)  `#MISC:oyakodon_oniku_list`
+* `H65`: エターナルナイツ2 〜封印の聖石〜  `#DATA:http://file.4gamer.net/demo/ek2_setup.exe`
 * `H79`: メテオスパーク (2008)  `#MISC:oyakodon_oniku_list`
 * `HAL`: Quiz Magic Academy 5 (2008, PC(A6)IO(USB1/USB2)-HDD)  `#MISC:oyakodon_oniku_list #WEB:https://aucview.aucfan.com/yahoo/468385003`
   * `HAL JA A01`: system disc (client center monitor)
@@ -1202,7 +1219,8 @@ chronologic order, e.g. regarding release dates.
 * `HIT`: シンプリーヨガ60ミニッツ (2007, DVD-ROM)  `#MISC:oyakodon_oniku_list`
 * `HK9`: 麻雀格闘倶楽部7 / Mahjong Fight Club 7 (2008, PC(RICOH)-HDD)  `#MISC:oyakodon_oniku_list`
 * `HPP`: ミリオネット ?  `#MISC:oyakodon_oniku_list`
-* `HTF`: ファンタジックフィーバー3 (2008, ?-HDD)  `#MISC:oyakodon_oniku_list`
+* `HTF`: ファンタジックフィーバー3 (2008, ?-HDD)  `#MISC:oyakodon_oniku_list #WEB:https://manualzz.com/doc/4970251/%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%83%E3%82%AF%E3%83%95%E3%82%A3%E3%83%BC%E3%83%90%E3%83%BC-3-%E3%83%88%E3%82%A5%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%95%E3%82%A7%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%86%E3%82%A4%E3%83%AB-0120`
+  * `GSHTF`
 * `HWR`: Infinity Rings (2009, PC(?)-HDD)   `#MISC:oyakodon_oniku_list`
 * [`I00`: beatmania IIDX 16 EMPRESS](software/I00.md) (2008, PC(B5)IO(C02/D01/USB2)-HDD)  `#MISC:oyakodon_oniku_list`
   * [`GQI00-JA`: Dedicated cabinet](product/GQI00-JA.md)
@@ -1224,6 +1242,7 @@ chronologic order, e.g. regarding release dates.
   * `GCI33-JA`: conversion kit (soft)  `MEDIA:konami/popn-manuals.jpg`
 * `I36`: Metal Gear Arcade (2010, PC-HDD)
   * `GPI36-JA`: Dedicated cabinet `#MEDIA:konami/GPI36-JA-sticker.jpg #DOC:konami:113088440000 #DOC:konami:113088450000`
+  * `GQI36-JA`  `#WEB:https://manualzz.com/doc/4912697/%E3%83%A1%E3%82%BF%E3%83%AB%E3%82%AE%E3%82%A2-%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89`
 * `I44`: jubeat ripples, jubeat ripples APPEND (2009, PC(855)-HDD)
   * `GQI44-JA`: jubeat ripples  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/m484017927`
   * `GCI44`
@@ -1233,9 +1252,9 @@ chronologic order, e.g. regarding release dates.
 * `IAI`: エアロバイクai-ex JA JB(サンドベージュ) (2009, エアロバイク)  `#MISC:oyakodon_oniku_list`
 * `IBB`: ザ・ビシバシ / THE*BISHIBASHI (2009, PC(?)IO(HBHI))  `#MISC:oyakodon_oniku_list #WEB:https://aucview.aucfan.com/yahoo/r431672446`
   * `IBB JA A01`: system disc
-* `IBI`: 天下一将棋会 (2010, PC)  `#MISC:oyakodon_oniku_list`
-  * `GQIBI-JA`
-  * `GEIBI-JA`: upgrade kit from different cabinet  `#WEB:https://www.mercari.com/jp/items/m96155836324/`
+* `IBI`: 天下一将棋会 (2010, PC)  `#MISC:oyakodon_oniku_list #WEB:https://manualzz.com/doc/4904656/%E5%A4%A9%E4%B8%8B%E4%B8%80%E5%B0%86%E6%A3%8B%E4%BC%9A2-c%E6%9C%AC%E4%BD%93`
+  * `GQIBI-JA`: C cabinet
+  * `GEIBI-JA`: upgrade kit from A cabinet  `#WEB:https://www.mercari.com/jp/items/m96155836324/ #WEB:https://manualzz.com/doc/4972677/%E5%A4%A9%E4%B8%8B%E4%B8%80%E5%B0%86%E6%A3%8B%E4%BC%9A2-a%E6%9C%AC%E4%BD%93`
 * `ICE`: Quiz Magic Academy 6 (2009, PC(A6)IO(USB1/USB2)-HDD)  `#MISC:oyakodon_oniku_list`
   * `GCICE-JA` `#WEB:https://twitter.com/oyakodon_oniku/status/1383799356323602439`
   * `GCICE-JB`
@@ -1243,7 +1262,7 @@ chronologic order, e.g. regarding release dates.
   * `ICE JA A02`: application disc 1 (client/center monitor)  `#WEB:https://aucview.aucfan.com/yahoo/m417464589/`
   * `ICE JA A03`: application disc 2 (client/center monitor)  `#WEB:https://aucview.aucfan.com/yahoo/m417464589/`
   * `ICE JA A04`: application disc 3 (client/center monitor)  `#WEB:https://aucview.aucfan.com/yahoo/m417464589/`
-* `ICK`: ウイニングイレブン2010 (2010, PC(C3))  `#MISC:oyakodon_oniku_list`
+* `ICK`: ワールドサッカー ウイニングイレブン アーケードチャンピオンシップ 2010 / Winning Eleven 2010 (2010, PC(C3))  `#MISC:oyakodon_oniku_list`
   * `GUICK-JA`: コントロールパネルキット  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/k552713225`
   * `GEICK-JA`  `#WEB:https://www.mercari.com/jp/items/m94152347864/`
 * `ID2`: 遊戯王ファイブディーズ デュエルターミナル ワームの侵攻!! (2008, PC-YUGIOU)  `#MISC:oyakodon_oniku_list`
@@ -1264,9 +1283,11 @@ chronologic order, e.g. regarding release dates.
   * `IK9 JB E02`: application install CD-ROM  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/e351046845`
 * `IMS`: モーキャップスポーツ (2009, PC(?)IO(IMSI))  `#MISC:oyakodon_oniku_list`
 * `IPU`: グランドクロス・プレミアム / GRAND CROSS PREMIUM  `#WEB:https://jp.mercari.com/item/m40578244175 #WEB:https://aucview.aucfan.com/yahoo/f358855633`
+  * `GSIPU`  `#WEB:https://manualzz.com/doc/4919399/%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%82%AF%E3%83%AD%E3%82%B9-%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0`
   * `IPU CPC A01`: CENTER RECOVERY DISC
   * `IPU HPC A01`: HOST RECOVERY DISC
 * `ISF`: スピンフィーバー第2章 夢水晶と魔法のメロディー (2009, ?-HDD)  `#MISC:oyakodon_oniku_list #WEB:https://page.auctions.yahoo.co.jp/jp/auction/t1009880988`
+  * `GSISF-JA`  `#WEB:https://manualzz.com/doc/4829155/%E3%82%B9%E3%83%94%E3%83%B3%E3%83%95%E3%82%A3%E3%83%BC%E3%83%90%E3%83%BC-%E7%AC%AC2%E7%AB%A0-%E5%A4%A2%E6%B0%B4%E6%99%B6%E3%81%A8%E9%AD%94%E6%B3%95%E3%81%AE%E3%83%A1%E3%83%AD%E3%83%87%E3%82%A3%E3%83%BC-%E5%8A%B9%E6%9E%9C%E7%9A%84%E3%81%AA%E7%AF%80%E9%9B%BB%E6%96%B9%E6%B3%95%E3%82%92%E3%81%94`
   * `ISF PC A01`: ??? RECOVERY DISC
   * `ISF [BLUE]`: blue [roundplug dongle](dongle.md#roundplug)
   * `ISF [PINK]`: pink [roundplug dongle](dongle.md#roundplug)  `#WEB:https://jp.mercari.com/item/m68517668776`
@@ -1274,8 +1295,9 @@ chronologic order, e.g. regarding release dates.
 * `IX8`: フォーチュントリニティ / FORTUNE TRINITY (2010)  `#MISC:oyakodon_oniku_list #WEB:https://jp.mercari.com/item/m88202874420`
   * `GSIX8-JA`
 * `J32`: DrumMania V7 (2010, PC(855)), DrumManiaXG (2010, PC(?))
-  * `GCJ32`
+  * `GQJ32-JA`: DrumManiaXG  `#WEB:https://aucview.aucfan.com/yahoo/e280211973/`
   * `GKJ32-CB`  `#MEDIA:konami/roundplugs-taobao.png`
+  * `GCJ32`
 * `J33`: GuitarFreaks V7 (2010, PC(855)), GuitarFreaksXG  (2010, PC(?))
   * `GCJ33`
   * `GKJ33-CA` (PC(J32-945-03))  `#WEB:https://www.ebay.com/itm/165022274600`
@@ -1302,20 +1324,23 @@ chronologic order, e.g. regarding release dates.
   * `GCJDX-JA`
   * `GKJDX`
 * [`JDZ`: beatmania IIDX 18 Resort Anthem](software/JDZ.md) (2010, PC(B5)IO(C02/D01/USB2)-HDD)
-  * [`GQJDZ-JA`: Dedicated cabinet](product/GQJDZ-JA.md)
+  * [`GQJDZ-JA`: Dedicated cabinet](product/GQJDZ-JA.md)  `#WEB:https://manualzz.com/doc/4930749/%E3%83%93%E3%83%BC%E3%83%88%E3%83%9E%E3%83%8B%E3%82%A2-iidx-18-resort-anthem`
   * `GCJDZ-JA`
   * `GUJDZ-JB`: Resort Anthem LCD monitor  `#WEB:http://kururusky.com/?p=1458`
   * `GCJDZ-AA`: Asia, round plug, no paseli `#WEB:https://twitter.com/kururusky/status/1175652027067535360/photo/1`
   * `JDZ JA A99`: update disc  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/f529620421`
-* `JGT`: ロードファイターズ (2010, PC-HDD)  `#MISC:oyakodon_oniku_list`
+* `JGT`: ロードファイターズ (2010, PC-HDD)  `#MISC:oyakodon_oniku_list #WEB:https://manualzz.com/doc/4989944/%E3%83%AD%E3%83%BC%E3%83%89%E3%83%95%E3%82%A1%E3%82%A4%E3%82%BF%E3%83%BC%E3%82%BA`
+  * `GQJGT-JA`
 * `JMA`: Quiz Magic Academy 7 (2010, PC(C3)IO(USB1/USB2)-HDD)  `#MISC:oyakodon_oniku_list #WEB:https://aucview.aucfan.com/yahoo/m83536076/`
   * `GEJMA-JB`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/p870019570`
   * `JMA JA A01`: system disc (client/center monitor)
   * `JMA JA A02`: application disc (client/center monitor)
 * `JMP`: ヘロー！！ポップンミュージック / HELLO! POP'N MUSIC (2011)
 * `JPA`: パノラマファンタジー  `#MISC:oyakodon_oniku_list`
-* `K27`: ベースボールヒーローズ2010 (2010, PC(C3))  `#MISC:oyakodon_oniku_list`
+* `K27`: ベースボールヒーローズ2010 (2010, PC(C3))  `#MISC:oyakodon_oniku_list #WEB:https://manualzz.com/doc/4935042/%E5%AF%BE%E7%AD%96%E3%81%AB%E3%81%A8%E3%82%82%E3%81%AA%E3%81%86%E6%B3%A8%E6%84%8F%E7%82%B9-%E3%83%99%E3%83%BC%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%BA-2010-winner`
+  * `GEH27-JA`
 * `K32`: DrumMania V8 (2011, PC(855)), DrumManiaXG2 Groove to Live (2011, PC(?))
+  * `GEK32-JA`: DrumManiaXG2 Groove to Live  `#WEB:https://aucview.aucfan.com/yahoo/o331572400`
   * `GCK32-JB`: DrumMania V8  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/c918840967 #WEB:https://www.mercari.com/jp/items/m17051864666/`
 * `K33`: GuitarFreaks V8 (2011, PC(855)), GuitarFreaksXG2 Groove to Live, (2011, PC(?))
   * `GCK33-JB`: GuitarFreaks V8  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/v815380858`
@@ -1332,9 +1357,10 @@ chronologic order, e.g. regarding release dates.
   * `GEK44-JA`
   * `GCK44-JC`: jubeat copious APPEND  `#DOC:konami:114589450000 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/m484017927`
   * `K44 JC A02`: append disc  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/567834925`
-* `K56`: GI-HORSEPARK JUDGMENT (2011, PC(MEDAL))  `#MISC:oyakodon_oniku_list`
+* `K56`: GI-HORSEPARK JUDGMENT STD (2011, PC(MEDAL))  `#MISC:oyakodon_oniku_list #WEB:https://manualzz.com/doc/4854194/gi-horsepark-judgment-std`
   * `*EK56-J*`: K56 `<PDP>`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/v1004013462`
-* `K70`: アニマロッタ (2011)  `#MISC:oyakodon_oniku_list`
+* `K70`: アニマロッタ (2011)  `#MISC:oyakodon_oniku_list #WEB:https://manualzz.com/doc/4838508/%E3%82%A2%E3%83%8B%E3%83%9E%E3%83%AD%E3%83%83%E3%82%BF---konami`
+  * `GSK70`
 * `KA9`: PASELI カード
   * `GUKA9-JA`: 50 pack
 * `KBI`: 天下一将棋会2 (2011, PC)  `#WEB:https://www.mercari.com/jp/items/m96155836324/`
@@ -1375,15 +1401,19 @@ chronologic order, e.g. regarding release dates.
 * `KGG`: Steel Chronicle (2011, PC(E1)), Steel Chronicle VICTROOPERS (2013, PC(E1))  `#MISC:oyakodon_oniku_list`
   * `GQKGG-JA`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/1004281047`
 * `KGL`: GOLF CONNECTION  `#SCRAPE:konami:eagate`
-* `KMA`: Quiz Magic Academy 8 (2011, PC(C3)IO(USB1/USB2)-HDD)  `#SCRAPE:konami:eagate #MISC:oyakodon_oniku_list`
+* `KMA`: Quiz Magic Academy 8 (2011, PC(C3)IO(USB1/USB2)-HDD)  `#SCRAPE:konami:eagate #MISC:oyakodon_oniku_list #WEB:https://manualzz.com/doc/4876734/%E3%82%AF%E3%82%A4%E3%82%BA%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%BC8-%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC%E3%83%A6%E3%83%8B%E3%83%83%E3%83%88-%E5%8A%B9%E6%9E%9C%E7%9A%84%E3%81%AA`
+  * `GEKMA-JB`: client unit conversion kit
 * `KK9`: 麻雀格闘倶楽部 ultimate version, 麻雀格闘倶楽部 NEXT, 麻雀格闘倶楽部 頂の陣, 麻雀格闘倶楽部 彩の華, 麻雀格闘倶楽部 ZERO, 麻雀格闘倶楽部 豪華絢爛, 麻雀格闘倶楽部 GRAND MASTER, 麻雀格闘倶楽部 疾風
+  * `GQKK9-JA`  `#WEB:https://manualzz.com/doc/4906506/%E5%AF%BE%E7%AD%96%E3%81%AB%E3%81%A8%E3%82%82%E3%81%AA%E3%81%86%E6%B3%A8%E6%84%8F%E7%82%B9-%E9%BA%BB%E9%9B%80%E6%A0%BC%E9%97%98%E5%80%B6%E6%A5%BD%E9%83%A8-ultimate-version-c`
   * `GEKK9-JA`
   * `GEKK9-JB`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/o492546021`
-* `KLP`: ラブプラス アーケード カラフル Clip (2011, PC(?)IO(KLPA))  `#MISC:oyakodon_oniku_list`
+* `KLP`: ラブプラス アーケード カラフル Clip (2011, PC(?)IO(KLPA))  `#MISC:oyakodon_oniku_list #WEB:https://manualzz.com/doc/4914393/%E3%83%A9%E3%83%96%E3%83%97%E3%83%A9%E3%82%B9-%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89-%E3%82%AB%E3%83%A9%E3%83%95%E3%83%ABclip`
+  * `GQKLP`
 * `KPM`: ラブプラス MEDAL Happy Daily Life (2011, PC-HDD)  `#MISC:oyakodon_oniku_list`
 * `KPP`: ミリオネット / MILLIONETTE (2009-PC(C1))  `#SCRAPE:konami:eagate #WEB:https://jp.mercari.com/item/m77612460751`
   * `KPP SNG *01 SA1`: satellite PCB
 * `KPU`: グランドクロス・クロニクル / GRAND CROSS CHRONICLE  `#MISC:oyakodon_oniku_list #WEB:https://jp.mercari.com/item/m99953644832`
+  * `GEKPU`  `#WEB:https://manualzz.com/doc/4946991/%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%82%AF%E3%83%AD%E3%82%B9-%E3%82%AF%E3%83%AD%E3%83%8B%E3%82%AF%E3%83%AB`
   * `KPU JAB`
   * `KPU HPC A01`: host recovery disc  `#WEB:https://jp.mercari.com/item/m72961400051`
 * `KSF`: スピンフィーバー 3章 夢幻のオーケストラ / Spin Fever 3: Dream Orchestra (2011)  `#MISC:oyakodon_oniku_list #WEB:https://page.auctions.yahoo.co.jp/jp/auction/m1007089335 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/t1009880988`
@@ -1408,6 +1438,9 @@ chronologic order, e.g. regarding release dates.
   * `GEL44-JC`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/q466386215`
   * `GUL44-JH`: clan art kit  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/d1006786116`
 * `L57`: GI-GranDesire (2013)  `#SCRAPE:konami:eagate`
+* `L65`: エターナルナイツTRUST / ETERNAL KNIGHTS TRUST (2011, PC(B9))  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/l701319133 #WEB:https://manualzz.com/doc/4942624/eternal-knights-trust`
+  * `L65 MAIN *02`: main unit
+  * `G?L65-JAA`
 * `LA9`: PASELIチャージ機 / PASELI Charging Machine (2010, PC(?)IO(USB,LCD))  `#CLAIM:shiz #MISC:oyakodon_oniku_list`
   * `GQLA9-JA`
 * `LBR`
@@ -1499,6 +1532,10 @@ chronologic order, e.g. regarding release dates.
   * `**M40-JH`
   * `**M40-JI`
   * `**M40-JJ`
+* `M65`: エターナルナイツLEGEND? (2013, PC(B9))  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/l701319133`
+  * `GEM65-JA`: main unit conversion kit  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/c909906995`
+  * `GEM65-JB`: station unit conversion kit  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/j731453092`
+  * `M65 MAIN A01 SA1`: unit
 * `M70`: アニマロッタ2 (2013)  `#MISC:oyakodon_oniku_list`
 * `MBR`
   * REFLEC BEAT colette [from 2013051300] (2013, PC)

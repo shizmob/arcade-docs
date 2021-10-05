@@ -201,8 +201,10 @@ Also known as: "BemaniPC Type 2" (unofficially).
 
 ### FAB-e945-KN209
 
+`#WEB:https://page.auctions.yahoo.co.jp/jp/auction/l701319133`
+
 **Sticker:** B9  
-**Games:** M65  
+**Games:** L65, M65  
 
 ### FAB-e945-KN210
 
