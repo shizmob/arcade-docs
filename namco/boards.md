@@ -115,7 +115,7 @@ Playstation 2 devkit-based with special arcade firmware. Variants: A, B, C.
             Mobile Suit Gundam SEED O.M.N.I. vs Z.A.F.T (?, SED) : NM00024
             Mobile Suit Gundam SEED Destiny O.M.N.I. vs Z.A.F.T. II (?, GSD) : NM00034
             Mobile Suit Z Gundam A.E.U.G. vs Titans (?, ZGA) : NM00013
-            Mobile Suit Z Gundam DX A.E.U.G. vs Titans (?, ZDX) : NM00017
+            Mobile Suit Z Gundam A.E.U.G. vs Titans DX  (?, ZDX) : NM00017
             Pride GP 2003 (?, PR2) : NM00011
             Quiz Mobile Suit Gundam Tou Senshi (?, QG) : NM00030
             Sengoku Basara X Cross (?, BAX) : NM00042
