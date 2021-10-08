@@ -188,6 +188,13 @@ Sord embedded boards: https://www.sord.co.jp/company/corporate/history.html
 **Sticker:** B3  
 **Games:** K56 POP?  
 
+### FAB-e945-KN204
+
+?
+
+**Sticker:** B4A
+**Games:** GDK  
+
 ### FAB-e945-KN205
 
 Also known as: "BemaniPC Type 2" (unofficially).
@@ -225,6 +232,13 @@ Also known as: "BemaniPC Type 2" (unofficially).
 **HDD:** 160GB  
 **Sticker:** C3  
 **Games:** HGT, LMA, JMA  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/p870019570`  
+
+### FAB-e965-KN304
+
+?
+
+**Sticker:** C4  
+**Games:** H24  
 
 ### FAB-e965-KN313
 
