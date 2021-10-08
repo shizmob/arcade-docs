@@ -61,7 +61,7 @@ Document about Konami's software and hardware license management using different
 * Housing: custom plastic case in black (license) or white (account)
 * Components:
   - Dallas DS2430A (256-bit EEPROM, 1-wire)
-* Used in: [Python](boards.md#python), [Python 2](boards.md#python-2), most Konami PC hardware pre-iKey/eToken
+* Used in: [Viper](boards.md#viper), [Python](boards.md#python), [Python 2](boards.md#python-2), most Konami PC hardware pre-iKey/eToken
 
 ## Serial plug
 
