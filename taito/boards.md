@@ -94,17 +94,19 @@ Missing: 303, 304, 305
 |  ???    | ???                 | ???    | HD6770        | Specified as part of press release to be a GPU option, maybe model 400/401?  |
 
 ??? - GUNSLINGER STRATOS M9008840A VER.1.47JPN (GUNS M9008840A)
+
 ??? - LORD OF VERMILLION III-(MAIN UNIT) M9008870A VER.3.000JPN (LOV3-(MAIN UNIT) M9008869A)
+
 ??? - LORD OF VERMILLION III-(SATELLITE) M9008865A VER.3.000JPN (LOV3-(SATELLITE) M9008864A)
 
 Missing: 401
 
 ## Type X4
 
-|    ID | CPU      | RAM               | GPU         | Notes                                                   |
-|-------|----------|-------------------|-------------|---------------------------------------------------------|
-|  500A | i5-4590S | 4GB(DDR3-1600) x2 | GTX960-2GB  | STREET FIGHTER V TYPE ARCADE / LOVELIVE! AC CENTER M9009121A / LOVELIVE! AC SATELLITE PPLAN M9009129A / LOVELIVE! AC NS CENTER / LOVELIVE! AC NS SATELLITE P PLAN / LOVELIVE! AC NS SATELLITE SPLAN / MGICIANS DEAD            |
-|  502A | i7-4970S | 8GB(DDR3-1600) x2 | GTX1080-8GB | HOSHI NO TSUBA / DENSHA DE GO                           |
-|  504A | i5-4590S | 4GB(DDR3-1600L) x2 | RTX2070-8GB | DENSHADE GO!! COMPACT-(10PLAN)                           |
+|    ID | CPU      | RAM                | GPU         | Notes                                                   |
+|-------|----------|--------------------|-------------|---------------------------------------------------------|
+|  500A | i5-4590S | 4GB(DDR3-1600) x2  | GTX960-2GB  | STREET FIGHTER V TYPE ARCADE / LOVELIVE! AC CENTER M9009121A / LOVELIVE! AC SATELLITE PPLAN M9009129A / LOVELIVE! AC NS CENTER / LOVELIVE! AC NS SATELLITE P PLAN / LOVELIVE! AC NS SATELLITE SPLAN / MGICIANS DEAD            |
+|  502A | i7-4970S | 8GB(DDR3-1600) x2  | GTX1080-8GB | HOSHI NO TSUBA / DENSHA DE GO                           |
+|  504A | i5-4590S | 4GB(DDR3L-1600) x2 | RTX2070-8GB | DENSHADE GO!! COMPACT-(10PLAN)                          |
 
 Missing: 501, 503
