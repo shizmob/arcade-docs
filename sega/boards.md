@@ -159,7 +159,7 @@ SEGA parts are referred to using a [proprietary format](identifiers.md#part-numb
   * Lindbergh Red                   (AAHE, 845-00xxD, "ASSY CASE LBJ L 512MB *", "ASSY CASE LBJ L 1GB *" [EX])
         Case: red, Lindbergh R logo top left
               red, Lindbergh R logo top left, EX sticker top center [EX]
-        MBD:  838-14673?
+        MBD:  838-14673
         CPU:  Intel Celeron 2.8GHz
         RAM:  1x 512MB
               2x 512MB? [EX]
