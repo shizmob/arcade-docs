@@ -10,6 +10,8 @@ chronologic order, e.g. regarding release dates.
 
 ### General
 
+* `010`: ダンスダンスレボリューション ふぁみマット / DanceDanceRevolution Famimat (2001, TV)  `#WEB:https://www.amazon.co.jp/%E3%82%B3%E3%83%8A%E3%83%9F%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88-Konami-Digital-Entertainment-%E3%83%80%E3%83%B3%E3%82%B9%E3%83%80%E3%83%B3%E3%82%B9%E3%83%AC%E3%83%9C%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3-%E3%81%B5%E3%81%81%E3%81%BF%E3%83%9E%E3%83%83%E3%83%882P%E5%B0%82%E7%94%A8%E3%83%9E%E3%83%83%E3%83%88/dp/B00LZG7VEQ`
+  * `HB010`
 * `017`: 実況パワフルプロ野球'96 (1996, GV-CDROM)  `#WEB:https://www.suruga-ya.jp/product/detail/181000186 #WEB:https://www.suruga-ya.jp/product/detail/180900028`
   * `GV017-JA`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/j565004168`
 * `019`: 実況パワフルプロ野球'96 (1996, GV-CDROM)  `#MISC:oyakodon_oniku_list`
@@ -1259,7 +1261,8 @@ chronologic order, e.g. regarding release dates.
   * `HDX JA B01`: hard drive  `#WEB:https://a11.kpers.net/item/u357009117/`
 * `HGT`: GTI club supermini festa (2008, PC-HDD)   `#MISC:oyakodon_oniku_list`
   * `GQHGT-JA`  `#MEDIA:konami/roundplugs-taobao.png`
-* `HIT`: シンプリーヨガ60ミニッツ (2007, DVD-ROM)  `#MISC:oyakodon_oniku_list`
+* `HIT`: シンプリーヨガ60ミニッツ (2007, DVD-ROM)  `#MISC:oyakodon_oniku_list #WEB:https://page.auctions.yahoo.co.jp/jp/auction/e1003399070`
+  * `HCHIT-JA`
 * `HK9`: 麻雀格闘倶楽部7 / Mahjong Fight Club 7 (2008, PC(RICOH)-HDD)  `#MISC:oyakodon_oniku_list`
 * `HPP`: ミリオネット ?  `#MISC:oyakodon_oniku_list`
 * `HTF`: ファンタジックフィーバー3　コンバージョンキット / Fantastic Fever 3 Twinkle Fairytale (2008, ?-HDD)  `#MISC:oyakodon_oniku_list #WEB:https://manualzz.com/doc/4970251/%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%83%E3%82%AF%E3%83%95%E3%82%A3%E3%83%BC%E3%83%90%E3%83%BC-3-%E3%83%88%E3%82%A5%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%95%E3%82%A7%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%86%E3%82%A4%E3%83%AB-0120 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/s820167796`
@@ -1924,14 +1927,19 @@ chronologic order, e.g. regarding release dates.
   * `RU035`
 * `036`: ポップンミュージック　アーケードスタイルコントローラー  `#WEB:https://www.mercari.com/jp/items/m21916231678/`
   * `RU036`
+* `037`: マーシャルビート プレステーション用 ソフト コント コントローラ同梱セット `#WEB:https://jp.mercari.com/item/m38183702375`
+  * `RU037`
 * `038`: beatmania IIDX アーケードスタイル コントローラ  `#WEB:https://www.mercari.com/jp/items/m21603330919/`
   * `RU038`
 * `039`: DanceDanceRevolution専用コントローラー2  `#WEB:https://www.mercari.com/jp/items/m48122545694/`
   * `RU039`
 * `050`: ポップンミュジック専用コントローラー2  `#WEB:https://www.mercari.com/jp/items/m66996523374/`
   * `RU050`
+* `060`: PC Engine mini  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/1010400957`
+  * `RU060`
 
 ### Home controllers (BF)
+
 * `001`: beatmania IIDX専用コントローラー プレミアムモデル  `#WEB:https://www.mercari.com/jp/items/m29550702201/`
   * `BF001`
 * `003`: beatmania IIDX専用コントローラー プレミアムモデル  `#WEB:https://www.mercari.com/jp/items/m21795555067/`
@@ -1945,10 +1953,6 @@ chronologic order, e.g. regarding release dates.
 * `013`: pop'n music専用コントローラ プレミアムモデル  `#WEB:https://www.mercari.com/jp/items/m78626804850/ #WEB:https://www.mercari.com/jp/items/m96854002599/`
   * `BF013`
 
-### Misc
-
-* `011`: キーボードマニア　コントローラー  `#WEB:https://www.mercari.com/jp/items/m76222082516/`
-  * `VW011-J1`
 
 ## Unsorted
 

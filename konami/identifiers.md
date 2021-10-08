@@ -21,25 +21,74 @@ string is provided to constrain the format properly.
 The following variables are used across the different identifiers and can denote the listed values:
 
 * `$p`: Product category
-  * `G`: Game
-  * `H`: Hardware/Helper? e.g. card dispenser
+  * `B`: Consumer hardware
+  * `C`: Consumer hardware, cards
+  * `G`: Arcade games
+  * `H`: Hardware? e.g. card dispenser
+  * `M`: Consumer games
+  * `R`: Consumer games
+  * `V`: Consumer games
 * `$t`: Product type
-  * `A`: ???
-  * `C`: Conversion kit: Software/rom/art/dongle only
-  * `E`: Conversion kit: Software + hardware
-  * `G`: Gambling/slot/casino hardware/board?
-  * `K`: Cabinet manufactured by third party?
-  * `L`: Redemption cabinet?
-  * `M`: Cabinet?
-  * `N`: Cabinet manufactured by third party?
-  * `O`: Cabinet?
-  * `P`: Cabinet?
-  * `Q`: Cabinet
-  * `S`: Medal cabinet (station?)
-  * `U`: Conversion kit: Upgrade or utility: Hardware/art only
-  * `X`: Hardware/board?
-  * `Y`: ???
-  * `Z`: ???
+  * Category `B`:
+    * `H`: LCD game
+  * Category `C`:
+    * `F`: Fanclub cards
+    * `M`: こなみるく (KonaMilk) cards
+    * `T`: BEMANI POCKET
+  * Category `G`:
+    * `C`: Conversion kit: Software/rom/art/dongle only
+    * `E`: Conversion kit: Software + hardware
+    * `G`: Gambling/slot/casino hardware/board?
+    * `K`: Cabinet manufactured by third party?
+    * `L`: Redemption cabinet?
+    * `M`: Cabinet?
+    * `N`: Cabinet manufactured by third party?
+    * `O`: Cabinet?
+    * `P`: Cabinet?
+    * `Q`: Cabinet
+    * `S`: Medal cabinet (station?)
+    * `U`: Conversion kit: Upgrade or utility: Hardware/art only
+    * `V`: Cabinet (System GV)
+    * `X`: Hardware/board?
+    * `Y`: ???
+    * `Z`: ???
+  * Category `H`:
+    * `A`: ???
+    * `B`: TV game
+    * `C`: CD-rom?
+    * `O`: hardware?
+  * Category `M`:
+    * `E`: Windows 95 (floppy, cdrom)
+    * `F`: Mac
+  * Category `R`:
+    * `A`: MSX, PC-98, X68000 (Floppy)
+    * `C`: MSX (Cartridge), Famicom
+    * `D`: NES (North America, Europe)
+    * `E`: GB (prototype?)
+    * `G`: SNES (North America)
+    * `H`: SNES (Europe)
+    * `I`: Wii (Japan)
+    * `K`: GB, GBC, GBA (Japan)
+    * `L`: Switch (Japan)
+    * `Q`: Gamecube (Japan)
+    * `R`: 3DS (Japan)
+    * `S`: Super Famicom
+    * `U`: Controllers
+    * `V`: Famicom
+    * `Y`: DS (Japan)
+    * `Z`: Nintendo 64 (Japan)
+  * Category `V`:
+    * `C`: Dreamcast (Japan)
+    * `F`: PS4 (Japan)
+    * `K`: Xbox 360 (Japan)
+    * `M`: Xbox (Japan)
+    * `N`: PS Vita (Japan)
+    * `P`: PSP (Japan)
+    * `S`: Saturn (Japan)
+    * `T`: PS3 (Japan)
+    * `W`: PS2 (Japan)
+    * `X`: PS1 (Japan)
+    * `Z`: 3DO (Japan)
 * `$g`: Gamecode, identifies a game or series in [Konami's product portfolio](products.md)
   * Format: `yxx`
     * `y`: `A` + (project development start year - 2000) (`L`: 2011, `T`: 2019, etc.)
