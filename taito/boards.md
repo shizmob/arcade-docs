@@ -105,5 +105,6 @@ Missing: 401
 |-------|----------|-------------------|-------------|---------------------------------------------------------|
 |  500A | i5-4590S | 4GB(DDR3-1600) x2 | GTX960-2GB  | STREET FIGHTER V TYPE ARCADE / LOVELIVE! AC CENTER M9009121A / LOVELIVE! AC SATELLITE PPLAN M9009129A / LOVELIVE! AC NS CENTER / LOVELIVE! AC NS SATELLITE P PLAN / LOVELIVE! AC NS SATELLITE SPLAN / MGICIANS DEAD            |
 |  502A | i7-4970S | 8GB(DDR3-1600) x2 | GTX1080-8GB | HOSHI NO TSUBA / DENSHA DE GO                           |
+|  504A | i5-4590S | 4GB(DDR3-1600L) x2 | RTX2070-8GB | DENSHADE GO!! COMPACT-(10PLAN)                           |
 
-Missing: 501
+Missing: 501, 503
