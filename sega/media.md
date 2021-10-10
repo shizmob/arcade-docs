@@ -81,7 +81,7 @@ Y = C: cartridge
 840-0026C: THE TYPING OF THE DEAD
 840-0027C: SEGA MARINE FISHING
 840-0028C: VIRTUAL-ON OT M.S.B.S. Ver5.66
-840-0030C: QUIZ AH MEGAMISAMA
+840-0030C: クイズ ああっ女神さまっ ～闘う翼とともに～  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/f1011359631
 840-0035C: SEGA STRIKE FIGHTER
 840-0036C: 18WHEELER : standard
 840-0037C: 18WHEELER : upright
@@ -134,7 +134,7 @@ Y = C: cartridge
 840-0171C: MUSHIKING 2K6 2ND : JPN
 840-0174C: MUSHIKING 2K7 1ST : JPN
 840-0175C: ダイナマイト でか EX/ASIAN DYNAMITE
-840-0177C: リズム天国 : JPN
+840-0177C: リズム天国 : JPN  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/h1011272812
 840-0178C: ドライビングシミュレーターシミュレーター : JPN : 253-5508-0502J
 840-0180C: MUSHIKING TKOB IV ENG : EXP : 253-5508-0437
 ```
@@ -808,6 +808,7 @@ DVR-0073  : ぷよぷよ!！クエスト アーケード : RingEdge : SBYZ
         C : ^
 DVR-0074  :
 DVR-0075  : CODE OF JOKER : RingEdge2 : JPN : SBYT
+        H : ^  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/t1011338418
 DVR-0076  :
 DVR-0077  :
 DVR-0078  :
@@ -862,7 +863,7 @@ DVR-5020  :
 DVR-5021D : Hokuto no Ken Battle Medal : RingEdge2 : JPN : SBYQ
 DVR-5022  : INTIAL D ARCADE STAGE 7 : RingEdge : CHN : SBYY
 DVR-5023B : The World of THREE KINGDOMS : RingEdge2 : JPN : SBYF
-DVR-5024B : CODE OF JOKER : RingEdge2 : JPN : SBYT
+DVR-5024B : CODE OF JOKER : RingEdge2 : JPN : SBYT  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/t1011338418`
         H : ^
 DVR-5025  :
 DVR-5026  : TRANSFORMERS HUMAN ALLIANCE : RingEdge2 : SBYR
@@ -914,7 +915,9 @@ DVR-5051  :
 DVR-5052  : CODE OF JOKER : RingEdge2 : JPN : SBYT
         A : ^ (No.1)
         F : ^ (No.1)
+        P : ^ (No.1)  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/t1011338418
 CDV-35052F: CODE OF JOKER (No.2) : RingEdge2 : JPN : SBYT
+         P: ^ (No.2)  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/t1011338418
 DVR-5053  : BORDER BREAK X : RingEdge : JPN : SBVA : v5.00/v5.02/v5.06
 DVR-5054  :
 DVR-5055  :
