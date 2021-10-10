@@ -191,7 +191,8 @@ KH  - Kunckle Heads
 KN1 - Kinnikuman Muscle Grand Prix
 KN2 - Kinnikuman Muscle Grand Prix 2
 KP  - カニカニパニック / Kani Kani Panic  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/o1009159025
-KPM - Kotoba no Puzzle Mojipittan
+KPM - Kotoba no Puzzle Mojipittan  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/p1011357758
+KQ  - Kosodate Quiz My Angel  #WEB:https://jp.mercari.com/item/m80799164755
 KQT - Kosodate Quiz My Angel 3
 KRG - Keroro Gunsō Chikyū Shinryaku Shirei Dearimasu!
 KTD - Kart Duel
@@ -264,7 +265,7 @@ RRV - Ridge Racer V
 RST - Razing Storm
 RT  - Rolling Thunder
 RTS - Rolling Thunder 2
-RV  - Rave Racer
+RV  - Rave Racer  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/c1011176648
 S01 - Taiko no Tatsujin (2011)
 S02 - Taiko no Tatsujin KATSU-DON
 S03 - Taiko no Tatsujin Sorairo
@@ -300,6 +301,7 @@ SS6 - Super World Stadium '96
 SS7 - Super World Stadium '97  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/552682989
 SS8 - Super World Stadium '98
 SS9 - Super World Stadium '99
+SSC - スィートスクーパー / Sweet Scooper  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/t1011339591
 SSG - Super World Stadium '92?'94?
 SSS - Super World Stadium '92
 SST - Super World Stadium '93
@@ -412,6 +414,7 @@ M143 - MAIN PCB [SWF]              #WEB:https://page.auctions.yahoo.co.jp/jp/auc
 M168 - DRIVE PCB                   #WEB:https://page.auctions.yahoo.co.jp/jp/auction/u243960159
 M188 - MAIN PCB [SWB]              #WEB:https://page.auctions.yahoo.co.jp/jp/auction/l1003283787
 M171 - SIA PCB [ワイワイクリッパー]   #WEB:https://page.auctions.yahoo.co.jp/jp/auction/w290817382 
+M188 - MAIN PCB [SSC]              #WEB:https://page.auctions.yahoo.co.jp/jp/auction/t1011339591
 ```
 
 ### [Z-codes](identifiers.md#z-code)
