@@ -1,8 +1,8 @@
 # `GULDJ-JJ`: Beatmania IIDX PENDUAL LCD monitor
 
 * "PENDUAL LCD"
-* Monitor manufacturer
-  * Konami Digital Entertainment
-* Size: 37" ???
+* Monitor manufacturer: Konami Digital Entertainment
+* Panel: YTE (model unknown)
+* Size: 37"
 * Native resolution: ???
-* Input: DVI
+* Input: VGA, DVI

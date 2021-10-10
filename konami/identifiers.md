@@ -28,6 +28,7 @@ The following variables are used across the different identifiers and can denote
   * `M`: Consumer games
   * `R`: Consumer games
   * `V`: Consumer games
+  * `Y`: Consumer hardware?
 * `$t`: Product type
   * Category `B`:
     * `H`: LCD game
@@ -52,7 +53,7 @@ The following variables are used across the different identifiers and can denote
     * `X`: Hardware/board?
     * `Y`: ???
     * `Z`: ???
-  * Category `H`:
+  * Category `H`, `Y`:
     * `A`: ???
     * `B`: TV game
     * `C`: CD-rom?

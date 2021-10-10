@@ -283,7 +283,7 @@ Also known as: "BemaniPC Type 3" (unofficially).
 
 ### 945
 
-Also known as: "JDX-945-02" / "KFC-945-01" / "BemaniPC Type 4" (unofficially).
+Also known as: "JDX-945-02" / "KBR-945-01" / "KFC-945-01" / "BemaniPC Type 4" (unofficially).
 
 **MBD:** AOpen IT945GME_M72 (AOpen i945G*-based?)  
 **CPU:** AMD Athlon X2 4400+  
@@ -292,7 +292,7 @@ Also known as: "JDX-945-02" / "KFC-945-01" / "BemaniPC Type 4" (unofficially).
 **HDD:** \[MDX\] Seagate ST500DM002 (SATA 3.5", 500GB, 7200RPM)  
 **IO:** \[JDX/KDX/MDX\] [P3IO](io.md#p3io)  
 **IO:** \[KFC\] [KFCA](io.md#kfca)  
-**Games:** JDX, KDX, MDX, KFC  
+**Games:** JDX, KBR, KDX, MDX, KFC  
 
 ## `ADE-*`
 

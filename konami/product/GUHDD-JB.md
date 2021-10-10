@@ -2,6 +2,7 @@
 
 * "DJ Troopers LCD"
 * Monitor manufacturer: Konami Manufacturing & Service Co., Ltd.
+* Panel: Toshiba P37L055
 * Size: 37"
 * Native resolution: 1280x720
 * Input: VGA, DVI
