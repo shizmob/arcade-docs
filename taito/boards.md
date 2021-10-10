@@ -56,10 +56,10 @@ Missing: 002, 004, 009, 010, 015, 016, 018, 019, 020, 023
 | 210A   | P4 3.4GHz     | 512MB | GF7900GS    | BLAZ BLUE M9007861A VER.1.01 (B3900123A, black/gray) / CAPCOM SSF4 M9008561A? Ver1.0 / HOPPING ROAD KIDS M9008194A Ver1.02JPN (B3900144A, black/gray) |
 | 2101A  | P4 3.4GHz     | 512MB | X1600PRO    | BLAZBLUE CONTINUUM SHIFT M9008080A https://forum.arcadeotaku.com/viewtopic.php?t=25696      |
 | 211A-R | P4 3.4GHz     | 512MB | GF7900GS    | NESICA X LIVE / HAUNTED MUSEUM2 VER1.01JPN                                                  |
-| 212A   | Core2 2.12Ghz | 2GB   | GF9800GT SP |                                                                                             |
+| 212A   | Core2 2.12Ghz | 2GB   | GF9800GT SP | CYBERDIVER M9008056A Ver.1.04JPN  `#WEB:https://jp.mercari.com/item/m32646744611`           |
 | 213A   | ??? 1.8GHz    | 1GB   | GF7900GS    |                                                                                             |
 | 215A   | P4 3.4GHz     | 1GB   | GF7900GS    | NESICA X LIVE M9008355A VER.2.00/ HOPPING ROAD KIDS Ver1.02JPN / ELEVATOR ACTION DEATHPARADE(CHN) VER1.01CHN / DARIUS BURST ANOTHER CHRONICLE M9008278A Ver1.05JPN / DARIUS BURST ANOTHER CHRONICLE (CHN) M9008387A ver1.0 (B3900160A, black/gray)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/e1004013846` |
-| 217A   | P4 3.4GHz     | 1GB   | GF7900GS    |                                                                                             |
+| 217A   | P4 3.4GHz     | 1GB   | GF7900GS    | NESICA X LIVE M9008355A  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/h1011268677`    |
 | 218A   | PenDC 1.8GHz  | 2GB   | HD5770      | CAPCOM MB4 M9008420A Ver1.0 [Mario Coin World]                                              |
 | ???    | Core2 Duo     | ???   | ???         | special red/black PCB                                                                       |
 
@@ -86,7 +86,7 @@ Missing: 303, 304, 305
 |  402[U] | Core i5-2400 3.1Ghz | 2GB x4 | N660GTX       | GPU upgrade sticker / GUNSLINGER STRATOS2 M9008929A / GUNS 3-(STANDARD) / GUNS 3-(ADVANCE) / GUNS 3-(INSTALMENT) M9009093A |
 |  403    | Core i5-2400 3.1GHz | 2GB x2 | N560 Ti-Hawk? |                                                                              |
 |  403[U] | Core i5-2400 3.1GHz | 2GB x4 | N660GTX       | RAM + GPU upgrade sticker / GUNS 3-(ADVANCE)                                 |
-|  404    | Core i5-2400 3.1GHz | 2GB x4 | N660GTX       | GUNS 3-(STANDARD) / ULTRA STREET FIGHTER IV / LORD OF VERMILLION IV 20 PLAY  |       
+|  404    | Core i5-2400 3.1GHz | 2GB x4 | N660GTX       | GUNS 3-(STANDARD) / ULTRA STREET FIGHTER IV / LORD OF VERMILLION IV 20 PLAY / NESICA X LIVE 2 M9009197A |
 |  405    | Core i3-2120 3.3GHz | 2GB x2 | N640          | PUZZLE & DRAGONS M9008936A VER.1.000                                         |
 |  406    | Core i5-2400 3.1GHz | 4GB x2 | N660GTX       | GUNS 3-(ADVANCE) M9009092A (M9009088A, black) / NESICA X LIVE 2 M9009197A / LEFT4DEAD 生存者たち M9008990A VER.1.0004 |
 |  407    | Core i5-2400 3.1GHz | 8GB x2 | GTX760 CRB    | FIGUREHEADS A                                                                |
