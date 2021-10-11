@@ -25,6 +25,8 @@ The following variables are used across the different identifiers and can denote
   * `C`: Consumer hardware, cards
   * `G`: Arcade games
   * `H`: Hardware? e.g. card dispenser
+  * `K`: Media (Konami Media Entertainment, Inc.)
+  * `L`: Media (Konami Media Entertainment, Inc.)
   * `M`: Consumer games
   * `R`: Consumer games
   * `V`: Consumer games
@@ -34,7 +36,9 @@ The following variables are used across the different identifiers and can denote
     * `H`: LCD game
   * Category `C`:
     * `F`: Fanclub cards
+    * `K`: Tokimeki prizes
     * `M`: こなみるく (KonaMilk) cards
+    * `P`: Tokimeki goods
     * `T`: BEMANI POCKET
   * Category `G`:
     * `C`: Conversion kit: Software/rom/art/dongle only
@@ -58,6 +62,10 @@ The following variables are used across the different identifiers and can denote
     * `B`: TV game
     * `C`: CD-rom?
     * `O`: hardware?
+  * Category `K`:
+    * `D`: Video DVD
+  * Category `L`:
+    * `C`: Audio CD
   * Category `M`:
     * `E`: Windows 95 (floppy, cdrom)
     * `F`: Mac
