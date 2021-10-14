@@ -110,3 +110,11 @@ Missing: 401
 |  504A | i5-4590S | 4GB(DDR3L-1600) x2 | RTX2070-8GB | DENSHADE GO!! COMPACT-(10PLAN)                          |
 
 Missing: 501, 503
+
+
+## Sony PlayStation 4 based
+A retail Sony PlayStation 4 running in IDU (kiosk) mode. Doesn't have a codename as only one game uses it.
+
+|    ID | CPU      | RAM                | GPU         | Notes                                                   |
+|-------|----------|--------------------|-------------|---------------------------------------------------------|
+|  ???    | (PS4)                 | (PS4)    | (PS4)        | DISSIDIA: Final Fantasy Arcade M9009055A (25PLAN) |
