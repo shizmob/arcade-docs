@@ -25,6 +25,7 @@ The following variables are used across the different identifiers and can denote
   * `C`: Consumer hardware, cards
   * `G`: Arcade games
   * `H`: Hardware? e.g. card dispenser
+  * `J`: Consumer hardware?
   * `K`: Media (Konami Media Entertainment, Inc.)
   * `L`: Media (Konami Media Entertainment, Inc.)
   * `M`: Consumer games
@@ -62,6 +63,8 @@ The following variables are used across the different identifiers and can denote
     * `B`: TV game
     * `C`: CD-rom?
     * `O`: hardware?
+  * Category `J`:
+    * `E`: Controllers?  `#WEB:https://jp.mercari.com/item/m68294267693`
   * Category `K`:
     * `D`: Video DVD
   * Category `L`:
@@ -84,6 +87,7 @@ The following variables are used across the different identifiers and can denote
     * `S`: Super Famicom
     * `U`: Controllers
     * `V`: Famicom
+    * `W`: Wonderswan (Japan)
     * `Y`: DS (Japan)
     * `Z`: Nintendo 64 (Japan)
   * Category `V`:
