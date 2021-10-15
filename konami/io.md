@@ -11,7 +11,7 @@
 
 ## P3IO
 
-* Product: PWB112263690000
+* Product: PWB112263690000 / PWB111468760000? `#WEB:https://www.ebay.co.uk/itm/133592055079`
 * Connectors: JAMMA (cab), custom (COM1, cab), TTL (COM2, cab), 2x TTL (COM3-4, cab),  RGB (cab), 2x RCA (cab), secplug (cab)
 
 ## P4IO
