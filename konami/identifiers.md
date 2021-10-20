@@ -25,9 +25,11 @@ The following variables are used across the different identifiers and can denote
   * `C`: Consumer hardware, cards
   * `G`: Arcade games
   * `H`: Hardware? e.g. card dispenser
+  * `I`: Consumer hardware?
   * `J`: Consumer hardware?
   * `K`: Media (Konami Media Entertainment, Inc.)
   * `L`: Media (Konami Media Entertainment, Inc.)
+  * `P`: Media
   * `M`: Consumer games
   * `R`: Consumer games
   * `V`: Consumer games
@@ -36,10 +38,13 @@ The following variables are used across the different identifiers and can denote
   * Category `B`:
     * `H`: LCD game
   * Category `C`:
+    * `C`: Figurines (card?)
     * `F`: Fanclub cards
-    * `K`: Tokimeki prizes
+    * `G`: Card sets (Yu-Gi-Oh! etc.)
+    * `K`: Prizes
     * `M`: こなみるく (KonaMilk) cards
     * `P`: Tokimeki goods
+    * `R`: Figurines (joints)
     * `T`: BEMANI POCKET
   * Category `G`:
     * `C`: Conversion kit: Software/rom/art/dongle only
@@ -52,6 +57,7 @@ The following variables are used across the different identifiers and can denote
     * `O`: Cabinet?
     * `P`: Cabinet?
     * `Q`: Cabinet
+    * `R`: Figurines
     * `S`: Medal cabinet (station?)
     * `U`: Conversion kit: Upgrade or utility: Hardware/art only
     * `V`: Cabinet (System GV)
@@ -63,8 +69,13 @@ The following variables are used across the different identifiers and can denote
     * `B`: TV game
     * `C`: CD-rom?
     * `O`: hardware?
+    * `X`: hardware?
+    * `Z`: hardware?
+  * Category `I`:
+    * `K`: PC peripherals?
+    * `P`: PC hardware?
   * Category `J`:
-    * `E`: Controllers?  `#WEB:https://jp.mercari.com/item/m68294267693`
+    * `E`: Controllers, cables?  `#WEB:https://jp.mercari.com/item/m68294267693 #WEB:https://msx.org/wiki/Konami_JE-700`
   * Category `K`:
     * `D`: Video DVD
   * Category `L`:
@@ -72,6 +83,8 @@ The following variables are used across the different identifiers and can denote
   * Category `M`:
     * `E`: Windows 95 (floppy, cdrom)
     * `F`: Mac
+  * Category `P`:
+    * `G`: Laserdisc?  `#WEB:https://www.generation-msx.nl/software/konami/badlands/release/270/`
   * Category `R`:
     * `A`: MSX, PC-98, X68000 (Floppy)
     * `C`: MSX (Cartridge), Famicom
@@ -80,6 +93,7 @@ The following variables are used across the different identifiers and can denote
     * `G`: SNES (North America)
     * `H`: SNES (Europe)
     * `I`: Wii (Japan)
+    * `J`: Famicom Disk System (Japan)  `#WEB:https://jp.mercari.com/item/m57604197201`
     * `K`: GB, GBC, GBA (Japan)
     * `L`: Switch (Japan)
     * `Q`: Gamecube (Japan)
