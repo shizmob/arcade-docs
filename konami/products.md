@@ -853,6 +853,7 @@ chronologic order, e.g. regarding release dates.
   * `GE936`
   * `GN936`: cab label
   * `GK936`: casette label
+  * `936 EA A02`: CD
 * `939`: トライゴン / TRIGON / LIGHTNING FIGHTERS (1990, TMNT2-ROM)  `#MISC:oyakodon_oniku_list #DOC:konami:939400 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/t1009929605`
   * `GX939`
 * `941`: GTIクラブ・コルソイタリアーノ / GTI Club: Corso Italiano / GTI Club 2 / Driving Party (2001, VIPER-CFCARD)  `#MAME:viper`
@@ -1098,6 +1099,8 @@ chronologic order, e.g. regarding release dates.
 * `A44`: DanceDanceRevolution USA (2000, 2000 SYSTEM573-CDROM)  `#MISC:oyakodon_oniku_list`
   * `GKA44-UA`
 * `A45`: ボクシングマニア あしたのジョー / Boxing Mania: Ashita no Joe (2001, VIPER-CFCARD)  `#MAME:viper #MISC:oyakodon_oniku_list`
+* `A46`  `#MEDIA:konami/gqb01/board.png #MEDIA:konami/gqb01/gqa46-pwb-a-b.png`
+  * `GQA46-PWB(A)B`: main board, Xilinx Spartan XCS10XL FPGA
 * `A48`: Great Bishi Bashi Champ
   * `GCA48-JA`
 * `A67`: スロットモンスター / SLOTMONSTER  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/m449063287`
@@ -1128,7 +1131,8 @@ chronologic order, e.g. regarding release dates.
   * `GCB00-JA`: conversion kit
   * `GCB00-JB`: conversion kit
   * `GEB00-JA`: conversion kit
-* `B01`: セレブリティスタジオ  `#MISC:oyakodon_oniku_list`
+* `B01`: セレブリティスタジオ  `#MISC:oyakodon_oniku_list #MEDIA:konami/gqb01/board.png`
+  * `GQB01-PWB(B)?`: power supply/IO relay board
 * `B02`: プリティングスタイル (2002)  `#MISC:oyakodon_oniku_list`
 * `B05`: DrumMania 5thMIX / PercussionFreaks 5hMIX (2001, SYSTEM573-CDROM)  `#MAME:ksys573 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/u396085908`
   * `GCB05-JA`: software conversion kit
@@ -1344,11 +1348,11 @@ chronologic order, e.g. regarding release dates.
   * `GCE12-JB`: conversion kit (e-AMUSEMENT)
   * `GCE12-JC`
   * `GCE12-JD`: conversion kit (no e-AMUSEMENT)
-* `E13`: ポップンミュージック 13 / pop'n music 13 (2005, PYTHON-HDD)  `#MISC:oyakodon_oniku_list MEDIA:konami/popn-manuals.jpg`
+* `E13`: ポップンミュージック 13 / pop'n music 13 (2005, PYTHON-HDD)  `#MISC:oyakodon_oniku_list MEDIA:konami/popn-manuals.jpg #WEB:https://page.auctions.yahoo.co.jp/jp/auction/f1013475977`
   * `GCE13-JA`
-  * `GCE13-JB`: conversion kit
+  * `GCE13-JB`: conversion kit (e-AMUSEMENT)
   * `GCE13-JC`
-  * `GCE13-JD`: conversion kit
+  * `GCE13-JD`: conversion kit (no e-AMUSEMENT)
 * `E33`: Dancing Stage Fusion (2005, PYTHON-HDD)
   * `GKE33-EA`
   * `GKE33-PWB(I)`: EXT-I/O PCB  `#DOC:konami:111132350000`
@@ -1725,8 +1729,9 @@ chronologic order, e.g. regarding release dates.
   * `K44 JC A02`: append disc  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/567834925`
 * `K56`: GI-HORSEPARK JUDGMENT STD (2011, PC(MEDAL))  `#MISC:oyakodon_oniku_list #WEB:https://manualzz.com/doc/4854194/gi-horsepark-judgment-std`
   * `*EK56-J*`: K56 `<PDP>`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/v1004013462`
-* `K70`: アニマロッタ / AnimaLotta (2011)  `#MISC:oyakodon_oniku_list #WEB:https://manualzz.com/doc/4838508/%E3%82%A2%E3%83%8B%E3%83%9E%E3%83%AD%E3%83%83%E3%82%BF---konami`
+* `K70`: アニマロッタ / AnimaLotta (2011, PC(C1))  `#MISC:oyakodon_oniku_list #WEB:https://manualzz.com/doc/4838508/%E3%82%A2%E3%83%8B%E3%83%9E%E3%83%AD%E3%83%83%E3%82%BF---konami #WEB:https://page.auctions.yahoo.co.jp/jp/auction/w1013674160`
   * `GSK70-JA`: cabinet  `#WEB:https://a12.kpers.net/item/m77462575452/`
+  * `K70 MAIN *01 SA1`: satellite
 * `KA9`: PASELI カード
   * `GUKA9-JA`: 50 pack
 * `KBI`: 天下一将棋会2 (2011, PC)  `#WEB:https://www.mercari.com/jp/items/m96155836324/`
@@ -1743,6 +1748,7 @@ chronologic order, e.g. regarding release dates.
   * `GCKCK-JB`: ソフトキット
   * `GEKCK-JA`: コンバーションキット
   * `GUKCK-JA`: 装節等キット
+  * `GUKCK-JC`: control panel?  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/k1013640874`
   * `KCK JA A01`: system disc [CD-ROM]  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/t1012207231`
   * `KCK JA A02`: application disc 1 [CD-ROM]  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/t1012207231`s
   * `KCK JA A03`: application disc 2 [CD-ROM]  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/t1012207231`
