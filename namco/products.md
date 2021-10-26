@@ -235,7 +235,7 @@ SC2 - Soul Calibur II
 SC3 - Soul Calibur III Arcade Edition
 SCP - Smash Court Pro Tournament
 SE  - Speed Racer
-SED - Mobile Suit Gundam SEED O.M.N.I. vs Z.A.F.T
+SED - Mobile Suit Gundam SEED O.M.N.I. vs Z.A.F.T  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/x1013188589
 SG  - Winning Run Suzuka Grand Prix
 SGR - ?  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/t802818945
 SH  - Splatter House  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/h548583253
