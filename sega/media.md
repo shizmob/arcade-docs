@@ -960,7 +960,7 @@ CDN: DVD (Nu): 610-0894-xxxx = CDN-xxxx.
 ```
 CDN-0001A-1D: 初音ミク Project DIVA Future Tone (No.1): Nu1 : JPN/EXP : SBZV : v1.01.00
         A-2D: ^ (No.2)
-        D-1D: ^ v2.00.00
+        D-1D: ^ v2.00.00 (REVISION 3)
         D-2D: ^ (No.2)
         G-1D: ^ v3.00.00
         G-2D: ^ (No.2)
@@ -1012,7 +1012,7 @@ CDN-0008 -1D: 初音ミク Project DIVA Future Tone (No.1) : Nu1 : JPN/EXP : SBZ
          -2D: ^ (No.2)
          -3D: ^ (No.3)
          -4D: ^ (No.4)
-        A-1D: ^ v7.01.00
+        A-1D: ^ v7.01.00  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/g1013645717
         A-2D: ^ (No.2)
         A-3D: ^ (No.3)
         A-4D: ^ (No.4)
