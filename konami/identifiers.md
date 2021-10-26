@@ -183,18 +183,34 @@ Usually indicated with `PN` or `PWB`. Any kind of specific part, manual or anyth
 
 * Source: stickers on hardware
 * Formats:
-  - A: `$N`
-  - B: `$g$N`
-  - C: `$g $t$d$s $S` (maybe not a serial number?)
-  - D: `$g$t$d$s$N`
+  - A: `$N` (-~1998)
+  - B: `$G$U$U$S$Y` (~1998)
+  - C: `$g$U$S$Y` (~1999-~2001)
+  - D: `$g$U$S$P$Y` (~2001-~2004)
+  - E: `$g $t$d$s $S` (maybe not a serial number?)
+  - F: `$g$t$d$s$S$P$Y` (~2005-)
 * Variables:
-  - `$N`: A six-digit number, e.g. `038902`
-  - `$S`: A four-digit number, e.g. `0104`
+  - `$G`: A two-letter game code, e.g. `BM` (Beatmania)
+  - `$N`: A six-digit number, e.g. `812169`
+  - `$S`: A four-digit number, e.g. `0104`: the set serial number
+  - `$P`: A single-digit number, e.g. `0`: the part number in the set (PCB, dongle, cab # if twin cabs...)
+  - `$U`: A single-digit number, e.g. `3`: purpose unknown
+  - `$Y`: A single-digit number, e.g. `9`: the last digit of the year
 * Examples:
-  - `812169`: number `812169`, found on `533` (Sexy Parodius)
-  - `FDH EUA 0104`: corresponds to [product identifier](#product-identifier) `*EFDH-UA` (DanceDanceRevolution SuperNOVA), number `0104`; found on EXTIO
-  - `FDHKUA012905`: corresponds to [product identifier](#product-identifier) `*KFDH-UA` (DanceDanceRevolution SuperNOVA), number `012905`: found on EXTIO
-  - `MBRQJA038902`: corresponds to [product identifier](#product-identifier) `*QMBR-JA` (REFLEC BEAT), number `038902`
+  - Format A: `812169`: number `812169`, found on `533` (Sexy Parodius)
+  - Format B: `BM5000208`: game `BM` (Beatmania), unknown `5`, unknown `0`, set number `0020`, year `8` (1998)
+  - Format B: `BM6003948`: game `BM` (Beatmania), unknown `6`, unknown `0`, set number `0394`, year `8` (1998)
+  - Format C: `884103689`: corresponds to gamecode `884` (Dancing Stage featuring TRUE KiSS DESTiNATiON), unknown `1`, set number `0368`, year `9` (1999)
+  - Format C: `986312950`: corresponds to gamecode `986` (pop'n music 4), unknown `3`, set number `1295`, year `0` (2000)
+  - Format C: `B00309971`: corresponds to gamecode `B00` (pop'n music 7), unknown `3`, set number `0997`, year `1` (2001)
+  - Format C: `B08403462`: corresponds to gamecode `B08` (Python PCB?), unknown `4`, set number `0346`, year `2` (2002)
+  - Format D: `B303058202`: corresponds to gamecode `B30` (pop'n music 8), unknown `3`, set number `0582`, part number `0`, year `2` (2002)
+  - Format D: `D441015704`: corresponds to gamecode `D44` (Thrill Drive 3), unknown `1`, set number `0157`, part number `0`, year `4` (2004); found on TD3 PCB
+  - Format D: `D441015714`: corresponds to gamecode `D44` (Thrill Drive 3), unknown `1`, set number `0157`, part number `1`, year `4` (2004); found on TD3 black roundplug
+  - Format E: `FDH EUA 0104`: corresponds to [product identifier](#product-identifier) `*EFDH-UA` (DanceDanceRevolution SuperNOVA), number `0104`; found on EXTIO
+  - Format E: `FDH EJA 0378A`: corresponds to [product identifier](#product-identifier) `*EFDH-JA` (DanceDanceRevolution SuperNOVA), number `0378A`; found on card reader
+  - Format F: `FDHKUA012905`: corresponds to [product identifier](#product-identifier) `*KFDH-UA` (DanceDanceRevolution SuperNOVA), set number `0129`, part number `0`, year `5` (2005): found on EXTIO
+  - Format F: `MBRQJA038902`: corresponds to [product identifier](#product-identifier) `*QMBR-JA` (REFLEC BEAT), set number `0389`, part number `0`, year `2` (2012)
 
 ### ROM identifier
 
