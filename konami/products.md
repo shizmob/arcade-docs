@@ -40,24 +40,44 @@ chronologic order, e.g. regarding release dates.
 * `HIT`: シンプリーヨガ60ミニッツ (2007, DVD-ROM)  `#MISC:oyakodon_oniku_list #WEB:https://page.auctions.yahoo.co.jp/jp/auction/e1003399070`
   * `HCHIT-JA`
 * `IAI`: エアロバイク Ai-ex / Aerobike Ai-ex  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/s1001982501`
-  * `HAIAI-JA`: ivory white  `#WEB:https://www.murauchi.com/MCJ-front-web/CoD/0000010571084/`
-  * `HAIAI-JB`: beige  `#WEB:https://www.murauchi.com/MCJ-front-web/CoD/0000010581267/`
+  * `HAIAI-JA`: ivory white  `#WEB:https://www.murauchi.com/MCJ-front-web/CoD/0000010571084/ #WEB:https://www.telshop.co.jp/i/HAIAIJA`
+  * `HAIAI-JB`: beige  `#WEB:https://www.murauchi.com/MCJ-front-web/CoD/0000010581267/ #WEB:https://www.telshop.co.jp/i/HAIAIJB`
 * `IHR`: HEART TRAINER / ハートトレーナ  `#WEB:https://jp.mercari.com/item/m29799801400 #WEB:https://www.murauchi.com/MCJ-front-web/CoD/0000002398091/ #WEB:https://www.murauchi.com/MCJ-front-web/CoD/0000010065169/`
   * `HAIHR-JA`: ivory white
   * `HAIHR-JC`: black/gray
 * `IMD`: かっこいいカラダづくり (2008, DVD-ROM)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/w398253527 #WEB:https://www.murauchi.com/MCJ-front-web/CoD/0000002455501/`
   * `HCIMD-JA`
+* `IPM`: パワーマックスV3プロ / POWERMAX V3 Pro  `#WEB:https://www.telshop.co.jp/i/PMV3Pro`
+  * `HXIPM-JC`
+* `P01`: パワフルギア / Powerful Gear  `#WEB:https://blog.goo.ne.jp/momo_rlc/e/7c25560fab7036892e6a58c5c39e1102`
+  * `HDP01-JE`: white type L
+* `P03`: 産前産後骨盤ベルト for マタニティ＆ママ　パワフルギアF `#WEB:https://paypaymall.yahoo.co.jp/store/y-kojima/item/4573431280298/ #WEB:https://www.become.co.jp/baby/pid/2091605504/`
+  * `HDP03-JB`
 * `Q01`: ヨガマット] / yoga mat (2017)
-  * `HZQ01-JA`  `#WEB:https://www.yodobashi.com/product/100000001003648653/`
+  * `HZQ01-JA`  `#WEB:https://www.yodobashi.com/product/100000001003648653/ #WEB:https://item.rakuten.co.jp/dtc/4573431280595/`
 * `Q11`: タイプエッグ / TYPEeGG  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/n525505612`
   * `HAQ11-JA`
 * `QE1`: エアロバイク S-BODY / Aerobike S-BODY (2014)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/u406484428`
   * `HAQE1-JA`
+* `QF0`: パワフルギア / Powerful Gear [apparel, female]
+  * `HDQF02-JA`: top, black, S, sleeveless  `#WEB:https://paypaymall.yahoo.co.jp/store/konamisportslife/item/108598p/`
+  * `HDQF02-JB`: top, black, M, sleeveless  `#WEB:https://paypaymall.yahoo.co.jp/store/konamisportslife/item/108598p/`
+  * `HDQF04-JA`: panty, black, S  `#WEB:https://paypaymall.yahoo.co.jp/store/konamisportslife/item/108604p/`
+  * `HDQF04-JB`: panty, black, M  `#WEB:https://paypaymall.yahoo.co.jp/store/konamisportslife/item/108604p/`
+* `QM0`: パワフルギア / Powerful Gear [apparel, male]
+  * `HDQM01-JB`: longsleeve, black, L, sleeves  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/t800001816`
+  * `HDQM02-JB`: longsleeve, black, L, sleeveless  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/c899513241`
+  * `HDQM02-JC`: longsleeve, black, LL, sleeveless  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/c897055158`
+  * `HDQM03-JA`: tights, M, black  `#WEB:https://paypaymall.yahoo.co.jp/store/konamisportslife/item/108589p/`
+  * `HDQM03-JB`: tights, L, black  `#WEB:https://paypaymall.yahoo.co.jp/store/konamisportslife/item/108589p/`
+  * `HDQM03-JC`: tights, LL, black  `#WEB:https://paypaymall.yahoo.co.jp/store/konamisportslife/item/108589p/`
+  * `HDQM04-JB`: shorts, L, black  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/m485633961`
 * `R01`
   * `HCR01`: コンディショニングストレッチ 2ndMIX (2015, DVD-ROM)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/d1010134695`
-  * `HZR01-JA`: ボディボール 55cm white/black  `#WEB:https://www.amazon.co.jp/%E3%82%B3%E3%83%8A%E3%83%9F%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%AF%E3%83%A9%E3%83%96-KONAMI-SPORTS-CLUB-%E3%83%9C%E3%83%87%E3%82%A3%E3%83%9C%E3%83%BC%E3%83%AB/dp/B075XJX622`
+  * `HZR01-JA`: ボディボール 55cm white  `#WEB:https://www.amazon.co.jp/%E3%82%B3%E3%83%8A%E3%83%9F%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%AF%E3%83%A9%E3%83%96-KONAMI-SPORTS-CLUB-%E3%83%9C%E3%83%87%E3%82%A3%E3%83%9C%E3%83%BC%E3%83%AB/dp/B075XJX622`
+  * `HZR01-JB`: ボディボール 55cm white  `#WEB:https://nomusilica.web.fc2.com/tulip1466/`
 * `R02`: フィットネスポール / fitness pole (2017)
-  * `HZR01-JA`: black  `#WEB:https://www.yodobashi.com/product/100000001003648654/`
+  * `HZR02-JA`: black  `#WEB:https://www.yodobashi.com/product/100000001003648654/`
   * `HZR02-JB`: white  `#WEB:https://www.yodobashi.com/product/100000001003648655/`
   * `HZR02-JC`: pink  `#WEB:https://www.yodobashi.com/product/100000001003648656/`
   * `HZR02-JD`: lavender  `#WEB:https://www.yodobashi.com/product/100000001003648657/`
@@ -70,6 +90,10 @@ chronologic order, e.g. regarding release dates.
 * `RES`: エアロバイク EXS / Aerobike EXS (2021)  `#WEB:https://www.biccamera.com/bc/item/9003528/ #WEB:https://prtimes.jp/main/html/rd/p/000000003.000056940.html`
   * `HARES-JA`
 * `RK3`: エアロバイク S-BODY / Aerobike S-BODY [bluetooth]  `#WEB:https://product.rakuten.co.jp/product/-/aafacda1b35781674533ce7995259da6/`
+  * `HARK3-JA`  `#WEB:https://www.jancode.xyz/corp/%E3%82%B3/23213721e4205b2bc580132607080bbe/`
+  * `HARK3-JB`: マット付  `#WEB:https://www.jancode.xyz/corp/%E3%82%B3/23213721e4205b2bc580132607080bbe/`
+* `T01`: EXERPOWER [supplements]  `#WEB:https://www.amazon.co.jp/%E3%82%B3%E3%83%8A%E3%83%9F%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%AF%E3%83%A9%E3%83%96-EXERPOWER-%E3%82%A8%E3%82%AF%E3%82%B5%E3%83%91%E3%83%AF%E3%83%BC-%E6%A0%84%E9%A4%8A%E8%A3%9C%E5%8A%A9%E9%A3%9F%E5%93%81-%E3%82%B5%E3%83%97%E3%83%AA%E3%83%A1%E3%83%B3%E3%83%88%E3%83%BB%E3%83%93%E3%82%BF%E3%83%9F%E3%83%B3/dp/B083L581X6`
+  * `HST01-JA`
 
 ### I
 
