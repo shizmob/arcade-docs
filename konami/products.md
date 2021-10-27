@@ -284,7 +284,7 @@ chronologic order, e.g. regarding release dates.
 * `445`: たこの八っあん (1995)  `#MISC:oyakodon_oniku_list`
 * `455`: バッドランズ / Badlands (1994, LD)  `#MAME:konblands #MISC:oyakodon_oniku_list`
   * `GX455`
-* `456`: グラディウス / NEMESIS (1985, BUBBLE-ROM)  `#MISC:oyakodon_oniku_list #MAME:twinbee #WEB:https://page.auctions.yahoo.co.jp/jp/auction/m504308169`
+* `456`: グラディウス / GRADIUS / NEMESIS (1985, BUBBLE-ROM)  `#MISC:oyakodon_oniku_list #MAME:twinbee #WEB:https://page.auctions.yahoo.co.jp/jp/auction/m504308169`
 * `460`: クイズドレミファグランプリ / Quiz Do Re Mi Fa Grand Prix (1994, QUIZ_DO_RE_MI_FA_GRAND_PRIX-ROM)  `#MAME:qdrmfgp #MISC:oyakodon_oniku_list`
   * `GQ460`
 * `461`: ロードファイター / Road Fighter (1986, 6809-ROM)  `#MAME:hyperspt #MISC:oyakodon_oniku_list`
@@ -480,7 +480,7 @@ chronologic order, e.g. regarding release dates.
 * `703`: The World Soccer Championship / Heat Of Eleven '98 (1998, M2-CDROM)  `#MAME:konamim2 #MISC:oyakodon_oniku_list #WEB:https://docs.google.com/spreadsheets/d/196LGamRp2aMasmTIPFMEPe1U779QbZp8vC-pPJ9RvrI/edit#gid=0`
   * `703 JAA`: The World Soccer Championship
   * `703 EAA`: Heat of Eleven '98
-  * `703 EAA A02`: CD-ROM
+  * `703 EA A02`: CD-ROM  `#WEB:https://arcadeforever.forumfree.it/?t=49562632`
 * `705`: ウイニングスパイク / Winning Spike (1997, GX-ROM)  `#MISC:oyakodon_oniku_list #MAME:konamigx`
   * `GX705-JA`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/g345697013`
   * `705 JAA`: ウイニングスパイク
@@ -600,7 +600,7 @@ chronologic order, e.g. regarding release dates.
   * `GQ810-TB`: [Hell Night / Evil Night]
   * `GQ810-SD`: [Hell Night / Evil Night]
   * `GN810-PWB(P)`: gun I/O board  `#DOC:konami:0000091670`
-  * `810 UB A02`: [Evil Night] CD-ROM
+  * `810 UB A02`: [Evil Night] CD-ROM  `#WEB:https://www.worthpoint.com/worthopedia/konami-evil-night-game-board-tested-140462779`
   * `810 EA A02`: [Hell Night] CD-ROM
 * `811`: 実況パワフルプロ野球 EX'98 (1998, SYSTEM573-CDROM)  `#MAME:ksys573 #MISC:oyakodon_oniku_list`
   * `GC811-JAA`
@@ -656,6 +656,8 @@ chronologic order, e.g. regarding release dates.
 * `846`: パイルマジック (1998)  `#MISC:oyakodon_oniku_list`
 * `847`: beatmania 4thMIX ~the beat goes on~ / beatstage 4thMIX ~the beat goes on~ (1999, DJMAIN-ROM+HDD)
   * `GC847-JA`
+* `848`: beatmania 4thMIX ~the beat goes on~ / beatstage 4thMIX ~the beat goes on~ [ミニタオル/miniature cabinet] (1999, DJMAIN-ROM+HDD)  `#MEDIA:konami/GQ848-sticker.jpg`
+  * `GQ848`
 * `849`: プリプリキャンバス プリキャンワールド (1999)  `#MISC:oyakodon_oniku_list`
 * `850`: プリプリキャンバス ステキバージョン (1997)  `#MISC:oyakodon_oniku_list`
 * `851`: プリプリキャンバス ラブラブパラダイス (1998)  `#MISC:oyakodon_oniku_list`
@@ -1262,6 +1264,7 @@ chronologic order, e.g. regarding release dates.
 * `CCB`: Quiz Magic Academy (2003, PC(EPIA-5000)I/O(USB1)+HDD)  `#MISC:oyakodon_oniku_list #WEB:https://page.auctions.yahoo.co.jp/jp/auction/t804952208 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/1010872138`
   * `GQCCB-JA`: center monitor cabinet (4-player version)
   * `GQCCB-JB`: center monitor cabinet (2-player version)
+* `CCC`: Silent Scope Fortune Hunter (2002)  `#MAME:viper`
 * `CLX`: バトルクライマックス (2004)  `#MISC:oyakodon_oniku_list`
 * `CT3`: K2V/Advantage [casino]
   * `GGCT3 PWB(A2) 0000306668`: IFB [backplane board]  `#WEB:https://newlifegames.com/nlg/index.php?topic=23028.0 #WEB:https://www.ebay.com/itm/254862055621`
@@ -1435,7 +1438,8 @@ chronologic order, e.g. regarding release dates.
   * `GKFDH-EA`: Europe  `#WEB:https://twitter.com/TheDeepStriker1/status/1426662011442708493`
   * `GKFDH-UA`: US  `#WEB:https://www.worthpoint.com/worthopedia/dance-dance-revolution-supernova-3843354880`
   * `GEFDH-UA`: US  `#WEB:https://www.worthpoint.com/worthopedia/dance-dance-revolution-supernova-1922614824 #WEB:https://www.ebay.com/itm/284469048620`
-  * `FDH UA A02`: Python 2 unit (HDD?)  `#WEB:https://www.worthpoint.com/worthopedia/dance-dance-revolution-supernova-3843354880 #WEB:https://cdn.discordapp.com/attachments/448313610976886785/896851047656587374/IMG_20211010_155238.jpg`
+  * `FDH UA A02`: Python 2 unit  `#WEB:https://www.worthpoint.com/worthopedia/dance-dance-revolution-supernova-3843354880 #WEB:https://cdn.discordapp.com/attachments/448313610976886785/896851047656587374/IMG_20211010_155238.jpg`
+  * `FDH JA B02`: Python 2 unit  `#CLAIM:shiz`
 * `FK3`: Podium KP3 [casino] (2007) `#WEB:https://newlifegames.com/nlg/index.php?topic=23028.0 #WEB:http://www.spininc.com/konami-mother-board-backplane-podium-kp3-530307-ssid`
   * `GGFK3 PWB(A2) 112488370000 `: K3-IFB [interface board]  `#DOC:konami:810054`
   * `GGFK3 PWB(A3) 112488370000 `: K3-IFB [interface board]  `#WEB:https://www.ebay.com/itm/154613698890`
@@ -1489,6 +1493,8 @@ chronologic order, e.g. regarding release dates.
 * `G51`: Twinkle Drop (2007)  `#MISC:oyakodon_oniku_list`
   * `GSG51 PWB(A1)111492900000`: PCSUB [PCI I/O expansion card]  `#WEB:https://www.ebay.com/itm/283530238417`
 * `G52`: パニックパイレーツ (2007)  `#MISC:oyakodon_oniku_list`
+* `G56`: EUROQUEEN (2007)  `#WEB:http://blog.livedoor.jp/medage/archives/48419312.html`
+  * `GS56`
 * `G78`: ワンダーマーチ (2008)  `#MISC:oyakodon_oniku_list`
 * `GBG`: ボンバーガール  `#MISC:oyakodon_oniku_list`
 * `GDJ`: DanceDanceRevolution SuperNOVA2 (2007, PYTHON2-HDD)  `#MISC:oyakodon_oniku_list`
@@ -1730,7 +1736,7 @@ chronologic order, e.g. regarding release dates.
 * `K56`: GI-HORSEPARK JUDGMENT STD (2011, PC(MEDAL))  `#MISC:oyakodon_oniku_list #WEB:https://manualzz.com/doc/4854194/gi-horsepark-judgment-std`
   * `*EK56-J*`: K56 `<PDP>`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/v1004013462`
 * `K70`: アニマロッタ / AnimaLotta (2011, PC(C1))  `#MISC:oyakodon_oniku_list #WEB:https://manualzz.com/doc/4838508/%E3%82%A2%E3%83%8B%E3%83%9E%E3%83%AD%E3%83%83%E3%82%BF---konami #WEB:https://page.auctions.yahoo.co.jp/jp/auction/w1013674160`
-  * `GSK70-JA`: cabinet  `#WEB:https://a12.kpers.net/item/m77462575452/`
+  * `GSK70-JA`: cabinet  `#WEB:https://a12.kpers.net/item/m77462575452/ #WEB:https://twitter.com/tsubasa102524/status/1144947506599432197`
   * `K70 MAIN *01 SA1`: satellite
 * `KA9`: PASELI カード
   * `GUKA9-JA`: 50 pack
@@ -1875,9 +1881,11 @@ chronologic order, e.g. regarding release dates.
   * [`GULDJ-JH`: PENDUAL version up kit](product/GULDJ-JH.md)  `#WEB:https://blog.flipflop-jp.com/archives/3391/post-3391/`
   * `GULDJ-JI`: PENDUAL LCD monitor  `#WEB:http://kururusky.com/?p=1458`
   * [`GULDJ-JJ`: copula LCD monitor](product/GULDJ-JJ.md)  `#WEB:http://kururusky.com/?p=1458 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/h548227658`
+  * `GULDJ-JL`: SINOBUZ version up kit
   * [`GULDJ-JN`: CANNON BALLERS conversion kit VGA to HDMI converter](product/GULDJ-JN.md)  `#DOC:konami:116818010000`
   * `GULDJ-*R`: Rootage art kit
   * `GULDJ-JS`: Rootage art + turntable bypass kit
+  * `GULDJ-JT`: BISTROVER art kit
   * `GULDJ-JU`: BISTROVER art kit  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/c1002061406`
   * `GCLDJ-JU`: Rootage offline kit  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/v800432270 #WEB:https://twitter.com/wgc_tencho/status/1289414866487271424`
   * `LDJ JA *01`: tricoro PCB  `#WEB:https://jp.mercari.com/item/m22922395623`
@@ -2442,12 +2450,18 @@ chronologic order, e.g. regarding release dates.
 
 * `001`: beatmania IIDX専用コントローラー プレミアムモデル  `#WEB:https://www.mercari.com/jp/items/m29550702201/`
   * `BF001`
+* `002`: SOUND VOLTEX CONSOLE -NEMSYS- Ultimate Model  `#WEB:https://netmall.hardoff.co.jp/product/2271281/`
+  * `BF002`
 * `003`: beatmania IIDX専用コントローラー プレミアムモデル  `#WEB:https://www.mercari.com/jp/items/m21795555067/`
   * `BF003`
 * `004`: beatmania IIDX専用コントローラー エントリーモデル  `#WEB:https://www.mercari.com/jp/items/m31246139087/`
   * `BF004`
 * `009`: SOUND VOLTEX CONSOLE -NEMSYS- Entry Model  `#WEB:https://www.mercari.com/jp/items/m27125349745/`
   * `BF009`
+* `010`: DanceDanceRevolution 専用コントローラ  `#WEB:https://www.konamistyle.jp/products/detail.php?product_id=110013`
+  * `BF010`
+* `011`: beatmania IIDX 専用コントローラ プロフェッショナルモデル  `#WEB:https://www.konamistyle.jp/products/detail.php?product_id=109617`
+  * `BF011`
 * `012`: GITADORA専用コントローラー プレミアムモデル  `#WEB:https://www.mercari.com/jp/items/m95640520801/ #WEB:https://www.mercari.com/jp/items/m48892438964/`
   * `BF012`
 * `013`: pop'n music専用コントローラ プレミアムモデル  `#WEB:https://www.mercari.com/jp/items/m78626804850/ #WEB:https://www.mercari.com/jp/items/m96854002599/`

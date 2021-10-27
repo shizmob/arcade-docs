@@ -190,7 +190,7 @@ Usually indicated with `PN` or `PWB`. Any kind of specific part, manual or anyth
   - E: `$g $t$d$s $S` (maybe not a serial number?)
   - F: `$g$t$d$s$S$P$Y` (~2005-)
 * Variables:
-  - `$G`: A two-letter game code, e.g. `BM` (Beatmania)
+  - `$G`: A one or two-letter game code, e.g. `D` (DanceDanceRevolution) or `BM` (Beatmania)
   - `$N`: A six-digit number, e.g. `812169`
   - `$S`: A four-digit number, e.g. `0104`: the set serial number
   - `$P`: A single-digit number, e.g. `0`: the part number in the set (PCB, dongle, cab # if twin cabs...)
