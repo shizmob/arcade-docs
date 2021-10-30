@@ -1876,7 +1876,8 @@ chronologic order, e.g. regarding release dates.
   * `GULDJ-JB`: monitor  `#WEB:https://kohada.5ch.net/test/read.cgi/gecen/1283629289/894`
   * [`GULDJ-JC`: tricoro LCD monitor](product/GULDJ-JC.md)  `#WEB:http://kururusky.com/?p=1458`
   * `GULDJ-JE`: tricoro LCD monitor  `#WEB:http://aucview.aucfan.com/yahoo/c743060247 #WEB:https://kohada.5ch.net/test/read.cgi/gecen/1283629289/894 #WEB:https://aucview.aucfan.com/yahoo/478821729/`
-  * [`GULDJ-JF`: SPADA version up kit](product/GULDJ-JF.md)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/m1011194514`
+  * `GULDJ-AF`: SPADA version up kit (Asia)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/m1011194514`
+  * [`GULDJ-JF`: SPADA version up kit (Japan)](product/GULDJ-JF.md)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/m1011194514`
   * `GULDJ-JG`: SPADA LCD monitor  `#WEB:http://kururusky.com/?p=1458`
   * [`GULDJ-JH`: PENDUAL version up kit](product/GULDJ-JH.md)  `#WEB:https://blog.flipflop-jp.com/archives/3391/post-3391/`
   * `GULDJ-JI`: PENDUAL LCD monitor  `#WEB:http://kururusky.com/?p=1458`
