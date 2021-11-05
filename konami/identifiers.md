@@ -25,6 +25,11 @@ The following variables are used across the different identifiers and can denote
   * `C`: Consumer hardware, cards
   * `G`: Arcade games
   * `H`: Hardware? e.g. card dispenser
+  * `I`: Consumer hardware?
+  * `J`: Consumer hardware?
+  * `K`: Media (Konami Media Entertainment, Inc.)
+  * `L`: Media (Konami Media Entertainment, Inc.)
+  * `P`: Media
   * `M`: Consumer games
   * `R`: Consumer games
   * `V`: Consumer games
@@ -33,8 +38,13 @@ The following variables are used across the different identifiers and can denote
   * Category `B`:
     * `H`: LCD game
   * Category `C`:
+    * `C`: Figurines (card?)
     * `F`: Fanclub cards
+    * `G`: Card sets (Yu-Gi-Oh! etc.)
+    * `K`: Prizes
     * `M`: こなみるく (KonaMilk) cards
+    * `P`: Tokimeki goods
+    * `R`: Figurines (joints)
     * `T`: BEMANI POCKET
   * Category `G`:
     * `C`: Conversion kit: Software/rom/art/dongle only
@@ -47,6 +57,7 @@ The following variables are used across the different identifiers and can denote
     * `O`: Cabinet?
     * `P`: Cabinet?
     * `Q`: Cabinet
+    * `R`: Figurines
     * `S`: Medal cabinet (station?)
     * `U`: Conversion kit: Upgrade or utility: Hardware/art only
     * `V`: Cabinet (System GV)
@@ -58,9 +69,22 @@ The following variables are used across the different identifiers and can denote
     * `B`: TV game
     * `C`: CD-rom?
     * `O`: hardware?
+    * `X`: hardware?
+    * `Z`: hardware?
+  * Category `I`:
+    * `K`: PC peripherals?
+    * `P`: PC hardware?
+  * Category `J`:
+    * `E`: Controllers, cables?  `#WEB:https://jp.mercari.com/item/m68294267693 #WEB:https://msx.org/wiki/Konami_JE-700`
+  * Category `K`:
+    * `D`: Video DVD
+  * Category `L`:
+    * `C`: Audio CD
   * Category `M`:
     * `E`: Windows 95 (floppy, cdrom)
     * `F`: Mac
+  * Category `P`:
+    * `G`: Laserdisc?  `#WEB:https://www.generation-msx.nl/software/konami/badlands/release/270/`
   * Category `R`:
     * `A`: MSX, PC-98, X68000 (Floppy)
     * `C`: MSX (Cartridge), Famicom
@@ -69,6 +93,7 @@ The following variables are used across the different identifiers and can denote
     * `G`: SNES (North America)
     * `H`: SNES (Europe)
     * `I`: Wii (Japan)
+    * `J`: Famicom Disk System (Japan)  `#WEB:https://jp.mercari.com/item/m57604197201`
     * `K`: GB, GBC, GBA (Japan)
     * `L`: Switch (Japan)
     * `Q`: Gamecube (Japan)
@@ -76,6 +101,7 @@ The following variables are used across the different identifiers and can denote
     * `S`: Super Famicom
     * `U`: Controllers
     * `V`: Famicom
+    * `W`: Wonderswan (Japan)
     * `Y`: DS (Japan)
     * `Z`: Nintendo 64 (Japan)
   * Category `V`:
@@ -157,18 +183,34 @@ Usually indicated with `PN` or `PWB`. Any kind of specific part, manual or anyth
 
 * Source: stickers on hardware
 * Formats:
-  - A: `$N`
-  - B: `$g$N`
-  - C: `$g $t$d$s $S` (maybe not a serial number?)
-  - D: `$g$t$d$s$N`
+  - A: `$N` (-~1998)
+  - B: `$G$U$U$S$Y` (~1998)
+  - C: `$g$U$S$Y` (~1999-~2001)
+  - D: `$g$U$S$P$Y` (~2001-~2004)
+  - E: `$g $t$d$s $S` (maybe not a serial number?)
+  - F: `$g$t$d$s$S$P$Y` (~2005-)
 * Variables:
-  - `$N`: A six-digit number, e.g. `038902`
-  - `$S`: A four-digit number, e.g. `0104`
+  - `$G`: A one or two-letter game code, e.g. `D` (DanceDanceRevolution) or `BM` (Beatmania)
+  - `$N`: A six-digit number, e.g. `812169`
+  - `$S`: A four-digit number, e.g. `0104`: the set serial number
+  - `$P`: A single-digit number, e.g. `0`: the part number in the set (PCB, dongle, cab # if twin cabs...)
+  - `$U`: A single-digit number, e.g. `3`: purpose unknown
+  - `$Y`: A single-digit number, e.g. `9`: the last digit of the year
 * Examples:
-  - `812169`: number `812169`, found on `533` (Sexy Parodius)
-  - `FDH EUA 0104`: corresponds to [product identifier](#product-identifier) `*EFDH-UA` (DanceDanceRevolution SuperNOVA), number `0104`; found on EXTIO
-  - `FDHKUA012905`: corresponds to [product identifier](#product-identifier) `*KFDH-UA` (DanceDanceRevolution SuperNOVA), number `012905`: found on EXTIO
-  - `MBRQJA038902`: corresponds to [product identifier](#product-identifier) `*QMBR-JA` (REFLEC BEAT), number `038902`
+  - Format A: `812169`: number `812169`, found on `533` (Sexy Parodius)
+  - Format B: `BM5000208`: game `BM` (Beatmania), unknown `5`, unknown `0`, set number `0020`, year `8` (1998)
+  - Format B: `BM6003948`: game `BM` (Beatmania), unknown `6`, unknown `0`, set number `0394`, year `8` (1998)
+  - Format C: `884103689`: corresponds to gamecode `884` (Dancing Stage featuring TRUE KiSS DESTiNATiON), unknown `1`, set number `0368`, year `9` (1999)
+  - Format C: `986312950`: corresponds to gamecode `986` (pop'n music 4), unknown `3`, set number `1295`, year `0` (2000)
+  - Format C: `B00309971`: corresponds to gamecode `B00` (pop'n music 7), unknown `3`, set number `0997`, year `1` (2001)
+  - Format C: `B08403462`: corresponds to gamecode `B08` (Python PCB?), unknown `4`, set number `0346`, year `2` (2002)
+  - Format D: `B303058202`: corresponds to gamecode `B30` (pop'n music 8), unknown `3`, set number `0582`, part number `0`, year `2` (2002)
+  - Format D: `D441015704`: corresponds to gamecode `D44` (Thrill Drive 3), unknown `1`, set number `0157`, part number `0`, year `4` (2004); found on TD3 PCB
+  - Format D: `D441015714`: corresponds to gamecode `D44` (Thrill Drive 3), unknown `1`, set number `0157`, part number `1`, year `4` (2004); found on TD3 black roundplug
+  - Format E: `FDH EUA 0104`: corresponds to [product identifier](#product-identifier) `*EFDH-UA` (DanceDanceRevolution SuperNOVA), number `0104`; found on EXTIO
+  - Format E: `FDH EJA 0378A`: corresponds to [product identifier](#product-identifier) `*EFDH-JA` (DanceDanceRevolution SuperNOVA), number `0378A`; found on card reader
+  - Format F: `FDHKUA012905`: corresponds to [product identifier](#product-identifier) `*KFDH-UA` (DanceDanceRevolution SuperNOVA), set number `0129`, part number `0`, year `5` (2005): found on EXTIO
+  - Format F: `MBRQJA038902`: corresponds to [product identifier](#product-identifier) `*QMBR-JA` (REFLEC BEAT), set number `0389`, part number `0`, year `2` (2012)
 
 ### ROM identifier
 

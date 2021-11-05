@@ -1,42 +1,82 @@
+## Bubble System
+
+`#MAME:nemesis`
+
+* Release: 1985
+* Base: none
+
 ## System GX
 
 `#MAME:konamigx`
 
-## Bubble System
+* Release: 1994
+* Base: none
 
-## DJ-MAIN
+## Tasman
 
-`#MAME:djmain`
+`#MAME:tasman`
 
-Based on the [System GX](#system-gx).
+* Release: 199?
+* Base: [System GX](#system-gx) (loosely)
 
-## M2
+## GQ System
 
-`#MAME:konamim2`
+`#MAME:konamigq`
 
-Based on the 3DO.
+* Release: 1995
+* Base: Sony Playstation 1
 
 ## GV System
 
 `#MAME:konamigv`
 
-Sony Playstation 1-based board. Consists of either of the following boards:
+* Release: 1996
+* Base: Sony Playstation 1
+
+Consists of either of the following boards:
 * `ZV610 PWB301331`
 * `GV999 PWB301949A`: has expansion connector and some newer IC revisions
 
 According to BIOS ROM, runs "Konami OS by T.H.".
 
-**MBD:** Sony Playstation 1 (custom)  
+## DJ-MAIN
+
+`#MAME:djmain`
+
+* Release: 1997
+* Base: [System GX](#system-gx) (loosely)
+
+## M2
+
+`#MAME:konamim2`
+
+* Release: 1997
+* Base: 3DO
+
+Based on the 3DO.
 
 ## NWK-TR
 
 `#MAME:nwk-tr`
 
+* Release: 1998
+* Base: none
+
+## Hornet
+
+`#MAME:hornet`
+
+* Release: 1998
+* Base: [NWK-TR](#nwk-tr)
+
 ## System 573
 
 `#MAME:ksys573`
 
-Sony Playstation 1-based board. Consist of at least MAIN and either the ANALOG or DIGITAL board:
+* Release: 1998
+* Base: Sony Playstation 1
+
+Consist of at least MAIN and either the ANALOG or DIGITAL board:
 * GX700-PWB(A)B: main
 * GX700-PWB(D):  security cartridge board
 
@@ -59,17 +99,14 @@ Has twice as much RAM (4MB) as a retail PS1. According to BIOS ROM, runs "Konami
 **MBD:** Sony Playstation 1 (custom)  
 **IO:** [MAIN] IDE, 10pin (analog), 12pin (ext-out), 10pin (ext-in), VGA, 4pin (stereo out), 80pin (aux), 4pin (CD-DA input), parallel 44-pin (security), 4pin (CD power), 2pin (fan), 6pin (power), 30pin, USB (IO), RCA  
 
-## Hornet
-
-Seemingly based on the [NWK-TR](#nwk-tr).
-
 ## Twinkle
 
-References:
-* http://callusnext.com/twinkle.txt
-* https://github.com/mamedev/mame/blob/master/src/mame/drivers/twinkle.cpp
+`#WEB:http://callusnext.com/twinkle.txt #MAME:twinkle`
 
-Sony Playstation 1-based board. Consists of three boards:
+* Release: 1999
+* Base: Sony Playstation 1
+
+Consists of three boards:
 * GQ751-PWB(A2): TWINKLE/MAIN
 * GQ860-PWB(A1): TWINKLE/SUB2 (VIDEO)
 * GQ863-PWB(A2): TWINKLE/SPU  (SOUND, HDD)
@@ -89,25 +126,49 @@ Has twice as much RAM (4MB) as a retail PS1. According to BIOS ROM, runs "Konami
 A DVD player is used to play back mpeg encoded Video CDs and DVDs. The decoded video is forwarded
 via composite input to the main unit and blit into the UI by software.
 
+## Viper
+
+`#MAME:viper`
+
+* Release: 1999
+* Base: none
+
 ## Firebeat
 
-## Viper
+`#MAME:firebeat`
+
+* Release: 2000
+* Base: none
 
 ## MET
 
 `#MAME:konamigs`
 
+* Release: 2000
+* Base: none
+
 Custom Hitachi SH3-based boards, used for DDR Kids and medal games.
 
 ## Python
 
-Sony Playstation 2-based board. Based on a development system. Similar to Namco's System 246 and System 256.
+`#MAME:kpython`
+
+* Release: 2001
+* Base: Sony Playstation 2
+
+Similar to Namco's System 246 and System 256.
 
 ## Python 2
 
-Sony Playstation 2-based board. Unlike the first Python, based on a retail board using Sony's DNAS protection system.
+* Release: 2004?
+* Base: Sony Playstation 2
+
+Unlike the first Python, based on a retail board using Sony's DNAS protection system.
 
 ## `KNM-*`
+
+* Release: ?
+* Base: PC
 
 IBM embedded boards (日本アイ・ビー・エム株式会社)
 
@@ -151,7 +212,8 @@ Seemingly identical to the [KNM-845G3-A02](#knm-845g3-a02), unsure for which bel
 
 ## `FAB-*`
 
-Sord embedded boards: https://www.sord.co.jp/company/corporate/history.html
+* Release: ?
+* Base: PC ([Sord embedded boards](https://www.sord.co.jp/company/corporate/history.html))
 
 ### FAB-e865-KN003
 
@@ -266,7 +328,8 @@ Also known as: "BemaniPC Type 2" (unofficially).
 
 ## `IT*`
 
-AOpen embedded boards.
+* Release: ?
+* Base: PC (AOpen embedded boards)
 
 ### 855
 
@@ -296,7 +359,8 @@ Also known as: "JDX-945-02" / "KBR-945-01" / "KFC-945-01" / "BemaniPC Type 4" (u
 
 ## `ADE-*`
 
-Ennocom embedded boards: https://www.ennoconn.com/producttype_en-us_0_21_1.html
+* Release: ?
+* Base: PC ([Ennocom embedded boards](https://www.ennoconn.com/producttype_en-us_0_21_1.html))
   
 ### HM65
 
@@ -314,9 +378,7 @@ Also known as: "ITHM65", "ITHM65_E4690".  `#DOC:KONAMI:116245360000`
 **IO:** \[M32/M33/MDX\] [P4IO](io.md#p4io)  
 **Games:** KFC, L44, [LDJ](software/LDJ.md), M32, M33, M39, MBR, MDX, NBF, NBT, PAN  
 
-### ADE-704B
-
-(name tentative)
+### 76
 
 **MBD:** ADE-704B  
 **CPU:** Intel Celeron 1020E  
@@ -325,7 +387,7 @@ Also known as: "ITHM65", "ITHM65_E4690".  `#DOC:KONAMI:116245360000`
 **HDD:** WDC WD3200LPCX (320GB)  
 **IO:** \[KFC/PAN\] [KFCA](io.md#kfca)   
 **Games:** KFC, NCG, PAN  
-**Ref:** https://twitter.com/ham56p/status/1115528175142850561  
+**Ref:** https://twitter.com/ham56p/status/1115528175142850561, https://page.auctions.yahoo.co.jp/jp/auction/o1010920842
  
 ### ADE-6291
 
@@ -345,6 +407,9 @@ Also known as: "ADE".
 
 ### R10
 
+* Release: ?
+* Base: PC (iEi embedded boards)
+
 **MBD:** iEi KINO-KBN-i2-4201-R10-KNM VER 1.0  
 **APU:** AMD GX-420CA (GE420CIAJ44HM)  
 **RAM:** 1x Buffalo D3N1600-LS4GHAJ (SODIMM DDR3, 4GB, PC3L-12800S)  
@@ -355,6 +420,9 @@ Also known as: "ADE".
 ### X10SLQ
 
 (name tentative)
+
+* Release: ?
+* Base: PC (Supermicro server boards)
 
 **MBD:** Supermicro X10SLQ  
 **STH:** Intel Q87  
@@ -367,7 +435,8 @@ Also known as: "ADE".
 
 ## ARESPEAR
 
-Konami's own gaming PCs.
+* Release: ?
+* Base: PC (Konami boards)
 
 ### C300
 

@@ -594,7 +594,7 @@ DVP-0012 :
 DVP-0013 :
 DVP-0014 :
 DVP-0015A: OutRun 2 SP SDX : 253-5508-0452 : Ver.1.003
-DVP-0016C: Sega Network Casino Club : SBRV : 253-5508-0572/253-5508-0573
+DVP-0016C: Sega Network Casino Club : SBRV : 253-5508-0572/253-5508-0573  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/x1012015352
 DVP-0017 :
 DVP-0018 : After Burner Climax SDX : SBMN : 253-5508-0463
         A: ^
@@ -616,7 +616,7 @@ DVP-0024E: StarHorse2: Second Fusion : Star Horse : SBKM
 DVP-0025 : ネットワーク対戦クイズ Answer x Answer : Red Terminal : SBMS : 253-5508-0618J
 DVP-0026 : Router Update [For VTF] : SBLM  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/m1008826148
 DVP-0027A: 2SPICY : Red : SBMF : 253-5508-0491
-DVP-0028 : toアミー漁 : SBLP : 253-5508-0476J
+DVP-0028 : toアミー漁 : SBLP : 253-5508-0476J  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/e1012042093
 DVP-0029 : GHOST SQUAD EVOLUTION : Red : 253-5508-0485
 DVP-0030 : INITIAL D 4 : SBNK : EXP : 253-5508-0486E
         D: ^
@@ -947,7 +947,7 @@ DVR-????  : Target Bravo: Operation Ghost : RingWide : EXP
 DVR-????  : ??? : SBTR
     ????  : ??? : RingEdge : JPN : SDDA
     ????  : そうぞうキッズ レッツゴーサファリ : RingWide : JPN
-    ????  : ホルカ×トルカ : RingEdge : JPN
+    ????  : ホルカ×トルカ : RingEdge : JPN : SBYS   #WEB:https://page.auctions.yahoo.co.jp/jp/auction/g1011519500
     ????  : 戦国大戦 -1560 尾張の風雲児- : RingEdge : JPN
     ????  : すすめ！スゴロケッツ : RingEdge : JPN
     ????  : ぷよぷよ!!クエスト アーケード : RingEdge : JPN
@@ -960,7 +960,7 @@ CDN: DVD (Nu): 610-0894-xxxx = CDN-xxxx.
 ```
 CDN-0001A-1D: 初音ミク Project DIVA Future Tone (No.1): Nu1 : JPN/EXP : SBZV : v1.01.00
         A-2D: ^ (No.2)
-        D-1D: ^ v2.00.00
+        D-1D: ^ v2.00.00 (REVISION 3)
         D-2D: ^ (No.2)
         G-1D: ^ v3.00.00
         G-2D: ^ (No.2)
@@ -1012,7 +1012,7 @@ CDN-0008 -1D: 初音ミク Project DIVA Future Tone (No.1) : Nu1 : JPN/EXP : SBZ
          -2D: ^ (No.2)
          -3D: ^ (No.3)
          -4D: ^ (No.4)
-        A-1D: ^ v7.01.00
+        A-1D: ^ v7.01.00  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/g1013645717
         A-2D: ^ (No.2)
         A-3D: ^ (No.3)
         A-4D: ^ (No.4)
