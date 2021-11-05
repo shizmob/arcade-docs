@@ -109,7 +109,7 @@ Missing: 401
 |  502A | i7-4970S | 8GB(DDR3-1600) x2  | GTX1080-8GB | HOSHI NO TSUBA / DENSHA DE GO                           |
 |  504A | i5-4590S | 4GB(DDR3L-1600) x2 | RTX2070-8GB | DENSHADE GO!! COMPACT-(10PLAN)                          |
 |  601A | Pentium G4400 | 8GB(DDR4-2133) x2 | Intel HD Graphics | Groove Coaster 4C EXP (aka. RhythmVader CHN 2 / 音炫轨道2)
-
+#WEB:https://pbs.twimg.com/media/FDZJzGtaMAAgfdF.jpg:large
 Missing: 501, 503
 
 
