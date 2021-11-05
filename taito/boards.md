@@ -110,5 +110,14 @@ Missing: 401
 |  500A | i5-4590S | 4GB(DDR3-1600) x2  | GTX960-2GB  | STREET FIGHTER V TYPE ARCADE / LOVELIVE! AC CENTER M9009121A / LOVELIVE! AC SATELLITE PPLAN M9009129A / LOVELIVE! AC NS CENTER / LOVELIVE! AC NS SATELLITE P PLAN / LOVELIVE! AC NS SATELLITE SPLAN / MGICIANS DEAD            |
 |  502A | i7-4970S | 8GB(DDR3-1600) x2  | GTX1080-8GB | HOSHI NO TSUBA / DENSHA DE GO                           |
 |  504A | i5-4590S | 4GB(DDR3L-1600) x2 | RTX2070-8GB | DENSHADE GO!! COMPACT-(10PLAN)                          |
+|  601A | Pentium G4400 | 8GB(DDR4-2133) x2 | Intel HD Graphics | Groove Coaster 4C EXP (aka. RhythmVader CHN 2 / 音炫轨道2)`#WEB:https://twitter.com/jq9837/status/1456432713703981060`|
 
 Missing: 501, 503
+
+
+## Sony PlayStation 4 based
+A retail Sony PlayStation 4 running in IDU (kiosk) mode.
+
+|    ID | CPU      | RAM                | GPU         | Notes                                                   |
+|-------|----------|--------------------|-------------|---------------------------------------------------------|
+|  ???    | (PS4)                 | (PS4)    | (PS4)        | DISSIDIA: Final Fantasy Arcade M9009055A (25PLAN) |
