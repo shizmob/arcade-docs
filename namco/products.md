@@ -30,6 +30,7 @@
 ACS - Air Combat 22
 AC  - Ace Combat
 AD  - Ace Driving: Racing Evolution
+ADT - Ace Driver 3: Final Turn
 ADV - Ace Driving: Victory Lap
 AG  - Angler King
 AJ  - Aqua Jet
