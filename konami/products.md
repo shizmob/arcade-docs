@@ -2059,7 +2059,7 @@ chronologic order, e.g. regarding release dates.
 * `Q70`: アニマロッタ おとぎの国のアニマ / ANIMAROTTA 5 (?, PC(C1))  `#SCRAPE:konami:eagate #WEB:https://jp.mercari.com/item/m67875845936`
   * `Q70 MAIN *01 SA1`: satellite PCB
 * `QBG`: ボンバーガール / BOMBERGIRL, ボンバーガール / BOMBERGIRL [e-AMUSEMENT CLOUD/home version]
-* `QCV`: SOUND VOLTEX III(コナステ) / SOUND VOLTEX III (e-AMUSEMENT CLOUD) [e-AMUSEMENT CLOUD/home version]
+* `QCV`: SOUND VOLTEX III(コナステ) / SOUND VOLTEX III (e-AMUSEMENT CLOUD) / SOUND VOLTEX EXCEED GEAR (コナステ) / SOUND VOLTEX EXCEED GEAR (e-AMUSEMENT CLOUD) [e-AMUSEMENT CLOUD/home version] 
 * `QPP`: Printer paper and ink
   * `GUQPP-AB`: For SDVX generator (?)
   * `GULMM-JA`: Oreca Battle (compatible with SDVX)
