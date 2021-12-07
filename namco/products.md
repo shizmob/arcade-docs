@@ -419,6 +419,7 @@ V363 - Wangan Midnight Maximum Tune 3DX
 V371 - 
 V376 - 
 V386 - Wangan Midnight Maximum Tune 3DX+
+V387 - Pac-Man Battle Royale
 V388 - Wangan Midnight Maximum Tune 4
 V389 - Dead Heat
 V402 - 
