@@ -30,6 +30,7 @@
 ACS - Air Combat 22
 AC  - Ace Combat
 AD  - Ace Driving: Racing Evolution
+ADT - Ace Driver 3: Final Turn #WEB:https://web.archive.org/web/20210310151238/https://www.ebay.com/itm/Namco-System-256-with-Ace-Driver-3-Final-Turn-Arcade-Game-Tested-Working-256-17-/393010271571
 ADV - Ace Driving: Victory Lap
 AG  - Angler King
 AJ  - Aqua Jet

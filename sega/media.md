@@ -1314,7 +1314,7 @@ MDA-U0020 :
 MDA-U0021 :
 MDA-U0023 :
 MDA-U0023 :
-MDA-U0024 : MELTY BLOOD AACC              : RingWide
+MDA-U0024 : MELTY BLOOD AACC              : RingWide : SBUB
 MDA-U0025 :
 MDA-U0026 :
 MDA-U0027 :
@@ -1324,7 +1324,7 @@ MDA-U0030 :
 MDA-U0031 :
 MDA-U0032 :
 MDA-U0033A?: REVOLUTION 3                 : RingWide
-MDA-U0034 : CHAOS CODE                    : RingWide
+MDA-U0034 : CHAOS CODE                    : RingWide : SBWF
 MDA-U0035 :
 MDA-U0036 : MULTI UPDATE                  : RingEdge2
 MDA-U0037 :
@@ -1378,7 +1378,7 @@ MDA-U0082 :
 MDA-U0083 : maimai DX                     : ALLS HX2 : JPN : SDEZ
         G: ^ PLUS VER 1.090
 MDA-U0084 :
-MDA-U0085 : maimai DX                     : ALLS HX2 : EXP
+MDA-U0085 : maimai DX                     : ALLS HX2 : EXP : SDGA
 MDA-U0086 :
 MDA-U0087 :
 MDA-U0088 :
@@ -1390,6 +1390,8 @@ MDA-U0093 :
 MDA-U0094 :
 MDA-U0095 :
 MDA-U0096 :
-MDA-U0097 : Chunithm SUPERSTAR            : ALLS HX2 OP : EXP
+MDA-U0097 : Chunithm SUPERSTAR            : ALLS HX2 OP : EXP : SDGS
 MDA-U0098 : バベルのメダルタワーW             : ALLS X? : JPN
+????      : maimai DX 2021                 : ALLS HX2 : CHN : SDGB
+????      : Wacca Ver.2                    : ALLS HX  : CHN : SDHN
 ```
