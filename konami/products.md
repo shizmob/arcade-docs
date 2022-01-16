@@ -1867,6 +1867,7 @@ chronologic order, e.g. regarding release dates.
   * beatmania IIDX 26 Rootage (2018, PC(ADE)IO(BIO2)-SSD)
   * beatmania IIDX 27 HEROIC VERSE (2019, PC(ADE)IO(BIO2)-SSD)
   * beatmania IIDX 28 BISTROVER (2020, PC(ADE)IO(BIO2)-SSD)
+  * beatmania IIDX 29 CastHour (2021, PC(ADE)IO(BIO2)-SSD)
   * [`GQLDJ-JA`: tricoro dedicated cabinet](product/GQLDJ-JA.md)
   * [`GQLDJ-JB`: PENDUAL cabinet](product/GQLDJ-JB.md)
   * [`GQLDJ-JC`: COPULA cabinet](product/GQLDJ-JC.md)  `#WEB:https://aucview.aucfan.com/yahoo/k541777425`
@@ -2114,6 +2115,7 @@ chronologic order, e.g. regarding release dates.
 * `TDJ`: beatmania IIDX LIGHTNING MODEL
   * beatmania IIDX 27 HEROIC VERSE (2019, PC(C300)IO(BIO2-BI2X))
   * beatmania IIDX 28 BISTROVER (2020, PC(C300)IO(BIO2-BI2X))
+  * beatmania IIDX 29 CastHour (2021, PC(C300)IO(BIO2-BI2X))
   * [`GQTDJ-JA`: Dedicated cabinet](product/GQTDJ-JA.md)
   * `GQTDJ-UA`
   * `GUTDJ-JV`: beatmania IIDX 29 CastHour LIGHTNING MODEL用装飾キット (マイクロスイッチ同梱) [CastHour art kit with microswitches]
