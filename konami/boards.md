@@ -449,6 +449,6 @@ Also known as: "ADE".
 **GPU:** GIGABYTE GV-N1650IXOC-4GD (Nvidia GeForce GTX 1650)  
 **SSD:** Innodisk 3ME3 DES25-B56D08BC1QC (SATA 2.5", 256GB)  
 **SND:** ASUS Xonar AE  
-**IO:** [BIO2(BI2X)](io.md#bio2)
+**IO:** [BIO2(BI2X)](io.md#bio2)  
 **Games:** TDJ, UFC  
 **Ref:** https://www.konami.com/amusement/arespear/desktops/c300/index.html
