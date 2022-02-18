@@ -868,7 +868,7 @@ DVR-5024B : CODE OF JOKER : RingEdge2 : JPN : SBYT  `#WEB:https://page.auctions.
 DVR-5025  :
 DVR-5026  : TRANSFORMERS HUMAN ALLIANCE : RingEdge2 : SBYR
           : TRANSFORMERS SHADOWS RISING : RingEdge2
-CDV-5027  : maimai GreeN (No.1) : RingEdge2 : JPN : SBZF
+DVR-5027  : maimai GreeN (No.1) : RingEdge2 : JPN : SBZF
         D : ^
         E : ^
 CDV-30027 : maimai GreeN (No.2) : RingEdge2 : JPN : SBZF
