@@ -200,15 +200,17 @@ Seemingly identical to the [KNM-845G3-A12](#knm-845g3-a12), unsure for which bel
 
 Also known as: "BemaniPC Type 1" (unofficially).
 
-Seemingly identical to the [KNM-845G3-A02](#knm-845g3-a02), unsure for which below specs are. Used in ECO, FDD hardware uprade kits.  `#DOC:KONAMI:110033580000`
+Seemingly identical to the [KNM-845G3-A02](#knm-845g3-a02), unsure for which below specs are. Used in ECO, FDD hardware upgrade kits.  `#DOC:KONAMI:110033580000`
 
+**PSU:** Delta DPS-180KB (180W, 115/230V AC input)  
+**MBD:** PM-845G3/GL/GV  
 **CPU:** Intel Pentium 2.4 2.4 Ghz  
-**RAM:** 1x ??? (DDR1, PC2100, 256MB)  
-**MBD:** PM-845G3/GL/GV?  
+**RAM:** 1x ProMOS Technologies V826632K24SATG-C0 (DDR1, PC2700U, 256MB, "IBM FRU 31P9121")  
 **STH:** Intel 845G  
-**GPU:** ASUS V9180MAGIC/T/64M (AGP, Nvidia GeForce MX4400, 64MB)
+**GPU:** ASUS V9180MAGIC/T/N/64M/A (AGP, Nvidia GeForce MX4400, 64MB)  
 **SND:** Realtek AC'97  
-**Games:** [ECO](software/ECO.md), [FDD](software/FDD.md)  
+**HDD:** (caddy: IMDKN0007123)  
+**Games:** [E11](software/E11.md), [ECO](software/ECO.md), [FDD](software/FDD.md)  
 
 ## `FAB-*`
 
