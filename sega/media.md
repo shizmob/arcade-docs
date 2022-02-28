@@ -896,7 +896,7 @@ DVR-5042  : WORLD CLUB CHAMPION FOOTBALL 2013-2014 : RingEdge : JPN : SDBH
 DVR-5043  : maimai ORANGE (No.1) : RingEdge2 : JPN : SDBM
 CDV-30043 : maimai ORANGE (No.2) : RingEdge2 : JPN : SDBM
 DVR-5044  : maimai ORANGE PLUS (No.1) : RingEdge2 : JPN : SDBM
-CDV-30044 : maimai ORANGE PLUS (No.2) : RingEdge2 : JPN : SDBM
+CDV-35044 : maimai ORANGE PLUS (No.2) : RingEdge2 : JPN : SDBM  `#WEB:https://www.picclickimg.com/d/w1600/pict/163415722028_/Sega-maimai-Orange-maimai-Orange-Plus-with.jpg`
 CDV-60044 : maimai ORANGE PLUS (No.3) : RingEdge2 : JPN : SDBM
 DVR-5045  : StarHorse3 SeasonIV DREAM ON THE TURF (No.1) : RingEdge2 : JPN : SDCE
 DVR-5046  : 戦国大戦 Ver.3.1 (No.1) : RingEdge : JPN : SDCG  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/f1009902696`
