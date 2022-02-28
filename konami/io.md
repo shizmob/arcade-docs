@@ -150,8 +150,9 @@ e-AMUSEMENT pass wavepass (NFC) reader.
 
 e-AMUSEMENT pass wavepass (NFC) reader.
 
-* Product: PWB115027960000
+* Product: PWB115027960000  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/w433749832`
 * Codename: "Nefertem"
+* Mechanism: Hitachi PC1080501  `#WEB:https://aucview.aucfan.com/yahoo/n278849386 #WEB:https://fccid.io/VZQPC1080501`
 * Firmware families:
   - ACIO name: "ICCC" (ID: 0x03000000)
     * 1.7.3 / Oct 05 2012 20:26:53 / L44
