@@ -176,7 +176,7 @@ IBM embedded boards (日本アイ・ビー・エム株式会社)
 
 Also known as: "BemaniPC Type 1" (unofficially).
 
-Seemingly identical to the [KNM-845G3-A12](#knm-845g3-a12), unsure for which below specs are. Used in C02, D01, E11 hardware upgrade kits.  `#DOC:KONAMI:0000252536 #DOC:KONAMI:0000363152`
+Seemingly identical to the [KNM-845G3-A12](#knm-845g3-a12), for which below specs are; unconfirmed. Used in C02, D01, E11 hardware upgrade kits.  `#DOC:KONAMI:0000252536 #DOC:KONAMI:0000363152`
 
 **CPU:** Intel Pentium 2.4 2.4 Ghz  
 **RAM:** 1x ??? (DDR1, PC2100, 256MB)  
@@ -200,7 +200,7 @@ Seemingly identical to the [KNM-845G3-A12](#knm-845g3-a12), unsure for which bel
 
 Also known as: "BemaniPC Type 1" (unofficially).
 
-Seemingly identical to the [KNM-845G3-A02](#knm-845g3-a02), unsure for which below specs are. Used in ECO, FDD hardware upgrade kits.  `#DOC:KONAMI:110033580000`
+Seemingly identical to the [KNM-845G3-A02](#knm-845g3-a02). Used in ECO, FDD hardware upgrade kits.  `#DOC:KONAMI:110033580000`
 
 **PSU:** Delta DPS-180KB (180W, 115/230V AC input)  
 **MBD:** PM-845G3/GL/GV  
