@@ -2,5 +2,5 @@
 
 * Main PCB: [HM65](../boards.md#hm65)
 * IO: [USBIO2](../io.md#usbio2)
-* Card readers: [ICCB NFC reader](../io.md#iccb)
+* Card readers: [ICCC NFC reader](../io.md#iccc)
 * Monitor: [`GULDJ-JJ`](GULDJ-JJ.md)
