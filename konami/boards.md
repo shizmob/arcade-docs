@@ -237,6 +237,16 @@ Seemingly identical to the [KNM-845G3-A02](#knm-845g3-a02). Used in ECO, FDD har
 **Sticker:** A3  
 **Games:** F24  
 
+### FAB-e865-KN306
+
+(Name tentative)
+
+`#WEB:https://page.auctions.yahoo.co.jp/jp/auction/g1022126807`
+
+**DVD:** reader  
+**Sticker:** A6  
+**Games:** DPU(CAP)  
+
 ### FAB-e945-KN201
 
 **Sticker:** B1  
@@ -250,7 +260,7 @@ Seemingly identical to the [KNM-845G3-A02](#knm-845g3-a02). Used in ECO, FDD har
 ### FAB-e945-KN203
 
 **Sticker:** B3  
-**Games:** K56 POP?  
+**Games:** K56 POP?, K65 MAIN, M65 MAIN  
 
 ### FAB-e945-KN204
 
@@ -270,6 +280,13 @@ Also known as: "BemaniPC Type 2" (unofficially).
 **Sticker:** B5  
 **Games:** [GLD](software/GLD.md), [HDD](software/HDD.md), [I00](software/I00.md), [JDJ](software/JDJ.md), [JDZ](software/JDZ.md), [KDZ](software/KDZ.md)  
 
+### FAB-e945-KN206
+
+`#WEB:https://page.auctions.yahoo.co.jp/jp/auction/u1038929462`
+
+**Sticker:** B6  
+**Games:** フューチャードラキュラ (Future Castlevania)  
+
 ### FAB-e945-KN209
 
 `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/l701319133`
@@ -286,7 +303,14 @@ Also known as: "BemaniPC Type 2" (unofficially).
 
 **MBD:** Toshiba TEM100-01B    
 **Sticker:** C1  
-**Games:** KPP, O70/Q70, G23  
+**Games:** IX8, MX8, KPP, O70/Q70, G23  
+
+### FAB-e965-KN302
+
+`#WEB:https://page.auctions.yahoo.co.jp/jp/auction/1028851239`
+
+**Sticker:** C2  
+**Games:** IWA  
 
 ### FAB-e965-KN303
 
