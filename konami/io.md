@@ -130,7 +130,7 @@ DDR front panel and speaker lights.
 
 ## ICCA
 
-e-AMUSEMENT pass slot reader. Is really two types of devices: the old slot card reader, and the new NFC card reader.
+e-AMUSEMENT pass slot reader.
 
 * Mechanism: Secure-Tech NS-ARW13T-KNM2 (case) / ARW13T-RS01B-CSW01 (PCB) / 5GSR02360F PCB(ST-20-MN2)Assy (PCB) / ARW13T-KNM-FM HM (radio) [slot reader]  `#WEB:https://fccid.io/VCTKJ111703250000/Internal-Photos/internal-photos-812722`
 * Firmware families:
