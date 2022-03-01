@@ -43,7 +43,7 @@ SEGA parts are referred to using a [proprietary format](identifiers.md#part-numb
    Y = F: DIMM board
    840-0001F: DIMM 256MB, SCSI ("ASSY CASE NAO DIMM BD COM")
    840-0004F: DIMM 256MB, SERIAL, SCSI, ETHERNET ("DIMM BD NAO" / "ASSY CASE NAO DIMM BD COM RTOS")
-   840-0005F: DIMM 256MB, ETHERNET
+   840-0005F: DIMM 256MB, ETHERNET  https://page.auctions.yahoo.co.jp/jp/auction/d1040017993
    840-0006F: DIMM 512MB, SERIAL, SCSI, ETHERNET ("DIMM BD NAT")
    840-0008F: DIMM 512MB, ETHERNET
 ```

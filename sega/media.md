@@ -488,7 +488,7 @@ CDV-10006 : Sangokushi Taisen : Chihiro
         R: ^ 1.122
 CDV-10007 : World Club Champion Football SERIE A 2002-2003 Drive Check : NAOMI2
 CDV-10008 : World Club Champion Football SERIE A 2002-2003 Ver.2.34 : JPN : NAOMI2
-CDV-10009D: Sangokushi Taisen Ver.1.002 : Chihiro
+CDV-10009D: Sangokushi Taisen Ver.1.002 : Chihiro  #WEB:https://jp.mercari.com/item/m54602180392
 CDV-10010 : Mobile Suit Gundam 0079 Card Builder : Chihiro
         A: ^ Ver1.007
 CDV-10011 : World Club Champion Football EUROPEAN CLUBS 2004-2005 : JPN : NAOMI2
@@ -508,7 +508,7 @@ CDV-10017 : Quest Of D: Gofu no Keisyousya 2.00 : Chihiro
         C: ^ 2.02C
         D: ^ 2.02D
 CDV-10018 : QOD FIRMWARE UPDATE : Chihiro
-CDV-10019A: Sangokushi Taisen 2 Ver.2.007 : Chihiro
+CDV-10019A: Sangokushi Taisen 2 Ver.2.007 : Chihiro  #WEB:https://jp.mercari.com/item/m54602180392
         B: ^ Ver.2.010
 CDV-10020 : World Club Champion Football EUROPEAN CLUBS 2004-2005 Ver.1.1 : JPN : NAOMI2
 CDV-10021 : World Club Champion Football EUROPEAN CLUBS 2004-2005 Ver.1.2 : JPN : NAOMI2
