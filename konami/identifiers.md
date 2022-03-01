@@ -45,7 +45,7 @@ The following variables are used across the different identifiers and can denote
     * `M`: こなみるく (KonaMilk) cards
     * `P`: Tokimeki goods
     * `R`: Figurines (joints)
-    * `T`: BEMANI POCKET
+    * `T`: Pocket games
   * Category `G`:
     * `C`: Conversion kit: Software/rom/art/dongle only
     * `E`: Conversion kit: Software + hardware
@@ -69,6 +69,7 @@ The following variables are used across the different identifiers and can denote
     * `B`: TV game
     * `C`: CD-rom?
     * `O`: hardware?
+    * `P`: hardware?  `#WEB:https://jp.mercari.com/item/m53751379837`
     * `X`: hardware?
     * `Z`: hardware?
   * Category `I`:

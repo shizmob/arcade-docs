@@ -241,7 +241,7 @@ Seemingly identical to the [KNM-845G3-A02](#knm-845g3-a02). Used in ECO, FDD har
 
 (Name tentative)
 
-`#WEB:https://page.auctions.yahoo.co.jp/jp/auction/g1022126807`
+`#WEB:https://page.auctions.yahoo.co.jp/jp/auction/g1022126807 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/g1028575835`
 
 **DVD:** reader  
 **Sticker:** A6  
@@ -270,6 +270,8 @@ Seemingly identical to the [KNM-845G3-A02](#knm-845g3-a02). Used in ECO, FDD har
 **Games:** GDK  
 
 ### FAB-e945-KN205
+
+`#WEB:https://page.auctions.yahoo.co.jp/jp/auction/r1029790798`
 
 Also known as: "BemaniPC Type 2" (unofficially).
 
