@@ -2589,7 +2589,7 @@ Seemingly introduced with 10th style.
 
 `#DOC:konami:0000252536`
 
-* Model: Toei? TC-PXF363SOK
+* Model: Toei TC-PXF363SOK
 * Size: 36"
 * Native resolution: 640x480
 * Input: VGA
