@@ -231,7 +231,7 @@ chronologic order, e.g. regarding release dates.
 * `328`: PANDORA'S PALACE (1984, DUAL_6809-ROM)  `#MAME:pandoras #MISC:oyakodon_oniku_list`
   - `GX328`
 * `330`: ハイパーオリンピック'84 / Hyper Olympics '84 (1984, 6809-ROM)  `#MAME:hyperspt #MISC:oyakodon_oniku_list`
-  - `GX330`
+  - `GX330`  `#WEB:https://www.worthpoint.com/worthopedia/konami-gx330-pwb-2000147b-arcade-151185060`
 * `332`: スパーキー (1983)  `#MISC:oyakodon_oniku_list`
 * `335`: タクティシャン (1981, TACTICIAN-ROM)  `#MISC:oyakodon_oniku_list`
 * `337`: アミダー / Amidar (1982, SCRAMBLE-ROM)  `#MISC:oyakodon_oniku_list`
@@ -374,6 +374,7 @@ chronologic order, e.g. regarding release dates.
   - `615 JAA`
 * `620`: 恋のホットロック / Rock'n Rage (1986, BLADES_OF_STEEL-ROM)  `#MAME:rockrage #MISC:oyakodon_oniku_list`
 * `621`: Mr.五右衛門 / Mr. Goemon (1986, GREEN_BERET_ROM)  `#MISC:oyakodon_oniku_list #MAME:greenberet`
+  - `GX621`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/e479780239`
 * `623`: 飛べ!ポリスターズ / Polystars (1997, M2-CDROM)  `#MAME:konamim2 #MISC:oyakodon_oniku_list #WEB:https://docs.google.com/spreadsheets/d/196LGamRp2aMasmTIPFMEPe1U779QbZp8vC-pPJ9RvrI/edit#gid=0`
   - `623 JAA`
   - `623 JA A02`: CD-ROM
@@ -481,7 +482,7 @@ chronologic order, e.g. regarding release dates.
   - `GX700-PWB(D)`: System 573 security cartridge board
   - `GX700-PWB(F)`: System 573 analog I/O board
   - `GX700-PWB(J)`: System 573 installation cartridge board  `#WEB:https://twitter.com/oyakodon_oniku/status/1493889573705121794`
-  - `GX700-PWB(K)A`: System 573 analog I/O (used in F24, similar to GX700-PWB(F))
+  - `GX700-PWB(K)A`: System 573 analog I/O (used in A36, similar to GX700-PWB(F))
   - `700A01`: Boot ROM: "573 BIOS EEPROM - KWS"  `#MAME:ksys573`
   - `700B01`: Boot ROM (Dancing Stage EuroMIX2?)  `#MAME:ksys573`
   - `700A04`: CDROM Drive Updater  `#MAME:ksys573 #WEB:https://twitter.com/oyakodon_oniku/status/1376035740706951170`
@@ -785,8 +786,8 @@ chronologic order, e.g. regarding release dates.
   - `GN887-KAA`  `#MAME:ksys573`
   - `GN887-KBA`  `#MAME:ksys573`
   - `GK887-KA` (casette)  `#WEB:https://www.worthpoint.com/worthopedia/dance-dance-revolution-ddr-8th-mix-252772850`
-  - `GE887-JA`: DanceDanceRevolution 3rdMIX コンバーシオンキット (for GN895-JA, GC895-JA, GE896-JA, GE885-JB)  `#WEB:https://www.mercari.com/jp/items/m66844480457/ #WEB:https://aucview.aucfan.com/yahoo/t722486660`
-  - `GE887-JB`: DanceDanceRevolution 3rdMIX コンバーシオンキット (for GN884-JA)  `#WEB:https://aucview.aucfan.com/yahoo/t722486660`
+  - `GE887-JA`: DanceDanceRevolution 3rdMIX コンバーシオンキット (for GN895-JA, GC895-JA, GE896-JA, GE885-JB)  `#WEB:https://www.mercari.com/jp/items/m66844480457/ #WEB:https://aucview.aucfan.com/yahoo/t722486660 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1023434295`
+  - `GE887-JB`: DanceDanceRevolution 3rdMIX コンバーシオンキット (for GN884-JA)  `#WEB:https://aucview.aucfan.com/yahoo/t722486660 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1023434295`
   - `887 JA A02`: disc
 * `888`: レーシングジャム CHAPTER 2 / RACING JAM CHAPTER 2 (1999, NWK-TR-ROM)  `#MAME:nwk-tr #DOC:konami:0000053176`
   - `GE888-UA`: RACING JAM conversion kit
@@ -804,7 +805,7 @@ chronologic order, e.g. regarding release dates.
   - `GX891`
   - `891 J01`
   - `891 N02`
-* `892`: DanceDanceRevolution Best of Cool Dancers (1999, SYSTEM573-CDROM )
+* `892`: DanceDanceRevolution Best of Cool Dancers (1999, SYSTEM573-CDROM)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1023434295`
   - `GE892-JAA`  `#MAME:ksys573`
   - `GC892`
 * `894`: DanceDanceRevolution Solo BASS MIX (1999, SYSTEM573-CDROM)  `#MAME:ksys573`
@@ -824,7 +825,7 @@ chronologic order, e.g. regarding release dates.
 * `902`: コケッコ  `#MISC:oyakodon_oniku_list`
 * `903`: キューブリック / Cue Brick (1989, TWIN16-ROM)  `#MISC:oyakodon_oniku_list #WEB:https://page.auctions.yahoo.co.jp/jp/auction/g1004905587 #MAME:twin16`
 * `905`: DanceDanceRevolution Solo 2000 (1999, SYSTEM573-CDROM)
-  - `GC905-JAA`  `#MAME:ksys573 #WEB:https://twitter.com/oyakodon_oniku/status/1496836457881022464`
+  - `GC905-JAA`  `#MAME:ksys573 #WEB:https://twitter.com/oyakodon_oniku/status/1496836457881022464 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1023434295`
   - `GC905-AAA`  `#MAME:ksys573`
 * `906`: ガンマニア / GunMania (2000, SYSTEM573-PCCARD)  `#MAME:ksys573 #MISC:oyakodon_oniku_list #WEB:https://aucview.aucfan.com/yahoo/d438956414`
   - `GL906-JA`
@@ -1068,7 +1069,7 @@ chronologic order, e.g. regarding release dates.
   - `GCA21-JC`: beatmania III APPEND 6thMIX conversion kit  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/s1029780016`
 * `A22`: DanceDanceRevolution 3rdMIX PLUS (2000, SYSTEM573-CDROM)  `#MISC:oyakodon_oniku_list`
   - `GCA22`
-  - `GCA22-JA`  `#WEB:https://www.ebay.co.uk/itm/154553215821`
+  - `GCA22-JA`  `#WEB:https://www.ebay.co.uk/itm/154553215821 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1023434295`
   - `A22 JA A02`: disc  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/g1028288807`
 * `A23`: DrumMania 3rdMIX / Percussion Freaks 3rdMIX (2000, SYSTEM573-CDROM)  `#MAME:ksys573 #MISC:oyakodon_oniku_list`
   - `GCA23-JA`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1036818158`
@@ -1095,7 +1096,8 @@ chronologic order, e.g. regarding release dates.
 * `A30`: 剣 / Tsurugi (2001, VIPER-CFCARD)  `#MAME:viper #MISC:oyakodon_oniku_list`
   - `A30 JA A02`: CF card  `#WEB:https://www.ebay.co.uk/itm/173903907005`
 * `A33`: DanceDanceRevolution 4thMIX (2000, SYSTEM573-CDROM), DanceDanceRevolution 4thMIX SOLO (2000, SYSTEM573-CDROM)  `#MAME:ksys573 #MISC:oyakodon_oniku_list #WEB:https://twitter.com/oyakodon_oniku/status/1495404783033008129`
-  - `GCA33-JA`: DanceDanceRevolution 4thMIX
+  - `GCA33-JA`: DanceDanceRevolution 4thMIX conversion kit (DDR cab)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1023434295`
+  - `GCA33-JB`: DanceDanceRevolution 4thMIX conversion kit (DDR solo cab)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1023434295`
   - `A33 JBA`: DanceDanceRevolution 4thMIX SOLO  `#MAME:ksys573`
   - `A33 AAA`: DanceDanceRevolution 4thMIX  `#MAME:ksys573`
   - `A33 ABA`: DanceDanceRevolution 4thMIX SOLO  `#MAME:ksys573`
@@ -1104,11 +1106,15 @@ chronologic order, e.g. regarding release dates.
   - `GEA33-JY`: DanceDanceRevolution 4thMIX
   - `GEA33-JZ`: DanceDanceRevolution 4thMIX
 * `A34`: DanceDanceRevolution 4thMIX PLUS (2000, SYSTEM573-CDROM), DanceDanceRevolution 4thMIX PLUS SOLO (2000, SYSTEM573-CDROM)  `#MAME:ksys573 #MISC:oyakodon_oniku_list`
+  - `GCA34-JA`: DanceDanceRevolution 4thMIX PLUS conversion kit (DDR cab)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1023434295`
+  - `GCA34-JB`: DanceDanceRevolution 4thMIX PLUS SOLO conversion kit (DDR solo cab)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1023434295`
   - `A34 JAA`: DanceDanceRevolution 4thMIX PLUS  `#MAME:ksys573`
   - `A34 JBA`: DanceDanceRevolution 4thMIX PLUS SOLO  `#MAME:ksys573`
   - `GCA34-RAA`: DanceDanceRevolution 4thMIX PLUS
   - `GCA34-RBA`: DanceDanceRevolution 4thMIX PLUS SOLO
 * `A36`: フットボールマスターズ / Kick&Kick (2001, SYSTEM573-FLASHROM)  `#MISC:oyakodon_oniku_list`
+  - `GNA36-JA`
+  - `GNA36-EAA`
 * `A37`: Dancing Stage featuring Disney's RAVE (2000, SYSTEM573-CDROM)
   - `GCA37-JAA`  `#MAME:ksys573`
 * `A38`: Dance Maniax 2ndMIX append JPARADISE (2001, SYSTEM573-CDROM)  `#MISC:oyakodon_oniku_list`
@@ -1233,6 +1239,7 @@ chronologic order, e.g. regarding release dates.
   - [`GEC02-JB`: Hardware conversion kit](product/GEC02-JB.md)
   - [`GEC02-JC`: Hardware conversion kit](product/GEC02-JC.md)
   - `GUC02-JA`: エントリーカード (100枚入り) / entry card (100 pack)
+  - `GUC02-JB`: stage decoration unit
   - `C02 JA` / `GEC02 PWB(A)A`: I/O board  `#WEB:https://kururusky.com/?p=1503`
   - `C02 JC`: I/O board (D01?)  `#WEB:https://aucview.aucfan.com/yahoo/p610145500`
 * `C07`: DrumMania 7thMIX / PercussionFreaks 7thMIX (2002, SYSTEM573-CDROM)  `#MAME:ksys573`
@@ -1644,7 +1651,9 @@ chronologic order, e.g. regarding release dates.
   - `GEHTF-JA`: conversion kit
   - `GEHTF-JB`: conversion kit
   - `GEHTF-JC`: conversion kit
-* `HWR`: Infinity Rings (2009, PC(?)-HDD)   `#MISC:oyakodon_oniku_list`
+* `HWR`: Infinity Rings (2009, PC(C1/?)-HDD)   `#MISC:oyakodon_oniku_list #WEB:https://page.auctions.yahoo.co.jp/jp/auction/f1041041296`
+  - `HWR CPC *01`: center PC (C1)
+  - `HWR SPC *01`: station? PC
 * [`I00`: beatmania IIDX 16 EMPRESS](software/I00.md) (2008, PC(B5)IO(C02/D01/USB2)-HDD)  `#MISC:oyakodon_oniku_list`
   - [`GQI00-JA`: Dedicated cabinet](product/GQI00-JA.md)
   - `GUI00-JB`: EMPRESS LCD monitor  `#WEB:http://kururusky.com/?p=1458`
@@ -2069,6 +2078,7 @@ chronologic order, e.g. regarding release dates.
 * `MMD`: ミライダガッキ / FutureTomTom (2013), ミライダガッキ Ver.2 / FutureTomTom Ver.2 (2013)  `#CLAIM:shiz`
   - `GQMMD-JA`: cabinet
 * `MX8`: フォーチュントリニティ2  `#SCRAPE:konami:eagate`
+  - `GEMX8`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1040542239`
 * `MPM`: パニックパイレーツ (2007)  `#MISC:oyakodon_oniku_list`
 * `MSH`: フリップスパイラル (2013, PC(E1))  `#MISC:oyakodon_oniku_list #WEB:https://jp.mercari.com/item/m87472611156`
   - `MSH PC A01 SA1`: satellite PC
@@ -2206,6 +2216,7 @@ chronologic order, e.g. regarding release dates.
 * `U39`: pop'n music Lively [e-AMUSEMENT CLOUD/home version]
 * `U70`: アニマロッタ アニマと星の物語  `#SCRAPE:konami:eagate`
 * `UAN`: コナステ ノスタルジア / NOSTALGIA [e-AMUSEMENT CLOUD/home version]  `#SCRAPE:konami:eagate`
+* `UDN`: DANCE aROUND (2022)  `#WEB:http://bemaniwiki.com/index.php?DANCE%20aROUND`
 * `UFC`: SOUND VOLTEX VALKYRIE MODEL  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/t823034962`
   - SOUND VOLTEX EXCEED GEAR (2021, PC(C300)IO(BIO2-BI2X))
   - `GQUFC-JA`  `#DOC:konami:117371830000`
