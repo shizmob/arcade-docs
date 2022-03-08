@@ -1731,12 +1731,12 @@ chronologic order, e.g. regarding release dates.
 * `IWA`: GI-Turf TV  `#MISC:oyakodon_oniku_list`
 * `IX8`: フォーチュントリニティ / FORTUNE TRINITY (2010)  `#MISC:oyakodon_oniku_list #WEB:https://jp.mercari.com/item/m88202874420 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/h546985230`
   - `GSIX8-JA`
-* `J32`: DrumMania V7 (2010, PC(855)), DrumManiaXG (2010, PC(?))
+* `J32`: DrumMania V7 (2010, PC(855)), DrumManiaXG (2010, PC(945))
   - `GQJ32-JA`: DrumManiaXG  `#WEB:https://aucview.aucfan.com/yahoo/e280211973/`
   - `GKJ32-CB`  `#MEDIA:konami/roundplugs-taobao.png`
   - `GCJ32-JB`: DrumMania V7 conversion kit: software  `#DOC:konami:113207310000`
   - `GCJ32-AB`: DrumMania V7: "conversion kit (software)"  `#DOC:konami:113207340000`
-* `J33`: GuitarFreaks V7 (2010, PC(855)), GuitarFreaksXG  (2010, PC(?))
+* `J33`: GuitarFreaks V7 (2010, PC(855)), GuitarFreaksXG (2010, PC(945))
   - `GQJ33-JA`: GuitarFreaksXG cabinet  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/l692194829 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/f1026281570`
   - `GKJ33-CA` (PC(J32-945-03))  `#WEB:https://www.ebay.com/itm/165022274600`
   - `GCJ32-JB`: GuitarFreaks V7 conversion kit: software  `#DOC:konami:113207320000`
@@ -1782,10 +1782,10 @@ chronologic order, e.g. regarding release dates.
 * `JPA`: パノラマファンタジー  `#MISC:oyakodon_oniku_list`
 * `K27`: ベースボールヒーローズ2010 (2010, PC(C3))  `#MISC:oyakodon_oniku_list #WEB:https://manualzz.com/doc/4935042/%E5%AF%BE%E7%AD%96%E3%81%AB%E3%81%A8%E3%82%82%E3%81%AA%E3%81%86%E6%B3%A8%E6%84%8F%E7%82%B9-%E3%83%99%E3%83%BC%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%BA-2010-winner #WEB:https://a11.kpers.net/item/j653179790/`
   - `GEK27-JA`
-* `K32`: DrumMania V8 (2011, PC(855)), DrumManiaXG2 Groove to Live (2011, PC(?))
+* `K32`: DrumMania V8 (2011, PC(855)), DrumManiaXG2 Groove to Live (2011, PC(945))
   - `GEK32-JA`: DrumManiaXG2 Groove to Live  `#WEB:https://aucview.aucfan.com/yahoo/o331572400 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/f520653743`
   - `GCK32-JB`: DrumMania V8  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/c918840967 #WEB:https://www.mercari.com/jp/items/m17051864666/ #WEB:https://page.auctions.yahoo.co.jp/jp/auction/e1000430028`
-* `K33`: GuitarFreaks V8 (2011, PC(855)), GuitarFreaksXG2 Groove to Live, (2011, PC(?))
+* `K33`: GuitarFreaks V8 (2011, PC(855)), GuitarFreaksXG2 Groove to Live, (2011, PC(945))
   - `GEK33-JA`: GuitarFreaksXG2 Groove to Live  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/h564317589`
   - `GCK33-JB`: GuitarFreaks V8  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/v815380858`
 * `K39`: ポップンミュージック 19 TUNE STREET / pop'n music 19 TUNE STREET (2010, PC(?)IO(USB2)-HDD)
@@ -1899,9 +1899,9 @@ chronologic order, e.g. regarding release dates.
   - `GEKSF-JA`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/t1009880573`
 * `KTA`: MILLION KEEPER  `#MISC:oyakodon_oniku_list`
 * `L27`: Baseball Heroes 2011 (2011, PC) `#MISC:oyakodon_oniku_list #WEB:https://page.auctions.yahoo.co.jp/jp/auction/t1037628983`
-* `L32`: DrumManiaXG3 (2012, PC)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/m501553899`
+* `L32`: DrumManiaXG3 (2012, PC(945))  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/m501553899`
   - `GCL32-JA`
-* `L33`: GuitarFreaksXG3 (2012, PC)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/e514677816`
+* `L33`: GuitarFreaksXG3 (2012, PC(945))  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/e514677816`
   - `GCL33-JA`
 * `L39`: ポップンミュージック 20 fantasia / pop'n music 20 fantasia (2011, PC(?)IO(USB2))  `#MISC:oyakodon_oniku_list`
   - `GCL39-JA`: type A conversion kit  `#WEB:https://a12.kpers.net/item/474314706/`
