@@ -299,16 +299,16 @@ SEGA parts are referred to using a [proprietary format](identifiers.md#part-numb
         HDD: Western Digital WD5000LUCT 500GB
         PSU: ???
 
-  * ALLS MX2                      (ACA?, JP, 849-1005)
+  * ALLS MX2                      (ACA?, JP, 849-1005,    https://page.auctions.yahoo.co.jp/jp/auction/g1040835272)
   * ALLS MX2 (with sub-storage)   (ACA?, JP, 849-1006)
   * ALLS MX2.1                    (ACA?, JP, 849-1009)
   * ALLS MX2.1 (with sub-storage) (ACA?, JP, 849-1010)
-        MBD: ???
-        CPU: ???
+        MBD: Gigabyte MCH31AM-S2
+        CPU: Intel Core i5-8500
         RAM: 2x 8GB
         GPU: Nvidia GeForce GTX 1060 [MX2]
              Nvidia GeForce GTX 1660Ti [MX2.1]
-        SSD: ???
+        SSD: TDK GBDisk GS1 120GB [MDA-E0023]
         HDD: ??? [849-1006, 849-1010]
         PSU: ???
 
