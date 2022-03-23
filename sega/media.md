@@ -1379,7 +1379,7 @@ MDA-U0083 : maimai DX                     : ALLS HX2 : JPN : SDEZ
         G: ^ PLUS VER 1.090
 MDA-U0084 :
 MDA-U0085 : maimai DX                     : ALLS HX2 : EXP : SDGA
-MDA-U0086 :
+MDA-U0086 : maimai DX 2021                : ALLS HX2 : CHN : SDGB
 MDA-U0087 :
 MDA-U0088 :
 MDA-U0089 :
@@ -1392,6 +1392,5 @@ MDA-U0095 :
 MDA-U0096 :
 MDA-U0097 : Chunithm SUPERSTAR            : ALLS HX2 OP : EXP : SDGS
 MDA-U0098 : バベルのメダルタワーW             : ALLS X? : JPN
-????      : maimai DX 2021                 : ALLS HX2 : CHN : SDGB
 ????      : Wacca Ver.2                    : ALLS HX  : CHN : SDHN
 ```
