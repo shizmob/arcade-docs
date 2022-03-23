@@ -1284,6 +1284,7 @@ MDA-E0016 :
 MDA-E0017 : TDK GBDisk GS1 120GB                    : ALLS UX
 MDA-E0018 :
 MDA-E0019 : TDK GBDisk GS1 120GB                    : ALLS UX2, ALLS HX2, ALLS HX2 OP
+MDA-E0023 : TDK GBDisk GS1 120GB                    : ALLS MX2
 ```
 
 ## MDA-U
