@@ -26,8 +26,8 @@
 
 ## GEC02-PWB(A)A
 
-* [GEC02-PWB(A)A (aka C02 IO)](io/pwb-aa.md)
-* [GEC02-PWB(A)A bootleg](io/pwb-aa-bootleg.md)
+* [GEC02-PWB(A)A (aka C02 IO)](io/GEC02/pwb-aa.md)
+* [GEC02-PWB(A)A bootleg](io/GEC02/pwb-aa-bootleg.md)
 
 ## D01 IO
 
@@ -53,9 +53,9 @@
 * Product: PWB11106490000
 * Codename: "Alard"
 
-## KDE-J
+## USBIO2
 
-[KDE-J (aka IO2)](io/kde-j.md)
+[USBIO2](io/usbio2.md)
 
 ## KFCA
 
