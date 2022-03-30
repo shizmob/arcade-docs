@@ -3,5 +3,5 @@
 * Offline/non eamuse compatible kit
 * Contents
   * Main PCB: [KNM-???](../boards.md#knm-???)
-  * IO: [C02 IO](../io.md#c02-io)
+  * IO: [GEC02-PWB(A)A](../io.md#GEC02-PWBAA)
   * Cabinet artwork
