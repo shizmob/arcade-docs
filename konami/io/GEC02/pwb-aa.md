@@ -1,5 +1,6 @@
-# C02 IO
+# GEC02-PWB(A)A
 
+* aka "C02 IO" board
 * GEC02-PWB(A)A
 * PCB product: PN0000228708
 * case/metal housing: PN0000246977
