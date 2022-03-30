@@ -2,6 +2,7 @@
 
 * aka (IIDX) "IO2" PCB
 * 2nd generation USB IO board to connect cabinet inputs and outputs to the main PCB
+* Interface to main PCB: USB 2.0
 * Part number
   * PCB: PWB1111362080000
   * Case: PN.00001_1263 (_ = not readable due to demaged sticker on source picture)
