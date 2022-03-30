@@ -4,4 +4,4 @@ Essentially the same as [`GEC02-JA`](GEC02-JA.md) except for the contents and no
 compatible with eamusement online services due to missing card readers:
 
 * Main PCB: [KNM-???](../boards.md#knm-???)
-* IO: [C02 IO](../io.md#c02-io)
+* IO: [GEC02-PWB(A)A](../io.md#GEC02-PWBAA)

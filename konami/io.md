@@ -24,9 +24,10 @@
     * Generic test and service switches, and general input
     * Known versions: 1.1.2 / Jun 12 2013 19:24:19 / O26
 
-## C02 IO
+## GEC02-PWB(A)A
 
-[C02 IO](io/c02-io.md)
+* [GEC02-PWB(A)A (aka C02 IO)](io/GEC02/pwb-aa.md)
+* [GEC02-PWB(A)A bootleg](io/GEC02/pwb-aa-bootleg.md)
 
 ## D01 IO
 
@@ -54,12 +55,7 @@
 
 ## USBIO2
 
-* KDE-J
-* PCB product: PWB1113692080000, PWB111362080000
-  * Case/metal housing: PN00001_1263
-* Interface to main PCB: USB 2.0
-* Compatible games: [GLD](software/GLD.md), [HDD](software/HDD.md), [I00](software/I00.md),
-[JDJ](software/JDJ.md), [JDZ](software/JDZ.md), [KDZ](software/KDZ.md), [LDJ (up to 24 SINOBUZ)](software/LDJ.md)
+[USBIO2](io/usbio2.md)
 
 ## KFCA
 
@@ -177,3 +173,11 @@ Nostalgia (PAN) panel.
 ## PJEC
 
 ## PJEI
+
+# Misc
+
+## GQ863
+
+* [PWB(B2): twinkle sub-io board](io/GQ863/pwb-b2.md)
+* [PWB(C4): 16 segment board](io/GQ863/pwb-c4.md)
+* [PWB(F1): lights sub-io board](io/GQ863/pwb-f1.md)

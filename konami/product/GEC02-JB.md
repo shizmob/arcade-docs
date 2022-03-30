@@ -4,5 +4,5 @@ Essentially the same as [`GEC02-JA`](GEC02-JA.md) except for the contents:
 
 * Eamuse compatible
 * Main PCB: [KNM-???](../boards.md#knm-???)
-* IO: [C02 IO](../io.md#c02-io)
+* IO: [GEC02-PWB(A)A](../io.md#GEC02-PWBAA)
 * Card readers: [C02 magnetic card readers](../io.md#c02-magnetic-card-readers)
