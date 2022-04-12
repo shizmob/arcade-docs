@@ -268,7 +268,7 @@ SEGA parts are referred to using a [proprietary format](identifiers.md#part-numb
         SSD: TDK GBDisk GS1 120GB [MDA-E0017]
         HDD: HGST HTS725050A7E630 500GB [849-0004, 849-0005]
         PCI: "SoundBlaster" [849-0005]
-        PSU: ???
+        PSU: Seasonic SS-400ET
 
   * ALLS HX                       (ACAX, JP, 849-0006, "ASSY CASE ALLS HX")
         MBD: Gigabyte MDH11BM
@@ -299,18 +299,18 @@ SEGA parts are referred to using a [proprietary format](identifiers.md#part-numb
         HDD: Western Digital WD5000LUCT 500GB
         PSU: ???
 
-  * ALLS MX2                      (ACA?, JP, 849-1005,    https://page.auctions.yahoo.co.jp/jp/auction/g1040835272)
-  * ALLS MX2 (with sub-storage)   (ACA?, JP, 849-1006)
-  * ALLS MX2.1                    (ACA?, JP, 849-1009)
-  * ALLS MX2.1 (with sub-storage) (ACA?, JP, 849-1010)
+  * ALLS MX2                      (ACAE, JP, 849-1005,    https://page.auctions.yahoo.co.jp/jp/auction/g1040835272)
+  * ALLS MX2 (with sub-storage)   (ACAE, JP, 849-1006)
+  * ALLS MX2.1                    (ACAE, JP, 849-1009)
+  * ALLS MX2.1 (with sub-storage) (ACAE, JP, 849-1010)
         MBD: Gigabyte MCH31AM-S2
         CPU: Intel Core i5-8500
-        RAM: 2x 8GB
+        RAM: 2x Innodisk M4UI-8GS1JC0K-C1OSG [8GB, DDR4-2666]
         GPU: Nvidia GeForce GTX 1060 [MX2]
              Nvidia GeForce GTX 1660Ti [MX2.1]
         SSD: TDK GBDisk GS1 120GB [MDA-E0023]
         HDD: ??? [849-1006, 849-1010]
-        PSU: ???
+        PSU: FSP FSP500-50AAC
 
   * ALLS X2                       (ACA?, JP, 849-1007?)
   * ALLS X2 (with sub-storage)    (ACA?, JP, 849-1008?)
