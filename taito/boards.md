@@ -17,6 +17,7 @@
 Missing: 002, 004, 009, 010, 015, 016, 018, 019, 020, 023
 
 ? - ほ む ら HOMURA Ver.2.04JPN M9006579A (B3900094A white)
+? - カオスブレイカー / CHAOS BREAKER Ver.2.02J M9006412A (greywhite, B3900081A)
 
 ## Type X+
 
@@ -49,7 +50,7 @@ Missing: 002, 004, 009, 010, 015, 016, 018, 019, 020, 023
 | 105A   | P4 2.8GHz     | 2GB   |             | Compact case  `#WEB:https://www.ebay.com/itm/402909908213?hash=item5dcf4d4cf5:g:RaEAAOSwgzxggqt4`  |
 | 111A   | Cel 3.2GHz    | 1GB   | E4690       | ブロックキング  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/e510866955`                |
 | 203A   | P4 3.4GHz     | 512MB | GF7900GS    | BATTLE FANTASIA M9007185A VER.2.05JPN (B3900112A, black/gray)                               |
-| 203B-R | P4 3.4GHz     | 512MB | GF7900GS    | MUSIC GUNGUN! 2                                                                             |
+| 203B-R | P4 3.4GHz     | 512MB | GF7900GS    | MUSIC GUNGUN! 2 / HOPPING ROAD M9007872A Ver.1.04JPN                                        |
 | 204A   | Cel 3.2GHz    | 512MB | X1600PRO    |                                                                                             |
 | 205A   | P4 3.4GHz     | 512MB | GF7900GS    |                                                                                             |
 | 207A   | P4 3.4Ghz     | 1GB   | GF7900GS    | STREET FIGHTER4 VER1.00                                                                     |
@@ -88,7 +89,7 @@ Missing: 303, 304, 305
 |  402[U] | Core i5-2400 3.1Ghz | 2GB x4 | N660GTX       | GPU upgrade sticker / GUNSLINGER STRATOS2 M9008929A / GUNS 3-(STANDARD) / GUNS 3-(ADVANCE) / GUNS 3-(INSTALMENT) M9009093A |
 |  403    | Core i5-2400 3.1GHz | 2GB x2 | N560 Ti-Hawk? |                                                                              |
 |  403[U] | Core i5-2400 3.1GHz | 2GB x4 | N660GTX       | RAM + GPU upgrade sticker / GUNS 3-(ADVANCE)                                 |
-|  404    | Core i5-2400 3.1GHz | 2GB x4 | N660GTX       | GUNS 3-(STANDARD) / ULTRA STREET FIGHTER IV / LORD OF VERMILLION IV 20 PLAY / NESICA X LIVE 2 M9009197A |
+|  404    | Core i5-2400 3.1GHz | 2GB x4 | N660GTX       | GUNS 3-(STANDARD) / ULTRA STREET FIGHTER IV / LORD OF VERMILLION IV 20 PLAY / NESICA X LIVE 2 M9009197A (M9009199A) |
 |  405    | Core i3-2120 3.3GHz | 2GB x2 | N640          | PUZZLE & DRAGONS M9008936A VER.1.000                                         |
 |  406    | Core i5-2400 3.1GHz | 4GB x2 | N660GTX       | GUNS 3-(ADVANCE) M9009092A (M9009088A, black) / NESICA X LIVE 2 M9009197A / LEFT4DEAD 生存者たち M9008990A VER.1.0004 |
 |  407    | Core i5-2400 3.1GHz | 8GB x2 | GTX760 CRB    | FIGUREHEADS A                                                                |
