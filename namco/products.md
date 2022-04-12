@@ -107,7 +107,8 @@ FX  - Four Trax
 G8  - Galaga '88  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/k1011627128
 GCB - Mobile Suit Gundam U.C: Card Builder
 GEF - Gundam Extreme Vs. Full Boost
-GEM - Gundam Extreme Vs. Maxi Boost (GEM)
+GEM - Gundam Extreme Vs. Maxi Boost
+GEX - Gundam Extreme Vs.  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/o1042258431
 GID - GAHAHA Ippatsu-dou
 GIS - GAHAHA Ippatsu-dou 2
 GK4 - Gundam: Bonds of the Battlefield REV.4.x
@@ -168,7 +169,7 @@ MQ  - Bakuretsu Quiz Ma-Q Dai Bouken  #MAME:namcona1
 MTL - ?
 MV  - Marvel Land
 NC  - Namco Classic Collection Vol.1
-NCS - Namco Classic Collection Vol.2
+NCS - Namco Classic Collection Vol.2  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/l1042804770
 NCF - NFL Classic Football
 NM  - Numan Athletics  #MAME:namcona1
 NPY - Netchuu Pro Yakyuu 2002 / Professional Baseball 2002  #WEB:https://www.ebay.co.uk/itm/165010658171
@@ -272,7 +273,7 @@ T11 - Taiko no Tatsujin 11
 T12 - Taiko no Tatsujin 12
 T13 - Taiko no Tatsujin 13
 T14 - Taiko no Tatsujin 14
-T6B - Tekken 6 Bloodline Rebellion
+T6B - Tekken 6 Bloodline Rebellion  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/u1042268461
 TC5 - Time Crisis 5
 TCH - ビンゴキッズ  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/d298580939
 TD  - ドルアーガの塔 / Tower of Druaga
