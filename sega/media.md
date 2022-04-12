@@ -270,7 +270,7 @@ GDL-0017 : Quiz Keitai Q mode
 GDL-0018 : Azumanga Daioh Puzzle Bobble
 GDL-0019 : ギリティギア エグゼクス #RELOAD
         A: ^
-GDL-0020 : Tetris Kiwamemichi : JPN
+GDL-0020 : テトリス極道(TETRIS KIWAMEMICHI) : JPN  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1042474215
 GDL-0021 : 式神の城Ⅱ
 GDL-0022 : 兎 -野性の闘牌- 山城麻雀編
 GDL-0023 : BORDER DOWN
@@ -821,6 +821,7 @@ DVR-0083  : セガネットワーク対戦麻雀 MJ5 R EVOLUTION : RingEdge : JP
         ? : ^ v4.51
 DVR-5001  : BORDER BREAK : RingEdge : JPN : SBVA : Air Burst v2.0
         C : ^
+        E : ^  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/b1041782891
         J : ^
         P : ^ Union v3.5
 DVR-5002  :
@@ -855,15 +856,15 @@ DVR-5013A : WORLD CLUB CHAMPION FOOTBALL Intercontinental Clubs 2011-2012 : Ring
         C : ^
 DVR-5014  :
 DVR-5015A : 頭文字D ARCADE STAGE 7 AA X (クロス) : RingEdge : SBYD
-DVR-5016  :
+DVR-5016  : INITIAL D ARCADE STAGE 7 : RingEdge2 : EXP : RGE DVDROM TFF VER 7 EXP  #DOC:sega:PMA-B00440
 DVR-5017B : maimai (WUMENGOOO) : RingEdge2 : CHN : SBYC
 DVR-5018  :
-DVR-5019C : 戦国大戦 Ver.2 : RingEdge : JPN : SBYJ  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/f1009902696`
+DVR-5019C : 戦国大戦 Ver.2 : RingEdge : JPN : SBYJ  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/f1009902696
 DVR-5020  :
 DVR-5021D : Hokuto no Ken Battle Medal : RingEdge2 : JPN : SBYQ
-DVR-5022  : INTIAL D ARCADE STAGE 7 : RingEdge : CHN : SBYY
-DVR-5023B : The World of THREE KINGDOMS : RingEdge2 : JPN : SBYF
-DVR-5024B : CODE OF JOKER : RingEdge2 : JPN : SBYT  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/t1011338418`
+DVR-5022  : INITIAL D ARCADE STAGE 7 : RingEdge : CHN : SBYY
+DVR-5023B : THE WORLD of THREE KINGDOMS : RingEdge2 : JPN : SBYF  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/b1042604572
+DVR-5024B : CODE OF JOKER : RingEdge2 : JPN : SBYT  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/t1011338418
         H : ^
 DVR-5025  :
 DVR-5026  : TRANSFORMERS HUMAN ALLIANCE : RingEdge2 : SBYR
@@ -958,66 +959,83 @@ DVR-????  : ??? : SBTR
 CDN: DVD (Nu): 610-0894-xxxx = CDN-xxxx.
 
 ```
-CDN-0001A-1D: 初音ミク Project DIVA Future Tone (No.1): Nu1 : JPN/EXP : SBZV : v1.01.00
-        A-2D: ^ (No.2)
-        D-1D: ^ v2.00.00 (REVISION 3)
-        D-2D: ^ (No.2)
-        G-1D: ^ v3.00.00
-        G-2D: ^ (No.2)
-        J-1D: ^ v4.00.00
-        J-2D: ^ (No.2)
-        J-3D: ^ (No.3)
-        L-1D: ^ v5.00.02
-        L-2D: ^ (No.2)
-        L-3D: ^ (No.3)
-        Q-1D: ^ v6.00.00
-        Q-2D: ^ (No.2)
-        Q-3D: ^ (No.3)
-        Q-4D: ^ (No.4)
-CDN-0002 -1D: WONDERLAND WARS (No.1) : Nu1 : JPN : SDAP
-         -2D: ^ (No.2)
-        E-1D: ^ v3.00.00
-        E-2D: ^ (No.2)
+CDN-0001 A-1D: 初音ミク Project DIVA Future Tone (No.1): Nu1 : JPN/EXP : SBZV : v1.01.00
+         A-2D: ^ (No.2)
+         D-1D: ^ v2.00.00 (REVISION 3)
+         D-2D: ^ (No.2)
+         G-1D: ^ v3.00.00 (Disc.1)  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/d1043813062
+         G-2D: ^ (Disc.2)  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/d1043813062
+         J-1D: ^ v4.00.00  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/t1043806944
+         J-2D: ^ (Disc.2)  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/t1043806944
+         J-3D: ^ (Disc.3)  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/t1043806944
+         L-1D: ^ v5.00.02
+         L-2D: ^ (No.2)
+         L-3D: ^ (No.3)
+         Q-1D: ^ v6.00.00
+         Q-2D: ^ (No.2)
+         Q-3D: ^ (No.3)
+         Q-4D: ^ (No.4)
+CDN-0002  -1D: Wonderland Wars (No.1) : Nu1 : JPN : SDAP
+          -2D: ^ (No.2)
+         E-1D: ^ v3.00.00
+         E-2D: ^ (No.2)
+         N-1D: ^ (Disc.1)  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1044175291
+         N-2 : ^ (Disc.2)  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1044175291
 CDN-0003    : CHUNITHM : Nu1.1 : JPN : SDBT
-        B-1 : CHUNTIHM [PLUS]
-        D-1 : AIR
-        E-1 : AIR PLUS
-        F-1D: STAR
-        G-1D: STAR PLUS
-        H-1D: AMAZON
-        J-1D: AMAZON PLUS
-        K-1D: CRYSTAL
-CDN-0004    : KANCOLLE : Nu1.1 : JPN : SDBZ
-        A-1D: ^ v1.02.01
-        G-1D: ^ v1.24
-        J-1D: ^ v2.00.01
-        S-1D: ^ v3.00.01
-        S-2D: ^ (No.2)
-        AG-1: ^ v4.00.00
-        AG-2: ^ (No.2)
+         B-1 : CHUNTIHM [PLUS]
+         D-1 : AIR
+         E-1 : AIR PLUS
+         F-1D: STAR
+         G-1D: STAR PLUS
+         H-1D: AMAZON
+         J-1D: AMAZON PLUS
+         K-1D: CRYSTAL
+         N-1D: PARADISE  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1041992839
+CDN-0004     : 艦これアーケード (Kancolle) : Nu1.1 : JPN : SDBZ
+         A-1D: ^ v1.02.01
+         G-1D: ^ v1.24
+         H-2 : ^ (Disc.2)
+         J-1D: ^ (Disc.1) v2.00.01  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1043584099
+         S-1D: ^ v3.00.01
+         S-2D: ^ (No.2)
+         AG-1: ^ v4.00.00
+         AG-2: ^ (No.2)
+         AG-1D: (Disc.1)  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/f1042987714
+         AG-2 : ^ (Disc.2)  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/f1042987714 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/1043591578
+         BM-1D: (Disc.1)  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/1043591578
+         BM-2D: ^ (Disc.2)  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/t1044174625
+         BM-3 : ^ (Disc.3)  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/1043591578
 CDN-0005    :
-CDN-0006E-1D: 三国志大戦 : Nu2 : JPN : SDDD : 三国志大戦 伝承の煌弓
-         -2 : ^
-CDN-0007 -1D: 頭文字D ARCADE STAGE ZERO (No.1) : Nu2 : JPN/EXP? : SDDF : 610-0937-007BE
-         -2D: ^ (No.2)
-        D-1D: ^
-        D-2D: ^ (No.2)
-        F-1D: ^ v1.31
-        F-2D: ^ (No.2)
-        H-1D: ^
-        H-2D: ^ (No.1)
-        M-1D: ^ v2.20
-        M-2D: ^ (No.2)
-CDN-0008 -1D: 初音ミク Project DIVA Future Tone (No.1) : Nu1 : JPN/EXP : SBZV : v7.01.00
-         -2D: ^ (No.2)
-         -3D: ^ (No.3)
-         -4D: ^ (No.4)
-        A-1D: ^ v7.01.00  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/g1013645717
-        A-2D: ^ (No.2)
-        A-3D: ^ (No.3)
-        A-4D: ^ (No.4)
-CDN-0010R-1D: Wonderland Wars (Disc.1) : Nu1 : JPN : ??? : `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/s1006273203`
-         -2D: ^ (Disc.2)
+CDN-0006 E-1D: 三国志大戦 (Disc.1) : Nu2 : JPN : SDDD : 三国志大戦 伝承の煌弓
+          -2 : ^ (Disc.2)
+         M-1D: (Disc.1)
+         M-2D: ^ (Disc.2)
+         S-1D: (Disc.1)   `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/j1042990641`
+         S-2D: ^ (Disc.2)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/j1042990641`
+         S-3 : ^ (Disc.3)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/j1042990641`
+CDN-0007  -1D: 頭文字D ARCADE STAGE ZERO (No.1) : Nu2 : JPN/EXP? : SDDF : 610-0937-007BE
+          -2D: ^ (No.2)
+         D-1D: ^
+         D-2D: ^ (No.2)
+         F-1D: ^ v1.31
+         F-2D: ^ (No.2)
+         H-1D: 頭文字D ARCADE STAGE Zero/ Initial D ARCADE STAGE Zero (Disc.1)  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/k1045113583
+         H-2D: ^ (Disc.2)
+         M-1D: ^ (Disc.1)
+         M-2D: 頭文字D ARCADE STAGE Zero/ Initial D ARCADE STAGE Zero (Disc.2) : 2.20  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/k1045113583
+CDN-0008  -1D: 初音ミク Project DIVA Future Tone (No.1) : Nu1 : JPN/EXP : SBZV : v7.01.00
+          -2D: ^ (No.2)
+          -3D: ^ (No.3)
+          -4D: ^ (No.4)
+         A-1D: ^ v7.01.00  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/g1013645717
+         A-2D: ^ (No.2)
+         A-3D: ^ (No.3)
+         A-4D: ^ (No.4)
+CDN-0010 R-1D: Wonderland Wars (Disc.1) : Nu1 : JPN : ??? : `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/s1006273203`
+         R-2D: ^ (Disc.2)
+        AA-1D: ^ (Disc.1)  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/h1044156294
+        AA-2D: ^ (Disc.2)  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/h1044156294
+        AA-3 : ^ (Disc.3)  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/h1044156294
 ????        : Cross Beats Rev : Nu1.1 : JPN : SDCA : 610-0891-002BJ
 ????        : Luigi's Mansion : Nu1.1 : EXP : SDCF : 610-0891-001BE
 ????        : Mario & Sonic at the Rio Olympic Games : Nu1.1 : JPN/EXP : SDCH : 610-0890-010BJ
@@ -1040,9 +1058,12 @@ CDA-0002 -1D: SEGA WORLD DRIVER CHAMPIONSHIP 2018 (Disc.1) : ALLS UX : JPN : SDD
         E-1D: ^ v1.05.00
         E-2D: ^ (Disc.2)
 CDA-0003A-1 : クロノレガリア : ALLS UX : JPN : SDEC
-CDA-0004A-1D: FATE/GRAND ORDER ARCADE (Disc.1) : ALLS UX : JPN : SDEJ : v1.09
-        K-1D: ^ V-1801417
-       CL-1D: v8.00
+        C-1 : クロノレガリア (Disc.1)  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/h1042273324
+CDA-0004A-1D: Fate/Grand Order Arcade (Disc.1) : ALLS UX : JPN : SDEJ : v1.09
+        K-1D: (Disc.1)
+       AB-1D: (Disc.1)  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1042446675
+       BG-2D: (Disc.2)  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1042446675
+       CL-1D: v8.00  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/d1043824709
        CL-2D: ^ (Disc.2)
        CL-3 : ^ (Disc.3)
 CDA-0005A-1D: HOUSE OF THE DEAD SCARLET DAWN (Disc.1) : ALLS UX : EXP : SDET
@@ -1052,6 +1073,11 @@ CDA-0006 -1 : オンゲキ (Disc.1) : ALLS HX2 : JPN : SDDT
         J-1 : ^ SUMMER (Disc.1)
         K-1D: オンゲキ (Disc.1)
 CDA-0007 -1 : カードメーカー (Disc.1) : ALLS HX2 : JPN : SDED : v1.00.04
+CDA-0008 -1D: WCCF FOOTISTA (Disc.1) : ALLS UX : JPN : SDEB  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/t1044173584
+         -2D: ^ (Disc.2)
+         -3D: ^ (Disc.3)
+         -4D: ^ (Disc.4)
+         -5 : ^ (Disc.5)
 CDA-0009A-1D: ALL.Net P-ras MULTI バージョン3 (Disc.1) : JPN : SDEM
          -2D: ^ (Disc.2)
          -3 : ^ (Disc.3)
@@ -1072,7 +1098,6 @@ CDA-0009A-1D: ALL.Net P-ras MULTI バージョン3 (Disc.1) : JPN : SDEM
             : Virtua Fighter esports : SDHF
             : Senxin Aleste : SDHB
 ????        : SEGA WORLD DRIVER CHAMPIONSHIP 2019 (No.1) : ALLS UX : JPN : SDDS
-????        : WCCF FOOTISTA 2019 : ALLS UX : JPN : SDEB
 ????        : House of the Dead Scarlet Dawn : ALLS HX2 : JPN : SDEE
 ????        : StarHorse4 Medal Station : JPN : SDEP
 ????        : House of the Dead Scarlet Dawn : CHN : SDEV
@@ -1273,7 +1298,7 @@ MDA-E0005 : TDK GBDisk RS2 32GB                     : RingEdge
 MDA-E0006 :
 MDA-E0007A: TDK GBDisk RS3 32GB/TDK GBDisk RS2 32GB : RingEdge2
 MDA-E0008 : TDK GBDisk RS2 8GB                      : ??? : https://archive.is/0Fg8b
-MDA-E0009 :
+MDA-E0009 : TDK GBDisk RS2 8GB                      : ??? : https://page.auctions.yahoo.co.jp/jp/auction/o1042631133
 MDA-E0010 : Apacer SAFD 64GB                        : Nu
 MDA-E0011 : TDK GBDisk RS3 64GB                     : RingEdge2
 MDA-E0012 : Apacer SAFD 64GB                        : Nu1.1 [AAVE-11A*]
@@ -1282,6 +1307,7 @@ MDA-E0014 : TDK GBDisk GS1 120GB?                   : Nu?
 MDA-E0015 : TDK GBDisk GS1 120GB                    : Nu1.1 [AAVE-11B*]
 MDA-E0016 :
 MDA-E0017 : TDK GBDisk GS1 120GB                    : ALLS UX
+MDA-E0017A: TDK GBDisk GS1 120GB?                   : ALLS UX : https://page.auctions.yahoo.co.jp/jp/auction/w1043584630
 MDA-E0018 :
 MDA-E0019 : TDK GBDisk GS1 120GB                    : ALLS UX2, ALLS HX2, ALLS HX2 OP
 MDA-E0023 : TDK GBDisk GS1 120GB                    : ALLS MX2
@@ -1325,7 +1351,7 @@ MDA-U0030 :
 MDA-U0031 :
 MDA-U0032 :
 MDA-U0033A?: REVOLUTION 3                 : RingWide
-MDA-U0034 : CHAOS CODE                    : RingWide : SBWF
+MDA-U0034 : CHAOS CODE                    : RingWide : SBWF  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/h1043508515
 MDA-U0035 :
 MDA-U0036 : MULTI UPDATE                  : RingEdge2
 MDA-U0037 :
