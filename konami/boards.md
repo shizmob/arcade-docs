@@ -262,11 +262,17 @@ Seemingly identical to the [KNM-845G3-A02](#knm-845g3-a02). Used in ECO, FDD har
 **Sticker:** B3  
 **Games:** K56 POP?, K65 MAIN, M65 MAIN  
 
-### FAB-e945-KN204
+### FAB-e945-KN204A
 
-?
-
-**Sticker:** B4A
+**CPU:**   
+**RAM:** 2x Micron MT8HTF6464AY053ED7 (512MB, PC4200U)  
+**GPU:** ATI Radeon X1600PRO (PCIe, 256MB, VGA+S-Video+DVI)  
+**HDD:** Seagate ST380815AS (80GB, 7200RPM)  
+**CD:**  (absent)  
+**IO:**  [945APC](io.md#apc)  
+**IO:**  eSATA  
+**PSU:** AcBel ATX-450C-A2SNN (450W, 100-240V)  
+**Sticker:** B4A  
 **Games:** GDK  
 
 ### FAB-e945-KN205
@@ -350,8 +356,12 @@ Also known as: "BemaniPC Type 2" (unofficially).
 
 ### FAB-e67-KN612
 
+`#WEB:https://page.auctions.yahoo.co.jp/jp/auction/o1033199149`
+
+**MBD:** Toshiba TEM130-02A (3ACAF 2.00IV2)  
+**RAM:** 4GB DDR3-12800
+**IO: ** [APC](io.md#apc)  
 **Sticker:** E2  
-**MBD:** Toshiba TEM130  
 **Games:** NCK  
 
 ## `IT*`

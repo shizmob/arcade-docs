@@ -3,6 +3,8 @@
 ## APC
 
 * Product: TOPS APC CARD
+* Variants:
+  - `945APC`: power LED, ? button, HDD activity LED, power button, WDT LED, DE-9 serial port, IR?
 
 ## P2IO
 
