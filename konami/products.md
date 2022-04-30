@@ -2073,7 +2073,8 @@ chronologic order, e.g. regarding release dates.
   - REFLEC BEAT VOLZZA (2015, PC)
   - REFLEC BEAT VOLZZA 2 (2016, PC)
   - REFLEC BEAT 悠久のリフレシア (2016, PC)
-  - `GEMBR-JA`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/k561509534`
+  - `GEMBR-JA`: Upgrade kit `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/k561509534`
+  - `GQMBR-JA`: Dedicated cabinet
 * `MDX`
   - DanceDanceRevolution (2013, PC(945/HM65)?)
   - DanceDanceRevolution (2014, PC(945/HM65)?)
