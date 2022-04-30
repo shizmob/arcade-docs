@@ -379,7 +379,7 @@ Also known as: "BemaniPC Type 3" (unofficially).
 **GPU:** ATi Radeon 9600 XT (embedded)  
 **IO:** \[M39\] [USB I/O 2](io.md#usbio2)  
 **IO:** \[Others\] [P3IO](io.md#p3io)  
-**Games:** ID2 / I44 / J44 / K44 / G22 / G33 / H32 / H33 / I32 / I33 / J32 / J33 / K32 / K33 / M39  
+**Games:** ID2 / I44 / J44 / K44 / G32 / G33 / H32 / H33 / I32 / I33 / J32 / J33 / K32 / K33 / M39  
 **Ref:** http://k4copious.blog.fc2.com/blog-entry-14.html / http://callusnext.com/pcbs/pc_pm.html  
 
 ### 945
