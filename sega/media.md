@@ -1407,6 +1407,7 @@ MDA-U0083 : maimai DX                     : ALLS HX2 : JPN : SDEZ
 MDA-U0084 :
 MDA-U0085 : maimai DX                     : ALLS HX2 : EXP : SDGA
 MDA-U0086 : maimai DX 2021                : ALLS HX2 : CHN : SDGB
+        D : maimai DX 2022                : ALLS HX2 : CHN : SDGB #DOC:Wahlap:Maimai DX 2022 Software Upgrading Guidance
 MDA-U0087 :
 MDA-U0088 :
 MDA-U0089 :
