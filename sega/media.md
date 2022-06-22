@@ -50,7 +50,7 @@ Y = B: game DIMM
 840-0184B:    STAR HORSE PROGRESS RETURNS : video right
 840-0185B:    STAR HORSE PROGRESS RETURNS : live/voice
 840-0186B:    STAR HORSE PROGRESS RETURNS : satellite
-840-0187B:    STAR HORSE PROGRESS RETURNS : sound
+840-0187B:    STAR HORSE PROGRESS RETURNS : sound  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/t1052241180
 
 Y = C: cartridge
 840-0001C: DYNAMITE BASEBALL NAOMI : 253-5508-0246J
@@ -80,13 +80,13 @@ Y = C: cartridge
 840-0025C: MARS TV
 840-0026C: THE TYPING OF THE DEAD
 840-0027C: SEGA MARINE FISHING
-840-0028C: VIRTUAL-ON OT M.S.B.S. Ver5.66
+840-0028C: VIRTUAL-ON OT M.S.B.S. Ver5.66  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/e1051998987
 840-0030C: クイズ ああっ女神さまっ ～闘う翼とともに～  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/f1011359631
 840-0035C: SEGA STRIKE FIGHTER
 840-0036C: 18WHEELER : standard
 840-0037C: 18WHEELER : upright
 840-0038C: 日テレ式未来予想スタジオ
-840-0039C: GIANT GRAM 2000
+840-0039C: GIANTGRAM 2000  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/v1051858155
 840-0040C: WWF Royal Rumble : 253-5508-0285
 840-0041C: SLASHOUT : 253-5508-0302
 840-0042C: FERRARI F355 CHALLENGE 2
@@ -112,7 +112,7 @@ Y = C: cartridge
 840-0095C: SOUL SURFER : NAOMI2
 840-0098C: SHOOTOUT POOL
 840-0106C: VIRTUA FIGHTER 4 EVOLUTION : NAOMI2
-840-0117C: それいけ! アンパンマン ポップコーンこじょう2 : Rev.C
+840-0117C: それいけ! アンパンマン ポップコーンこじょう2 : Rev.C  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/k1052746541
 840-0128C: SHOOTOUT POOL PRIZE
 840-0128C: SHOOTOUT POOL THE MEDAL
 840-0129C: club kart PRIZE : NAOMI2
@@ -168,7 +168,7 @@ Y = C: cartridge
 841-0015C: PROJECT JUSTICE : 253-5509-5065
 841-0017C: 機動戦士ガンダム　連邦vs.ジオン
 841-0020C: ZERO GUNNER 2
-841-0057C: SHOOTING LOVE 2007
+841-0057C: シューティングラブ。 2007  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/o1052361326
 841-0058C: AKATSUKI BLITZKAMPF AUSF. ACHSE
 841-0059C: ILLVELO
 841-0060C: まもるクンは呪われてしまった!
@@ -893,7 +893,7 @@ DVR-5039  :
 DVR-5040  :
 DVR-5041  : 戦国大戦 Ver3 (No.1) : RingEdge : JPN : SDBD
 CDV-30041 : 戦国大戦 Ver3 (No.2) : RingEdge : JPN : SDBD
-DVR-5042  : WORLD CLUB CHAMPION FOOTBALL 2013-2014 : RingEdge : JPN : SDBH
+DVR-5042  : WORLD CLUB CHAMPION FOOTBALL 2013-2014 : RingEdge : JPN : SDBH  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/j1053966149
 DVR-5043  : maimai ORANGE (No.1) : RingEdge2 : JPN : SDBM
 CDV-30043 : maimai ORANGE (No.2) : RingEdge2 : JPN : SDBM
 DVR-5044  : maimai ORANGE PLUS (No.1) : RingEdge2 : JPN : SDBM
@@ -922,10 +922,12 @@ CDV-35052F: CODE OF JOKER (No.2) : RingEdge2 : JPN : SBYT
 DVR-5053  : BORDER BREAK X : RingEdge : JPN : SBVA : v5.00/v5.02/v5.06
 DVR-5054  :
 DVR-5055  :
-DVR-5056B : WORLD CLUB CHAMPION FOOTBALL 2016-2017 : RingEdge : JPN : SDDH
+DVR-5056A : WORLD CLUB CHAMPION FOOTBALL 2016-2017 : RingEdge : JPN : SDDH  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/j1053966149
+        B : ^
 DVR-5057  :
 DVR-5058  :
-DVR-5059B : WORLD CLUB CHAMPION FOOTBALL 2017-2018 : RingEdge : JPN : SDDY
+DVR-5059  : WORLD CLUB CHAMPION FOOTBALL 2017-2018 : RingEdge : JPN : SDDY  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/j1053966149
+        B : ^
 DVR-????  : Senkaisen Taissen CHINA V1.0 : RingWide (AAMK) : CHN : SBSQ
 DVR-????  : メダルのガンマン : RingWide : JPN : SBTF
 DVR-????  : すすめ！スゴロケッツ : RingEdge : JPN : SBTH
@@ -1104,6 +1106,7 @@ CDA-0009A-1D: ALL.Net P-ras MULTI バージョン3 (Disc.1) : JPN : SDEM
 ????        : StarHorse4 : ALLS MX2(client)/UX2(server) : JPN : SDFT
 ????        : Fiz : ALLS MX2 : JPN
 ????        : Initial D THE ARCADE : ALLS MX? : JPN : SDGT
+????        : WACCA : ALLS HX : JPN : SDFE
 ```
 
 ## MDA-G
@@ -1413,7 +1416,7 @@ MDA-U0088 :
 MDA-U0089 :
 MDA-U0090 :
 MDA-U0091 :
-MDA-U0092 :
+MDA-U0092 : ぷよぷよeスポーツ アーケード すぽっと！ : https://page.auctions.yahoo.co.jp/jp/auction/b1047926013
 MDA-U0093 :
 MDA-U0094 :
 MDA-U0095 :

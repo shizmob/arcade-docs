@@ -270,11 +270,12 @@ SEGA parts are referred to using a [proprietary format](identifiers.md#part-numb
         PCI: "SoundBlaster" [849-0005]
         PSU: Seasonic SS-400ET
 
-  * ALLS HX                       (ACAX, JP, 849-0006, "ASSY CASE ALLS HX")
-        MBD: Gigabyte MDH11BM
+  * ALLS HX                       (ACAX, ACAE-01A/B/C, JP, 849-0006, "ASSY CASE ALLS HX")
+        MBD: Gigabyte MDH11BM [01C: 837-15384-02]
         CPU: Intel Core i5-6500
-        RAM: 2x SK Hynix [4GB, DDR4-2133]
+        RAM: 2x SK Hynix HMA851U6AFR6N-UH [4GB, DDR4-2133]
         GPU: Nvidia GeForce GTX 1050
+             Nvidia GeForce GTX 1050Ti [01C]
         SSD: TDK GBDisk GS1 120GB [MDA-E0017]
         PSU: ???
 
