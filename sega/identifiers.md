@@ -320,15 +320,17 @@ A  - game boards, keychips
  69  - Nu/NuSX keychip
  71  - ELEFUN keychip
  72  - RingEdge/RingWide/RingEdge2 keychip
+   E
  80  - Lindbergh base board  #WEB:https://www.ebay.com/itm/394122590849
  85  - Triforce media board (NAND)  #WEB:https://www.ebay.com/itm/354010407072
  86  - Triforce media board (DIMM)  #WEB:http://www.ukvac.com/forum/trifroce-netboot-loading_topic375163.html
  87  - Chihiro media board (DIMM)  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/v762444544
    E - #WEB:https://www.ebay.com/itm/165010622651 #WEB:https://www.ebay.com/itm/155046839014
-   R -
+   R
  88  - NAOMI media board (ethernet)
    E - #WEB:https://www.ebay.com/itm/394126456249
- 89  - NAOMI media board (DIMM)  #WEB:https://www.ebay.com/itm/155045281377 #WEB:http://www.ukvac.com/forum/chihiro-cf-question_topic335149.html
+ 89  - NAOMI media board (DIMM)
+   E - #WEB:https://www.ebay.com/itm/115416199959 #WEB:https://www.ebay.com/itm/155045281377 #WEB:http://www.ukvac.com/forum/chihiro-cf-question_topic335149.html
 B  - ROM boards
 ```
 
