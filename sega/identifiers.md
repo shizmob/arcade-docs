@@ -273,6 +273,7 @@ A  - game boards, keychips
  AC  - NAOMI 2
  AD  - Triforce
  AE  - Chihiro
+   E - #WEB:https://www.ebay.com/itm/353960865216 #WEB:https://www.ebay.com/itm/353960828360 #WEB:https://www.ebay.com/itm/353960868040
  AF  - System SP/Aurora
    E
    G
@@ -323,6 +324,10 @@ A  - game boards, keychips
  85  - Triforce media board (NAND)  #WEB:https://www.ebay.com/itm/354010407072
  86  - Triforce media board (DIMM)  #WEB:http://www.ukvac.com/forum/trifroce-netboot-loading_topic375163.html
  87  - Chihiro media board (DIMM)  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/v762444544
+   E - #WEB:https://www.ebay.com/itm/165010622651 #WEB:https://www.ebay.com/itm/155046839014
+   R -
+ 88  - NAOMI media board (ethernet)
+   E - #WEB:https://www.ebay.com/itm/394126456249
  89  - NAOMI media board (DIMM)  #WEB:https://www.ebay.com/itm/155045281377 #WEB:http://www.ukvac.com/forum/chihiro-cf-question_topic335149.html
 B  - ROM boards
 ```

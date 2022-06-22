@@ -1111,7 +1111,7 @@ CDA-0009A-1D: ALL.Net P-ras MULTI バージョン3 (Disc.1) : JPN : SDEM
 
 ## MDA-G
 
-CF (Naomi/Triforce/Chihiro).
+CF (Naomi/Triforce/Chihiro).  `#WEB:https://www.zax.com.au/buy/cf-box-kit/XTI-0266-04`
 
 ```
 MDA-G0001 : Club Kart Cycraft Edition       : NAOMI2
