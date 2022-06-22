@@ -50,6 +50,7 @@ Missing: 002, 004, 009, 010, 015, 016, 018, 019, 020, 023
 | 105A   | Cel 3.2GHz    | 2GB   |             |                                                                                             |
 | 105A   | P4 2.8GHz     | 2GB   |             | Compact case  `#WEB:https://www.ebay.com/itm/402909908213?hash=item5dcf4d4cf5:g:RaEAAOSwgzxggqt4`  |
 | 111A   | Cel 3.2GHz    | 1GB   | E4690       | ブロックキング  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/e510866955`                |
+|--------|---------------|-------|-------------|---------------------------------------------------------------------------------------------|
 | 203A   | P4 3.4GHz     | 512MB | GF7900GS    | BATTLE FANTASIA M9007185A VER.2.05JPN (B3900112A, black/gray)                               |
 | 203B-R | P4 3.4GHz     | 512MB | GF7900GS    | MUSIC GUNGUN! 2 / HOPPING ROAD M9007872A Ver.1.04JPN                                        |
 | 204A   | Cel 3.2GHz    | 512MB | X1600PRO    |                                                                                             |
@@ -112,7 +113,7 @@ Missing: 401
 |  500A | i5-4590S | 4GB(DDR3-1600) x2  | GTX960-2GB  | STREET FIGHTER V TYPE ARCADE / LOVELIVE! AC CENTER M9009121A / LOVELIVE! AC SATELLITE PPLAN M9009129A / LOVELIVE! AC NS CENTER / LOVELIVE! AC NS SATELLITE P PLAN / LOVELIVE! AC NS SATELLITE SPLAN / MGICIANS DEAD M9009141A `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/x1050826171` |
 |  502A | i7-4970S | 8GB(DDR3-1600) x2  | GTX1080-8GB | HOSHI NO TSUBA / DENSHA DE GO                           |
 |  504A | i5-4590S | 4GB(DDR3L-1600) x2 | RTX2070-8GB | DENSHADE GO!! COMPACT-(10PLAN)                          |
-|  601A | Pentium G4400 | 8GB(DDR4-2133) x2 | Intel HD Graphics | Groove Coaster 4C EXP (aka. RhythmVader CHN 2 / 音炫轨道2)`#WEB:https://twitter.com/jq9837/status/1456432713703981060`|
+|  601A | Pentium G4400 | 8GB(DDR4-2133) x2 | Intel HD Graphics | Groove Coaster 4C EXP (aka. RhythmVader CHN 2 / 音炫轨道2)  `#WEB:https://twitter.com/jq9837/status/1456432713703981060` |
 
 Missing: 501, 503
 
