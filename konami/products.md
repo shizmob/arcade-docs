@@ -160,7 +160,7 @@ chronologic order, e.g. regarding release dates.
 * `107`: "ZR107" platform  `#MAME:zr107`
   - `ZR107 PWB(A)300769A`: CPU board
   - `ZR107 PWB(B)300816D`: GPU board
-* `111`: Super Mario Roulette?  `#WEB:https://blog.goo.ne.jp/arm9/e/c2ce08f45c7ba09a1753244c894adf00`
+* `111`: Mario Roulette  `#WEB:https://blog.goo.ne.jp/arm9/e/c2ce08f45c7ba09a1753244c894adf00 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1051842708`
   - `PWB452093A`
 * `117`: Quick Pick 5 (1991)  `#MAME:quickpick5`
   - `PWB(A)352878A`
@@ -610,8 +610,9 @@ chronologic order, e.g. regarding release dates.
   - `GX800`: [Konami test board]  `#MAME:kontest`
 * `802`: 実況パワフルプロ野球 EX / Jikkyou Powerful Pro Baseball EX (1998, SYSTEM573-CDROM)  `#MAME:ksys573 #MISC:oyakodon_oniku_list`
   - `GX802-JA`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/e1010203281`
+  - `802 JA B02`: [CD]  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/x1050862067`
 * `803`: ポップンミュージック / pop'n music (1998, DJMAIN-ROM+HDD)  `#MAME:djmain #MISC:oyakodon_oniku_list #WEB:https://aucview.aucfan.com/yahoo/l633207937`
-  - `GQ803`: cabinet
+  - `GQ803`: cabinet  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/s1052056411`
   - `GQ803` / `803 JA`: HDD 1.00
   - `GQ803AA` / `803 KA`: HDD 1.01
   - `GC803`
@@ -910,7 +911,8 @@ chronologic order, e.g. regarding release dates.
 * `956`: 携帯インカム集計モジュール? / Cabinet rental system?  `#MEDIA:konami/GQ976/GU956`
   - [`GU956`: Mobile bookkeeping unit](product/GU956.md)
 * `958`: サイクロンフィーバー (2000)  `#MISC:oyakodon_oniku_list`
-* `960`: Powerful Chance  `#MAME:konmedal68k`
+* `960`: Powerful Chance  `#MAME:konmedal68k #WEB:https://page.auctions.yahoo.co.jp/jp/auction/h1051643868`
+  - `GS960`
 * `963`: TMNT スーパー亀忍者 (1989, TMNT-ROM)  `#MISC:oyakodon_oniku_list`
   - `GX963 PWB351853A`  `#WEB:https://www.zax.com.au/buy/teenage-mutant-ninja-turtles-2-player-konami-pcb/KONAMI_TMNT2P`
 * `965`: マジックタイムポーカー  `#MISC:oyakodon_oniku_list`
@@ -935,7 +937,7 @@ chronologic order, e.g. regarding release dates.
   - `GQ972 PWB(G1) 000007?833`: [Firebeat amplifier board]
 * `973`: クォース / Quarth / Block Hole (1989, TMNT-ROM)  `#MAME:blockhl#MISC:oyakodon_oniku_list #WEB:https://page.auctions.yahoo.co.jp/jp/auction/r1000032926`
   - `GX973`
-* `974`: KEYBOARDMANIA / Keyboard Heaven (2000, FIREBEAT-CDROM)  `#MAME:firebeat`
+* `974`: KEYBOARDMANIA / Keyboard Heaven (2000, FIREBEAT-CDROM)  `#MAME:firebeat #WEB:https://page.auctions.yahoo.co.jp/jp/auction/k1052048930`
   - `GQ974`
   - `GU974`: Keyboard Heaven [Korea]
   - `GQ974 PWB(A2) 0000070140`: FireBeat/EXTEND [extension board]
@@ -1039,7 +1041,10 @@ chronologic order, e.g. regarding release dates.
   - `A03 JA A01`: program CD-ROM
   - `A03 JA A02`: VIDEO CDROM  `#WEB:https://www.mercari.com/jp/items/m68237821051/`
   - `A03 JA A03`: HDD
-* `A04`: ポップンミュージック 5 / pop'n music 5 (2000, FIREBEAT-CDROM)  `#MAME:firebeat`
+* `A04`: ポップンミュージック 5 / pop'n music 5 (2000, FIREBEAT-CDROM)  `#MAME:firebeat #WEB:https://page.auctions.yahoo.co.jp/jp/auction/h1052030093`
+  - `GCA04-JA`
+  - `GCA04-JB`
+  - `GEA04-JA`
   - `A04 JA A02`: pop'n music 5 DISK2
 * `A05`: beatmania CORE REMIX (2000, DJMAIN-ROM+HDD), beatmania III APPEND CORE REMIX (2000, FIREBEAT-CDROM+HDD)  `#MAME:firebeat #MISC:oyakodon_oniku_list`
   - `GCA05-JA`: beatmania CORE REMIX standard type conversion kit  `#WEB:https://aucview.aucfan.com/yahoo/n407875080`
@@ -1156,7 +1161,7 @@ chronologic order, e.g. regarding release dates.
   - `GSA89`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1003284408`
 * `AMM`: [generic]
   - `AMM-JP`: [generic white security dongle replacement]  `#WEB:https://cdn.discordapp.com/attachments/261906360776654858/953868178545577994/received_464722335437227.jpeg`
-* `AN1`: らんらん ぱぴい 2000 DDR MET-ROM   `#MISC:oyakodon_oniku_list`
+* `AN1`: らんらん ぱぴい (2000, DDR_MET-ROM)  `#MISC:oyakodon_oniku_list #WEB:https://page.auctions.yahoo.co.jp/jp/auction/1047470234`
   - `GSAN1`  `#WEB:https://callusnext.com/diary/diarylog.cgi?date=2009/07 #MAME:konamigs`
   - `GSAN1 PWB(A1)0000081562`: main board  `#WEB:http://callusnext.com/diary/images/ddrkids_2.jpg`
 * `AN4`: Dance Dance Revolution Kids (2000, DDR_MET-ROM)  `#MAME:konamigs #MISC:oyakodon_oniku_list`
@@ -1199,6 +1204,7 @@ chronologic order, e.g. regarding release dates.
   - `GYB09-PWB(B)A`  `#WEB:https://www.ebay.co.uk/itm/165082617245`
   - `GYB09-PWB(C)`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/r1046031520`
   - `GYB09-PWB(E)`: "Signal audio bypass board"?  `#WEB:https://www.ebay.co.uk/itm/165026080141`
+  - `GUB09-JE`
 * `B11`: ザ・警察官2 全国大追跡スペシャル / ザ・警察官 新宿24時2 / THE KEISATSUKAN 2 / Police 911 2 / Police 24/7 2 (2001, VIPER-CFCARD)  `#MAME:viper #MISC:oyakodon_oniku_list #DOC:konami:0000108133`
   - `GQB11-HD`: cabinet (Hong Kong, 220V)
   - `GCB11-JA`: software conversion kit  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/u391737901`
@@ -1263,6 +1269,7 @@ chronologic order, e.g. regarding release dates.
   - `GCC07-JA`: software conversion kit  `#WEB:https://www.ebay.co.uk/itm/303931753488 #WEB:https://www.ebay.co.uk/itm/165012422913`
   - `GCC07-JB`: software conversion kit [power up version]  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1036818158`
   - `GUC07-JA`: GUITARFREAKS drummania ネットワークPCBユニット / network PCB unit  `#WEB:https://aucview.aucfan.com/yahoo/x694692210`
+  - `C07 JA A02`: [CD-ROM]  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/w1051883063`
 * `C08`: GuitarFreaks 8thMIX
   - `GCC08`
   - `GEC08`: Power Up Version
@@ -1272,6 +1279,7 @@ chronologic order, e.g. regarding release dates.
   - `C18 AA`  `#WEB:https://www.ebay.co.uk/itm/165016229915`
   - `C18 AA A03`: CF card  `#WEB:https://www.ebay.co.uk/itm/165016229915`
   - `GXC18-EAA`: Pro Evolution Soccer The Arcade
+  - `GUC18-JB`: cards (500)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/u1052020400`
 * `C20`: ポップンミュージック 10 / pop'n music 10 (2002, PYTHON-HDD)  `#WEB:https://www.mercari.com/jp/items/m27619565194/ #MISC:oyakodon_oniku_list MEDIA:konami/popn-manuals.jpg #WEB:https://page.auctions.yahoo.co.jp/jp/auction/558747544`
   - `GEC20-JB`: conversion kit
   - `GEC20-JD`: conversion kit
@@ -1416,6 +1424,7 @@ chronologic order, e.g. regarding release dates.
   - `GCE12-JD`: conversion kit (no e-AMUSEMENT)
   - `E12 TWR`: magnetic card reader tower  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/l1029476264`
 * `E13`: ポップンミュージック 13 / pop'n music 13 (2005, PYTHON-HDD)  `#MISC:oyakodon_oniku_list MEDIA:konami/popn-manuals.jpg #WEB:https://page.auctions.yahoo.co.jp/jp/auction/f1013475977`
+  - `GNE13-JA`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/p1052042321`
   - `GCE13-JA`
   - `GCE13-JB`: conversion kit (e-AMUSEMENT)  `#WEB:https://www.coinopexpress.com/products/pcbs/music_pcbs___upgrades/Pop%27n-Music-13-Carnival-upgrade-kit-7996.html`
   - `GCE13-JC`
@@ -1455,6 +1464,8 @@ chronologic order, e.g. regarding release dates.
   - `GEF03`
   - `GEF03-JA`  `#WEB:https://www.zax.com.au/buy/konami-guitar-freaks-v5-python-3-pcb-gameboard/GF5_PYTHON3`
   - `GEF03-AB`: GEF03-JA dongle serial label  `#WEB:https://www.zax.com.au/buy/konami-guitar-freaks-v5-python-3-pcb-gameboard/GF5_PYTHON3`
+  - `GCF03-JA`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/f1052047010`
+  - `GCF03-JB`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/f1052047010`
   - `F03 JA A03`: disc  `#WEB:https://www.zax.com.au/buy/guitar-freaks-v2-konami-software-disc-only/F03-JA-A03`
 * `F14`: ポップンミュージック 14 FEVER! / pop'n music 14 FEVER! (2006, PYTHON-HDD)  `#MISC:oyakodon_oniku_list MEDIA:konami/popn-manuals.jpg`
   - `GCF14-JB`: conversion kit
@@ -1760,8 +1771,8 @@ chronologic order, e.g. regarding release dates.
 * `J33`: GuitarFreaks V7 (2010, PC(855)), GuitarFreaksXG (2010, PC(945))
   - `GQJ33-JA`: GuitarFreaksXG cabinet  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/l692194829 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/f1026281570`
   - `GKJ33-CA` (PC(J32-945-03))  `#WEB:https://www.ebay.com/itm/165022274600`
-  - `GCJ32-JB`: GuitarFreaks V7 conversion kit: software  `#DOC:konami:113207320000`
-  - `GCJ32-AB`: GuitarFreaks V7"conversion kit (software)"  `#DOC:konami:113207350000`
+  - `GCJ33-JB`: GuitarFreaks V7 conversion kit: software  `#DOC:konami:113207320000`
+  - `GCJ33-AB`: GuitarFreaks V7"conversion kit (software)"  `#DOC:konami:113207350000`
   - `PWB113039760000`: I/O board  `#WEB:https://www.ebay.co.uk/itm/165014505463`
   - `PWB111865910000`: amp board (1998)  `#WEB:https://www.ebay.co.uk/itm/165010788532`
   - `PWB113025130000`: amp board  `#WEB:https://www.ebay.co.uk/itm/165014508672`
@@ -1772,6 +1783,10 @@ chronologic order, e.g. regarding release dates.
   - `GQJ44-JC`
 * `J55`: GI-HORSEPARK GX [station?]  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/o1000215728`
 * `J56`: GI-HORSEPARK GX STD (2009, PC-MEDAL)  `#MISC:oyakodon_oniku_list`
+* `J65`: エターナルナイツ3 / Eternal Knights 3 (2010)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1047135130`
+  - `J65 JB SYS A01`: SYSTEM DISC for STAITION PC [DVD-ROM]
+  - `J65 JB APP A01`: APPLICATION DISC1 for STAITION PC [DVD-ROM]
+  - `J65 JB APP A02`: APPLICATION DISC2 for STAITION PC [DVD-ROM]
 * `JC9`: オンガクパラダイス / Ongaku Paradise (2010)
 * [`JDJ`: beatmania IIDX 17 SIRIUS](software/JDJ.md) (2009, PC(B5)IO(C02/D01/USB2)-HDD)   `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/o455537291 #MISC:oyakodon_oniku_list``
   - `GCJDJ-JA`
@@ -2143,6 +2158,8 @@ chronologic order, e.g. regarding release dates.
   - `GCO70-JB`: conversion kit (1-player unit)
 * `OSP`: シャドウプリンセス / ShadowPrincess (2015)
   - `GSOSP-JA`
+* `OTC`: メダル トレジャーシュート  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/v1052159990`
+  - `GSOTC-JA`
 * `OVO`: モンスターストライク MULTI BURST / Monster Strike MULTI BURST (2015)  `#MISC:oyakodon_oniku_list`
 * `P2D`: beatmania IIDX INFINITAS [home version] (2015, PC)
 * `P65`: エルドラクラウン  `#SCRAPE:konami:eagate #WEB:https://page.auctions.yahoo.co.jp/jp/auction/v1028813695`
@@ -2165,7 +2182,9 @@ chronologic order, e.g. regarding release dates.
   - `GSPTL-JB`: station  `#CLAIM:felix`
   - `GSPTL ST`: dongle label (station)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/o486106608`
   - `PTL ST A01 SA1`: HDD label (station)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/o486106608`
-* `PWT`: トレジャーシュート, マジカルシューター?  `#SCRAPE:konami:eagate #MISC:oyakodon_oniku_list`
+* `PWT`: トレジャーシュート, マジカルシューター?  `#SCRAPE:konami:eagate #MISC:oyakodon_oniku_list #WEB:https://page.auctions.yahoo.co.jp/jp/auction/f1052167884`
+  - `GSPWT (STD)`
+  - `PWT PC J01 SA2`
 * `PX8`: フォーチュントリニティ3 三神獣の秘宝 / FORTUNE TRINITY 3  `#SCRAPE:konami:eagate #WEB:https://jp.mercari.com/item/m78276248788`
   - `GEPX8-JA`: conversion kit (A kit)
   - `GEPX8-JB`: conversion kit (B kit)
