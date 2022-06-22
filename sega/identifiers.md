@@ -319,6 +319,7 @@ A  - game boards, keychips
  69  - Nu/NuSX keychip
  71  - ELEFUN keychip
  72  - RingEdge/RingWide/RingEdge2 keychip
+ 80  - Lindbergh base board
  87  - Chihiro media board
 B  - ROM boards
 ```
