@@ -319,8 +319,10 @@ A  - game boards, keychips
  69  - Nu/NuSX keychip
  71  - ELEFUN keychip
  72  - RingEdge/RingWide/RingEdge2 keychip
- 80  - Lindbergh base board
- 87  - Chihiro media board
+ 80  - Lindbergh base board  #WEB:https://www.ebay.com/itm/394122590849
+ 85  - Triforce media board  #WEB:https://www.ebay.com/itm/354010407072
+ 87  - Chihiro media board  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/v762444544
+ 89  - NAOMI media (DIMM) board  #WEB:https://www.ebay.com/itm/155045281377 #WEB:http://www.ukvac.com/forum/chihiro-cf-question_topic335149.html
 B  - ROM boards
 ```
 
