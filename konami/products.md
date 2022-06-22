@@ -984,7 +984,8 @@ chronologic order, e.g. regarding release dates.
   - `GQ986 PWB(A)0000073015`, `GQ986 PWB(A1)`: FireBeat/PBACK [FireBeat backplane board, 2 slots]  `#WEB:https://www.ebay.com/itm/324719849559`
   - `GQ986 PWB(C)0000074638`: VWATCH [voltage regulator/output board]  `#MEDIA:konami/GQ976/firebeat/psu.jpg`
 * `987`: ポップンミュージック アニメロ / pop'n music アニメロ (2000, FIREBEAT-CDROM)  `#MAME:firebeat #MISC:oyakodon_oniku_list`
- * `GQ987`  `#WEB:https://jp.mercari.com/item/m15812219076`
+  - `GQ987`  `#WEB:https://jp.mercari.com/item/m15812219076`
+  - `GQ987 B02`: ポップンミュージック アニメロ ソフトウェアDISK2 [DVD, 0000-78494]  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/u1055239702`
 * `988`: beatmania completeMIX 2 / hiphopmania completeMIX 2 (2000, DJMAIN-ROM+HDD)  `#WEB:https://aucview.aucfan.com/yahoo/l586897291`
   - `GC988-JA`: conversion kit
 * `990`: プリプリキャンバス BEMANI MIX バージョン (1999)  `#MISC:oyakodon_oniku_list`
@@ -1045,6 +1046,7 @@ chronologic order, e.g. regarding release dates.
   - `GCA04-JA`
   - `GCA04-JB`
   - `GEA04-JA`
+  - `A04 JA A01`: pop'n music 5 DISK1 [CD]  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/c1055231331`
   - `A04 JA A02`: pop'n music 5 DISK2
 * `A05`: beatmania CORE REMIX (2000, DJMAIN-ROM+HDD), beatmania III APPEND CORE REMIX (2000, FIREBEAT-CDROM+HDD)  `#MAME:firebeat #MISC:oyakodon_oniku_list`
   - `GCA05-JA`: beatmania CORE REMIX standard type conversion kit  `#WEB:https://aucview.aucfan.com/yahoo/n407875080`
@@ -1070,6 +1072,7 @@ chronologic order, e.g. regarding release dates.
   - `GCA16-JA`: conversion kit
   - `GCA16-JB`: conversion kit
   - `GEA16-JA`: conversion kit
+  - `A16 JA B01`: DISC 1 [CD]  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/c1055232523`
 * `A17`: beatmania IIDX 5th Style (2001, TWINKLE-CDROM)  `#MAME:twinkle #MISC:oyakodon_oniku_list`
   - `GCA17-JA`
   - `A17`: dongle
@@ -1183,7 +1186,7 @@ chronologic order, e.g. regarding release dates.
   - `GCB00-JA`: conversion kit
   - `GCB00-JB`: conversion kit
   - `GEB00-JA`: conversion kit
-  - `B00 JA B01`: DISC 1 [CD]  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/d1036136182`
+  - `B00 JA B01`: DISC 1 [CD]  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/d1036136182 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/c1055231583`
   - `B00 JA A02`: DISC 2 [DVD]  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/d1036136182`
 * `B01`: セレブリティスタジオ  `#MISC:oyakodon_oniku_list #MEDIA:konami/gqb01/board.png`
   - `GQB01-PWB(B)?`: power supply/IO relay board
@@ -1223,7 +1226,7 @@ chronologic order, e.g. regarding release dates.
   - `GCB30-JA`: conversion kit
   - `GCB30-JB`: conversion kit
   - `GEB30-JA`: conversion kit
-  - `B30 JA B01`: DISC 1  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/p848826913`
+  - `B30 JA B01`: DISC 1 [CD]  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/p848826913 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/u1055231893`
   - `B30 JA A02`: DISC 2  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/p848826913`
 * `B31`: カード販売機 2券種  `#MISC:oyakodon_oniku_list`
 * `B33`: モーキャップゴルフ / Mocap Golf (2001, VIPER-CFCARD)   `#MAME:viper #MISC:oyakodon_oniku_list`
@@ -1737,7 +1740,8 @@ chronologic order, e.g. regarding release dates.
   - 遊戯王ファイブディーズ デュエルターミナル 混沌の覇者!! (2009, PC-YUGIOU)  `#MISC:oyakodon_oniku_list`
   - 遊戯王ファイブディーズ デュエルターミナル 疾風のドラグニティ!! (2009, PC-YUGIOU)  `#MISC:oyakodon_oniku_list`
   - `GCID5-JA`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/f524010900`
-* `IG2`: ガシャーンおかわり  `#MISC:oyakodon_oniku_list #WEB:https://page.auctions.yahoo.co.jp/jp/auction/b572447085`
+* `IG2`: ガシャーンおかわり (?, PC(A3))  `#MISC:oyakodon_oniku_list #WEB:https://page.auctions.yahoo.co.jp/jp/auction/b572447085`
+  - `GLIG2-JA`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/m1055346788`
   - `IG2 JA A01`: system disc
   - `IG2 JA A02`: application disc 2
   - `IG3 JA A03`: application disc 3
