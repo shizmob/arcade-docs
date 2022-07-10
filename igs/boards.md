@@ -1,3 +1,4 @@
+
 # Proprietary
 ## PolyGameMaster (PGM) `#MAME:pgm.cpp`
 **CPU**: Motorola 68HC000FN20 @ 20MHz (main); Zilog Z80 @ 8.468MHz (sound); IGS027A (customized ARM processor with internal ROM, coprocessor in some game cartridges)
@@ -36,6 +37,8 @@ Despite using Intel processors, PGM3 is not a PC/AT compatible system.
 **Extra:** IC card readers
 ## MA1000
 (There is little to no information about this board yet.)
+
+
 
 # PC-Based
 ## E2000
@@ -119,4 +122,10 @@ Currently found BIOS versions are:
 **OS:** Windows 10 IoT Embedded LTSB 2016 / LFS Linux (only found in SpeedDriver 4 replacement PCBs)
 
 ## V3000
+**Motherboard:** GIGABYTE H110M-S2PV
 
+**GPU:** Nvidia GeForce RTX 2060 Super, other variations may exist
+
+**Sound:** Realtek ALC887 (HD Audio)
+
+**OS:** Windows 10 IoT Embedded LTSB 2016
