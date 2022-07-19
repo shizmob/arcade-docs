@@ -202,7 +202,7 @@ as specific MK versions nor revisions by Andamiro. Compatbility with different s
 
 ### G41
 
-#### Asrock
+#### Asrock G41
 
 * Motherboard: Asrock G41M-S3
 * GPU: GeForce 9300GS
@@ -211,7 +211,7 @@ as specific MK versions nor revisions by Andamiro. Compatbility with different s
 * IO: [USBPIUIO](io.md#usbpioio)
 * Hardware shipped with [Pump it Up Jump cabinets](cabinet.md#jump)
 
-#### Gigabyte
+#### Gigabyte G41
 
 * Motherboard: Gigabyte G41M
 * GPU: Nvidia GeForce GT210
