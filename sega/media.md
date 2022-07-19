@@ -750,7 +750,7 @@ DVR-0021  :
 DVR-0022  :
 DVR-0023  :
 DVR-0024  :
-DVR-0025  :
+DVR-0025A : THAT'S PARADICE : RingEdge : JPN : SBVC : v1.01?
 DVR-0026B : SEGA GOLDEN GUN : RingWide : SBVE
 DVR-0027  : セガネットワーク対戦麻雀 MJ5 : RingEdge : JPN : SBVF
         J : ^
@@ -933,7 +933,6 @@ DVR-????  : メダルのガンマン : RingWide : JPN : SBTF
 DVR-????  : すすめ！スゴロケッツ : RingEdge : JPN : SBTH
 DVR-????  : XIYANGYANG : RingWide : CHN : SBVG
 DVR-????  : ??? : JPN : SBUK
-DVR-????  : THAT'S PARADICE : RingEdge : JPN : v1.01
 DVR-????  : Super Monkey Ball : RingWide : SBVJ
 DVR-????  : Initial D Arcade Stage 6 AA : RingEdge : EXP : SBWV
 DVR-????  : LADY LUCK GAME : RingWide : JPN : SBXF
