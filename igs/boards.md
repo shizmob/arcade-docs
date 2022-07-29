@@ -47,8 +47,8 @@ Despite using Intel processors, PGM3 is not a PC/AT compatible system.
 
 # PC-Based
 
-### pre-E2000
-## Percussion Master (export)
+## pre-E2000
+### Percussion Master (export)
 **Motherboard:** ECS L4S5MG/651+ (V5.0A)
 
 **Chipset:** SiS 651 (Northbridge) / SiS 692 (Southbridge)
@@ -61,7 +61,7 @@ Despite using Intel processors, PGM3 is not a PC/AT compatible system.
 
 **OS:** Red Hat Linux (32-bit)
 
-## Rock Fever 4 Remix
+### Rock Fever 4 Remix
 **Motherboard: ** Foxconn 661FX7MI-S (?)
 
 **CPU:** Intel Celeron D (?) (LGA 775)
