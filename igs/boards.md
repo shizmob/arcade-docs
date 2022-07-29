@@ -62,7 +62,7 @@ Despite using Intel processors, PGM3 is not a PC/AT compatible system.
 **OS:** Red Hat Linux (32-bit)
 
 ### Rock Fever 4 Remix
-**Motherboard: ** Foxconn 661FX7MI-S (?)
+**Motherboard:** Foxconn 661FX7MI-S (?)
 
 **CPU:** Intel Celeron D (?) (LGA 775)
 
