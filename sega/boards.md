@@ -278,15 +278,10 @@ SEGA parts are referred to using a [proprietary format](identifiers.md#part-numb
         GPU: ELSA GeForce GTX1070 8GB ST for SEGA
         SSD: TDK GBDisk GS1 120GB [MDA-E0017]
         HDD: HGST HTS725050A7E630 500GB [849-0004, 849-0005]
-<<<<<<< Updated upstream
-        PCI: "SoundBlaster" [849-0005]
-        PSU: Seasonic SS-400ET
-=======
         SND: Realtek ALC888S
         "SoundBlaster" [849-0005]
         OS: Windows 10 IoT LTSB 2016
-        PSU: ???
->>>>>>> Stashed changes
+        PSU: Seasonic SS-400ET
 
   * ALLS HX                       (ACAX, ACAE-01A/B/C, JP, 849-0006, "ASSY CASE ALLS HX")
         MBD: Gigabyte MDH11BM [01C: 837-15384-02]
@@ -335,13 +330,9 @@ SEGA parts are referred to using a [proprietary format](identifiers.md#part-numb
              Nvidia GeForce GTX 1660Ti [MX2.1]
         SSD: TDK GBDisk GS1 120GB [MDA-E0023]
         HDD: ??? [849-1006, 849-1010]
-<<<<<<< Updated upstream
-        PSU: FSP FSP500-50AAC
-=======
         SND: Realtek ALC888S
         OS: Windows 10 IoT LTSC 2019
-        PSU: ???
->>>>>>> Stashed changes
+        PSU: FSP FSP500-50AAC
 
   * ALLS X2                       (ACA?, JP, 849-1007?)
   * ALLS X2 (with sub-storage)    (ACA?, JP, 849-1008?)
