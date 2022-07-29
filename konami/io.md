@@ -84,7 +84,7 @@
     * Known versions: 1.2.1 / Nov 27 2017 14:48:52
   - BI2X \[S36/SA1/T44/TBS/TCS/TDJ/UFC\]
 * Connectors: USB
-* Compatible games: KFC (starting Vivid Wave), [LDJ (starting 25 CANNON BALLERS)](software/LDJ.md), MDX (GQMDX-JG 20th anniversary model), REC, S36, SA1, T44, TBS, TCS, TDJ, UFC, UDN
+* Compatible games: KFC (starting Vivid Wave), [LDJ (starting 25 CANNON BALLERS)](software/LDJ.md), MDX (GQMDX-JG 20th anniversary model), REC, S36, SA1, T44, TBS, TCS, TDJ, UFC
 
 ### BIO2 LDJ sub IO
 
