@@ -19,6 +19,7 @@
 * Aspect ratio: 4:3
 * Native resolution: 640x480 (VGA)
 * Inputs: VGA
+* Further supported resolutions: 320x200 (CGA), EGA (640x350)
 
 ## GX CRT curved
 

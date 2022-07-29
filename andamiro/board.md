@@ -183,6 +183,8 @@ PC-DOCTOR DOS 3.0 Copyr 2004 PC-Doctor, Inc. 16:15 9/25/2000
 These are usually referred to as "MK9" or "MK10/MKX" depending on when released. However, these were never referred to
 as specific MK versions nor revisions by Andamiro. Compatbility with different software versions might vary.
 
+### 945
+
 * Motherboard: Gigabyte GA-945GCM-S2L
 * GPU: GeForce 7200GS
 * IO: [USBPIUIO](io.md#usbpioio)
@@ -190,7 +192,17 @@ as specific MK versions nor revisions by Andamiro. Compatbility with different s
 * Anything before [NX2](game/piu/nx2.md) 1.54 doesn't work with this revision
 * Shipped with upgrades and when buying a [FX cabinet](cabinet.md#fx) at that time
 
----
+### G31
+
+* Motherboard: Gigabyte G31M
+* GPU: Nvidia GeForce 8400GS
+* IO: [USBPIUIO](io.md#usbpioio)
+* Bundled with Fiesta when buying a [TX cabinet](cabinet.md#tx) at that time
+* GPU last compatible card with [Fiesta](game/piu/fst.md)/[FiestaEX](game/piu/fstex.md)
+
+### G41
+
+#### Asrock G41
 
 * Motherboard: Asrock G41M-S3
 * GPU: GeForce 9300GS
@@ -199,15 +211,7 @@ as specific MK versions nor revisions by Andamiro. Compatbility with different s
 * IO: [USBPIUIO](io.md#usbpioio)
 * Hardware shipped with [Pump it Up Jump cabinets](cabinet.md#jump)
 
----
-
-* Motherboard: Gigabyte G31M
-* GPU: Nvidia GeForce 8400GS
-* IO: [USBPIUIO](io.md#usbpioio)
-* Bundled with Fiesta when buying a [TX cabinet](cabinet.md#tx) at that time
-* GPU last compatible card with [Fiesta](game/piu/fst.md)/[FiestaEX](game/piu/fstex.md)
-
----
+#### Gigabyte G41
 
 * Motherboard: Gigabyte G41M
 * GPU: Nvidia GeForce GT210
@@ -215,14 +219,13 @@ as specific MK versions nor revisions by Andamiro. Compatbility with different s
 * Bundled with [Fiesta 2](game/piu/f2.md) when buying a [CX cabinet](cabinet.md#cx) at that time
 * GPU last compatible card with Fiesta 2 OS
 
----
+### H81
 
-* Chipset: G41
+* Motherboard: Asrock H81M-DGS REV2.01
+* CPU: Intel Celeron G1840/2.8GHz
+* GPU: Nvidia GeFroce GT710 1GB 64bit DD3
+* IO: [LXIO](io.md#lxio) and [USBPIUIO](io.md#usbpiuio) with breakout cables for LXIO "hanging out"
+* RAM: 2 GB
+* Bundled with Pump It Up [XX](game/piu/xx.md) upgrade kit
 
----
-
-* Chipset: H81
-
----
-
-* Chipset: H310
+### H310

@@ -99,7 +99,7 @@ The follow hardware is connected on this connector:
  4: NC
  5: Jumper cable (brown) -> Connects to bottom pin 6
  6: NC
- 7: EXT I/O serial (purple)
+ 7: EXT I/O serial TX (purple)
  8: NC
  9: NC
 10: NC
@@ -116,10 +116,10 @@ The follow hardware is connected on this connector:
 21: NC
 22: NC
 23: NC
-24: Lights I/O (yellow-grey)
-25: Lights I/O (light blue)
-26: Lights I/O (grey)
-27: GND (black)
+24: Lights P2 cabinet button lights (yellow-grey)
+25: Lights P1 halo up (light blue)
+26: Lights P2 halo down (grey)
+27: GND for +5V (black)
 28: NC
 ```
 
@@ -132,8 +132,8 @@ The follow hardware is connected on this connector:
  4: NC
  5: NC
  6: Jumper cable (brown) -> Connects to top pin 5
- 7: EXT I/O serial (grey)
- 8: EXT I/O serial (black)
+ 7: EXT I/O serial RX (grey)
+ 8: EXT I/O serial GND (black)
  9: NC
 10: NC
 11: NC
@@ -148,10 +148,10 @@ The follow hardware is connected on this connector:
 20: NC
 21: NC
 22: NC
-23: Lights I/O (purple-grey)
-24: Lights I/O (green)
-25: Lights I/O (purple)
-26: Lights I/O (black)
+23: Lights P1 cabinet button lights (purple-grey)
+24: Lights P2 halo up (green)
+25: Lights P1 halo down (purple)
+26: Lights GND (black)
 27: NC
 28: NC
 ```
@@ -168,14 +168,14 @@ Pintout order: looking at the front of the connector, left to right:
 |-----------------|
 
 1: Earth (yellow-green)
-2: ??? (grey)
-3: ??? (purple)
-4: ??? (light blue)
-5: ??? (green)
-6: ??? (yellow-grey)
-7: ??? (purple-grey)
+2: P2 halo down (grey)
+3: P1 halo down (purple)
+4: P1 halo up (light blue)
+5: P2 halo up (green)
+6: P2 cabinet button lights (yellow-grey)
+7: P1 cabinet button lights (purple-grey)
 8: NC
-9: ??? (black)
+9: GND (black)
 ```
 
 ## EXT I/O serial connector
@@ -190,6 +190,86 @@ Pintout order: looking at the front of the connector, left to right:
 |-----|
 
 1: GND (black)
-2: ??? (purple)
-3: ??? (grey)
+2: TX (purple)
+3: RX (grey)
+```
+
+## Adapter secondary JAMMA connector to "classic" DDR wiring
+
+With the secondary JAMMA connector being propriatary to the Dancing
+Stage Fusion cabinet, you need a "breakout" adapter that splices
+the JAMMA connector into the following separate connectors:
+
+* `EHR-5` connector to COM1 on the PCB for the EXTIO
+* +5V supply, likely via a 2-pin connector that works with your
+  cabinet's internal power infrastructure
+* `XMP-11V` connector to PORT1 on the PCB for lights
+
+Note: Bass lights, P1/P2 pad lights as well as sensor multiplexing
+is handled by the EXTIO board.
+
+### COM1 breakout
+
+Pinout for the `EHR-5` connector breaking out of the JAMMA connector.
+
+Pintout order for `EHR-5`: looking at the front of the connector,
+left to right:
+
+```text
+|         |
+|---------|
+|1 2 3 4 5|
+|---------|
+
+1: GND (black)
+2: NC
+3: NC
+4: RX (grey)
+5: TX (purple)
+```
+
+Mapping for breakout cable:
+
+```text
+JAMMA top: 7     -> EHR-5: 5
+JAMMA bottom: 7  -> EHR-5: 4
+JAMMA bottom: 8  -> EHR-5: 1
+```
+
+### Lights connector breakout
+
+Pinout for the `XMP-11V` connector breaking out of the JAMMA connector.
+
+Pintout order for `XMP-11V`: looking at the front of the connector,
+left to right:
+
+```text
+|          |--|         |
+|-----------------------|
+|1 2 3 4 5 6 7 8 9 10 11|
+|-----------------------|
+
+1: NC
+2: P1 halo up
+3: P1 halo down
+4: P2 halo up
+5: P2 halo down
+6: GND
+7: NC
+8: NC
+9: P2 cabinet button lights
+10: P1 cabinet button lights
+11: GND
+```
+
+Mapping for breakout cable:
+
+```text
+JAMMA top: 24     -> XMP-11V: 9
+JAMMA top: 25     -> XMP-11V: 2
+JAMMA top: 26     -> XMP-11V: 5
+JAMMA bottom: 23  -> XMP-11V: 10
+JAMMA bottom: 24  -> XMP-11V: 4
+JAMMA bottom: 25  -> XMP-11V: 3
+JAMMA bottom: 26  -> XMP-11V: 6 + 11
 ```
