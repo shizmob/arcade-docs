@@ -1979,7 +1979,9 @@ chronologic order, e.g. regarding release dates.
   - `L44 JB C01`: ROM [HM65 PCB, XP] 2012-08-24 0
   - `L44 AB C01`: ROM [HM65 PCB, XP] 2012-08-24 0 `#WEB:https://www.youtube.com/watch?v=3wxMJUpzSQg`
   - `L44 KB G01`: ROM [HM65 PCB, XP] 2012-10-17 0 `#WEB:https://www.youtube.com/watch?v=8bHl5AL4wUo`
+  - `L44 AB I01`: ROM [HM65 PCB, XP] 2013-01-23 1 `#WEB:https://www.youtube.com/watch?v=DdDvIpX3lK0`
   - `L44 KB I01`: ROM [HM65 PCB, XP] 2013-01-23 1 `#WEB:https://www.youtube.com/watch?v=6nHZ44Lld1k`
+  - `L44 KB AA01`: ROM [HM65 PCB, XP] 2015-10-27 0 `#WEB:https://www.youtube.com/watch?v=Ld7NPAdvcH0`
 * `L57`: GI-GranDesire (2013)  `#SCRAPE:konami:eagate` 
 * `L65`: エターナルナイツTRUST / Eternal Knights TRUST (2012, PC(B3/B9))  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/l701319133 #WEB:https://manualzz.com/doc/4942624/eternal-knights-trust`
   - `L65 MAIN *02`: main unit
@@ -2150,6 +2152,7 @@ chronologic order, e.g. regarding release dates.
   - `MDX JA V01`: ROM [945 PCB, XP] 2016-04-28 0  `#WEB:https://www.nicovideo.jp/watch/sm30252386`
   - `MDX JA Z01`: ROM [945 PCB, XP] 2016-12-16 0  `#WEB:https://twitter.com/tanu_kichune/status/1387672293283794945`
   - `MDX JC A01`: ROM [HM65 PCB, XP] 2013-02-24 0  `#WEB:https://www.youtube.com/watch?v=tmSVEVYj7lQ`
+  - `MDX-JC-H01`: ROM [HM65 PCB, XP] 2014-01-06 0 `#CLAIM: nova`
   - `MDX UD V01`: ROM [HM65 PCB, XP] 2016-04-22 0  `#WEB:https://www.youtube.com/watch?v=UFlO-BE75cc #WEB:https://www.youtube.com/watch?v=6LjqQ6Aj86M`
   - `MDX JF AA01`: ROM [ADE PCB, 7] 2017-06-08 0  `#CLAIM: nova`
   - `MDX JF AB01`: ROM [ADE PCB, 7] 2017-10-04 0  `#WEB:https://www.youtube.com/watch?v=mearaVYJoA8`
