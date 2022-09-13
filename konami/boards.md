@@ -245,6 +245,9 @@ Uses Intel Extreme integrated graphics instead of a GeForce GPU.
 **STH:** Intel 865G  
 **BIOS:** Phoenix-Award
 
+### FAB-e865-KN001
+**Games:** D22
+
 ### FAB-e865-KN003
 
 **CPU:** Intel Celeron 2.5GHz  
@@ -261,7 +264,7 @@ Uses Intel Extreme integrated graphics instead of a GeForce GPU.
 **CD:**  reader  
 **IO:**  [APC102-000](io.md#apc)  
 **Sticker:** A3  
-**Games:** F24  
+**Games:** F24, IG2, HCK, GGG, FA5, FLY  
 
 ### FAB-e865-KN306
 
@@ -349,6 +352,7 @@ Also known as: "BemaniPC Type 2" (unofficially).
 **Sticker:** B10  
 **CPU:** Celeron D 341 (2.93GHz)  
 **GPU:** ATI Radeon X1300  
+**RAM:** 2 x 512 MB (?)
 **Games:** GHL  
 
 ## `FAB-e965-KN*`
@@ -593,7 +597,7 @@ Also known as: "ADE".
 **STH:** Intel Q87  
 **CPU:** Intel Core i3-4330 3.5GHz  
 **RAM:** 2x Innodisk DDR3L-1600 4GB  
-**GPU:** GIGABYTE Nvidia GeForce GTX 1050 2GB  
+**GPU:** GIGABYTE GV-N1050D5-2GD (Nvidia GeForce GTX 1050) 
 **GPU:** GIGABYTE GV-N1650IXOC-4GD (Nvidia GeForce GTX 1650) [QBG] (Replacement)  
 **HDD:** WDC WD3200LPCX (320GB)  
 **SND:** Realtek ALC888S  

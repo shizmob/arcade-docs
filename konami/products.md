@@ -1363,6 +1363,7 @@ chronologic order, e.g. regarding release dates.
   - `GMD22-AA`: security plug (Asia)  `#DOC:konami:0000368508`
   - `D22 JA *01`: system disc  `#DOC:konami:0000368508 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/u1038944726`
   - `D22 JA *02`: application disc  `#DOC:konami:0000368508 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/u1038944726`
+  - `D22 UA *02`: application disc (U region) `#WEB:https://www.arcade-projects.com/threads/ic-lethal-enforcers-3-w-konami-i-o-and-gun-sense-boards.16936/`
   - `D22 PWB(K)0000361485`: amp board  `#WEB:https://www.ebay.co.uk/itm/164997166996`
   - `D22 PWB(M)0000361485`: amp board  `#WEB:https://www.ebay.co.uk/itm/164997171449`
   - `PWB0000325709`: I/O board (2004)  `#WEB:https://www.ebay.co.uk/itm/165070816507`
@@ -1503,7 +1504,7 @@ chronologic order, e.g. regarding release dates.
   - `F96 JA A01`: system disc [CD]  `#WEB:https://aucview.aucfan.com/yahoo/o383805631`
   - `F96 JA B02`: application disc 1 [CD]  `#WEB:https://aucview.aucfan.com/yahoo/o383805631`
   - `F96 JA B03`: application disc 2 [CD]  `#WEB:https://a12.kpers.net/item/o379697125/`
-* `FA5`: NOVAうさぎのゲームde留学!? (2006)  `#MISC:oyakodon_oniku_list #WEB:https://manualzz.com/doc/4854961/nova%E3%81%86%E3%81%95%E3%81%8E%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0de%E7%95%99%E5%AD%A6-%3F #WEB:https://www.ebay.co.uk/itm/165012809036`
+* `FA5`: NOVAうさぎのゲームde留学!? (2006, PC(A3))  `#MISC:oyakodon_oniku_list #WEB:https://manualzz.com/doc/4854961/nova%E3%81%86%E3%81%95%E3%81%8E%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0de%E7%95%99%E5%AD%A6-%3F #WEB:https://www.ebay.co.uk/itm/165012809036`
   - `GEFA5-JA`
 * `FAL`: イーアミューズメントキャビネット  `#MISC:oyakodon_oniku_list #WEB:https://www.ebay.co.uk/itm/165012809036`
   - `PWB110521460000`: I/O board
@@ -1656,7 +1657,7 @@ chronologic order, e.g. regarding release dates.
   - `HAL JA A02`: application disc 1 (client center monitor)
   - `HAL JA A03`: application disc 2 (client center monitor)
   - `HAL JA A04`: application disc 3 (client center monitor)
-* `HCK`: ウイニングイレブン2008 / Winning Eleven 2008 (2007, PC-HDD)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/l687196219`
+* `HCK`: ウイニングイレブン2008 / Winning Eleven 2008 (2007, PC(A3))  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/l687196219`
   - `GEHCK-JA`: ソフトキット
   - `GCHCK-JA`: コンバーションキット  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/f1035024176`
 * `HCV`: 悪魔城ドラキュラ THE ARCADE / Castlevania: The Arcade (2009)
@@ -1746,9 +1747,9 @@ chronologic order, e.g. regarding release dates.
   - `GCID5-JA`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/f524010900`
 * `IG2`: ガシャーンおかわり (2009, PC(A3))  `#MISC:oyakodon_oniku_list #WEB:https://page.auctions.yahoo.co.jp/jp/auction/b572447085`
   - `GLIG2-JA`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/m1055346788`
-  - `IG2 JA A01`: system disc
+  - `IG2 JA A01`: system disc / ROM 2009-01-13 0
   - `IG2 JA A02`: application disc 2
-  - `IG3 JA A03`: application disc 3
+  - `IG2 JA A03`: application disc 3
 * `IK9`: 麻雀格闘倶楽部 我龍転生 (2009, PC(RICOH)-HDD)  `#MISC:oyakodon_oniku_list`
   - `GCIK9-JB`  `#WEB:https://a16.kpers.net/item/r403774134/`
   - `GCIK9-JP`  `#WEB:https://cdn.discordapp.com/attachments/261906360776654858/953868178545577994/received_464722335437227.jpeg`
@@ -1861,6 +1862,7 @@ chronologic order, e.g. regarding release dates.
 * `KBR`: REFLEC BEAT (2010, PC(945))
   - `GQKBR-JA`  `#WEB:https://a10.kpers.net/item/x694046282/`
   - `GQKBR-JB`  `#WEB:https://www.mercari.com/jp/items/m38362663720/`
+  - `KBR JA A01`: ROM 2010-10-06 0 `#WEB:https://twitpic.com/47s7ws`
 * `KC1`: Contra Evolution /  (PC(?)IO(P4IO-masking-as-HBHI)-HDD)  `#WEB:https://xyen.dev/blog/2021/05/contra-acio/ #MISC:oyakodon_oniku_list`
   - `GXKC1-CA`  `#WEB:https://www.ebay.com/itm/165087689068`
   - `KC1 CAA`  `#WEB:https://www.ebay.com/itm/164971011344`
@@ -1906,7 +1908,9 @@ chronologic order, e.g. regarding release dates.
   - `KFC JD *01`: Heavenly Haven HDD [945->ADE PCB]  `#WEB:https://twitter.com/yamassi8010/status/1325812923113984000 #WEB:https://aucview.aucfan.com/yahoo/k376665721`
   - `KFC JE *01`: Vivid Wave HDD
   - `KFC JA B01`: ROM [945 PCB, XP] 2011-12-19 0
+  - `KFC JB V01`: ROM [HM65 PCB, XP] 2013-11-13 0 `#WEB:https://yahoo.aleado.com/lot?auctionID=370457464`
   - `KFC JB AG01`: ROM [HM65 PCB, XP] 2015-01-22 0
+  - `KFC KB AG01`: ROM [HM65 PCB, XP] 2015-01-22 0 `#WEB:https://twitter.com/dotorI_Kd/status/617160404335112192/photo/1`
   - `KFC KC AP01`: ROM [76 PCB, XP] 2016-01-29 0
   - `KFC AO A01`: ROM [76 PCB, 7] 2017-09-11 0
   - `KFC JE A01`: ROM [X10SLQ PCB, 7] 2019-01-28 0
@@ -1914,12 +1918,13 @@ chronologic order, e.g. regarding release dates.
   - `PWB114290780000`: "Curenty"? [amp main board?]  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/m1039455300 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1021651921`
   - `PWB112976940000`: "delGeso ver.B" [amp stage board]  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1021651921`
 * `KGG`
-  - Steel Chronicle (2011, PC(C13/E1))
+  - Steel Chronicle (2011, PC(C13))
   - Steel Chronicle Be (2012, PC(C13/E1))
   - Steel Chronicle Be XROSS ARMS (2013, PC(C13/E1))
   - Steel Chronicle VICTROOPERS (2013, PC(C13/E1))  `#MISC:oyakodon_oniku_list`
   - `GQKGG-JA`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/1004281047 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/v805032445`
   - `GQKGG-JB`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/v805032445`
+  - `KGG JB A01`: ROM [E1 PCB] 2012-10-09 0 `#WEB:https://twitter.com/Yamassi8010/status/1147485130119716869/photo/2`
 * `KGL`: GOLF CONNECTION  `#SCRAPE:konami:eagate`
 * `KMA`: Quiz Magic Academy 8 (2011, PC(C3)IO(USB1/USB2)-HDD)  `#SCRAPE:konami:eagate #MISC:oyakodon_oniku_list #WEB:https://manualzz.com/doc/4876734/%E3%82%AF%E3%82%A4%E3%82%BA%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%BC8-%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC%E3%83%A6%E3%83%8B%E3%83%83%E3%83%88-%E5%8A%B9%E6%9E%9C%E7%9A%84%E3%81%AA`
   - `GEKMA-JB`: client unit conversion kit
@@ -1981,7 +1986,9 @@ chronologic order, e.g. regarding release dates.
   - `L44 KB G01`: ROM [HM65 PCB, XP] 2012-10-17 0 `#WEB:https://www.youtube.com/watch?v=8bHl5AL4wUo`
   - `L44 AB I01`: ROM [HM65 PCB, XP] 2013-01-23 1 `#WEB:https://www.youtube.com/watch?v=DdDvIpX3lK0`
   - `L44 KB I01`: ROM [HM65 PCB, XP] 2013-01-23 1 `#WEB:https://www.youtube.com/watch?v=6nHZ44Lld1k`
+  - `L44 JB K01`: ROM [HM65 PCB, XP] 2013-07-22 0 `#WEB:https://twitter.com/Nep_2/status/896060999949631488/photo/1`
   - `L44 KB AA01`: ROM [HM65 PCB, XP] 2015-10-27 0 `#WEB:https://www.youtube.com/watch?v=Ld7NPAdvcH0`
+  - `L44 JB AZ01`: ROM [HM65 PCB, XP] 2019-06-07 1 `#WEB:https://twitter.com/Yamassi8010/status/1419199972688359430`
 * `L57`: GI-GranDesire (2013)  `#SCRAPE:konami:eagate` 
 * `L65`: エターナルナイツTRUST / Eternal Knights TRUST (2012, PC(B3/B9))  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/l701319133 #WEB:https://manualzz.com/doc/4942624/eternal-knights-trust`
   - `L65 MAIN *02`: main unit
@@ -1992,6 +1999,7 @@ chronologic order, e.g. regarding release dates.
   - `LA9 JA D02`: system disc A [CD]  `#WEB:https://a11.kpers.net/item/e437252006/`
   - `LA9 JA F02`: system disc C [CD]  `#WEB:https://a11.kpers.net/item/d449272023/`
   - `LA9 JA F03`: application disc  `#WEB:https://a11.kpers.net/item/o400058098/ #WEB:https://a12.kpers.net/item/p768834235/`
+  - `LA9JAD02`: ROM 2014-12-22 0
 * `LBR`
   - REFLEC BEAT limelight (2011, PC(945))
   - REFLEC BEAT colette [until 2013042200] (2013, PC(HM65))
@@ -2044,8 +2052,10 @@ chronologic order, e.g. regarding release dates.
   - `LDJ JD A01`: copula update disc  `#WEB:https://a10.kpers.net/item/s743444123/`
   - `LDJ JF *01`: CANNON BALLERS PCB
   - `LDJ JA A01`: ROM [HM65 PCB, XP] 2012-03-22 0
-  - `LDJ JA G01`: ROM [HM65 PCB, XP] 2013-10-08 0
+  - `LDJ JA E01`: ROM [HM65 PCB, XP] 2013-03-25 0 `#WEB:https://twitter.com/kome_P/status/845705599727788032/photo/1`
+  - `LDJ JA G01`: ROM [HM65 PCB, XP] 2013-10-08 0 
   - `LDJ JA O01`: ROM [HM65 PCB, XP] 2015-05-08 0
+  - `LDJ JA U01`: ROM [HM65 PCB, XP] 2016-10-13 0
   - `LDJ JF A01`: ROM [ADE PCB, 7] 2017-11-07 0
 * `LMA`
   - Quiz Magic Academy 賢者の扉 (2012, PC(C3)IO(USB1/USB2)-HDD)
@@ -2089,6 +2099,7 @@ chronologic order, e.g. regarding release dates.
   - `GEM32-JA`: GuitarFreaks conversion kit  `#WEB:https://www.ebay.com/itm/133687572798 #WEB:https://a11.kpers.net/item/s747701082/ #WEB:https://page.auctions.yahoo.co.jp/jp/auction/f1026281570`
   - `GEM32-JB`: DrumMania conversion kit  `#WEB:https://a11.kpers.net/item/t730347099/`
   - `M32 JB A01`: ROM [HM65 PCB] 2013-01-10 0
+  - `M32 KB A01`: ROM [HM65 PCB] 2015-10-01 2 `#WEB:https://twitter.com/GAOS_game/status/1186132871636901890`
 * `M33`: GITADORA [drums] (2013, PC)
   - `GCM33`
 * `M39`
@@ -2103,6 +2114,8 @@ chronologic order, e.g. regarding release dates.
   - `M39 JA A01`: ROM [945 PCB] 2012-06-28 0
   - `M39 JB A01`: ROM [855 PCB] 2012-06-28 0
   - `M39 JC B01`: ROM [HM65 PCB] 2012-12-12 0
+  - `M39 JC E01`: ROM [HM65 PCB] 2013-05-31 0
+  - `M39 JC S01`: ROM [HM65 PCB] 2015-05-17 0
 * `M40`: ポップンミュージック / pop'n music cards (2012)  `#MISC:oyakodon_oniku_list`
   - `**M40-JA`
   - `**M40-JB`
@@ -2152,12 +2165,15 @@ chronologic order, e.g. regarding release dates.
   - `MDX JA V01`: ROM [945 PCB, XP] 2016-04-28 0  `#WEB:https://www.nicovideo.jp/watch/sm30252386`
   - `MDX JA Z01`: ROM [945 PCB, XP] 2016-12-16 0  `#WEB:https://twitter.com/tanu_kichune/status/1387672293283794945`
   - `MDX JC A01`: ROM [HM65 PCB, XP] 2013-02-24 0  `#WEB:https://www.youtube.com/watch?v=tmSVEVYj7lQ`
-  - `MDX-JC-H01`: ROM [HM65 PCB, XP] 2014-01-06 0 `#CLAIM: nova`
+  - `MDX JC C01`: ROM [HM65 PCB, XP] 2013-03-10 0  `#WEB:http://cdn-ak.f.st-hatena.com/images/fotolife/b/bynn_chapu/20130623/20130623180941.jpg`
+  - `MDX JC H01`: ROM [HM65 PCB, XP] 2014-01-06 0 `#CLAIM: nova`
   - `MDX UD V01`: ROM [HM65 PCB, XP] 2016-04-22 0  `#WEB:https://www.youtube.com/watch?v=UFlO-BE75cc #WEB:https://www.youtube.com/watch?v=6LjqQ6Aj86M`
-  - `MDX JF AA01`: ROM [ADE PCB, 7] 2017-06-08 0  `#CLAIM: nova`
-  - `MDX JF AB01`: ROM [ADE PCB, 7] 2017-10-04 0  `#WEB:https://www.youtube.com/watch?v=mearaVYJoA8`
-  - `MDX JF AJ01`: ROM [ADE PCB, 7] 2019-08-01 0
-  - `MDX UG`: ROM [ADE PCB, 7]
+  - `MDX JF AA01`: ROM [ADE PCB, 7, White] 2017-06-08 0  `#CLAIM: nova`
+  - `MDX JF AB01`: ROM [ADE PCB, 7, White] 2017-10-04 0  `#WEB:https://www.youtube.com/watch?v=mearaVYJoA8`
+  - `MDX UG AC01`: ROM [ADE PCB, 7, White] 2017-12-06 0
+  - `MDX JI AH01`: ROM [ADE PCB, 7, Gold] 2019-02-26 0 `#WEB:https://twitter.com/964_kuroyon/status/1108273033045630977/photo/1`
+  - `MDX JF AJ01`: ROM [ADE PCB, 7, White] 2019-08-01 0
+  - `MDX UG AL01`: ROM [ADE PCB, 7, White] 2019-12-03 0
 * `MKD`: ドラゴンコレクション (2013, PC)  `#MISC:oyakodon_oniku_list #WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1045922766`
   - `GQMKD-JA`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/j728750629`
 * `MM1`: ポップンミュージックカードCollection Album
@@ -2177,7 +2193,7 @@ chronologic order, e.g. regarding release dates.
   - `GQNBT-JA`
 * `NCG`: オトカ ドール / Otoka Doll (2015, PC)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/f1019659104 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1045922766`
   - `GENCG-JB`
-  - `NCG JA C01`: ROM [7] 2015-02-23
+  - `NCG JA C01`: ROM [7] 2015-02-23 0 `#WEB:https://twitter.com/Yamassi8010/status/1325355976636067840/photo/1`
 * `NCI`: オトカ ドール ? (2015, PC)  `#MISC:oyakodon_oniku_list`
 * `NCK`: ウイニングイレブン2014 / Winning Eleven ARCADE CHAMPIONSHIP 2014 (2013, PC(E2))
   - `GENCK-JA`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/r474759203`
@@ -2244,7 +2260,8 @@ chronologic order, e.g. regarding release dates.
 * `Q70`: アニマロッタ おとぎの国のアニマ / ANIMAROTTA 5 (?, PC(C1))  `#SCRAPE:konami:eagate #WEB:https://jp.mercari.com/item/m67875845936`
   - `Q70 MAIN *01 SA1`: satellite PCB
 * `QBG`: ボンバーガール / BOMBERGIRL (2018, PC(X10SLQ)), ボンバーガール / BOMBERGIRL [e-AMUSEMENT CLOUD/home version]
-  - `QBG-JA-B01`: ROM 2018-07-20 0
+  - `QBG-JA-B01`: ROM 2018-07-20 0 [GTX 1050]
+  - `QBG-JB-N01`: ROM 2020-07-08 0 [GTX 1650]
 * `QCV`: SOUND VOLTEX III(コナステ) / SOUND VOLTEX III (e-AMUSEMENT CLOUD) / SOUND VOLTEX EXCEED GEAR (コナステ) / SOUND VOLTEX EXCEED GEAR (e-AMUSEMENT CLOUD) [e-AMUSEMENT CLOUD/home version] 
 * `QPP`: Printer paper and ink
   - `GUQPP-AB`: For SDVX generator (?)
