@@ -2115,7 +2115,7 @@ chronologic order, e.g. regarding release dates.
   - `M39 JB A01`: ROM [855 PCB] 2012-06-28 0
   - `M39 JC B01`: ROM [HM65 PCB] 2012-12-12 0
   - `M39 JC E01`: ROM [HM65 PCB] 2013-05-31 0
-  - `M39 JC S01`: ROM [HM65 PCB] 2015-05-17 0
+  - `M39 JC S01`: ROM [HM65 PCB] 2015-07-17 0
 * `M40`: ポップンミュージック / pop'n music cards (2012)  `#MISC:oyakodon_oniku_list`
   - `**M40-JA`
   - `**M40-JB`
