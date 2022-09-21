@@ -3,7 +3,7 @@
 |    ID | CPU        | RAM   | GPU    | Notes                                                                               |
 |-------|------------|-------|--------|-------------------------------------------------------------------------------------|
 |  001B | Cel 2.5GHz | 256MB | 9600SE |                                                                                     |
-|  001C | Cel 2.5GHz | 256MB | 9600SE | GIGAWING GENERATIONS / SNK PLAYMORE KOF98UM M9007690A VER1.00 (B3900118A black/gray) / ホットギミック5 HOT GIMMICK 5 Ver.2.04JPN M9006750A  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/1052224317` |
+|  001C | Cel 2.5GHz | 256MB | 9600SE | GIGAWING GENERATIONS / SNK PLAYMORE KOF98UM M9007690A VER1.00 (B3900118A black/gray) / ホットギミック5 HOT GIMMICK 5 Ver.2.04JPN M9006750A  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/1052224317` / SHIKIGAMI NO SHIRO 3 Ver.2.06JPN M9006894A  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/x1051529573` |
 |  001D | Cel 2.5GHz | 256MB | 9600SE | MAIDEN4 VER.1.00J / 豪血寺一族 先祖供養 / RAIDEN III Ver.2.01J M9006573A (B3900091A gray)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/t1050520584` |
 |  003C | Cel 2.5GHz | 256MB | 9600SE |                                                                                     |
 |  006B | Cel 2.5GHz | 256MB | 9600XT | 兎-野生の闘牌　基盤　VER.2.04 / 兎-野性の闘牌- オンライン                                 |
@@ -60,7 +60,7 @@ Missing: 002, 004, 009, 010, 015, 016, 018, 019, 020, 023
 | 209A   | P4 3.4GHz     | 512MB | GF7900GS    | CAPCOM SSF4 Ver1.0 / THE KING OF FIGHTERS XIII  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/v1011984607` |
 | 210A   | P4 3.4GHz     | 512MB | GF7900GS    | BLAZ BLUE M9007861A VER.1.01 (B3900123A, black/gray) / CAPCOM SSF4 M9008561A? Ver1.0 / HOPPING ROAD KIDS M9008194A Ver1.02JPN (B3900144A, black/gray) |
 | 2101A  | P4 3.4GHz     | 512MB | X1600PRO    | BLAZBLUE CONTINUUM SHIFT M9008080A https://forum.arcadeotaku.com/viewtopic.php?t=25696      |
-| 211A-R | P4 3.4GHz     | 512MB | GF7900GS    | NESICA X LIVE / HAUNTED MUSEUM2 VER1.01JPN                                                  |
+| 211A-R | P4 3.4GHz     | 512MB | GF7900GS    | NESICA X LIVE / HAUNTED MUSEUM2 VER1.01JPN / HAUNTED MUSEUM M9007999A VER1.04.J             |
 | 212A   | Core2 2.12Ghz | 2GB   | GF9800GT SP | CYBERDIVER M9008056A Ver.1.04JPN  `#WEB:https://jp.mercari.com/item/m32646744611`           |
 | 213A   | ??? 1.8GHz    | 1GB   | GF7900GS    |                                                                                             |
 | 215A   | P4 3.4GHz     | 1GB   | GF7900GS    | NESICA X LIVE M9008355A Ver.1.07   `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/h1013147502` / NESICA X LIVE M9008355A VER.2.00/ HOPPING ROAD KIDS Ver1.02JPN / ELEVATOR ACTION DEATHPARADE(CHN) VER1.01CHN / DARIUS BURST ANOTHER CHRONICLE M9008278A Ver1.05JPN / DARIUS BURST ANOTHER CHRONICLE (CHN) M9008387A ver1.0 (B3900160A, black/gray)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/e1004013846` |
@@ -108,12 +108,13 @@ Missing: 401
 
 ## Type X4
 
-|    ID | CPU      | RAM                | GPU         | Notes                                                   |
-|-------|----------|--------------------|-------------|---------------------------------------------------------|
-|  500A | i5-4590S | 4GB(DDR3-1600) x2  | GTX960-2GB  | STREET FIGHTER V TYPE ARCADE / LOVELIVE! AC CENTER M9009121A / LOVELIVE! AC SATELLITE PPLAN M9009129A / LOVELIVE! AC NS CENTER / LOVELIVE! AC NS SATELLITE P PLAN / LOVELIVE! AC NS SATELLITE SPLAN / MGICIANS DEAD M9009141A `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/x1050826171` |
-|  502A | i7-4970S | 8GB(DDR3-1600) x2  | GTX1080-8GB | HOSHI NO TSUBA / DENSHA DE GO                           |
-|  504A | i5-4590S | 4GB(DDR3L-1600) x2 | RTX2070-8GB | DENSHADE GO!! COMPACT-(10PLAN)                          |
-|  601A | Pentium G4400 | 8GB(DDR4-2133) x2 | Intel HD Graphics | Groove Coaster 4C EXP (aka. RhythmVader CHN 2 / 音炫轨道2)  `#WEB:https://twitter.com/jq9837/status/1456432713703981060` |
+|    ID | CPU           | RAM                | GPU               | Notes                                                    |
+|-------|---------------|--------------------|-------------------|----------------------------------------------------------|
+|  500A | i5-4590S      | 4GB(DDR3-1600) x2  | GTX960-2GB        | STREET FIGHTER V TYPE ARCADE / LOVELIVE! AC CENTER M9009121A / LOVELIVE! AC SATELLITE PPLAN M9009129A / LOVELIVE! AC NS CENTER / LOVELIVE! AC NS SATELLITE P PLAN / LOVELIVE! AC NS SATELLITE SPLAN / MGICIANS DEAD M9009141A `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/x1050826171` |
+|  502A | i7-4970S      | 8GB(DDR3-1600) x2  | GTX1080-8GB       | HOSHI NO TSUBA / DENSHA DE GO                            |
+|  504A | i5-4590S      | 4GB(DDR3L-1600) x2 | RTX2070-8GB       | DENSHADE GO!! COMPACT-(10PLAN)                           |
+|  601A | Pentium G4400 | 8GB(DDR4-2133) x2  | Intel HD Graphics | Groove Coaster 4C EXP (aka. RhythmVader CHN 2 / 音炫轨道2) `#WEB:https://twitter.com/jq9837/status/1456432713703981060` |
+|  602A | Pentium G4400 | 4GB(DDR4-2400) X2  | GT1030-2GB        | OMATSURI QUEST HIPPARE-Q `#MEDIA:taito/type-x4-602a.jpg` |
 
 Missing: 501, 503
 
