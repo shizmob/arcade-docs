@@ -529,11 +529,11 @@ Also known as: "ITHM65", "ITHM65_E4690".  `#DOC:KONAMI:116245360000`
 **CPU:** Intel Celeron 1020E  
 **RAM:** 1x ??? (DDR3 SODIMM, 2GB)  
 **GPU:** AMD Radeon E6760  
-**HDD:** WDC WD3200LPCX (320GB)
+**HDD:** WDC WD3200LPCX (320GB) [KFC]
 **SSD:** ? [KFC] (SEA mini cab)  
 **SND:** Realtek ALC888 Series  
 **IO:** \[KFC/PAN\] [KFCA](io.md#kfca)   
-**OS:** Windows XP Embedded [KFC], Windows Embedded 7 Standard [KFC] (SEA mini cab)  
+**OS:** Windows XP Embedded (SP2) [KFC], Windows Embedded 7 Standard (SP1) [KFC] (SEA mini cab) [NCG] [OSP]
 **Games:** KFC, NCG, PAN, OSP  
 **BIOS:** AMIBIOS  
 **Ref:** https://twitter.com/ham56p/status/1115528175142850561, https://page.auctions.yahoo.co.jp/jp/auction/o1010920842
