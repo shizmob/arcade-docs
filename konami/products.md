@@ -1912,6 +1912,7 @@ chronologic order, e.g. regarding release dates.
   - `KFC JB AG01`: ROM [HM65 PCB, XP] 2015-01-22 0
   - `KFC KB AG01`: ROM [HM65 PCB, XP] 2015-01-22 0 `#WEB:https://twitter.com/dotorI_Kd/status/617160404335112192/photo/1`
   - `KFC KC AP01`: ROM [76 PCB, XP] 2016-01-29 0
+  - `KFC JC AW01`: ROM [76 PCB, XP] 2016-12-09 0
   - `KFC AO A01`: ROM [76 PCB, 7] 2017-09-11 0
   - `KFC JE A01`: ROM [X10SLQ PCB, 7] 2019-01-28 0
   - `PWB114945610000` / `114997350000`: "[ALEXANDRA]rev.B" [amp stage board]  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/m1039455300`
