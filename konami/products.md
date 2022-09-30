@@ -983,6 +983,7 @@ chronologic order, e.g. regarding release dates.
   - `GQ986`
   - `GQ986 PWB(A)0000073015`, `GQ986 PWB(A1)`: FireBeat/PBACK [FireBeat backplane board, 2 slots]  `#WEB:https://www.ebay.com/itm/324719849559`
   - `GQ986 PWB(C)0000074638`: VWATCH [voltage regulator/output board]  `#MEDIA:konami/GQ976/firebeat/psu.jpg`
+  - `GE986`
 * `987`: ポップンミュージック アニメロ / pop'n music アニメロ (2000, FIREBEAT-CDROM)  `#MAME:firebeat #MISC:oyakodon_oniku_list`
   - `GQ987`  `#WEB:https://jp.mercari.com/item/m15812219076`
   - `GQ987 B02`: ポップンミュージック アニメロ ソフトウェアDISK2 [DVD, 0000-78494]  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/u1055239702`
@@ -2110,14 +2111,15 @@ chronologic order, e.g. regarding release dates.
   - `GCMDX-JA`
   - `GCMDX-UJ`: DDR A20 Version Up Kit for ROM MDX-UD WindowsXP
   - `GCMDX-UK`: DDR A20 Version Up Kit for ROM MDX-UG Windows7
-  - `MDX JA C01`: ROM [945 PCB, XP] 2013-03-10 0  `#WEB:https://www.youtube.com/watch?v=dvNiC1BWjoc #WEB:https://twitter.com/1_KOU/status/855694574286655489`
-  - `MDX JA V01`: ROM [945 PCB, XP] 2016-04-28 0  `#WEB:https://www.nicovideo.jp/watch/sm30252386`
-  - `MDX JA Z01`: ROM [945 PCB, XP] 2016-12-16 0  `#WEB:https://twitter.com/tanu_kichune/status/1387672293283794945`
-  - `MDX JC A01`: ROM [HM65 PCB, XP] 2013-02-24 0  `#WEB:https://www.youtube.com/watch?v=tmSVEVYj7lQ`
-  - `MDX UD V01`: ROM [HM65 PCB, XP] 2016-04-22 0  `#WEB:https://www.youtube.com/watch?v=UFlO-BE75cc #WEB:https://www.youtube.com/watch?v=6LjqQ6Aj86M`
-  - `MDX JF AB01`: ROM [ADE PCB, 7] 2017-10-04 0  `#WEB:https://www.youtube.com/watch?v=mearaVYJoA8`
-  - `MDX JF AJ01`: ROM [ADE PCB, 7] 2019-08-01 0
-  - `MDX UG`: ROM [ADE PCB, 7]
+  - `MDX JA C01`: ROM [945, P3IO, WinXP] 2013-03-10 0  `#WEB:https://www.youtube.com/watch?v=dvNiC1BWjoc #WEB:https://twitter.com/1_KOU/status/855694574286655489`
+  - `MDX JA V01`: ROM [945, P3IO, WinXP] 2016-04-28 0  `#WEB:https://www.nicovideo.jp/watch/sm30252386`
+  - `MDX JA Z01`: ROM [945, P3IO, WinXP] 2016-12-16 0  `#WEB:https://twitter.com/tanu_kichune/status/1387672293283794945`
+  - `MDX JC A01`: ROM [HM65, P4IO, WinXP] 2013-02-24 0  `#WEB:https://www.youtube.com/watch?v=tmSVEVYj7lQ`
+  - `MDX UD V01`: ROM [HM65, P4IO, WinXP] 2016-04-22 0  `#WEB:https://www.youtube.com/watch?v=UFlO-BE75cc #WEB:https://www.youtube.com/watch?v=6LjqQ6Aj86M`
+  - `MDX JF AB01`: ROM [ADE6291, P4IO, Win7] 2017-10-04 0  `#WEB:https://www.youtube.com/watch?v=mearaVYJoA8`
+  - `MDX JF AJ01`: ROM [ADE6291, P4IO, Win7] 2019-08-01 0
+  - `MDX JI AT01`: ROM [ADE6291, P3IO, Win7]
+  - `MDX UG`: ROM [ADE6291, Win7]
 * `MKD`: ドラゴンコレクション (2013, PC)  `#MISC:oyakodon_oniku_list #WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1045922766`
   - `GQMKD-JA`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/j728750629`
 * `MM1`: ポップンミュージックカードCollection Album

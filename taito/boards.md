@@ -52,6 +52,7 @@ Missing: 002, 004, 009, 010, 015, 016, 018, 019, 020, 023
 | 111A   | Cel 3.2GHz    | 1GB   | E4690       | ブロックキング  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/e510866955`                |
 |--------|---------------|-------|-------------|---------------------------------------------------------------------------------------------|
 | 203A   | P4 3.4GHz     | 512MB | GF7900GS    | BATTLE FANTASIA M9007185A VER.2.05JPN (B3900112A, black/gray)                               |
+| 203B   | P4 3.4GHz     | 512MB | GF7900GS    | HOPPING ROAD M9007872A VER.1.04JPN  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/t1065254470 ` |
 | 203B-R | P4 3.4GHz     | 512MB | GF7900GS    | MUSIC GUNGUN! 2 / HOPPING ROAD M9007872A Ver.1.04JPN                                        |
 | 204A   | Cel 3.2GHz    | 512MB | X1600PRO    |                                                                                             |
 | 205A   | P4 3.4GHz     | 512MB | GF7900GS    | KOF XIII M9008271A Ver.1.0.12.0496 (B3900147A, black/grey)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/j1050883108` |
