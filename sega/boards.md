@@ -190,8 +190,10 @@ SEGA parts are referred to using a [proprietary format](identifiers.md#part-numb
         CPU:
         RAM: 1x Transcend TS128MLQ64V8J? [1GB, DDR2-800, "1G DDR2 800 DIMM"]
         GPU: Nvidia GeForce 9600 GS (180-10545-0002-A01 / 600-10545-0021-106 A / 900-60545-2321-000 K, BIOS Version 62.94.4F.00.04, Samsung Memory 161-0070-600) [revision 1?]
+        OS: Windows Embedded Standard 2009
         IO:  JVS/keychip card 837-14902 [custom connector]
         SSD: MDA-E0005
+        SND: Analog Devices SoundMAX AD1984A (HD Audio)
 
   * RingWide             (AAM, JP, 847-0001D, "ASSY CASE WDE W 1GB") [known revisions: 0, 1]
         MBD: Supermicro ??? [revision 0]
@@ -199,6 +201,7 @@ SEGA parts are referred to using a [proprietary format](identifiers.md#part-numb
         CPU: Intel Celeron 440
         RAM: 1x Transcend TS128MLQ64V6J [1GB, DDR2-667 CL5]
         GPU: ATI Mobility Radeon HD 2400
+        OS: Windows Embedded Standard 2009
         SSD: MDA-E0004
         IO:  JVS/keychip card 837-14902 [custom connector]
 
@@ -213,7 +216,9 @@ SEGA parts are referred to using a [proprietary format](identifiers.md#part-numb
         SSD: MDA-E0007A [846-5001D]
              MDA-E0011  [846-5003D]
         HDD: MDA-H0010C [846-5002D]
+        SND: Realtek ALC886
         IO:  JVS/keychip card 837-14902 [custom connector]
+        OS: Windows Embedded Standard 2009
         PSU: Delta EDPS-250AB A [250W]
 ```
 
@@ -233,7 +238,9 @@ SEGA parts are referred to using a [proprietary format](identifiers.md#part-numb
              MDA-E0012 [Nu1.1, AAVE-11A*]
              MDA-E0015 [Nu1.1, AAVE-11B*]
         HDD: HGST HTB-TT5SAE500(B) [500GB]
+        SND: Realtek ALC886
         IO:  JVS/RS232/CAN card 837-15280 [PCIe: 11DB:????]
+        OS: Windows Embedded 8 Standard (x64)
         PSU: Delta EDPS-250AB A [250W]
 
   * Nu2             (AAVE-21A*, JP, 848-2001D, "ASSY CASE NU2")
@@ -242,6 +249,8 @@ SEGA parts are referred to using a [proprietary format](identifiers.md#part-numb
         RAM: 2x SK Hynix HMA451U6AFR8N [4GB, DDR4-2133]
         GPU: Nvidia GeForce GTX 950 (BIOS 84.06.5A.00.05)
         SSD: TDK GBDisk GS1 120GB [MDA-E0013]
+        SND: Realtek ALC888S
+        OS: Windows Embedded 8.1 Standard (x64)
         PSU: Tiger Power TG-4080 [400W]
 
   * NuSX            (AAWE-01A*, JP, 848-1001D, "ASSY NUSX GAMEBOARD")
@@ -252,7 +261,9 @@ SEGA parts are referred to using a [proprietary format](identifiers.md#part-numb
     RAM: 1x Transcend TS512MLK64W6H [NuSX, 4GB, DDR3-1600, "4G 1Rx8 DDR3L 1600 U"]
          1x ??? [NuSX1.1, 8GB]
     HDD: MDA-H0013 [NuSX]
+    SND: Realtek ALC892 [NuSX]
     IO:  JVS/RS232/CAN card 837-15315 [PCIe: 11DB:6678]
+    OS: Windows Embedded 8 Standard (x64)
 ```
 
 ## ALLS
@@ -267,7 +278,9 @@ SEGA parts are referred to using a [proprietary format](identifiers.md#part-numb
         GPU: ELSA GeForce GTX1070 8GB ST for SEGA
         SSD: TDK GBDisk GS1 120GB [MDA-E0017]
         HDD: HGST HTS725050A7E630 500GB [849-0004, 849-0005]
-        PCI: "SoundBlaster" [849-0005]
+        SND: Realtek ALC888S
+        "SoundBlaster" [849-0005]
+        OS: Windows 10 IoT LTSB 2016
         PSU: Seasonic SS-400ET
 
   * ALLS HX                       (ACAX, ACAE-01A/B/C, JP, 849-0006, "ASSY CASE ALLS HX")
@@ -277,6 +290,8 @@ SEGA parts are referred to using a [proprietary format](identifiers.md#part-numb
         GPU: Nvidia GeForce GTX 1050
              Nvidia GeForce GTX 1050Ti [01C]
         SSD: TDK GBDisk GS1 120GB [MDA-E0017]
+        SND: Realtek ALC888S
+        OS: Windows 10 IoT LTSB 2016
         PSU: ???
 
   * ALLS UX2                      (ACAE, JP, 849-1001?)
@@ -287,6 +302,8 @@ SEGA parts are referred to using a [proprietary format](identifiers.md#part-numb
         GPU: Gigabyte GeForce RTX 2070 WINDFORCE 8G?
         SSD: TDK GBDisk GS1 120GB [MDA-E0019]
         HDD: ???
+        SND: Realtek ALC888S
+        OS: Windows 10 IoT LTSC 2019
         PSU: ???
 
   * ALLS HX2                      (ACAX, JP, 849-1003, "ASSY CASE ALLS HX2")
@@ -298,6 +315,8 @@ SEGA parts are referred to using a [proprietary format](identifiers.md#part-numb
         GPU: Nvidia GeForce GTX 1050Ti
         SSD: TDK GBDisk GS1 120GB [MDA-E0019]
         HDD: Western Digital WD5000LUCT 500GB
+        SND: Realtek ALC888S
+        OS: Windows 10 IoT LTSC 2019
         PSU: ???
 
   * ALLS MX2                      (ACAE, JP, 849-1005,    https://page.auctions.yahoo.co.jp/jp/auction/g1040835272)
@@ -311,6 +330,8 @@ SEGA parts are referred to using a [proprietary format](identifiers.md#part-numb
              Nvidia GeForce GTX 1660Ti [MX2.1]
         SSD: TDK GBDisk GS1 120GB [MDA-E0023]
         HDD: ??? [849-1006, 849-1010]
+        SND: Realtek ALC888S
+        OS: Windows 10 IoT LTSC 2019
         PSU: FSP FSP500-50AAC
 
   * ALLS X2                       (ACA?, JP, 849-1007?)
