@@ -204,7 +204,7 @@ Also known as: "BemaniPC Type 1" (unofficially).
 Seemingly identical to the [KNM-845G3-A02](#knm-845g3-a02). Used in ECO, FDD hardware upgrade kits.  `#DOC:KONAMI:110033580000`
 
 **PSU:** Delta DPS-180KB (180W, 115/230V AC input)  
-**CPU:** Intel Celeron 1.8GHz  
+**CPU:** Intel Celeron 2.0 GHz (Northwood-128)  
 **RAM:** 1x ProMOS Technologies V826632K24SATG-C0 (DDR1, PC2700U, 256MB, "IBM FRU 31P9121")  
 **GPU:** ASUS V9180MAGIC/T/N/64M/A (AGP, Nvidia GeForce4 MX440-8x, 64MB)  
 **HDD:** (caddy: IMDKN0007123)  
