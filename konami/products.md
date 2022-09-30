@@ -1991,7 +1991,7 @@ chronologic order, e.g. regarding release dates.
   - `L44 JB K01`: ROM [HM65 PCB, XP] 2013-07-22 0 `#WEB:https://twitter.com/Nep_2/status/896060999949631488/photo/1`
   - `L44 KB AA01`: ROM [HM65 PCB, XP] 2015-10-27 0 `#WEB:https://www.youtube.com/watch?v=Ld7NPAdvcH0`
   - `L44 JB AZ01`: ROM [HM65 PCB, XP] 2019-06-07 1 `#WEB:https://twitter.com/Yamassi8010/status/1419199972688359430`
-* `L57`: GI-GranDesire (2013)  `#SCRAPE:konami:eagate` 
+* `L57`: GI-GranDesire (2013)  `#SCRAPE:konami:eagate`
 * `L65`: エターナルナイツTRUST / Eternal Knights TRUST (2012, PC(B3/B9))  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/l701319133 #WEB:https://manualzz.com/doc/4942624/eternal-knights-trust`
   - `L65 MAIN *02`: main unit
   - `G?L65-JAA`
@@ -2055,7 +2055,7 @@ chronologic order, e.g. regarding release dates.
   - `LDJ JF *01`: CANNON BALLERS PCB
   - `LDJ JA A01`: ROM [HM65 PCB, XP] 2012-03-22 0
   - `LDJ JA E01`: ROM [HM65 PCB, XP] 2013-03-25 0 `#WEB:https://twitter.com/kome_P/status/845705599727788032/photo/1`
-  - `LDJ JA G01`: ROM [HM65 PCB, XP] 2013-10-08 0 
+  - `LDJ JA G01`: ROM [HM65 PCB, XP] 2013-10-08 0
   - `LDJ JA O01`: ROM [HM65 PCB, XP] 2015-05-08 0
   - `LDJ JA U01`: ROM [HM65 PCB, XP] 2016-10-13 0
   - `LDJ JF A01`: ROM [ADE PCB, 7] 2017-11-07 0
@@ -2156,11 +2156,13 @@ chronologic order, e.g. regarding release dates.
   - `GQMDX-JA`: white cab  `#DOC:konami:115324120000`
   - `GQMDX-JG`: 20th anniversary model  `#DOC:konami:117039820000`
   - `GQMDX-UD`: white cab  `#DOC:konami:116558660000 #WEB:https://twitter.com/bemanistyle/status/750842725247819776`
-  - `GKMDX-AC`  `#WEB:https://twitter.com/uhaj/status/699440324356104194`
+  - `GKMDX-AC`: white cab [Uniana, side sticker]  `#WEB:https://twitter.com/uhaj/status/699440324356104194`
+  - `GKMDX-AE`
+  - `GKMDX-ED`: white cab [Uniana, side sticker]
+  - `GKMDX-EK`: white cab [Uniana, A20 Plus, top art]
   - `GKMDX-KC`
   - `GKMDX-UD`
-  - `GKMDX-AE`
-  - `GCMDX-JA`
+  - `GCMDX-JA`: DDR A conversion kit
   - `GCMDX-UJ`: DDR A20 Version Up Kit for ROM MDX-UD WindowsXP
   - `GCMDX-UK`: DDR A20 Version Up Kit for ROM MDX-UG Windows7
   - `MDX JA C01`:  ROM [945,     P3IO, WinXP] 2013-03-10 0  `#WEB:https://www.youtube.com/watch?v=dvNiC1BWjoc #WEB:https://twitter.com/1_KOU/status/855694574286655489`
@@ -2265,7 +2267,7 @@ chronologic order, e.g. regarding release dates.
 * `QBG`: ボンバーガール / BOMBERGIRL (2018, PC(X10SLQ)), ボンバーガール / BOMBERGIRL [e-AMUSEMENT CLOUD/home version]
   - `QBG-JA-B01`: ROM 2018-07-20 0 [GTX 1050]
   - `QBG-JB-N01`: ROM 2020-07-08 0 [GTX 1650]
-* `QCV`: SOUND VOLTEX III(コナステ) / SOUND VOLTEX III (e-AMUSEMENT CLOUD) / SOUND VOLTEX EXCEED GEAR (コナステ) / SOUND VOLTEX EXCEED GEAR (e-AMUSEMENT CLOUD) [e-AMUSEMENT CLOUD/home version] 
+* `QCV`: SOUND VOLTEX III(コナステ) / SOUND VOLTEX III (e-AMUSEMENT CLOUD) / SOUND VOLTEX EXCEED GEAR (コナステ) / SOUND VOLTEX EXCEED GEAR (e-AMUSEMENT CLOUD) [e-AMUSEMENT CLOUD/home version]
 * `QPP`: Printer paper and ink
   - `GUQPP-AB`: For SDVX generator (?)
   - `GULMM-JA`: Oreca Battle (compatible with SDVX)
