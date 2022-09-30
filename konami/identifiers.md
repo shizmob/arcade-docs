@@ -133,6 +133,7 @@ The following variables are used across the different identifiers and can denote
   * `T`: Taiwan (Asia 110V; software is often/always? A-region)
   * `U`: US
   * `Y`: Indonesia
+  * `Z`: Thailand
 * `$s`: Specification: Product type and game dependent, e.g. type of cabinet or hardware
   * `A`, `B`, `C`, ..., `Z`
   * コナステ streamed games use `N`

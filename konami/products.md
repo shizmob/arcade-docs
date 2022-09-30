@@ -2021,6 +2021,7 @@ chronologic order, e.g. regarding release dates.
   - [`GQLDJ-JA`: tricoro dedicated cabinet](product/GQLDJ-JA.md)
   - [`GQLDJ-JB`: PENDUAL cabinet](product/GQLDJ-JB.md)
   - [`GQLDJ-JC`: COPULA cabinet](product/GQLDJ-JC.md)  `#WEB:https://aucview.aucfan.com/yahoo/k541777425`
+  - `GKLDJ-ZA`: tricoro dedicated cabinet [Thailand, Uniana]  `#WEB:https://twitter.com/uhaj/status/699515619813658624`
   - `GELDJ-JB`: tricoro update kit  `#WEB:http://aucview.aucfan.com/yahoo/c743060247 #WEB:https://aucview.aucfan.com/yahoo/478821729/ #WEB:https://page.auctions.yahoo.co.jp/jp/auction/c1030151302`
   - `GULDJ-JB?`: tricoro LCD monitor?  `#WEB:https://kohada.5ch.net/test/read.cgi/gecen/1283629289/894`
   - [`GULDJ-JC`: tricoro LCD monitor](product/GULDJ-JC.md)  `#WEB:http://kururusky.com/?p=1458 #WEB:https://aucview.aucfan.com/yahoo/m1035374934/`
@@ -2157,7 +2158,7 @@ chronologic order, e.g. regarding release dates.
   - `GQMDX-JG`: 20th anniversary model  `#DOC:konami:117039820000`
   - `GQMDX-UD`: white cab  `#DOC:konami:116558660000 #WEB:https://twitter.com/bemanistyle/status/750842725247819776`
   - `GKMDX-AC`: white cab [Uniana, side sticker]  `#WEB:https://twitter.com/uhaj/status/699440324356104194`
-  - `GKMDX-AE`
+  - `GKMDX-AE`: white cab [Uniana]  `#WEB:https://twitter.com/uhaj/status/1018022862332952576 #WEB:https://twitter.com/uhaj/status/937146175618146304 #WEB:https://twitter.com/uhaj/status/1018376405694869504`
   - `GKMDX-ED`: white cab [Uniana, side sticker]
   - `GKMDX-EK`: white cab [Uniana, A20 Plus, top art]
   - `GKMDX-KC`
