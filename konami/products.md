@@ -2101,6 +2101,7 @@ chronologic order, e.g. regarding release dates.
   - `GEM32-JB`: DrumMania conversion kit  `#WEB:https://a11.kpers.net/item/t730347099/`
   - `M32 JB A01`: ROM [HM65 PCB] 2013-01-10 0
   - `M32 KB A01`: ROM [HM65 PCB] 2015-10-01 2 `#WEB:https://twitter.com/GAOS_game/status/1186132871636901890`
+  - `M32 AD AC01`: ROM [ADE PCB] 2018-04-02 0
 * `M33`: GITADORA [drums] (2013, PC)
   - `GCM33`
 * `M39`
