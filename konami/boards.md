@@ -151,10 +151,13 @@ Custom Hitachi SH3-based boards, used for DDR Kids and medal games.
 
 ## Python
 
-`#MAME:kpython`
+`#MAME:kpython #WEB:http://callusnext.com/pcbs/ps2_pm.html`
 
 * Release: 2001
 * Base: Sony Playstation 2
+* HDD: CompactFlash [C18, C27]
+* HDD: HDD [C00, C20, D11, E12, E13, F14, E33]
+* Games: B08?, C00 / C20 / D11 / E12 / E13 / F14, C18 / C27, C30, E33
 
 Similar to Namco's System 246 and System 256.
 
@@ -162,6 +165,7 @@ Similar to Namco's System 246 and System 256.
 
 * Release: 2004?
 * Base: Sony Playstation 2
+* Games: D44, E00 / F00, E01, E02 / E03 / F02 / F03 / F32 / F33, FDH / GDJ
 
 Unlike the first Python, based on a retail board using Sony's DNAS protection system.
 
@@ -217,7 +221,7 @@ Uses Intel Extreme integrated graphics instead of a GeForce GPU.
 **CPU:** Intel Celeron 1.8GHz  
 **GPU:** Intel Extreme Graphics  
 **SND:** Realtek AC'97  
-**Games:** C33, D33
+**Games:** C33, D33  
 
 ## `EPIA`
 
@@ -225,12 +229,14 @@ Uses Intel Extreme integrated graphics instead of a GeForce GPU.
 * Base: PC ([VIA ITX boards])
 
 ### EPIA 5000
+
 **MBD:** VIA EPIA-5000  
 **CPU:** VIA Eden 533MHz  
 **GPU:** Trident CyberBlade 3D  
 **Games:** CCB, EGG  
 
 ### EPIA M10000
+
 ***MBD:** VIA EPIA-M10000  
 ***CPU:** VIA C3 (1 GHz)  
 ***GPU:** S3 CastleRock  
@@ -243,9 +249,10 @@ Uses Intel Extreme integrated graphics instead of a GeForce GPU.
 
 **MBD:** DFI G4S306-C  
 **STH:** Intel 865G  
-**BIOS:** Phoenix-Award
+**BIOS:** Phoenix-Award  
 
 ### FAB-e865-KN001
+
 **Games:** D22
 
 ### FAB-e865-KN003
@@ -289,7 +296,7 @@ Uses Intel Extreme integrated graphics instead of a GeForce GPU.
 **Sticker:** B1  
 **CPU:** Celeron D 341 (2.93GHz)  
 **GPU:** ATI Radeon X1600 Pro (256 MB)  
-**Games:** F56/J56/K56 (STATION/ステーション)
+**Games:** F56/J56/K56/M56 (STATION/ステーション)  
 
 ### FAB-e945-KN202
 
@@ -302,7 +309,7 @@ Uses Intel Extreme integrated graphics instead of a GeForce GPU.
 **CPU:** Pentium 4 (3.40GHz)  
 **GPU:** ATI Radeon X1600 Pro (PCIe, 256MB, VGA + S-Video + DVI) (109-A67631-12)  
 **RAM:** 2 x 512 MB DDR2  
-**Games:** K56 POP?, G65/H65/J65/K65/L65/M65/O65(MAIN)  
+**Games:** K56 POP?, G65/H65/J65/K65/L65/M65/O65/P65(MAIN)  
 
 ### FAB-e945-KN204A
 
@@ -356,6 +363,7 @@ Also known as: "BemaniPC Type 2" (unofficially).
 **Games:** GHL  
 
 ## `FAB-e965-KN*`
+
 * Release: 2008
 * Base: PC ([Sord embedded boards](https://www.sord.co.jp/company/corporate/history.html))
 
@@ -373,7 +381,7 @@ Also known as: "BemaniPC Type 2" (unofficially).
 
 ### FAB-e965-KN302
 
-`#WEB:https://page.auctions.yahoo.co.jp/jp/auction/1028851239 #WEB:https://twitter.com/KARG175/status/1339943401274294274`
+`#WEB:https://page.auctions.yahoo.co.jp/jp/auction/1028851239 #WEB:https://twitter.com/KARG175/status/1339943401274294274  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/u1054551394`
 
 **Sticker:** C2  
 **GPU:** ATI Radeon HD 2600 XT (109-B14831-00 HF) (256 MB, GDDR3)  
@@ -387,7 +395,7 @@ Also known as: "BemaniPC Type 2" (unofficially).
 **RAM:** 512MB/512MBx2/1GBx2  
 **HDD:** 160GB  
 **Sticker:** C3  
-**Games:** JDZ(CHN), KDZ(CHN), I27, J27, K27, HGT, JMA, LMA, ICK, KCK, KLP  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/p870019570 #CLAIM:erobot`  
+**Games:** JDZ(CHN), KDZ(CHN), I27, J27, K27, HGT, JMA, KMA, LMA, ICK, KCK, KLP  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/p870019570 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1051296570 #CLAIM:erobot`  
 
 ### FAB-e965-KN304
 
@@ -399,7 +407,7 @@ Also known as: "BemaniPC Type 2" (unofficially).
 
 ### FAB-e965-KN313
 
-`#WEB:https://page.auctions.yahoo.co.jp/jp/auction/1004281047`
+`#WEB:https://page.auctions.yahoo.co.jp/jp/auction/1004281047 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/l1048062897 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/p1039201164`
 
 **MBD:** Toshiba TEM100-01B (TOPS BIOS Ver.1.08K1 02/22/10 16:57:28)  
 **CPU:** Intel Core 2 Duo E6400 (2.13GHz)  
@@ -412,6 +420,7 @@ Also known as: "BemaniPC Type 2" (unofficially).
 **Games:** KGG  
 
 ## `FAB-e45-*`
+
 * Release: 2009
 * Base: PC ([Sord embedded boards](https://www.sord.co.jp/company/corporate/history.html))
 
@@ -427,6 +436,7 @@ Also known as: "BemaniPC Type 2" (unofficially).
 **Games:** I36  
 
 ## `FAB-e67-*`
+
 * Release: 2012
 * Base: PC ([Sord embedded boards](https://www.sord.co.jp/company/corporate/history.html))
 
@@ -446,12 +456,12 @@ Also known as: "BemaniPC Type 2" (unofficially).
 
 ### FAB-e67-KN612
 
-`#WEB:https://page.auctions.yahoo.co.jp/jp/auction/o1033199149`
+`#WEB:https://page.auctions.yahoo.co.jp/jp/auction/o1033199149 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/x1051529573`
 
 **MBD:** Toshiba TEM130-02A (3ACAF 2.00IV2)  
 **CPU:** Intel Core i5-3550S `#GAME:konami-WINDOWS\SYSTEM32\config\SYSTEM`  
 **GPU:** Sapphire Radeon HD 7770 GHz Edition (1 GB) `#GAME:konami-WINDOWS\SYSTEM32\config\SYSTEM`  
-**RAM:** 4GB DDR3-12800  
+**RAM:** 2x2GB DDR3-12800  
 **IO: ** [APC](io.md#apc)  
 **OS:** Windows XP Embedded (SP2) `#GAME:konami-WINDOWS\SYSTEM32\config\SOFTWARE`  
 **Sticker:** E2  
@@ -463,6 +473,8 @@ Also known as: "BemaniPC Type 2" (unofficially).
 * Base: PC (AOpen embedded boards)
 
 ### 855
+
+`#WEB:http://callusnext.com/pcbs/pc_pm.html`
 
 Also known as: "BemaniPC Type 3" (unofficially).
 
@@ -501,7 +513,7 @@ Also known as: "HDX-945-??" / "JDX-945-02" / "K32-945-01?" / "K33-945-01?" / "KB
 
 * Release: ?
 * Base: PC ([Ennocom embedded boards](https://www.ennoconn.com/producttype_en-us_0_21_1.html))
-  
+
 ### HM65
 
 Also known as: "ITHM65", "ITHM65_E4690".  `#DOC:KONAMI:116245360000`
@@ -537,7 +549,7 @@ Also known as: "ITHM65", "ITHM65_E4690".  `#DOC:KONAMI:116245360000`
 **Games:** KFC, NCG, PAN, OSP  
 **BIOS:** AMIBIOS  
 **Ref:** https://twitter.com/ham56p/status/1115528175142850561, https://page.auctions.yahoo.co.jp/jp/auction/o1010920842
- 
+
 ### ADE-6291
 
 Also known as: "ADE".

@@ -459,8 +459,10 @@ Special arcade firmware (GEX/GECR).
 * Variants:
   - N2
   - N2(WM3)
+  - N2(WM3R)
 
-JP/Asia/China:  
+N2, N2(WM3):
+
 **MBD:** MSI K7N2GM-IL custom variant (custom BIOS)  
 **CPU:** AMD Athlon XP-M 2800+  
 **CPU:** \[N2(WM3)(China)\] AMD Athlon XP 3000+  
@@ -473,11 +475,12 @@ JP/Asia/China:
 **IO:** RATOC PCI604 (PCI, 1x USB, 1x RS232 DE-9 serial, 2x internal COM header with ribbon cable to V337 RS, REX-PCI60 variant? https://www.ratocsystems.com/products/subpage/pci60.html)  
 **IO:** [Namco V337 RS PCB](io.md#v337-rs) (above motherboard shield, internal 8pin connector with ribbon cable to RATOC PCI604)  
 
-Export:  
+N2(WM3R):
+
 **MBD:** ASUS M2N-MX  
 **CPU:** AMD Athlon 64 3500+  
 **RAM:** 1x (DDR, PC-3200, 1GB)  
-**GPU:** ASUS Nvidia GeForce 7600GS (EN7600GSSILENT/HTD/256M/A, PCIe, 256MB)
+**GPU:** ASUS Nvidia GeForce 7600GS (EN7600GSSILENT/HTD/256M/A, PCIe, 256MB)  
 **HDD:** WD WD800BB-55JKC0 (80GB PATA)  
 
 ```
@@ -498,7 +501,7 @@ Export:
 
 **MBD:** Supermicro C2SBM-Q (ES1(A): "F1B16M-LS-C2D30-51M2"), ES1(A/NO-USB): "FB16M-LS-C2D30-512M2", ES1(A2): "FB16M-LS-C2D30-2G1")  
 **CPU:** Intel Core 2 Duo E8400  
-**RAM:** \[ES1(A), ES1(A/NO-USB)\] 2x SanMax SMD-51246NP-8E (DDR2 DIMM, PC2-6400U-555, 512MB)
+**RAM:** \[ES1(A), ES1(A/NO-USB)\] 2x SanMax SMD-51246NP-8E (DDR2 DIMM, PC2-6400U-555, 512MB)  
 **RAM:** \[ES1(A2)\] 1x SanMax SMD-2G88HP-8E (DDR2 DIMM, PC2-6400U-555, 2GB)  
 **GPU:** Nvidia GeForce 9600 GT (PCIe, 512MB, BIOS Version: 62.94.61.00.08)  
 **HDD:** Seagate ST3160318AS (SATA, 160GB, 7200RPM) / Hitachi HDS721016CLA382 (SATA, 160GB, 7200RPM)  
@@ -528,7 +531,8 @@ Export:
 
 Budget, redemption and medal game model.
 
-ES2(A):  
+ES2(A):
+
 **MBD:** SORD TEM400-02A  
 **CPU:** Intel Atom D510/D410/N450 (1.6 GHz)  
 **RAM:** 1x Micron MT16HTF25664HZ-800H1 (DDR2 SODIMM, PC2-6400S, 2GB)  
@@ -536,7 +540,8 @@ ES2(A):
 **SSD:** Kingston SSDNow V100 SV100S2/32G (SATA 2.5", 32GB)  
 **IO:** [Namco H058 TSIF PCB](io.md#h058-tsif) (to motherboard COM1, COM2, FRONT PANEL and MIC-IN/LINE-IN)  
 
-ES2P(A):  
+ES2P(A):
+
 **MBD:** Advantech GMB-"Ontario" V1.1  
 **APU:** AMD G-T56N  
 **RAM:** 1x SanMax Technologies SMD-N2G68H1P-13H (SODIMM, PC3-10600S, 2GB)  
@@ -560,17 +565,19 @@ ES2P(A):
   - ES3(B)
   - ES3(X)
 
-ES3(A):  
+ES3(A):
+
 **MBD:** SuperMicro C7B75-O Rev 1.01  
 **CPU:** Intel Pentium G2120  
-**RAM:** 1x SanMax Technologies SMD-4G68H1P-16K (4GB, DDR3, PC3-12800U)   
+**RAM:** 1x SanMax Technologies SMD-4G68H1P-16K (4GB, DDR3, PC3-12800U)  
 **GPU:** AMD Radeon HD 7750 (PCIe, 1GB)  
 **SSD:** Kingston SSDNow V200 SV200S37A/64G (SATA 2.5", 64GB)  
 **IO:** [Namco ESIF2 PCB](io.md#esif2) (above motherboard shield)  
 **IO:** "JV IO (JAMMA)" (expansion slot, 1x JVS USB, 1x internal connector with cable to ESIF2)  
-**IO:** "SERIAL 3 (CARD IF)" (expansion slot, to motherboard, pinout up-down: COM-GND COM-CTS COM-RTS COM-TXD COM-RXD GND 12V?, hooks up to [Namco H055 CARD-IF](io.md#h055-card-if))   
+**IO:** "SERIAL 3 (CARD IF)" (expansion slot, to motherboard, pinout up-down: COM-GND COM-CTS COM-RTS COM-TXD COM-RXD GND 12V?, hooks up to [Namco H055 CARD-IF](io.md#h055-card-if))  
 
-ES3(B):  
+ES3(B):
+
 **MBD:** SuperMicro C7B75-OC012 Rev 1.01  
 **CPU:** Intel Pentium G2120  
 **RAM:** 1x SanMax Technologies SMD-4G68H1P-16K (4GB, DDR3, PC3-12800U)  
@@ -578,9 +585,10 @@ ES3(B):
 **HDD:** HGST HTS725025A7E630 (SATA, 250GB, 7200RPM)  
 **IO:** [Namco ESIF2 PCB](io.md#esif2) (above motherboard shield)  
 **IO:** "JV IO (JAMMA)" (expansion slot, 1x JVS USB, 1x internal connector with cable to ESIF2)  
-**IO:** "SERIAL 3 (CARD IF)" (expansion slot, to motherboard, pinout up-down: COM-GND COM-CTS COM-RTS COM-TXD COM-RXD GND 12V?, hooks up to [Namco H055 CARD-IF](io.md#h055-card-if))    
+**IO:** "SERIAL 3 (CARD IF)" (expansion slot, to motherboard, pinout up-down: COM-GND COM-CTS COM-RTS COM-TXD COM-RXD GND 12V?, hooks up to [Namco H055 CARD-IF](io.md#h055-card-if))  
 
-ES3(X):  
+ES3(X):
+
 **MBD:** ???  
 **CPU:** Intel Core i5-3550S  
 **RAM:** ??? (8GB) / ??? (16GB)  
@@ -624,7 +632,8 @@ PC, x86-based. Lower spec, also used for budget/redemption games? Variants: ES4(
 
 PC, x86-based. Variants: BNA1, BNA1(LITE). Some kind of defect occurred: https://www.banasupport.net/cms-files/E38090E3818AE58F96E5BC95E6A798E59084E4BD8DE38091E3.pdf
 
-BNA1: BNA1-00-64G-2016W / BNA1-00-256G-2016W    
+BNA1: BNA1-00-64G-2016W / BNA1-00-256G-2016W
+
 **MBD:** ???  
 **CPU:** Intel Core i5-6500  
 **RAM:** ???  
@@ -633,7 +642,8 @@ BNA1: BNA1-00-64G-2016W / BNA1-00-256G-2016W
 **IO:** 2x serial (expansion card, COM3 and COM4)  
 **IO:** 2x JVS/USB? (expansion card, '5' and '6')  
 
-BNA1(LITE): BNA1LT-00-64G-2016W  
+BNA1(LITE): BNA1LT-00-64G-2016W
+
 **MBD:** ??? (H110 chipset)  
 **CPU:** Intel Pentium G4400  
 **RAM:** 2x ??? (DDR4, 4GB)  

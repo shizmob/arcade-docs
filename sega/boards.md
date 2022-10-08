@@ -42,7 +42,7 @@ SEGA parts are referred to using a [proprietary format](identifiers.md#part-numb
 
    Y = F: DIMM board
    840-0001F: DIMM 256MB, SCSI ("ASSY CASE NAO DIMM BD COM")
-   840-0004F: DIMM 256MB, SERIAL, SCSI, ETHERNET ("DIMM BD NAO" / "ASSY CASE NAO DIMM BD COM RTOS")
+   840-0004F: DIMM 256MB, SERIAL, SCSI, ETHERNET ("DIMM BD NAO" / "ASSY CASE NAO DIMM BD COM RTOS")  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/m1063687716
    840-0005F: DIMM 256MB, ETHERNET  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/d1040017993
    840-0006F: DIMM 512MB, SERIAL, SCSI, ETHERNET ("DIMM BD NAT")
    840-0008F: DIMM 512MB, ETHERNET
@@ -131,7 +131,7 @@ SEGA parts are referred to using a [proprietary format](identifiers.md#part-numb
               839-1370 "IDE 2.5-3.5 TRANSLATION BD": Transcend TS8GSS25-S [2.5" IDE SSD 8GB] (server)
         IDE2: 2x 512MB Hagiwara SYS-COM IDT-512MSH [3.5" IDE SSD 512MB, produced by Toshiba: THNID512MSAIH10AAB] (server)
         OS:   MontaVista Linux
-        IO:   parallel card 837-14443-01 (server/video?/satellite)
+        IO:   parallel card 837-14443-01 (server/video/satellite)
         IO:   audio card (sound)
 
   * Lindbergh Blue                  (AAJE, 844-30xxD, "ASSY CASE LBG W *")
@@ -229,41 +229,41 @@ SEGA parts are referred to using a [proprietary format](identifiers.md#part-numb
 ```
   * Nu              (AAVE-01A*, JP, 848-0001D, "ASSY CASE NU W HDD")
   * Nu1.1           (AAVE-11A/B*, JP, 848-0002D, "ASSY CASE NU W HDD 750 TI")
-        MBD: Advantech DAC-BJ05 (838-15284 / 19A2BJ0500-01) [AIMB-582 derivative]
-        CPU: Intel i3-3220
-        RAM: 2x Transcend TS256MLK64V6N [2GB, DDR3-1600, "2G 1Rx8 DDR3 1600 U"]
-        GPU: Nvidia GeForce GTX 650Ti [Nu]
-             Nvidia GeForce GTX 750Ti [Nu1.1]
-        SSD: MDA-E0010 [Nu]
-             MDA-E0012 [Nu1.1, AAVE-11A*]
-             MDA-E0015 [Nu1.1, AAVE-11B*]
-        HDD: HGST HTB-TT5SAE500(B) [500GB]
-        SND: Realtek ALC886
-        IO:  JVS/RS232/CAN card 837-15280 [PCIe: 11DB:????]
-        OS: Windows Embedded 8 Standard (x64)
-        PSU: Delta EDPS-250AB A [250W]
+      MBD: Advantech DAC-BJ05 (838-15284 / 19A2BJ0500-01) [AIMB-582 derivative]
+      CPU: Intel i3-3220
+      RAM: 2x Transcend TS256MLK64V6N [2GB, DDR3-1600, "2G 1Rx8 DDR3 1600 U"]
+      GPU: Nvidia GeForce GTX 650Ti [Nu]
+            Nvidia GeForce GTX 750Ti [Nu1.1]
+      SSD: MDA-E0010 [Nu]
+            MDA-E0012 [Nu1.1, AAVE-11A*]
+            MDA-E0015 [Nu1.1, AAVE-11B*]
+      HDD: HGST HTB-TT5SAE500(B) [500GB]
+      SND: Realtek ALC886
+      IO:  JVS/RS232/CAN card 837-15280 [PCIe: 11DB:????]
+      OS:  Windows Embedded 8 Standard (x64)
+      PSU: Delta EDPS-250AB A [250W]
 
   * Nu2             (AAVE-21A*, JP, 848-2001D, "ASSY CASE NU2")
-        MBD: Gigabyte MDH11BM [837-15384]
-        CPU: Intel Core i5-6500
-        RAM: 2x SK Hynix HMA451U6AFR8N [4GB, DDR4-2133]
-        GPU: Nvidia GeForce GTX 950 (BIOS 84.06.5A.00.05)
-        SSD: TDK GBDisk GS1 120GB [MDA-E0013]
-        SND: Realtek ALC888S
-        OS: Windows Embedded 8.1 Standard (x64)
-        PSU: Tiger Power TG-4080 [400W]
+      MBD: Gigabyte MDH11BM [837-15384]
+      CPU: Intel Core i5-6500
+      RAM: 2x SK Hynix HMA451U6AFR8N [4GB, DDR4-2133]
+      GPU: Nvidia GeForce GTX 950 (BIOS 84.06.5A.00.05)
+      SSD: TDK GBDisk GS1 120GB [MDA-E0013]
+      SND: Realtek ALC888S
+      OS:  Windows Embedded 8.1 Standard (x64)
+      PSU: Tiger Power TG-4080 [400W]
 
   * NuSX            (AAWE-01A*, JP, 848-1001D, "ASSY NUSX GAMEBOARD")
   * NuSX1.1         (AAWE-11A*?, JP)
-    MBD: ??? (838-15297 / IAI5I013X14A70042) [NuSX]
-    TPM: Infineon SLB9635TT12
-    APU: AMD R-268D [NuSX]
-    RAM: 1x Transcend TS512MLK64W6H [NuSX, 4GB, DDR3-1600, "4G 1Rx8 DDR3L 1600 U"]
-         1x ??? [NuSX1.1, 8GB]
-    HDD: MDA-H0013 [NuSX]
-    SND: Realtek ALC892 [NuSX]
-    IO:  JVS/RS232/CAN card 837-15315 [PCIe: 11DB:6678]
-    OS: Windows Embedded 8 Standard (x64)
+      MBD: ??? (838-15297 / IAI5I013X14A70042) [NuSX]
+      TPM: Infineon SLB9635TT12
+      APU: AMD R-268D [NuSX]
+      RAM: 1x Transcend TS512MLK64W6H [NuSX, 4GB, DDR3-1600, "4G 1Rx8 DDR3L 1600 U"]
+            1x ??? [NuSX1.1, 8GB]
+      HDD: MDA-H0013 [NuSX]
+      SND: Realtek ALC892 [NuSX]
+      IO:  JVS/RS232/CAN card 837-15315 [PCIe: 11DB:6678]
+      OS:  Windows Embedded 8 Standard (x64)
 ```
 
 ## ALLS

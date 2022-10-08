@@ -18,6 +18,8 @@
 
 ## P4IO
 
+`#WEB:https://page.auctions.yahoo.co.jp/jp/auction/o485245766`
+
 * Product: 115710800000 (blue board) / PWB112840930000 (green board)
 * Codename: "Cerel"
 * Connectors: USB (host), serial (host), serial (cab), custom x4 (cab)
@@ -59,6 +61,15 @@
 
 [USBIO2](io/usbio2.md)
 
+## PWB112773600000
+
+`#WEB:https://page.auctions.yahoo.co.jp/jp/auction/1014657457`
+
+* Product: PWB112773600000
+* Codename: "Messiah"
+* Interface to main PCB: USB 2.0
+* Compatible games: KCK
+
 ## KFCA
 
 * Product: PWB114435950000
@@ -74,6 +85,13 @@
 
 * Product: GSO65 PWB(A1)116148170000
 * Compatible games: O65, PTL, RTL
+
+## PWB116189890000
+
+`#WEB:https://page.auctions.yahoo.co.jp/jp/auction/c1016077591`
+
+* Product: PWB1161898900
+* Codename: "Dream"
 
 ## BIO2
 
