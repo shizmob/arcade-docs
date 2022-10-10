@@ -1859,6 +1859,7 @@ chronologic order, e.g. regarding release dates.
   - `GUKA9-JA`: 50 pack
 * `KBI`: 天下一将棋会2 (2011, PC)  `#WEB:https://www.mercari.com/jp/items/m96155836324/`
   - `GEKBI-JA`
+  - `KBIJAA01`: ROM 2010-11-24 0
 * `KBR`: REFLEC BEAT (2010, PC(945))
   - `GQKBR-JA`  `#WEB:https://a10.kpers.net/item/x694046282/`
   - `GQKBR-JB`  `#WEB:https://www.mercari.com/jp/items/m38362663720/`
@@ -2173,6 +2174,7 @@ chronologic order, e.g. regarding release dates.
   - `MDX JF AA01`: ROM [ADE PCB, 7, White] 2017-06-08 0  `#CLAIM: nova`
   - `MDX JF AB01`: ROM [ADE PCB, 7, White] 2017-10-04 0  `#WEB:https://www.youtube.com/watch?v=mearaVYJoA8`
   - `MDX UG AC01`: ROM [ADE PCB, 7, White] 2017-12-06 0
+  - `MDX JF AF01`: ROM [ADE PCB, 7, White] 2018-09-14 0
   - `MDX JI AH01`: ROM [ADE PCB, 7, Gold] 2019-02-26 0 `#WEB:https://twitter.com/964_kuroyon/status/1108273033045630977/photo/1`
   - `MDX JF AJ01`: ROM [ADE PCB, 7, White] 2019-08-01 0
   - `MDX UG AL01`: ROM [ADE PCB, 7, White] 2019-12-03 0
