@@ -2059,6 +2059,7 @@ chronologic order, e.g. regarding release dates.
   - `LDJ JA O01`: ROM [HM65 PCB, XP] 2015-05-08 0
   - `LDJ JA U01`: ROM [HM65 PCB, XP] 2016-10-13 0
   - `LDJ JF A01`: ROM [ADE PCB, 7] 2017-11-07 0
+  - `LDJ JF D01`: ROM [ADE PCB, 7] 2018-06-25 0
 * `LMA`
   - Quiz Magic Academy 賢者の扉 (2012, PC(C3)IO(USB1/USB2)-HDD)
   - Quiz Magic Academy 天の学舎 (2014, PC(C3)IO(USB1/USB2)-HDD)
