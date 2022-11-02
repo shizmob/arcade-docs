@@ -33,7 +33,7 @@ A single digit indicating the region for a specific release.
 * `3`: EXP / EXP、NAI
 * `4`: CHINA (https://www.ebay.co.uk/itm/165005792426?mkevt=1&mkcid=1&mkrid=710-53481-19255-0&campid=5338722076&toolid=10001)
 * `5`: CHINA
-* `6`: 
+* `6`:
 
 ### Cabinet role
 

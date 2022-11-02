@@ -186,7 +186,9 @@ as specific MK versions nor revisions by Andamiro. Compatbility with different s
 ### 945
 
 * Motherboard: Gigabyte GA-945GCM-S2L
-* GPU: GeForce 7200GS
+* CPU: Intel Celeron "L420" 1.6Ghz
+* GPU: GeForce 7200GS Low Profile or Geforce 8400GS 256M Low Profile
+* RAM: 1GB DDR2 800Mhz
 * IO: [USBPIUIO](io.md#usbpioio)
 * Bundled with [NX2](game/piu/nx2.md) 1.54 and higher
 * Anything before [NX2](game/piu/nx2.md) 1.54 doesn't work with this revision
@@ -195,7 +197,9 @@ as specific MK versions nor revisions by Andamiro. Compatbility with different s
 ### G31
 
 * Motherboard: Gigabyte G31M
-* GPU: Nvidia GeForce 8400GS
+* CPU: Intel Celeron "L430" 1.8Ghz
+* GPU: Nvidia GeForce 8400GS 256MB Low Profile
+* RAM: 512MB DDR2 800Mhz
 * IO: [USBPIUIO](io.md#usbpioio)
 * Bundled with Fiesta when buying a [TX cabinet](cabinet.md#tx) at that time
 * GPU last compatible card with [Fiesta](game/piu/fst.md)/[FiestaEX](game/piu/fstex.md)
@@ -205,8 +209,8 @@ as specific MK versions nor revisions by Andamiro. Compatbility with different s
 #### Asrock G41
 
 * Motherboard: Asrock G41M-S3
-* GPU: GeForce 9300GS
-* CPU: Intel Celeron 430
+* GPU: Nvidia GeForce GT210 or Geforce 9300GS
+* CPU: Intel Celeron "L430" 1.8Ghz
 * RAM: 1 GB
 * IO: [USBPIUIO](io.md#usbpioio)
 * Hardware shipped with [Pump it Up Jump cabinets](cabinet.md#jump)
@@ -214,7 +218,9 @@ as specific MK versions nor revisions by Andamiro. Compatbility with different s
 #### Gigabyte G41
 
 * Motherboard: Gigabyte G41M
-* GPU: Nvidia GeForce GT210
+* CPU: Intel Celeron "L430" 1.8Ghz
+* RAM: 1 GB
+* GPU: Nvidia GeForce GT210 or Geforce 9300GS
 * IO: [USBPIUIO](io.md#usbpioio)
 * Bundled with [Fiesta 2](game/piu/f2.md) when buying a [CX cabinet](cabinet.md#cx) at that time
 * GPU last compatible card with Fiesta 2 OS
@@ -223,7 +229,7 @@ as specific MK versions nor revisions by Andamiro. Compatbility with different s
 
 * Motherboard: Asrock H81M-DGS REV2.01
 * CPU: Intel Celeron G1840/2.8GHz
-* GPU: Nvidia GeFroce GT710 1GB 64bit DD3
+* GPU: Nvidia GeFroce GT710 1GB 64bit GDDR3
 * IO: [LXIO](io.md#lxio) and [USBPIUIO](io.md#usbpiuio) with breakout cables for LXIO "hanging out"
 * RAM: 2 GB
 * Bundled with Pump It Up [XX](game/piu/xx.md) upgrade kit

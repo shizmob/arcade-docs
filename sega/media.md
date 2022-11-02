@@ -170,7 +170,7 @@ Y = C: cartridge
 841-0020C: ZERO GUNNER 2
 841-0057C: シューティングラブ。 2007  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/o1052361326
 841-0058C: AKATSUKI BLITZKAMPF AUSF. ACHSE
-841-0059C: ILLVELO
+841-0059C: イルベロ
 841-0060C: まもるクンは呪われてしまった!
 841-0061C: MELTY BLOOD ACTRESS AGAIN
 841-0062C: ラジルギノア
@@ -232,9 +232,9 @@ GDS-0033 : LUPIN THE 3RD - THE SHOOTING
 GDS-0033 : Initial D Ver.3 : EXP
 GDS-0034 : Puyo Pop Fever : EXP
 GDS-0035 :
-GDS-0036A: VIRTUA FIGHTER 4 FINAL TUNED : SBHX
+GDS-0036A: VIRTUA FIGHTER 4 FINAL TUNED : SBHX : 253-5508-0387
         D: ^
-        F: ^
+        F: ^  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1061299381
 GDS-0037A: Dragon Treasure II
 GDS-0038 : 頭文字D ARCADE STAGE 3 CYCRAFT EDITION : JPN
 GDS-0039 : Initial D3 Cycraft Edition : EXP
@@ -253,7 +253,7 @@ GDL-0002 : STREET FIGHTER ZERO3 UPPER
 GDL-0003 :
 GDL-0004 : CAPCOM VS. SNK MILLENNIUM FIGHT 2000 PRO
 GDL-0005 : Doki Doki Idol Star Seeker
-GDL-0006 : Mobile Suit Gundam: Federation Vs. Zeon DX
+GDL-0006 : 機動戦士ガンダム 連邦 VS ジオン DX  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/1061227133
 GDL-0007 : CAPCOM VS. SNK 2 MILLIONAIRE FIGHTING 2001
         A: ^
 GDL-0008 : CAPCOM VS. SNK 2 MARK OF THE MILLENNIUM : EXP
@@ -262,8 +262,8 @@ GDL-0010 : 斑鳩 / Ikaruga
 GDL-0011 : ギルティギアXX / Guilty Gear XX : 253-5509-5082  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/1008570890
 GDL-0012 : Cleopatra Fortune Plus
 GDL-0013 : Moeru Casinyo : JPN
-GDL-0014 : Musapey's Choco Marker
-        A: ^
+GDL-0014 : ムサピィのチョコマーカー : 253-5509-5065J?
+        A: ^  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/460819809
 GDL-0015 : MOGACHO
 GDL-0016 : Pochinya
 GDL-0017 : Quiz Keitai Q mode
@@ -296,7 +296,7 @@ GDL-0034 : Kurukuru Chameleon : JPN / 253-5509-5117J?
 GDL-0035 : Under Defeat
 GDL-0036 : Trigger Heart Exelica : JPN
 GDL-0037 : Jingi Storm - The Arcade : JPN
-GDL-0038 : Senko No Ronde Special : JPN/EXP
+GDL-0038 : SENKO NO RONDE SP : JPN/EXP  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/s820418542
 GDL-0039 : MELTY BLOOD Act Cadenza Ver.B  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/c1008419351
         A: ^ Ver.B(2?)
 GDL-0040 : Karous : JPN
@@ -338,20 +338,20 @@ GDT-0008 : Gekitou Pro Yakyuu Mizushima Shinji All Stars vs. Pro Baseball
         A: ^
         B: ^
         C: ^
-GDT-0009 : The Key Of Avalon (main)
+GDT-0009 : アヴァロンの鍵 (メイン)
         A: ^ 1.2: Summon the New Monsters
         B: ^ 1.x:
-        C: ^ 1.3: Chaotic Sabbat
-GDT-0010 : The Key Of Avalon (satellite)
+        C: ^ 1.30: Chaotic Sabbat  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1034155235`
+GDT-0010 : アヴァロンの鍵 (satellite)
         A: ^ 1.2: Summon the New Monsters
         B: ^ 1.x:
-        C: ^ 1.3: Chaotic Sabbat
+        C: ^ 1.30: Chaotic Sabbat  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1034155235`
 GDT-0011 : BOOT UPDATE
 GDT-0012 : VIRTUA STRIKER 2002 (type 3)
 GDT-0013 : VIRTUA STRIKER 4 : JPN: 253-5508-0391J
         A: ^
         B: ^
-        C: ^
+        C: ^  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/x1051108255
         D: ^
         E: ^
 GDT-0014 : VIRTUA STRIKER 4 : ASIA
@@ -415,7 +415,7 @@ GDX-0012 : Ghost Squad
 GDX-0013 : Gundam Battle Operating Simulator
 GDX-0014 : OutRun 2 Special Tours : EXP
         A: ^
-GDX-0015 : 湾岸ミッドナイトマキシマムチューン 2 : JPN
+GDX-0015 : 湾岸ミッドナイトマキシマムチューン 2 : JPN  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/u1058813378`
         A: ^
 GDX-0016 : WANGAN MIDNIGHT MAXIMUM TUNE 2 : EXP
         A: ^ Ver.B
@@ -658,7 +658,7 @@ DVP-0054D: StarHorse2: Third Evolution : Star Horse
 DVP-0055 :
 DVP-0056 :
 DVP-0057B: HUMMER
-DVR-0058 :
+DVP-0058 :
 DVP-0059 :
 DVP-0060 :
 DVP-0060 : R-Tuned: Ultimate Street Racing : SBQW : 253-5508-0545
@@ -734,7 +734,7 @@ DVR-0009A : SEGA RACING CLASSIC : RingWide : SBTN
 DVR-0010  :
 DVR-0011  :
 DVR-0012A : 初音ミク Project DIVA Arcade : RingEdge : JPN : SBTY : v1.01
-DVR-0013D : MELTY BLOOD Actress Again Current Code : RingWide : JPN : SBUB
+DVR-0013D : MELTY BLOOD Actress Again Current Code : RingWide : JPN : SBUB  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/k1018057793`
 DVR-0014  :
 DVR-0015  :
 DVR-0016  : Let's Go ISLAND! : RingWide : SBUH
@@ -750,10 +750,10 @@ DVR-0021  :
 DVR-0022  :
 DVR-0023  :
 DVR-0024  :
-DVR-0025A : THAT'S PARADICE : RingEdge : JPN : SBVC : v1.01?
+DVR-0025A : THAT'S PARADICE : RingEdge : JPN : SBVC : v1.01?  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/b1059043289`
 DVR-0026B : SEGA GOLDEN GUN : RingWide : SBVE
-DVR-0027  : セガネットワーク対戦麻雀 MJ5 : RingEdge : JPN : SBVF
-        J : ^
+DVR-0027  : セガネットワーク対戦麻雀 MJ5 : RingEdge : JPN : SBVF  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/j1020300799`
+        J : ^  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/h1020285794`
 DVR-0028  :
 DVR-0029  : Sonic&SEGA All-Stars Racing ARCADE : RingWide : SBVH
 DVR-0030  :
@@ -768,7 +768,7 @@ DVR-0037  : OPERATION G.H.O.S.T. : RingWide : SBWA
 DVR-0038  : Let's Go ISLAND 3D : RingEdge : SBWB
 DVR-0039  :
 DVR-0040  :
-DVR-0041  : Chaos Code : RingWide : SBWF
+DVR-0041  : CHAOS CODE : RingWide : SBWF  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/u1021391011`
 DVR-0042  :
 DVR-0043  :
 DVR-0044  :
@@ -801,7 +801,7 @@ DVR-0068  : Sega Card Gen MLB 2013 : RingEdge2 : JPN : SBYU
 DVR-0069  : ALL.Net P-ras MULTI バーシオン2 : RingEdge2 : JPN : SBYG : v0.13
         A : ^ v2.20  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/g1008171095
 DVR-0070  :
-DVR-0071  : セガネットワーク対戦麻雀 MJ5 EVOLUTION : RingEdge : JPN : SBYX ; v2.10
+DVR-0071  : セガネットワーク対戦麻雀 MJ5 EVOLUTION : RingEdge : JPN : SBYX : v2.10  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/e1020293560`
 DVR-0072  :
 DVR-0073  : ぷよぷよ!！クエスト アーケード : RingEdge : SBYZ
         B : ^
@@ -817,7 +817,7 @@ DVR-0080  :
 DVR-0081  :
 DVR-0082  :
 DVR-0083  : セガネットワーク対戦麻雀 MJ5 R EVOLUTION : RingEdge : JPN : SBYX : v4.20
-        D : ^ v4.30/v4.31
+        D : ^ v4.30/v4.31  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/d1020299056`
         ? : ^ v4.51
 DVR-5001  : BORDER BREAK : RingEdge : JPN : SBVA : Air Burst v2.0
         C : ^
@@ -847,7 +847,7 @@ DVR-5007  :
 DVR-5008  :
 DVR-5009  :
 DVR-5010  :
-DVR-5011  : maimai : RingEdge2 : SBXL : JPN
+DVR-5011  : maimai : RingEdge2 : SBXL : JPN  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/m1021213369`
         A : ^
         B : ^
 DVR-5012  : Shining Force CROSS ELYSION : RingEdge : JPN : SBVB
@@ -855,7 +855,7 @@ DVR-5012  : Shining Force CROSS ELYSION : RingEdge : JPN : SBVB
 DVR-5013A : WORLD CLUB CHAMPION FOOTBALL Intercontinental Clubs 2011-2012 : RingEdge : JPN : SBXT
         C : ^
 DVR-5014  :
-DVR-5015A : 頭文字D ARCADE STAGE 7 AA X (クロス) : RingEdge : SBYD
+DVR-5015A : 頭文字D ARCADE STAGE 7 AA X (クロス) : RingEdge : SBYD  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/m1061246824
 DVR-5016  : INITIAL D ARCADE STAGE 7 : RingEdge2 : EXP : RGE DVDROM TFF VER 7 EXP  #DOC:sega:PMA-B00440
 DVR-5017B : maimai (WUMENGOOO) : RingEdge2 : CHN : SBYC
 DVR-5018  :
@@ -868,6 +868,7 @@ DVR-5024B : CODE OF JOKER : RingEdge2 : JPN : SBYT  #WEB:https://page.auctions.y
         H : ^
 DVR-5025  :
 DVR-5026  : TRANSFORMERS HUMAN ALLIANCE : RingEdge2 : SBYR
+        B : ^  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/x1061984831
           : TRANSFORMERS SHADOWS RISING : RingEdge2
 DVR-5027  : maimai GreeN (No.1) : RingEdge2 : JPN : SBZF
         D : ^
@@ -896,10 +897,12 @@ CDV-30041 : 戦国大戦 Ver3 (No.2) : RingEdge : JPN : SDBD
 DVR-5042  : WORLD CLUB CHAMPION FOOTBALL 2013-2014 : RingEdge : JPN : SDBH  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/j1053966149
 DVR-5043  : maimai ORANGE (No.1) : RingEdge2 : JPN : SDBM
 CDV-30043 : maimai ORANGE (No.2) : RingEdge2 : JPN : SDBM
+CDV-35043 : maimai ORANGE (No.2) : RingEdge2 : JPN : SDBM
 DVR-5044  : maimai ORANGE PLUS (No.1) : RingEdge2 : JPN : SDBM
 CDV-35044 : maimai ORANGE PLUS (No.2) : RingEdge2 : JPN : SDBM  `#WEB:https://www.picclickimg.com/d/w1600/pict/163415722028_/Sega-maimai-Orange-maimai-Orange-Plus-with.jpg`
 CDV-60044 : maimai ORANGE PLUS (No.3) : RingEdge2 : JPN : SDBM
-DVR-5045  : StarHorse3 SeasonIV DREAM ON THE TURF (No.1) : RingEdge2 : JPN : SDCE
+DVR-5045  : StarHorse3 SeasonIV DREAM ON THE TURF (No.1) : RingEdge2 : JPN : SDCE  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/w1015349428`
+CDV-30045 : ^ (No.2)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/w1015349428`
 DVR-5046  : 戦国大戦 Ver.3.1 (No.1) : RingEdge : JPN : SDCG  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/f1009902696`
 CDV-30046 : 戦国大戦 Ver.3.1 (No.2) : RingEdge : JPN : SDCG  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/f1009902696`
 DVR-5047  :
@@ -907,12 +910,15 @@ DVR-5048  : maimai PiNK (No.1) : RingEdge2 : JPN : SDCQ
         B : maimai PiNK PLUS (No.1) : RingEdge2 : JPN : SDCQ
 CDV-30048 : maimai PiNK (No.2) : RingEdge2 : JPN : SDCQ
          B: maimai PiNK PLUS (No.2) : RingEdge2 : JPN : SDCQ
+CDV-35048 : maimai PiNK (No.2) : RingEdge2 : JPN : SDCQ
+         B: maimai PiNK PLUS (No.2) : RingEdge2 : JPN : SDCQ
 CDV-60048 : maimai PiNK (No.3) : RingEdge2 : JPN : SDCQ
          B: maimai PiNK PLUS (No.3) : RingEdge2 : JPN : SDCQ
 DVR-5049  : 戦国大戦　Ver3.2 (No.1) : RingEdge : JPN : SDCU
 CDV-30049 : 戦国大戦　Ver3.2 (No.2) : RingEdge : JPN : SDCU
 DVR-5050  :
-DVR-5051  :
+DVR-5051  : StarHorse3 SeasonV EXCEED THE LIMIT (No.1) : RingEdge2 : JPN  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/b1015341672
+CDV-30051 : ^ (No.2)  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/b1015341672
 DVR-5052  : CODE OF JOKER : RingEdge2 : JPN : SBYT
         A : ^ (No.1)
         F : ^ (No.1)
@@ -924,10 +930,13 @@ DVR-5054  :
 DVR-5055  :
 DVR-5056A : WORLD CLUB CHAMPION FOOTBALL 2016-2017 : RingEdge : JPN : SDDH  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/j1053966149
         B : ^
-DVR-5057  :
+DVR-5057D : StarHorse3 SeasonVI FULL THROTTLE (No.1) : RingEdge2 : JPN : SDDR  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/e1015341276
+CDV-30057D: ^(No.2)  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/e1015341276
 DVR-5058  :
 DVR-5059  : WORLD CLUB CHAMPION FOOTBALL 2017-2018 : RingEdge : JPN : SDDY  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/j1053966149
         B : ^
+DVR-5060  : StarHorse3 SeasonVII GREAT JOURNEY (No.1) : RingEdge2 : JPN : SDEN(satellite?) : on a 864-5004D  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/u1015343719
+CDV-30060 : ^ (No.2)  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/u1015343719
 DVR-????  : Senkaisen Taissen CHINA V1.0 : RingWide (AAMK) : CHN : SBSQ
 DVR-????  : メダルのガンマン : RingWide : JPN : SBTF
 DVR-????  : すすめ！スゴロケッツ : RingEdge : JPN : SBTH
@@ -941,9 +950,6 @@ DVR-????  : WORLD CLUB CHAMPION FOOTBALL 2015-2016 : RingEdge : JPN : SDCJ
 DVR-????  : StarHorse3 SeasonI A NEW LEGEND BEHIND (No.1) : RingEdge2 : JPN
 DVR-????  : StarHorse3 SeasonII BLAZE OF GLORY (No.1) : RingEdge2 : JPN
 DVR-????  : StarHorse3 SeasonIII CHASE THE WIND (No.1) : RingEdge2 : JPN : SDAW
-DVR-????  : StarHorse3 SeasonV EXCEED THE LIMIT (No.1) : RingEdge2 : JPN
-DVR-????  : StarHorse3 SeasonVI FULL THROTTLE (No.1) : RingEdge2 : JPN : SDDR
-DVR-????  : StarHorse3 SeasonVII GREAT JOURNEY (No.1) : RingEdge2 : JPN : SDEN(satellite?) : on a 864-5004D
 DVR-????  : ムシキングバトル 合虫ガッツ!! : RingWide : JPN
 DVR-????  : Target Bravo: Operation Ghost : RingWide : EXP
 DVR-????  : ??? : SBTR
@@ -1308,7 +1314,7 @@ MDA-E0013 : TDK GBDisk GS1 120GB                    : Nu2
 MDA-E0014 : TDK GBDisk GS1 120GB?                   : Nu?
 MDA-E0015 : TDK GBDisk GS1 120GB                    : Nu1.1 [AAVE-11B*]
 MDA-E0016 :
-MDA-E0017 : TDK GBDisk GS1 120GB                    : ALLS UX
+MDA-E0017 : TDK GBDisk GS1 120GB                    : ALLS UX, ALLS HX
 MDA-E0017A: TDK GBDisk GS1 120GB?                   : ALLS UX : https://page.auctions.yahoo.co.jp/jp/auction/w1043584630
 MDA-E0018 :
 MDA-E0019 : TDK GBDisk GS1 120GB                    : ALLS UX2, ALLS HX2, ALLS HX2 OP
@@ -1353,7 +1359,7 @@ MDA-U0030 :
 MDA-U0031 :
 MDA-U0032 :
 MDA-U0033A?: REVOLUTION 3                 : RingWide
-MDA-U0034 : CHAOS CODE                    : RingWide : SBWF  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/h1043508515
+MDA-U0034 : CHAOS CODE                    : RingWide : SBWF  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/h1043508515 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/u1021391011`
 MDA-U0035 :
 MDA-U0036 : MULTI UPDATE                  : RingEdge2
 MDA-U0037 :
@@ -1376,7 +1382,7 @@ MDA-U0052 :
 MDA-U0053 :
 MDA-U0054 :
 MDA-U0055 : 北斗の拳 BATTLE MEDAL          : RingEdge2 : JPN : SBYQ  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1006804513
-MDA-U0056 :
+MDA-U0056 : MARIO & SONIC RIO             : Nu1.1 : JPN? : SDCH : 1.00.01  #WEB:https://cdn.discordapp.com/attachments/775240942646198314/909522133145772032/IMG_2833.jpg
 MDA-U0057 :
 MDA-U0058 :
 MDA-U0059 :
@@ -1386,12 +1392,12 @@ MDA-U0062 :
 MDA-U0063 :
 MDA-U0064E: バベルのメダルタワー             : NuSX1.1? : JPN : 1.06
 MDA-U0065 :
-MDA-U0066 : maimai MURASAKi               : RingEdge2 : JPN : SDDK
+MDA-U0066 : maimai MURASAKi               : RingEdge2 : JPN : SDDK  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/m1021213369
         A: ^ PLUS
 MDA-U0067 :
 MDA-U0068C: UFO CATCHER 9 VER.2.03
 MDA-U0069 :
-MDA-U0070 : maimai MiLK                   : RingEdge2 : JPN : SDDZ
+MDA-U0070 : maimai MiLK                   : RingEdge2 : JPN : SDDZ  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/m1021213369
 MDA-U0071 :
 MDA-U0072 :
 MDA-U0073 :
@@ -1405,20 +1411,20 @@ MDA-U0080 : maimai FiNALE                 : RingEdge2 : EXP : SDEY
 MDA-U0081 :
 MDA-U0082 :
 MDA-U0083 : maimai DX                     : ALLS HX2 : JPN : SDEZ
-        G: ^ PLUS VER 1.090
+         G: ^ PLUS VER 1.090
 MDA-U0084 :
 MDA-U0085 : maimai DX                     : ALLS HX2 : EXP : SDGA
 MDA-U0086 : maimai DX 2021                : ALLS HX2 : CHN : SDGB
-        D : maimai DX 2022                : ALLS HX2 : CHN : SDGB #DOC:Wahlap:Maimai DX 2022 Software Upgrading Guidance
+         D: maimai DX 2022                : ALLS HX2 : CHN : SDGB #DOC:Wahlap:Maimai DX 2022 Software Upgrading Guidance
 MDA-U0087 :
-MDA-U0088 :
+MDA-U0088G: ALL.Net P-ras MULTI バージョン3 VER1.18
 MDA-U0089 :
 MDA-U0090 :
-MDA-U0091 :
+MDA-U0091 : MARIO & SONIC TOKYO           : ALLS HX2 : JPN : SDCH?  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/r1057342461
 MDA-U0092 : ぷよぷよeスポーツ アーケード すぽっと！ : https://page.auctions.yahoo.co.jp/jp/auction/b1047926013
 MDA-U0093 :
 MDA-U0094 :
-MDA-U0095 :
+MDA-U0095B: UFO CATCHER TRIPLE TWIN VER 1.10  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/d1059340271
 MDA-U0096 :
 MDA-U0097 : Chunithm SUPERSTAR            : ALLS HX2 OP : EXP : SDGS
 MDA-U0098 : バベルのメダルタワーW             : ALLS X? : JPN

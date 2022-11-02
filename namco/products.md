@@ -39,10 +39,11 @@ AM  - Armadillo Racing
 AN  - Abnormal Check
 AP  - Attack Pla-Rail
 AQ  - Aqua Rush
-AR  - Alpine Racer
+AR  - Alpine Racer  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/c1067007198
 ARS - Alpine Racer 2
 AT  - Assault
 BAX - Sengoku Basara X Cross
+BI  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/u1066242309
 BK  - Bakutotsu Kijuutei
 BM  - Chou Zetsurinjin Berabowman
 BO  - Blast Off
@@ -63,6 +64,7 @@ CSZ - Crisis Zone
 CVC - Uchuu Daisakusen Chocovader Contactee
 CY  - Cyber Commando, Cyber Sled
 DAC - Mach Storm
+DB  - Dragon Buster  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1004877428
 DB  - Super Dragon Ball Z / Chou Dragon Ball Z
 DC  - ダンシングアイ / Dancing Eyes  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/g1005480922
 DCO - Dragon Chronicles  #WEB:https://www.ebay.co.uk/itm/165010780308
@@ -80,7 +82,7 @@ DOL - Druaga Online: The Story of Aon
 DPK - Dead Storm Pirates
 DR  - Dangerous Seed
 DR2 - Mr. Driller 2  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/t1008404316
-DRG - Mr. Driller G
+DRG - Mr. Driller G  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/r1067010846
 DRI - Mr. Driller
 DS  - Dragon Spirit  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/c1011632637
 DSP - Dead Storm Pirates Special Edition
@@ -109,6 +111,7 @@ GCB - Mobile Suit Gundam U.C: Card Builder
 GEF - Gundam Extreme Vs. Full Boost
 GEM - Gundam Extreme Vs. Maxi Boost
 GEX - Gundam Extreme Vs.  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/o1042258431
+GG  - Galaga  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/k1017838471
 GID - GAHAHA Ippatsu-dou
 GIS - GAHAHA Ippatsu-dou 2
 GK4 - Gundam: Bonds of the Battlefield REV.4.x
@@ -135,13 +138,13 @@ HM  - Hopping Mappy
 IDM - The IDOLM@STER  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/j1004144883 (IDMS1) #WEB:https://page.auctions.yahoo.co.jp/jp/auction/d1004142476 (IDMT1)
 IN2 - Sukusuku Inufuku 2 / The Dog Luck 2
 JAM - Capcom Fighting Jam / Capcom Fighting Evolution
-JS  - じゃんけんしようよメイン 
+JS  - じゃんけんしようよメイン
 KD1 - ?  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/c911811261
 KH  - Knuckle Heads  #MAME:namcona1
 KN1 - Kinnikuman Muscle Grand Prix
 KN2 - Kinnikuman Muscle Grand Prix 2  #WEB:https://www.ebay.co.uk/itm/165010814397
 KP  - カニカニパニック / Kani Kani Panic  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/o1009159025
-KPM - Kotoba no Puzzle Mojipittan  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/p1011357758
+KPM - Kotoba no Puzzle Mojipittan  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/p1011357758 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/f1059211345
 KQ  - Kosodate Quiz My Angel  #WEB:https://jp.mercari.com/item/m80799164755
 KQS - Kosodate Quiz My Angel 2  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/f1012105713
 KQT - Kosodate Quiz My Angel 3
@@ -153,6 +156,7 @@ LG  - Libero Grande
 LLA - Lost Land Adventure
 LW  - Lucky & Wild
 MB  - Mach Breakers - Numan Athletics 2 / Mach Breakers
+MC  - Metro-Cross  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/k1004876101
 MDH - Derby Quiz My Dream Horse
 MG  - Motocross Go!
 MGP - Moto GP  #WEB:https://www.ebay.co.uk/itm/165047812596
@@ -231,6 +235,7 @@ S09 - Taiko no Tatsujin Yellow?
 S10 - Taiko no Tatsujin Blue
 S11 - Taiko no Tatsujin Green  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/e1012213276
 S12 - Taiko no Tatsujin (2020)
+SAS - シュータウェイ2 / Shooter Way 2  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/l1023777305
 SB  - Souko Ban Deluxe / Boxy Boy
 SC  - Super World Court  #MAME:namcona1
 SC2 - Soul Calibur II
@@ -269,7 +274,7 @@ SWF - M143???  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/h1003281724
 SWS - Super World Stadium  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/l1006800069
 SYN - Synchronica
 T10 - Taiko no Tatsujin 10
-T11 - Taiko no Tatsujin 11
+T11 - Taiko no Tatsujin 11  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/c1016019389
 T12 - Taiko no Tatsujin 12
 T13 - Taiko no Tatsujin 13
 T14 - Taiko no Tatsujin 14
@@ -283,7 +288,7 @@ TE6 - Tekken 6
 TE7 - Tekken 7
 TED - Tekken 5 Dark Resurrection
 TEF - Tekken 4
-TEG - Tekken Tag Tournament
+TEG - Tekken Tag Tournament  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/1022599123
 TER - Tekken 7 Fated Retribution
 TES - Tekken 2
 TET - Tekken 3
@@ -315,6 +320,7 @@ T46 - Fishing Spirits REV.4.0 (6ST)
 T48 - Fishing Spirits REV.4.0 (8ST)
 TS6 - Fishing Spirits REV.2.0 (6ST)
 TSP - Fishing Spirits REV.2.0 (8ST)
+TTC - Tore Tore Clipper  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/e1017838907
 TTT - Tank!Tank!Tank!
 TW  - Tokyo Wars
 VPN - Vampire Night
@@ -354,6 +360,53 @@ ZS  - Zelos
 
 ## Misc
 
+### [C-codes](identifiers.md#c-code)
+
+```
+C69  - MPU [NA-1]    #MAME:namcona1
+C70  - MPU [NA-2]    #MAME:namcona1
+C75  - SPU [NB-1]    #MAME:namconb1
+C116 - GPU [NB-1]    #MAME:namconb1
+C123 - GPU [NB]      #MAME:namconb1
+C137 - CPLD [NB-1]   #MAME:namconb1
+C140 - SPU [NA]      #MAME:namcona1
+C145 - GPU [NB]      #MAME:namconb1
+C156 - GPU [NB]      #MAME:namconb1
+C160 - IO SPU [NB]   #MAME:namconb1
+C169 - MOPU [NB-2]   #MAME:namconb1
+C187 - MOPU [NB]     #MAME:namconb1
+C210 - ? [NA]        #MAME:namcona1
+C215 - ? [NA]        #MAME:namcona1
+C218 - ? [NA]        #MAME:namcona1
+C219 - ? [NA]        #MAME:namcona1
+C329 - MPU [NB-1]    #MAME:namconb1
+C347 - MOPU [NB-1]   #MAME:namconb1
+C348 - keycus [MQ]   #MAME:namcona1
+C349 - keycus [CA]   #MAME:namcona1
+C350 - keycus [EX]   #MAME:namcona1
+C352 - PCM SPU [NB,ND-1]  #MAME:namconb1 #MAME:namcond1
+C355 - MOPU [NB]     #MAME:namconb1
+C356 - keycus [CP]   #MAME:namcona1
+C357 - keycus [SC]   #MAME:namcona1
+C358 - keycus [EM]   #MAME:namcona1
+C359 - keycus [NM]   #MAME:namcona1
+     - keycus
+C360 - keycus [KH]   #MAME:namcona1
+C365 - keycus [QT]   #MAME:namcona1
+C366 - keycus [NB-1] #MAME:namconb1
+C367 - keycus [TK]   #MAME:namcona1
+C382 - MPU [NB-2]    #MAME:namconb1
+C383 - MPU [NB-2]    #MAME:namconb1
+C384 - GPU [NB-2]    #MAME:namconb1
+C385 - MPU [NB-2]    #MAME:namconb1
+C386 - keycus [GB]   #MAME:namconb1
+C393 - keycus [SS5]  #MAME:namconb1
+C394 - keycus [XDS]  #MAME:namcona1
+C416 - MCU [ND-1]    #MAME:namcond1
+C426 - keycus [SS6]  #MAME:namconb1
+C434 - keycus [SS7]  #MAME:namconb1
+```
+
 ### [J-codes](identifiers.md#j-code)
 
 ```
@@ -363,15 +416,16 @@ J006 - MAIN PCB [ビンゴキッズ]     #WEB:https://page.auctions.yahoo.co.jp/
 ### [M-codes](identifiers.md#m-code)
 
 ```
+M74  - MAIN PCB [シュータウェイ2]      #WEB:https://page.auctions.yahoo.co.jp/jp/auction/l1023777305
 M103 - MAIN PCB [ワニワニパラダイス]    #WEB:https://page.auctions.yahoo.co.jp/jp/auction/p755515979
 M112 - ROM PCB [XDS]                 #MAME:namcona1
 M122 - MEM/PRN PCB [Abnormal Check]  #MAME:namcond1
 M139 - SUB PCB                       #WEB:https://page.auctions.yahoo.co.jp/jp/auction/1010872138
-M143 - MAIN PCB [SWF]                #WEB:https://page.auctions.yahoo.co.jp/jp/auction/h1003281724 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1003283985
+M143 - MAIN PCB [SWF]                #WEB:https://page.auctions.yahoo.co.jp/jp/auction/h1003281724 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1003283985 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/c1066966748
 M145 - MAIN PCB [JPG]                #WEB:https://page.auctions.yahoo.co.jp/jp/auction/r490677188
 M168 - DRIVE PCB                     #WEB:https://page.auctions.yahoo.co.jp/jp/auction/u243960159
 M188 - MAIN PCB [SWB]                #WEB:https://page.auctions.yahoo.co.jp/jp/auction/l1003283787
-M171 - SIA PCB [ワイワイクリッパー]     #WEB:https://page.auctions.yahoo.co.jp/jp/auction/w290817382 
+M171 - SIA PCB [ワイワイクリッパー]     #WEB:https://page.auctions.yahoo.co.jp/jp/auction/w290817382
 M188 - MAIN PCB [SSC]                #WEB:https://page.auctions.yahoo.co.jp/jp/auction/t1011339591
 ```
 
@@ -386,7 +440,7 @@ V??? - Sailor Zombie AKB48
 
 V136 - Tokyo Wars?
 V147 - Point Blank?
-V151 - 
+V151 -
 V159 - Time Crisis
 V162 - Tokyo Wars?
 V168 -
@@ -394,22 +448,22 @@ V173 - Alpine Racer 2
 V185 - Time Crisis 2
 V187 - Rapid River or Final Furlong
 V194 - Race On!
-V198 - 
+V198 -
 V208 - Crisis Zone rear-projection?
 V221 - Crisis Zone  #WEB:https://www.ebay.co.uk/itm/165010803000
 V233 - Truck Kyosokyoku  #MAME:namcos12
-V239 - 
+V239 -
 V257 - Ridge Racer V
 V260 - #WEB:https://page.auctions.yahoo.co.jp/jp/auction/r1000989910
 V281 - Wangan Midnight JP?
-V290 - 
+V290 -
 V291 - Time Crisis 3
 V300 -
 V307 - Wangan Midnight Maximum Tune
-V315 - 
+V315 -
 V320 -
 V322 - Wangan Midnight Maximum Tune 2
-V326 - 
+V326 -
 V328 - Taiko no Tatsujin?  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/s1009957619`
 V329 - Time Crisis 4
 V337 - Wangan Midnight Maximum Tune 3
@@ -418,17 +472,18 @@ V351 - Nirin
 V352 - Tank!Tank!Tank!
 V355 -   #WEB:https://page.auctions.yahoo.co.jp/jp/auction/p1006230498
 V363 - Wangan Midnight Maximum Tune 3DX
-V371 - 
-V376 - 
+V371 -
+V376 -
+V379 - 
 V386 - Wangan Midnight Maximum Tune 3DX+
 V387 - Pac-Man Battle Royale
 V388 - Wangan Midnight Maximum Tune 4
 V389 - Dead Heat
-V402 - 
+V402 -
 V403 - 機動戦士ガンダム 戦場の絆 REV.4.x
 V405 - Maximum Heat
 V406 - Time Crisis 5?
-V418 - 
+V418 -
 ```
 
 ### [Z-codes](identifiers.md#z-code)
@@ -440,4 +495,5 @@ Z008 - LED(A) PCB  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/u1004573209
      - lrサテライトB PCB  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/k1011673218
 Z068 - ST-ION PCB                  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/r1004096725
 Z085 - Clerk PCB                   #WEB:https://page.auctions.yahoo.co.jp/jp/auction/x1003283688
+     - Ruler PCB                   #WEB:https://page.auctions.yahoo.co.jp/jp/auction/e1017982982
 ```

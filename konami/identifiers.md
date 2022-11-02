@@ -122,7 +122,7 @@ The following variables are used across the different identifiers and can denote
     * `y`: `A` + (project development start year - 2000) (`L`: 2011, `T`: 2019, etc.)
     * `xx`: Remainder, (incremental) game/product identifier
   * Example: `LDJ`
-* `$d`: Destination, target locale/market
+* `$d`: Destination, target locale/market/region
   * `A`: Asia
   * `C`: China
   * `E`: Europe
@@ -133,6 +133,7 @@ The following variables are used across the different identifiers and can denote
   * `T`: Taiwan (Asia 110V; software is often/always? A-region)
   * `U`: US
   * `Y`: Indonesia
+  * `Z`: Thailand
 * `$s`: Specification: Product type and game dependent, e.g. type of cabinet or hardware
   * `A`, `B`, `C`, ..., `Z`
   * コナステ streamed games use `N`
@@ -185,13 +186,17 @@ Usually indicated with `PN` or `PWB`. Any kind of specific part, manual or anyth
 * Source: stickers on hardware
 * Formats:
   - A: `$N` (-~1998)
-  - B: `$G$U$U$S$Y` (~1998)
+  - B: `$G$U$U$S$Y` (~1997-1998)
   - C: `$g$U$S$Y` (~1999-~2001)
   - D: `$g$U$S$P$Y` (~2001-~2004)
   - E: `$g $t$d$s $S` (maybe not a serial number?)
   - F: `$g$t$d$s$S$P$Y` (~2005-)
 * Variables:
-  - `$G`: A one or two-letter game code, e.g. `D` (DanceDanceRevolution) or `BM` (Beatmania)
+  - `$G`: A one or two-letter game code, e.g.:
+    * `D` (DanceDanceRevolution)
+    * `BM` (beatmania)
+    * `BD` (beatmania IIDX)
+    * `GG` (Ganbare Goemon)
   - `$N`: A six-digit number, e.g. `812169`
   - `$S`: A four-digit number, e.g. `0104`: the set serial number
   - `$P`: A single-digit number, e.g. `0`: the part number in the set (PCB, dongle, cab # if twin cabs...)
