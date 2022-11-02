@@ -1867,6 +1867,7 @@ chronologic order, e.g. regarding release dates.
 * `KC1`: Contra Evolution /  (PC(?)IO(P4IO-masking-as-HBHI)-HDD)  `#WEB:https://xyen.dev/blog/2021/05/contra-acio/ #MISC:oyakodon_oniku_list`
   - `GXKC1-CA`  `#WEB:https://www.ebay.com/itm/165087689068`
   - `KC1 CAA`  `#WEB:https://www.ebay.com/itm/164971011344`
+  - `KC1 CA A01`: ROM 2011-01-18 0
 * `KCK`: ワールドソッカウイニングイレブン アーケードチャンピオンシップ 2012 (2011, PC(C3))  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/k552713225`
   - `GQKCK-JA`  `#WEB:https://a12.kpers.net/item/b469213686/`
   - `GCKCK-JA`
@@ -2341,6 +2342,7 @@ chronologic order, e.g. regarding release dates.
   - `GQTDJ-UA`
   - `GUTDJ-JV`: beatmania IIDX 29 CastHour LIGHTNING MODEL用装飾キット (マイクロスイッチ同梱) [CastHour art kit with microswitches]
   - `TDJ JA A01`: ROM 2019-11-18 0 `#WEB: https://www.youtube.com/watch?v=pGl0d3rq8Xg`
+  - `TDJ JA B01`: ROM 2021-04-13 0
 * `TSS`: スマッシュスタジアム  `#SCRAPE:konami:eagate`
 * `TTA`: カラコロッタ めざせ！夢の宝島  `#SCRAPE:konami:eagate`
 * `TVS`: デュエルドリーム / DUEL DREAM  `#SCRAPE:konami:eagate #MISC:oyakodon_oniku_list`

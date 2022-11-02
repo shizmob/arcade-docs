@@ -557,6 +557,9 @@ Also known as: "ADE".
 ## Misc
 
 ### Raw Thrills
+* Release: 2008 (Optiplex 740) / 2010 (Optiplex 580)
+* Base: PC
+
 ## Optiplex 740
 **CPU:** AMD Athlon 64 X2 4400+  
 **GPU:** ATI Radeon HD 2400 Pro  
@@ -571,6 +574,19 @@ Also known as: "ADE".
 **SND:** Realtek ALC269 (HD Audio)  
 **OS:** Windows XP Embedded (SP2)  
 **Games:** JDX (US/EU)  
+
+### GXKC1-CA
+(name tentative)
+* Release: 2010/2011
+* Base: PC
+
+**MBD:** Pegatron IPXPV
+**CPU:** Intel Atom D510 (1.66GHz)
+**GPU:** NVIDIA ION
+**STH:** Intel NM10
+**SND:** Realtek ALC662 (HD Audio)
+**OS:** Windows XP Embedded (SP3)
+**Games:** KC1 (CHN)
 
 ### R10
 
