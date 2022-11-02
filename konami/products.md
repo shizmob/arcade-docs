@@ -1941,7 +1941,7 @@ unknown:
   - `GQKBR-JA`  `#WEB:https://a10.kpers.net/item/x694046282/`
   - `GQKBR-JB`  `#WEB:https://www.mercari.com/jp/items/m38362663720/`
   - `KBR JA A01`: ROM 2010-10-06 0 `#WEB:https://twitpic.com/47s7ws`
-* `KC1`: Contra Evolution /  (PC(?)IO(P4IO-masking-as-HBHI)-HDD)  `#WEB:https://xyen.dev/blog/2021/05/contra-acio/ #MISC:oyakodon_oniku_list`
+* `KC1`: Contra Evolution /  (PC(IPXPV)IO(P4IO-masking-as-HBHI)-HDD)  `#WEB:https://xyen.dev/blog/2021/05/contra-acio/ #MISC:oyakodon_oniku_list`
   - `GXKC1-CA`  `#WEB:https://www.ebay.com/itm/165087689068`
   - `KC1 CAA`  `#WEB:https://www.ebay.com/itm/164971011344`
   - `KC1 CA A01`: ROM 2011-01-18 0

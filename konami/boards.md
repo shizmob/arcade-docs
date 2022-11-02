@@ -592,13 +592,13 @@ Also known as: "ADE".
 * Release: 2010/2011
 * Base: PC
 
-**MBD:** Pegatron IPXPV
-**CPU:** Intel Atom D510 (1.66GHz)
-**GPU:** NVIDIA ION
-**STH:** Intel NM10
-**SND:** Realtek ALC662 (HD Audio)
-**OS:** Windows XP Embedded (SP3)
-**Games:** KC1 (CHN)
+**MBD:** Pegatron IPXPV  
+**CPU:** Intel Atom D510 (1.66GHz)  
+**GPU:** NVIDIA ION  
+**STH:** Intel NM10  
+**SND:** Realtek ALC662 (HD Audio)  
+**OS:** Windows XP Embedded (SP3)  
+**Games:** KC1 (CHN)  
 
 ### R10
 
