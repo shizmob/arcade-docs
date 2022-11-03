@@ -2465,6 +2465,8 @@ unknown:
 * `UX8`: FORTUNE TRINITY 精霊の至宝祭  `#SCRAPE:konami:eagate`
 * `VFG`: Mahjong Fight Girl (2022/2023, under location test) `#WEB:https://twitter.com/Kasumi_7STYLE/status/1573194237654757377/`
 * `VGP`: DanceDanceRevolution(コナステ) [e-AMUSEMENT CLOUD/home version]  `#SCRAPE:konami:eagate`
+* `VSL`: 桃太郎電鉄メダルゲームも定番！ (2022/2023, under location test) `#WEB:https://ariesu.com/locationtest/momotetsu-medal.htm`
+* `VTA`: カラコロッタ フローズンアイランド (2022) `#WEB:https://twitter.com/oyakodon_oniku/status/1587258529307451393`
 
 * `PWB453470`: 1P/2P sensor board  `#WEB:https://www.ebay.co.uk/itm/224465398910`
 * `PWB113430230000`: I/O board  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/j1010903947`
