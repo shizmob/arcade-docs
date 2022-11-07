@@ -557,14 +557,17 @@ Also known as: "ADE".
 **MBD:** Ennoconn ADE-6291  
 **APU:** AMD RX-421BD  
 **HDD:** [KFC/PAN?/L44?/M32?/M33?/REC?/MDX?] WDC WD3200LPCX (320GB)  
-**SSD:** [L44/LDJ/Others] innodisk 3ME2 mSATA (256GB)  
+**SSD:** [LDJ] innodisk 3ME2 mSATA (256GB)  
+**SSD:** [L44/Others] innodisk 3MG2-P SATA  
 **SND:** Realtek ALC888S
 **IO:** \[L44/M32/M33\] [P4IO](io.md#p4io)  
 **IO:** \[KFC/PAN\] [KFCA](io.md#kfca)   
 **IO:** \[LDJ/MDX\] [BIO2(BI2A)](io.md#bio2)  
 **IO:** \[REC\] 2x [BIO2(BI2A)](io.md#bio2)  
 **Games:** KFC, L44, [LDJ](software/LDJ.md), M32, M33, MDX (New White/Gold), PAN, REC, G52, P65/O65  
-**BIOS:** AMIBIOS
+**BIOS:** AMIBIOS  
+**Note #1:** Two revisions exist for this board: ADE-6291 V1.0 (02/14/2017) [M32] [M33] [L44] / ADE-6291 V1.1 (06/08/2017) [LDJ] [MDX] [REC] [KFC]  
+**Note #2:** ADE-6291 V1.1 has a 2-pin battery connector besides the PCIe slot.  
 
 ## Misc
 

@@ -2055,8 +2055,8 @@ unknown:
   - jubeat saucer (2012, PC(HM65))
 , * jubeat saucer fulfill (2014, PC(HM65))
   - jubeat prop (2015, PC(HM65))
-  - jubeat Qubell (2016, PC(HM65))
-  - jubeat clan (2017, PC(HM65))
+  - jubeat Qubell (2016, PC(HM65/ADE(?)))
+  - jubeat clan (2017, PC(HM65/ADE))
   - jubeat festo (2018, PC(HM65/ADE))
   - `GQL44-JB`: jubeat saucer  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/q466386215`
   - `GEL44-JC`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/q466386215`
@@ -2069,6 +2069,7 @@ unknown:
   - `L44 KB I01`: ROM [HM65 PCB, XP] 2013-01-23 1 `#WEB:https://www.youtube.com/watch?v=6nHZ44Lld1k`
   - `L44 JB K01`: ROM [HM65 PCB, XP] 2013-07-22 0 `#WEB:https://twitter.com/Nep_2/status/896060999949631488/photo/1`
   - `L44 KB AA01`: ROM [HM65 PCB, XP] 2015-10-27 0 `#WEB:https://www.youtube.com/watch?v=Ld7NPAdvcH0`
+  - `L44 KG A01`: ROM [ADE PCB, 7] 2017-04-18 0 `#WEB:https://twitter.com/OZ_YAI/status/1554699553277849600`
   - `L44 JB AZ01`: ROM [HM65 PCB, XP] 2019-06-07 1 `#WEB:https://twitter.com/Yamassi8010/status/1419199972688359430`
 * `L57`: GI-GranDesire (2013)  `#SCRAPE:konami:eagate`
 * `L65`: エターナルナイツTRUST / Eternal Knights TRUST (2012, PC(B3/B9))  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/l701319133 #WEB:https://manualzz.com/doc/4942624/eternal-knights-trust`
