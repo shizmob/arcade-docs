@@ -83,6 +83,7 @@ Despite using Intel processors, PGM3 is not a PC/AT compatible system.
 * Rock Fever 5
 * Speed Rider
 * We Dancing Online
+* Panda Family
 
 ## E2100
 **Motherboard:** Advantech DES-BT01
@@ -153,7 +154,7 @@ Has two variants:
 Currently found BIOS versions are: 
 * E3100_BIOS_DB_V01.1.14-139 Date: Apr 8 2014 (Danz Base)
 * E3100_MESEAT_V01.1.15-139.1 Date:Jun 4 2014 (Monster Eye)
-* E3100_BIOS_OT_V01.1.14-139.1 Date: Apr 8 2014 (Overtake / Overtake DX /UltraRace)
+* E3100_BIOS_OT_V01.1.14-139.1 Date: Apr 8 2014 (Overtake / Overtake DX / UltraRace)
 
 **CPU:** Intel Core i3-3220
 
