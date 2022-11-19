@@ -881,7 +881,8 @@ DVR-5029A : WORLD CLUB CHAMPION FOOTBALL 2012-2013 : RingEdge : JPN : SBZG
 DVR-5030  :
 DVR-5031  :
 DVR-5032A : 戦国大戦 Ver2.2 : RingEdge : JPN : SDAE
-DVR-5033A : 頭文字D ARCADE STAGE 8 インフィニティ : RingEdge : SBZZ
+DVR-5033  : 頭文字D ARCADE STAGE 8 インフィニティ : RingEdge : SBZZ
+        A : ^
 DVR-5034  :
 DVR-5035  :
 DVR-5036  :
@@ -1393,11 +1394,12 @@ MDA-U0063 :
 MDA-U0064E: バベルのメダルタワー             : NuSX1.1? : JPN : 1.06
 MDA-U0065 :
 MDA-U0066 : maimai MURASAKi               : RingEdge2 : JPN : SDDK  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/m1021213369
-        A: ^ PLUS
+         A: ^ PLUS
 MDA-U0067 :
 MDA-U0068C: UFO CATCHER 9 VER.2.03
 MDA-U0069 :
 MDA-U0070 : maimai MiLK                   : RingEdge2 : JPN : SDDZ  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/m1021213369
+         A: ^ PLUS                        : RingEdge2 : JPN  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/e1070382056
 MDA-U0071 :
 MDA-U0072 :
 MDA-U0073 :
@@ -1407,7 +1409,7 @@ MDA-U0076 :
 MDA-U0077 : HOD: SCARLET DAWN (EXP) VER.1.00 E/F/I/SP/TR/P : ALLS : EXP : SDET
 MDA-U0078 :
 MDA-U0079 :
-MDA-U0080 : maimai FiNALE                 : RingEdge2 : EXP : SDEY
+MDA-U0080 : maimai FiNALE                 : RingEdge2 : EXP : SDEY  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/d1070378083
 MDA-U0081 :
 MDA-U0082 :
 MDA-U0083 : maimai DX                     : ALLS HX2 : JPN : SDEZ

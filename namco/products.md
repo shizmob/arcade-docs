@@ -81,9 +81,9 @@ DO  - Dragon Saber
 DOL - Druaga Online: The Story of Aon
 DPK - Dead Storm Pirates
 DR  - Dangerous Seed
-DR2 - Mr. Driller 2  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/t1008404316
-DRG - Mr. Driller G  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/r1067010846
-DRI - Mr. Driller
+DR2 - Mr. Driller 2  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/t1008404316 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/1067035947
+DRG - Mr. Driller G  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/r1067010846 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/s1067052426
+DRI - Mr. Driller  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/1067043464
 DS  - Dragon Spirit  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/c1011632637
 DSP - Dead Storm Pirates Special Edition
 DT  - Dirt Dash
@@ -184,6 +184,7 @@ NTK - Tsukkomi Yousei Gips Nice Tsukkomi
 OB  - Oh! Bakyuuun / Ghoul Panic
 OGT - One Piece Gangan Treasure
 OR  - Ordyne  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1011626641
+OT  - ?  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/e1070828716
 OU  - The Outfoxies
 PBN - Pokemon Battle Nine
 PBR - Pacman Battle Royale
@@ -324,7 +325,7 @@ TTC - Tore Tore Clipper  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/e1017
 TTT - Tank!Tank!Tank!
 TW  - Tokyo Wars
 VPN - Vampire Night
-VSJ - J-League Soccer V-Shoot
+VSJ - J-League Soccer V-Shoot  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/s1070420232
 W3X - Wangan Midnight Maximum Tune 3DX
 W3P - Wangan Midnight Maximum Tune 3DX+
 W5X - Wangan Midnight Maximum Tune 5DX

@@ -196,8 +196,8 @@ External serial interface, revision 2. Looks identical to the [H039 ESIF](#h039-
 
 ## USIO
 
-* Product: 8682960801 / (8682970801); 2655961101
-* Label: 汎用 (PCB) USIO PCB; V371 USIO PCB
+* Product: 8682960801 / (8682970802); 2655961101; 1891940202
+* Label: 汎用 (PCB) USIO PCB; V371 USIO PCB; USIO(MEDAL) PCB
 * Copyright: 2008 NAMCO BANDAI GAMES Inc.
 
 ## USIO(T)

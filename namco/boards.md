@@ -414,7 +414,7 @@ Special arcade firmware (GEX/GECR).
 ```
   - 07J - Tekken 6 Bloodline Rebellion (T6B, https://www.aussiearcade.com/forum/arcade/arcade-technical-and-repair-questions/81507-namco-357-help; https://aucview.aucfan.com/yahoo/l656392283; https://page.auctions.yahoo.co.jp/jp/auction/t755935691)
 B -
-    08E - Dead Storm Pirates (DPK) - https://page.auctions.yahoo.co.jp/jp/auction/g470416629
+    08E - Dead Storm Pirates (DPK) - https://page.auctions.yahoo.co.jp/jp/auction/g470416629 https://page.auctions.yahoo.co.jp/jp/auction/t1071228601
     08J - Tekken 6 Bloodline Rebellion (T6B) - https://www.worthpoint.com/worthopedia/namco-system-357-tekken-bloodline-483692406
 C -
     10J - Gundam Extreme Vs. Full Boost (GEF)

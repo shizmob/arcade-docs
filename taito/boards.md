@@ -73,6 +73,8 @@ Missing: 002, 004, 009, 010, 015, 016, 018, 019, 020, 023
 |--------|---------------|-------|-------------|---------------------------------------------------------------------------------------------|
 | 203A   | P4 3.4GHz     | 512MB | GF7900GS    | BATTLE FANTASIA M9007185A VER.2.05JPN (B3900112A, black/gray)                               |
 | 203B   | P4 3.4GHz     | 512MB | GF7900GS    | HOPPING ROAD M9007872A VER.1.04JPN  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/t1065254470 ` |
+|        |               |       |             | セニョールニッポン  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/g1070031566`                  |
+|        |               |       |             | HAUNTED MUSEUM2 M9008429A VER1.01-J  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/e1071865921` |
 | 203B-R | P4 3.4GHz     | 512MB | GF7900GS    | MUSIC GUNGUN! 2                                                                             |
 |        |               |       |             | HOPPING ROAD M9007872A Ver.1.04JPN                                                          |
 | 204A   | Cel 3.2GHz    | 512MB | X1600PRO    | CHASE H.Q.2 M9007599A VER2.06JP  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1065905616` |
@@ -109,6 +111,7 @@ Missing: 002, 004, 009, 010, 015, 016, 018, 019, 020, 023
 |        |               |       |             | DARIUS BURST ANOTHER CHRONICLE (CHN) M9008387A ver1.0 (B3900160A, black/gray)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/e1004013846` |
 | 217A   | P4 3.4GHz     | 1GB   | GF7900GS    | NESICA X LIVE M9008355A  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/h1011268677`    |
 |        |               |       |             | NESICA X LIVE M9008355A Ver.1.02  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1049955781` |
+|        |               |       |             | NESICA X LIVE M9008355A Ver.1.05  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/f1070023222` |
 |        |               |       |             | NESICA X LIVE M9008355A Ver.1.12  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1052225460` |
 |        |               |       |             | NESICA X LIVE M9008490A VER.2.01  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/x1058229373` |
 | 218A   | PenDC 1.8GHz  | 2GB   | HD5770      | CAPCOM MB4 M9008420A Ver1.0 [Mario Coin World]                                              |
@@ -155,7 +158,7 @@ Missing: 303, 304, 305
 |         |             |                     |        |               | GUNSLINGER STRATOS2 M9008929A                                                |
 |         |             |                     |        |               | GUNS 3-(STANDARD)                                                            |
 |         |             |                     |        |               | GUNS 3-(ADVANCE) M9009092A  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/t1058707931` |
-|         |             |                     |        |               | GUNS 3-(INSTALMENT) M9009093A                                                |
+|         |             |                     |        |               | GUNS 3-(INSTALMENT) M9009093A  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/p1068475187` |
 |  403    |             | Core i5-2400 3.1GHz | 2GB x2 | N560 Ti-Hawk? |                                                                              |
 |  403[U] |             | Core i5-2400 3.1GHz | 2GB x4 | N660GTX       | RAM + GPU upgrade sticker                                                    |
 |         |             |                     |        |               | GUNS 3-(ADVANCE)                                                             |
@@ -166,6 +169,7 @@ Missing: 303, 304, 305
 |         |             |                     |        |               | LORD OF VERMILLION IV 45 PLAY M9008205A  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/l1064553159` |
 |         | W10LTSB2015 |                     |        |               | NESICA X LIVE 2 M9009197A (M9009199A)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/r1042428420` |
 |  405    |             | Core i3-2120 3.3GHz | 2GB x2 | N640          | PUZZLE & DRAGONS M9008936A VER.1.000  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/h1066907714` |
+|         |             |                     |        |               | THEATRHYTHM FF AC M9009097A  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1068434353` |
 |  406    |             | Core i5-2400 3.1GHz | 4GB x2 | N660GTX       | GUNS 3-(ADVANCE) M9009092A (M9009088A, black)                                |
 |         | W10LTSB2015 |                     |        |               | NESICA X LIVE 2 M9009197A  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/g1063565352` |
 |         | WS7E        |                     |        |               | LEFT4DEAD 生存者たち M9008990A VER.1.0004                                         |
@@ -201,13 +205,12 @@ Missing: 401
 |       |         |        |               |                    |                   | HOSHI TSUBA 09PLAN  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/x1065143200` |
 |       |         |        |               |                    |                   | DENSHA DE GO                                             |
 |  503A | 2019/02 |        | i5-4590S      | 4GB(DDR3L-1600) x2 | GTX1060-6GB       | STREET FIGHTER V TYPE ARCADE  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1024155298` |
+|  503A | 2022/06 |        | i5-4590S      | 4GB(DDR3-1600) x2  | GTX1650-4GB       | STREET FIGHTER V TYPE ARCADE  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1070069620` |
 |  504A |         |        | i5-4590S      | 4GB(DDR3L-1600) x2 | RTX2070-8GB       | DENSHADE GO!! COMPACT-(10PLAN)                           |
 |  600A | 2018/11 |        | i3-6100       | 8GB(DDR4-2133) x2  | GTX1050-2GB       | GUNARENA  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/e1072717343`|
 |  601A | 2018/11 |        | Pentium G4400 | 8GB(DDR4-2133) x2  | Intel HD Graphics | Groove Coaster 4C EXP KIT (aka. RhythmVader CHN 2 / 音炫轨道2) `#WEB:https://twitter.com/jq9837/status/1456432713703981060` |
 |  602A | 2019/10 |        | Pentium G4400 | 4GB(DDR4-2400) X2  | GT1030-2GB        | OMATSURI QUEST HIPPARE-Q `#MEDIA:taito/type-x4-602a.jpg` |
 |       |         |        | i5-6500       |                    | GTX1650-4GB       | Tetote x Connect                                         |
-
-Missing: 600
 
 ## PS4
 

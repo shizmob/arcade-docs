@@ -321,7 +321,7 @@ SEGA parts are referred to using a [proprietary format](identifiers.md#part-numb
         HDD: Western Digital WD5000LUCT 500GB
         SND: Realtek ALC888S
         OS: Windows 10 IoT LTSC 2019
-        PSU: ???
+        PSU: FSP FSP500-50AAC  #WEB:https://github.com/Shizmob/arcade-docs/issues/53
 
   * ALLS MX2                      (ACAE, JP, 849-1005,    https://page.auctions.yahoo.co.jp/jp/auction/g1040835272)
   * ALLS MX2 (with sub-storage)   (ACAE, JP, 849-1006)
