@@ -187,13 +187,15 @@ SEGA parts are referred to using a [proprietary format](identifiers.md#part-numb
   * RingEdge             (AAL, JP, 846-0001D, "ASSY CASE EDG W") [known revisions: 0, 1]
         MBD: MSI MS-9667 VER:1.0 (838-14852) [revision 0]
              Advantech DAC-BJ01 Rev.A1 (838-15014-01-91 / 19A8BJ0103 / 9696BJ0102E) [revision 1]
-        CPU:
+        CPU: Intel Pentium Dual-Core E2160
         RAM: 1x Transcend TS128MLQ64V8J? [1GB, DDR2-800, "1G DDR2 800 DIMM"]
         GPU: Nvidia GeForce 9600 GS (180-10545-0002-A01 / 600-10545-0021-106 A / 900-60545-2321-000 K, BIOS Version 62.94.4F.00.04, Samsung Memory 161-0070-600) [revision 1?]
         OS: Windows Embedded Standard 2009
         IO:  JVS/keychip card 837-14902 [custom connector]
         SSD: MDA-E0005
-        SND: Analog Devices SoundMAX AD1984A (HD Audio)
+        STH: Intel Q35
+        SND: Analog Devices SoundMAX AD1984A (HD Audio) [revision 0]
+        Notes: Revision 0 motherboard has its BIOS chip soldered in, while the Revision 1 motherboard has the BIOS chip on a socket.
 
   * RingWide             (AAM, JP, 847-0001D, "ASSY CASE WDE W 1GB") [known revisions: 0, 1]
         MBD: Supermicro ??? [revision 0]
@@ -204,6 +206,7 @@ SEGA parts are referred to using a [proprietary format](identifiers.md#part-numb
         OS: Windows Embedded Standard 2009
         SSD: MDA-E0004
         IO:  JVS/keychip card 837-14902 [custom connector]
+        SND: Realtek ALC883 [revision 1]
 
   * RingEdge2            (AASE, JP, 846-5001D,    "ASSY CASE RGE2 W 2GB") [known revisions: 0, 1]
   * RingEdge2 MULTi      (AASE, JP, 846-5002D,    https://page.auctions.yahoo.co.jp/jp/auction/478150038)
@@ -217,6 +220,7 @@ SEGA parts are referred to using a [proprietary format](identifiers.md#part-numb
              MDA-E0011  [846-5003D]
         HDD: MDA-H0010C [846-5002D]
         SND: Realtek ALC886
+        STH: Intel Q57
         IO:  JVS/keychip card 837-14902 [custom connector]
         OS: Windows Embedded Standard 2009
         PSU: Delta EDPS-250AB A [250W]
