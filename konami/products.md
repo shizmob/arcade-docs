@@ -1991,6 +1991,7 @@ unknown:
   - `KFC JB AG01`: ROM [HM65 PCB, XP] 2015-01-22 0
   - `KFC KB AG01`: ROM [HM65 PCB, XP] 2015-01-22 0 `#WEB:https://twitter.com/dotorI_Kd/status/617160404335112192/photo/1`
   - `KFC KC AP01`: ROM [76 PCB, XP] 2016-01-29 0
+  - `KFC JC AQ01`: ROM [76 PCB, XP] 2016-03-09 0 `#WEB:https://twitter.com/Yamassi8010/status/978196539951607809/photo/2`
   - `KFC JC AW01`: ROM [76 PCB, XP] 2016-12-09 0
   - `KFC AO A01`: ROM [76 PCB, 7] 2017-09-11 0
   - `KFC JE A01`: ROM [X10SLQ PCB, 7] 2019-01-28 0
@@ -2058,6 +2059,7 @@ unknown:
   - jubeat Qubell (2016, PC(HM65/ADE(?)))
   - jubeat clan (2017, PC(HM65/ADE))
   - jubeat festo (2018, PC(HM65/ADE))
+  - jubeat Ave (2022, PC(HM65/ADE))
   - `GQL44-JB`: jubeat saucer  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/q466386215`
   - `GEL44-JC`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/q466386215`
   - `GUL44-JH`: clan art kit  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/d1006786116`
@@ -2101,6 +2103,7 @@ unknown:
   - beatmania IIDX 27 HEROIC VERSE (2019, PC(ADE)IO(BIO2)-SSD)
   - beatmania IIDX 28 BISTROVER (2020, PC(ADE)IO(BIO2)-SSD)
   - beatmania IIDX 29 CastHour (2021, PC(ADE)IO(BIO2)-SSD)
+  - beatmania IIDX 30 RESIDENT (2022, PC(ADE)IO(BIO2)-SSD)
   - [`GQLDJ-JA`: tricoro cabinet](product/GQLDJ-JA.md)  `#WEB:https://mirais-station.hatenablog.com/entry/2020/02/15/180000`
   - [`GQLDJ-JB`: SPADA/PENDUAL cabinet](product/GQLDJ-JB.md)  `#WEB:https://mirais-station.hatenablog.com/entry/2020/02/15/180000`
   - [`GQLDJ-JC`: COPULA/SINOBUZ/CANNON BALLERS cabinet](product/GQLDJ-JC.md)  `#WEB:https://aucview.aucfan.com/yahoo/k541777425 #WEB:https://mirais-station.hatenablog.com/entry/2020/02/15/180000`
@@ -2203,6 +2206,7 @@ unknown:
   - pop'n music うさぎと猫と少年の夢 (2016, PC(855/945/HM65)IO(USB2)-HDD)
   - pop'n music peace (2018, PC(855/945/HM65)IO(USB2)-HDD)
   - pop'n music 解明リドルズ (2020, PCPC(855/945/HM65)IO(USB2)-HDD)
+  - pop'n music UniLab (2022, PCPC(855/945/HM65)IO(USB2)-HDD)
   - `GCM39-JA`: Sunny Park type A conversion kit  `#WEB:https://a11.kpers.net/item/j654586019/`
   - `GCM39-JB`: Sunny Park type B/C/D conversion kit  `#WEB:https://a11.kpers.net/item/j654586019/`
   - `M39 JA A01`: ROM [945 PCB] 2012-06-28 0
@@ -2368,6 +2372,7 @@ unknown:
   - `Q70 MAIN *01 SA1`: satellite PCB
 * `QBG`: ボンバーガール / BOMBERGIRL (2018, PC(X10SLQ)), ボンバーガール / BOMBERGIRL [e-AMUSEMENT CLOUD/home version]
   - `QBG-JA-B01`: ROM 2018-07-20 0 [GTX 1050]
+  - `QBG-JA-H01`: ROM 2019-07-12 0 `#WEB:https://mobile.twitter.com/erusiru1/status/1589555165371461632`
   - `QBG-JB-N01`: ROM 2020-07-08 0 [GTX 1650]
 * `QCV`: SOUND VOLTEX III(コナステ) / SOUND VOLTEX III (e-AMUSEMENT CLOUD) / SOUND VOLTEX EXCEED GEAR (コナステ) / SOUND VOLTEX EXCEED GEAR (e-AMUSEMENT CLOUD) [e-AMUSEMENT CLOUD/home version]
 * `QPP`: Printer paper and ink
@@ -2439,6 +2444,7 @@ unknown:
   - beatmania IIDX 27 HEROIC VERSE (2019, PC(C300)IO(BIO2-BI2X))
   - beatmania IIDX 28 BISTROVER (2020, PC(C300)IO(BIO2-BI2X))
   - beatmania IIDX 29 CastHour (2021, PC(C300)IO(BIO2-BI2X))
+  - beatmania IIDX 30 RESIDENT (2022, PC(C300)IO(BIO2-BI2X))
   - [`GQTDJ-JA`: Dedicated cabinet](product/GQTDJ-JA.md)
   - `GQTDJ-UA`
   - `GQTDJ-AA`  `#WEB:https://twitter.com/uhaj/status/1543071166369112064`
