@@ -147,32 +147,32 @@ Missing: 303, 304, 305
 
 ## Type X3
 
-|  ID     | CPU                 | RAM    | GPU           | Notes                                                                        |
-|---------|---------------------|--------|---------------|------------------------------------------------------------------------------|
-|  401?   | ???                 | ???    | ???           |                                                                              |
-|  402    | Core i5-2400 3.1GHz | 2GB x4 | N560 Ti-Hawk  |                                                                              |
-|  402[U] | Core i5-2400 3.1Ghz | 2GB x4 | N660GTX       | GPU upgrade sticker                                                          |
-|         |                     |        |               | GUNSLINGER STRATOS2 M9008929A                                                |
-|         |                     |        |               | GUNS 3-(STANDARD)                                                            |
-|         |                     |        |               | GUNS 3-(ADVANCE) M9009092A  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/t1058707931` |
-|         |                     |        |               | GUNS 3-(INSTALMENT) M9009093A                                                |
-|  403    | Core i5-2400 3.1GHz | 2GB x2 | N560 Ti-Hawk? |                                                                              |
-|  403[U] | Core i5-2400 3.1GHz | 2GB x4 | N660GTX       | RAM + GPU upgrade sticker                                                    |
-|         |                     |        |               | GUNS 3-(ADVANCE)                                                             |
-|  404    | Core i5-2400 3.1GHz | 2GB x4 | N660GTX       | GUNS 3-(STANDARD)                                                            |
-|         |                     |        |               | ULTRA STREET FIGHTER IV M9008931A  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1066552544` |
-|         |                     |        |               | LORD OF VERMILLION IV MAIN  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/k1063906084` |
-|         |                     |        |               | LORD OF VERMILLION IV 20 PLAY                                                |
-|         |                     |        |               | LORD OF VERMILLION IV 45 PLAY M9008205A  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/l1064553159` |
-|         |                     |        |               | NESICA X LIVE 2 M9009197A (M9009199A)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/r1042428420` |
-|  405    | Core i3-2120 3.3GHz | 2GB x2 | N640          | PUZZLE & DRAGONS M9008936A VER.1.000  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/h1066907714` |
-|  406    | Core i5-2400 3.1GHz | 4GB x2 | N660GTX       | GUNS 3-(ADVANCE) M9009092A (M9009088A, black)                                |
-|         |                     |        |               | NESICA X LIVE 2 M9009197A  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/g1063565352` |
-|         |                     |        |               | LEFT4DEAD 生存者たち M9008990A VER.1.0004                                         |
-|         |                     |        |               | LEFT4DEAD 生存者たち (15PLAN) M9009006A VER.1.0004  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/r1051678154` |
-|  407    | Core i5-2400 3.1GHz | 8GB x2 | GTX760 CRB    | FIGUREHEADS A                                                                |
-|  ???    | Core i7-2600 2.6Ghz | ???    | ???           | Specified as part of press release to be a CPU option, maybe model 400/401?  |
-|  ???    | ???                 | ???    | HD6770        | Specified as part of press release to be a GPU option, maybe model 400/401?  |
+|  ID     | OS          | CPU                 | RAM    | GPU           | Notes                                                                        |
+|---------|-------------|---------------------|--------|---------------|------------------------------------------------------------------------------|
+|  401?   |             | ???                 | ???    | ???           |                                                                              |
+|  402    |             | Core i5-2400 3.1GHz | 2GB x4 | N560 Ti-Hawk  |                                                                              |
+|  402[U] |             | Core i5-2400 3.1Ghz | 2GB x4 | N660GTX       | GPU upgrade sticker                                                          |
+|         |             |                     |        |               | GUNSLINGER STRATOS2 M9008929A                                                |
+|         |             |                     |        |               | GUNS 3-(STANDARD)                                                            |
+|         |             |                     |        |               | GUNS 3-(ADVANCE) M9009092A  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/t1058707931` |
+|         |             |                     |        |               | GUNS 3-(INSTALMENT) M9009093A                                                |
+|  403    |             | Core i5-2400 3.1GHz | 2GB x2 | N560 Ti-Hawk? |                                                                              |
+|  403[U] |             | Core i5-2400 3.1GHz | 2GB x4 | N660GTX       | RAM + GPU upgrade sticker                                                    |
+|         |             |                     |        |               | GUNS 3-(ADVANCE)                                                             |
+|  404    |             | Core i5-2400 3.1GHz | 2GB x4 | N660GTX       | GUNS 3-(STANDARD)                                                            |
+|         |             |                     |        |               | ULTRA STREET FIGHTER IV M9008931A  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1066552544` |
+|         |             |                     |        |               | LORD OF VERMILLION IV MAIN  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/k1063906084` |
+|         |             |                     |        |               | LORD OF VERMILLION IV 20 PLAY                                                |
+|         |             |                     |        |               | LORD OF VERMILLION IV 45 PLAY M9008205A  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/l1064553159` |
+|         | W10LTSB2015 |                     |        |               | NESICA X LIVE 2 M9009197A (M9009199A)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/r1042428420` |
+|  405    |             | Core i3-2120 3.3GHz | 2GB x2 | N640          | PUZZLE & DRAGONS M9008936A VER.1.000  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/h1066907714` |
+|  406    |             | Core i5-2400 3.1GHz | 4GB x2 | N660GTX       | GUNS 3-(ADVANCE) M9009092A (M9009088A, black)                                |
+|         | W10LTSB2015 |                     |        |               | NESICA X LIVE 2 M9009197A  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/g1063565352` |
+|         | WS7E        |                     |        |               | LEFT4DEAD 生存者たち M9008990A VER.1.0004                                         |
+|         | WS7E        |                     |        |               | LEFT4DEAD 生存者たち (15PLAN) M9009006A VER.1.0004  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/r1051678154` |
+|  407    |             | Core i5-2400 3.1GHz | 8GB x2 | GTX760 CRB    | FIGUREHEADS A                                                                |
+|  ???    |             | Core i7-2600 2.6Ghz | ???    | ???           | Specified as part of press release to be a CPU option, maybe model 400/401?  |
+|  ???    |             | ???                 | ???    | HD6770        | Specified as part of press release to be a GPU option, maybe model 400/401?  |
 
 ??? - GUNS  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/s1057347586`
 
@@ -186,24 +186,26 @@ Missing: 401
 
 ## Type X4
 
-|    ID | Date    | CPU           | RAM                | GPU               | Notes                                                    |
-|-------|---------|---------------|--------------------|-------------------|----------------------------------------------------------|
-|  500A | 2016/10 | i5-4590S      | 4GB(DDR3-1600) x2  | GTX960-2GB        | STREET FIGHTER V TYPE ARCADE                             |
-|       |         |               |                    |                   | LOVELIVE! AC CENTER M9009121A                            |
-|       |         |               |                    |                   | LOVELIVE! AC SATELLITE PPLAN M9009129A                   |
-|       |         |               |                    |                   | LOVELIVE! AC NS CENTER                                   |
-|       |         |               |                    |                   | LOVELIVE! AC NS SATELLITE P PLAN                         |
-|       |         |               |                    |                   | LOVELIVE! AC NS SATELLITE SPLAN                          |
-|       |         |               |                    |                   | LOVELIVE! AC NS SATELLITE S PLAN  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/v1065264354` |
-|       |         |               |                    |                   | MGICIANS DEAD M9009141A  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/x1050826171` |
-|  501A | 2017/10 | i5-4590S      | 4GB(DDR3-1600) x2  | GTX1080-8GB       | 電車でＧＯ！！ (30プラン)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/h1050922019` |
-|  502A | 2018/09 | i7-4970S      | 8GB(DDR3-1600) x2  | GTX1080-8GB       | HOSHI TSUBA 30PLAN                                       |
-|       |         |               |                    |                   | HOSHI TSUBA 09PLAN  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/x1065143200` |
-|       |         |               |                    |                   | DENSHA DE GO                                             |
-|  503A | 2019/02 | i5-4590S      | 4GB(DDR3L-1600) x2 | GTX1060-6GB       | STREET FIGHTER V TYPE ARCADE  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1024155298` |
-|  504A |         | i5-4590S      | 4GB(DDR3L-1600) x2 | RTX2070-8GB       | DENSHADE GO!! COMPACT-(10PLAN)                           |
-|  601A | 2018/11 | Pentium G4400 | 8GB(DDR4-2133) x2  | Intel HD Graphics | Groove Coaster 4C EXP KIT (aka. RhythmVader CHN 2 / 音炫轨道2) `#WEB:https://twitter.com/jq9837/status/1456432713703981060` |
-|  602A | 2019/10 | Pentium G4400 | 4GB(DDR4-2400) X2  | GT1030-2GB        | OMATSURI QUEST HIPPARE-Q `#MEDIA:taito/type-x4-602a.jpg` |
+|    ID | Date    | OS     | CPU           | RAM                | GPU               | Notes                                                    |
+|-------|---------|--------|---------------|--------------------|-------------------|----------------------------------------------------------|
+|  500A | 2016/10 |        | i5-4590S      | 4GB(DDR3-1600) x2  | GTX960-2GB        | STREET FIGHTER V TYPE ARCADE                             |
+|       |         | WE8.1S |               |                    |                   | LOVELIVE! AC CENTER M9009121A                            |
+|       |         | WE8.1S |               |                    |                   | LOVELIVE! AC SATELLITE PPLAN M9009129A                   |
+|       |         | WE8.1S |               |                    |                   | LOVELIVE! AC NS CENTER                                   |
+|       |         | WE8.1S |               |                    |                   | LOVELIVE! AC NS SATELLITE P PLAN                         |
+|       |         | WE8.1S |               |                    |                   | LOVELIVE! AC NS SATELLITE SPLAN                          |
+|       |         | WE8.1S |               |                    |                   | LOVELIVE! AC NS SATELLITE S PLAN  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/v1065264354` |
+|       |         |        |               |                    |                   | MGICIANS DEAD M9009141A  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/x1050826171` |
+|  501A | 2017/10 |        | i5-4590S      | 4GB(DDR3-1600) x2  | GTX1080-8GB       | 電車でＧＯ！！ (30プラン)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/h1050922019` |
+|  502A | 2018/09 |        | i7-4970S      | 8GB(DDR3-1600) x2  | GTX1080-8GB       | HOSHI TSUBA 30PLAN                                       |
+|       |         |        |               |                    |                   | HOSHI TSUBA 09PLAN  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/x1065143200` |
+|       |         |        |               |                    |                   | DENSHA DE GO                                             |
+|  503A | 2019/02 |        | i5-4590S      | 4GB(DDR3L-1600) x2 | GTX1060-6GB       | STREET FIGHTER V TYPE ARCADE  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1024155298` |
+|  504A |         |        | i5-4590S      | 4GB(DDR3L-1600) x2 | RTX2070-8GB       | DENSHADE GO!! COMPACT-(10PLAN)                           |
+|  600A | 2018/11 |        | i3-6100       | 8GB(DDR4-2133) x2  | GTX1050-2GB       | GUNARENA  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/e1072717343`|
+|  601A | 2018/11 |        | Pentium G4400 | 8GB(DDR4-2133) x2  | Intel HD Graphics | Groove Coaster 4C EXP KIT (aka. RhythmVader CHN 2 / 音炫轨道2) `#WEB:https://twitter.com/jq9837/status/1456432713703981060` |
+|  602A | 2019/10 |        | Pentium G4400 | 4GB(DDR4-2400) X2  | GT1030-2GB        | OMATSURI QUEST HIPPARE-Q `#MEDIA:taito/type-x4-602a.jpg` |
+|       |         |        | i5-6500       |                    | GTX1650-4GB       | Tetote x Connect                                         |
 
 Missing: 600
 
