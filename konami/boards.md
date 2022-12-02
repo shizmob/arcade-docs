@@ -633,7 +633,7 @@ Also known as: "ADE".
 **HDD:** WDC WD3200LPCX (320GB)  
 **SND:** Realtek ALC888S  
 **IO:** [BIO2(BI2A)](io.md#bio2)  
-**Games:** KFC (VW), QBG  
+**Games:** KFC (VW), QBG, RBC  
 
 ## ARESPEAR
 
