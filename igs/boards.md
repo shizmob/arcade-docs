@@ -84,6 +84,7 @@ Despite using Intel processors, PGM3 is not a PC/AT compatible system.
 * Speed Rider
 * We Dancing Online
 * Panda Family
+* Vibraphone (铁琴: 第一乐章) `#WEB: https://mobile.twitter.com/tababodash/status/1590232697913643008`                                      
 
 ## E2100
 **Motherboard:** Advantech DES-BT01
@@ -145,12 +146,12 @@ Despite using Intel processors, PGM3 is not a PC/AT compatible system.
 
 
 ## E3100
-**Motherboard:** Advantech EBC-TA17, marked as iTS I-JOIN E3100
+**Motherboard:** Advantech EBC-TA17, marked as iTS I-JOIN E3100  
 Has two variants:
 * LF-00 (Overtake?)
 * LF-01 (Danz Base / Monster Eye)
 
-**BIOS:** Customized PhoenixBIOS, each game has its own variation of BIOS.
+**BIOS:** Customized PhoenixBIOS, each game has its own variation of BIOS.  
 Currently found BIOS versions are: 
 * E3100_BIOS_DB_V01.1.14-139 Date: Apr 8 2014 (Danz Base)
 * E3100_MESEAT_V01.1.15-139.1 Date:Jun 4 2014 (Monster Eye)
