@@ -1343,6 +1343,7 @@ unknown:
   - `C09 JA D04`: CF card
 * `C18`: ウイニングイレブン / World Soccer Winning Eleven Arcade Game Style / Pro Evolution Soccer The Arcade (2002, PYTHON-CFCARD)  `#MAME:kpython #MISC:oyakodon_oniku_list`
   - `C18 AA`  `#WEB:https://www.ebay.co.uk/itm/165016229915`
+  - `C18 EA`  `#WEB:https://www.ebay.ca/itm/304701000026/`
   - `C18 AA A03`: CF card  `#WEB:https://www.ebay.co.uk/itm/165016229915`
   - `GXC18-EAA`: Pro Evolution Soccer The Arcade
   - `GUC18-JB`: cards (500)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/u1052020400`
@@ -1929,7 +1930,7 @@ unknown:
   - `G?K40-JA`
   - `G?K40-JB`
   - `G?K40-JC`
-* `K44`: jubeat copious (2011, PC(855)), jubeat copious APPEND (2012, PC(855))
+* `K44`: jubeat copious (2011, PC(855/945)), jubeat copious APPEND (2012, PC(855/945))
   - `GEK44-JA`: conversion kit  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/u1043492330`
   - `GCK44-JC`: jubeat copious APPEND conversion kit  `#DOC:konami:114589450000 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/m484017927 #WEB:https://aucview.aucfan.com/yahoo/l645822910`
   - `K44 JC A02`: append disc  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/567834925`
@@ -1971,6 +1972,7 @@ unknown:
   - `GQKDM-HA`: cabinet (Hong Kong, running A-region software)  `#WEB:https://zh.wikipedia.org/wiki/%E8%88%9E%E8%B9%88%E8%BF%9B%E5%8C%96#%E4%BA%9E%E6%B4%B2%E5%8D%80Dance_Evolution_Arcade`
   - `GKKDM-CA`: cabinet (China, made by UNIS, roundplug dongles)  `#MEDIA:konami/GKKDM-CA-dongles.jpg`
   - `KDM JA I01`: ROM 2013-08-21 0 `#WEB:https://www.youtube.com/watch?v=JnBtW43cP4c`
+  - `KDM JA R01`: ROM 2015-02-23 0
 * `KDX`: DanceDanceRevolution X3 VS 2ndMIX (2012, PC(945)-HDD)
   - `GEKDX-JA`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/h1049029583`
   - `KDX JA B01`: ROM 2011-11-05 `#WEB:https://www.youtube.com/watch?v=wjPiUSTnXXU`
@@ -2287,6 +2289,7 @@ unknown:
   - `MDX JI AT01`: ROM [ADE6291, P3IO, Win7]
   - `MDX UD V01`:  ROM [HM65,    P4IO, WinXP] 2016-04-22 0  `#WEB:https://www.youtube.com/watch?v=UFlO-BE75cc #WEB:https://www.youtube.com/watch?v=6LjqQ6Aj86M`
   - `MDX UG AC01`: ROM [ADE6291, P4IO, Win7]  2017-12-06 0
+  - `MDX UG AK01`: ROM [ADE6291, P4IO, Win7] 2019-09-02 0 `#WEB: https://mobile.twitter.com/DDR_MARTEN/status/1593683815414861827`
   - `MDX UG AL01`: ROM [ADE6291, P4IO, Win7]  2019-12-03 0
 * `MKD`: ドラゴンコレクション (2013, PC)  `#MISC:oyakodon_oniku_list #WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1045922766`
   - `GQMKD-JA`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/j728750629`
@@ -2402,7 +2405,7 @@ unknown:
 * `R58`: GI-WorldClassic
 * `R66`: ビシバシチャンネル / Bishi Bashi Channel (2018, PC(R10))
   - `GER66-JA` `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/u1051038312`
-* `RBC`: ベースボールコレクション / Baseball Collection  `#MISC:oyakodon_oniku_list #SCRAPE:eagate`
+* `RBC`: ベースボールコレクション / Baseball Collection (2019, PC(X10SLQ)IO(BIO2-BI2A)) `#MISC:oyakodon_oniku_list #SCRAPE:eagate #WEB: https://page.auctions.yahoo.co.jp/jp/auction/u1074189140`
 * `RCI`: Printer paper and ink  `#DOC:konami:117196570000`
   - `GURCI-JA`: For Card Connect, card (x6) and color ribbon (x2) set
   - `GURCI-JB`: For Card Connect, holographic ribbon
@@ -2487,6 +2490,7 @@ unknown:
   - `GQUFC-UA`  `#DOC:konami:117330980000`
   - `UFC JA A01`: ROM 2020-11-12 0
   - `UFC JA B01`: ROM 2021-01-22 0 `#WEB:https://www.youtube.com/watch?v=9PJ6A7tOS1g`
+  - `UFC JA G01`: ROM 2021-11-11 0 `#WEB:https://twitter.com/leqek0108/status/1593731473051619329`
 * `UKS`: QuizKnock Stadium (2022, PC(C300)) `#SCRAPE:konami:eagate`
   - `UKS JA C01`: ROM 2022-1-27 0
 * `UX8`: FORTUNE TRINITY 精霊の至宝祭  `#SCRAPE:konami:eagate`
