@@ -2405,7 +2405,7 @@ unknown:
 * `R58`: GI-WorldClassic
 * `R66`: ビシバシチャンネル / Bishi Bashi Channel (2018, PC(R10))
   - `GER66-JA` `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/u1051038312`
-* `RBC`: ベースボールコレクション / Baseball Collection (2019, PC(X10SLQ)IO(BIO2-BI2A)) `#MISC:oyakodon_oniku_list #SCRAPE:eagate #WEB: https://page.auctions.yahoo.co.jp/jp/auction/u1074189140`
+* `RBC`: ベースボールコレクション / Baseball Collection (2018, PC(X10SLQ)IO(BIO2-BI2A)) `#MISC:oyakodon_oniku_list #SCRAPE:eagate #WEB: https://page.auctions.yahoo.co.jp/jp/auction/u1074189140`
 * `RCI`: Printer paper and ink  `#DOC:konami:117196570000`
   - `GURCI-JA`: For Card Connect, card (x6) and color ribbon (x2) set
   - `GURCI-JB`: For Card Connect, holographic ribbon
