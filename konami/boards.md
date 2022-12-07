@@ -255,6 +255,15 @@ Uses Intel Extreme integrated graphics instead of a GeForce GPU.
 
 **Games:** D22
 
+### FAB-e865-KN002
+
+**CPU:** Intel Pentium 4 2.8GHz  
+**GPU:** ATI Radeon 9600XT 128M  
+**HDD:** Seagate ST3402111A (40GB)  
+**DVD:**  TEAC DV-28E-N  
+**Sticker:** A2  
+**Games:** G27  
+
 ### FAB-e865-KN003
 
 **CPU:** Intel Celeron 2.5GHz  
@@ -268,7 +277,7 @@ Uses Intel Extreme integrated graphics instead of a GeForce GPU.
 **RAM:** 2x Micron MT4VDDT3264AY-335F1 (DDR1, PC2700, 256MB)  
 **GPU:** ATI Radeon 9600XT 128M  
 **HDD:** Seagate ST3402111A (40GB)  
-**CD:**  reader  
+**CD:**  TEAC CD-224E  
 **IO:**  [APC102-000](io.md#apc)  
 **Sticker:** A3  
 **Games:** F24, IG2, HCK, GGG, FA5, FLY  
@@ -313,7 +322,7 @@ Uses Intel Extreme integrated graphics instead of a GeForce GPU.
 
 ### FAB-e945-KN204A
 
-**CPU:**   
+**CPU:** Pentium 4 (3.40GHz)  
 **RAM:** 2 x Micron MT8HTF6464AY053ED7 (512MB, PC4200U)  
 **GPU:** ATI Radeon X1600 Pro (PCIe, 256MB, VGA + S-Video + DVI) (109-A67631-12)  
 **HDD:** Seagate ST380815AS (80GB, 7200RPM)  
@@ -449,7 +458,7 @@ Also known as: "BemaniPC Type 2" (unofficially).
 **CPU:** Intel Core i7-2600  
 **GPU:** AMD Radeon HD 6850 (1 GB)  
 **RAM:** 4 GB DDR3  
-**OS:** Windows XP Embedded (KGG) / Windows Embedded Standard 7 (SP1) (KDM, MMD, NDD)  
+**OS:** Windows XP Embedded (SP2) (KGG) / Windows Embedded Standard 7 (SP1) (KDM, MMD, NDD)  
 **Sticker:** E1  
 **Games:** KDM, KGG, KPU, NDD, MSH, MMD  
 **BIOS:** AMIBIOS Aptio (BIOS Date: 12/20/2011 17:22:34 Ver: 3ABXC)  
@@ -530,8 +539,8 @@ Also known as: "ITHM65", "ITHM65_E4690".  `#DOC:KONAMI:116245360000`
 **IO:** \[LDJ\] [USB I/O 2](io.md#usbio2)  
 **IO:** \[M39\] [USB I/O 2](io.md#usbio2)  
 **IO:** \[M32/M33/MDX\] [P4IO](io.md#p4io)  
-**OS:** Windows XP Embedded (SP2) [LDJ] [MBR] [MDX], Windows XP Embedded (SP3) [L44] [NBF], Windows Embedded 7 Standard [PAN]
-**Games:** KFC, L44, [LDJ](software/LDJ.md), M32, M33, M39, MBR, MDX, NBF, NBT, PAN, LPH  
+**OS:** Windows XP Embedded (SP2) [LDJ] [MBR] [MDX], Windows XP Embedded (SP3) [L44] [LMM] [NBF], Windows Embedded 7 Standard (SP1) [PAN] [M32] [M33] [NBT]
+**Games:** KFC, L44, [LDJ](software/LDJ.md), M32, M33, M39, MBR, MDX, NBF, NBT, PAN, LPH, NSM, LMM
 **BIOS:** AMIBIOS
 
 ### 76
@@ -546,7 +555,7 @@ Also known as: "ITHM65", "ITHM65_E4690".  `#DOC:KONAMI:116245360000`
 **SND:** Realtek ALC888 Series  
 **IO:** \[KFC/PAN\] [KFCA](io.md#kfca)   
 **OS:** Windows XP Embedded (SP2) [KFC], Windows Embedded 7 Standard (SP1) [KFC] (SEA mini cab) [NCG] [OSP]
-**Games:** KFC, NCG, PAN, OSP  
+**Games:** KFC, NCG, PAN, OSP, PTL  
 **BIOS:** AMIBIOS  
 **Ref:** https://twitter.com/ham56p/status/1115528175142850561, https://page.auctions.yahoo.co.jp/jp/auction/o1010920842
 
@@ -570,6 +579,19 @@ Also known as: "ADE".
 **Note #2:** ADE-6291 V1.1 has a 2-pin battery connector besides the PCIe slot.  
 
 ## Misc
+
+### MB-875-M10
+(name tentative)
+
+* Release: ?
+* Base: PC
+
+**MBD:** JDS (Japan Data System) MB-875-M10  
+**CPU:** Intel Celeron 2.0 GHz (Northwood-128)  
+**GPU:** ATI Mobility Radeon 9600 (M10, 128 MB VRAM)  
+**STH:** Intel 875P  
+**SND:** VIA AC'97  
+**Games:** J55, K55  
 
 ### Raw Thrills
 * Release: 2008 (Optiplex 740) / 2010 (Optiplex 580)
