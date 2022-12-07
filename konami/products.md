@@ -1935,6 +1935,7 @@ unknown:
   - `GCK44-JC`: jubeat copious APPEND conversion kit  `#DOC:konami:114589450000 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/m484017927 #WEB:https://aucview.aucfan.com/yahoo/l645822910`
   - `K44 JC A02`: append disc  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/567834925`
   - `GK44-CB`  `#WEB:https://yatonarcade.com/collections/naomi/products/konami-jubeat-mother-boardchina-ver-working-free-shipping`
+* `K55`: GI-HORSEPARK JUDGMENT (2011, PC(MEDAL))
 * `K56`: GI-HORSEPARK JUDGMENT STD (2011, PC(MEDAL))  `#MISC:oyakodon_oniku_list #WEB:https://manualzz.com/doc/4854194/gi-horsepark-judgment-std`
   - `*EK56-J*`: K56 `<PDP>`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/v1004013462`
 * `K65`: エターナルナイツ4 響きあう魂 / Eternal Knights 4: Echoes of the Soul (2011, PC(B3/B9)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/d1033784779`
@@ -2327,7 +2328,7 @@ unknown:
 * `NRX`: ご当地あラウンド (2014, PC)  `#SCRAPE:konami:eam`
 * `NSC`: SCOTTO (2014, PC)
   - `GQNSC-JA`: Dedicated cabinet, `#MEDIA:konami/GQNSC-JA-sticker.jpg`
-* `NSM`: オレカバトル パンドラのメダル  `#MISC:oyakodon_oniku_list`
+* `NSM`: オレカバトル パンドラのメダル (2015, PC(MEDAL-HM65))  `#MISC:oyakodon_oniku_list`
 * `NTA`: カラコロッタ (2014)  `#MISC:oyakodon_oniku_list`
 * `O18`: ベースボールヒーローズ 2014 / Baseball Heroes 2014 (2014) `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/w1058797287`
   - `GUO18-JD`: booster pack vol.2  `#WEB:https://jp.mercari.com/item/m95200629675`
@@ -2391,6 +2392,7 @@ unknown:
   - `Q70 MAIN *01 SA1`: satellite PCB
 * `QBG`: ボンバーガール / BOMBERGIRL (2018, PC(X10SLQ)), ボンバーガール / BOMBERGIRL [e-AMUSEMENT CLOUD/home version]
   - `QBG-JA-B01`: ROM 2018-07-20 0 [GTX 1050]
+  - `QBG-JA-E01`: ROM 2019-01-25 0 `#WEB:https://mobile.twitter.com/kitakawati/status/1599718473403629569/`
   - `QBG-JA-H01`: ROM 2019-07-12 0 `#WEB:https://mobile.twitter.com/erusiru1/status/1589555165371461632`
   - `QBG-JB-N01`: ROM 2020-07-08 0 [GTX 1650]
 * `QCV`: SOUND VOLTEX III(コナステ) / SOUND VOLTEX III (e-AMUSEMENT CLOUD) / SOUND VOLTEX EXCEED GEAR (コナステ) / SOUND VOLTEX EXCEED GEAR (e-AMUSEMENT CLOUD) [e-AMUSEMENT CLOUD/home version]
