@@ -198,7 +198,7 @@ SEGA parts are referred to using a [proprietary format](identifiers.md#part-numb
         Notes: Revision 0 motherboard has its BIOS chip soldered in, while the Revision 1 motherboard has the BIOS chip on a socket.
 
   * RingWide             (AAM, JP, 847-0001D, "ASSY CASE WDE W 1GB") [known revisions: 0, 1]
-        MBD: Supermicro ??? [revision 0]
+        MBD: Supermicro C2SLM-OC012    (838-14860) [revision 0]
              Advantech POD-SG02        (838-14905-01 / 19A6SG0203 / 9696SG0201E) [revision 1]
         CPU: Intel Celeron 440
         RAM: 1x Transcend TS128MLQ64V6J [1GB, DDR2-667 CL5]
