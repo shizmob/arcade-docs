@@ -503,21 +503,21 @@ N2(WM3R):
 **CPU:** Intel Core 2 Duo E8400  
 **RAM:** \[ES1(A), ES1(A/NO-USB)\] 2x SanMax SMD-51246NP-8E (DDR2 DIMM, PC2-6400U-555, 512MB)  
 **RAM:** \[ES1(A2)\] 1x SanMax SMD-2G88HP-8E (DDR2 DIMM, PC2-6400U-555, 2GB)  
-**GPU:** Nvidia GeForce 9600 GT (PCIe, 512MB, BIOS Version: 62.94.61.00.08)  
+**GPU:** \[ES1(A), ES1(A/NO-USB), ES1(A2)\] Nvidia GeForce 9600 GT (PCIe, 512MB, BIOS Version: 62.94.61.00.08)  
+**GPU:** \[ES1(B)\] AMD Radeon HD 4550 (PCIe, 512 MB)  
 **HDD:** Seagate ST3160318AS (SATA, 160GB, 7200RPM) / Hitachi HDS721016CLA382 (SATA, 160GB, 7200RPM)  
+**SND:** Realtek ALC883 (HD Audio)  
 **IO:** [Namco H039 ESIF PCB](io.md#h039-esif) (1x internal 4pin connector with cable to "JV IO (JAMMA)", to motherboard COM3 and JF1)  
 **IO:** "JV IO (JAMMA)" (expansion slot, 1x JVS USB, 1x internal connector with cable to H039)  
 **IO:** \[ES1(A2)\] "SERIAL 3 (CARD IF)" (expansion slot, to motherboard COM4, pinout up-down: GND CTS RTS TXD RXD)  
 
 ```
         A - Nirin (NRN) - https://www.bandainamco-am.co.uk/files/41)
-            Sailor Zombie AKB48(??)
-            Dead Heat/Maximum Heat (DDH) - https://www.bandainamco-am.co.uk/files/27, http://collectedit.com/collectors/shou-time-213/arcade-pcbs-281/ dead-heat-us-by-namco-12558
-            Midnight Tune 4 (US, WM4)/5 (US, WM5)
+        B - Dead Heat/Maximum Heat (DDH) - https://www.bandainamco-am.co.uk/files/27, http://collectedit.com/collectors/shou-time-213/arcade-pcbs-281/ dead-heat-us-by-namco-12558
  A/NO-USB - Tank! Tank! Tank! (TTT) - https://www.bandainamco-am.com/images/content/Tank%20Tank%20Tank%20Manual.pdf
        A2 - Gundam: Bonds of the Battlefield 3.0 (GKE? GSK?) - http://collectedit.com/collectors/shou-time-213/arcade-pcbs-281/mobile-suit-gundam-bonds-of-the-battlefield-japan-by-namco-19629
             Gundam: Bonds of the Battlefield 4.0 (GK4, GKE? GKN?) - https://page.auctions.yahoo.co.jp/jp/auction/g495616988
-            Midnight Tune 4 (Japan/Asia, WM4, https://www.arcade-projects.com/threads/namco-es1-wmmt4.2270/)/5 (Asia, WM5)/5DX (Asia, W5X)/5DX+ (Asia, W5P) https://www.facebook.com/weedxy2gab/photos/pcb.665771777362930/665771667362941/?type=3&theater
+            Midnight Tune 4 (Japan/Asia/US, WM4, https://www.arcade-projects.com/threads/namco-es1-wmmt4.2270/)/5 (Asia/US, WM5)/5DX (Asia, W5X)/5DX+ (Asia, W5P) https://www.facebook.com/weedxy2gab/photos/pcb.665771777362930/665771667362941/?type=3&theater
             Maximum Heat 3D (MMH)
 ```
 
@@ -633,12 +633,13 @@ PC, x86-based. Lower spec, also used for budget/redemption games? Variants: ES4(
 PC, x86-based. Variants: BNA1, BNA1(LITE). Some kind of defect occurred: https://www.banasupport.net/cms-files/E38090E3818AE58F96E5BC95E6A798E59084E4BD8DE38091E3.pdf
 
 BNA1: BNA1-00-64G-2016W / BNA1-00-256G-2016W
+A 128 GB SSD variant also exists
 
 **MBD:** ???  
 **CPU:** Intel Core i5-6500  
 **RAM:** ???  
-**GPU:** Nvidia GeForce GTX 1050 Ti  
-**SSD:** innodisk 3ME4 ??? (SATA, 256GB) / ??? (SATA, 64GB)  
+**GPU:** Aetina GeForce GTX 1050 Ti (N1050Ti-L9FX) (4 GB, GDDR5)  
+**SSD:** innodisk 3ME4 ??? (SATA, 256GB) / Silicon Power 3V0E (SATA, 128GB) / ??? (SATA, 64GB)  
 **IO:** 2x serial (expansion card, COM3 and COM4)  
 **IO:** 2x JVS/USB? (expansion card, '5' and '6')  
 
@@ -647,18 +648,28 @@ BNA1(LITE): BNA1LT-00-64G-2016W
 **MBD:** ??? (H110 chipset)  
 **CPU:** Intel Pentium G4400  
 **RAM:** 2x ??? (DDR4, 4GB)  
-**GPU:** Nvidia GeForce GT 1030  
+**GPU:** Aetina GeForce GT 1030 (N1030-J6FL) (2 GB, GDDR5)  
 **SSD:** ??? (64GB) + ???  
 **IO:** 2x serial (expansion card, COM3 and COM4)  
 **IO:** 2x JVS/USB? (expansion card, '5' and '6')  
 
+BNA1(RICH)
+
+**MBD:** ??? (H110 chipset)  
+**CPU:** Intel Core i7-6700 (???)  
+**RAM:** ???  
+**GPU:** GeForce RTX 2060 SUPER (8 GB) (???)  
+**SSD:** ???  
+**IO:** 2x serial (expansion card, COM3 and COM4)  
+**IO:** 2x JVS/USB? (expansion card, '5' and '6')  
+
 ```
-       - Gundam: Bonds of the Battlefield II
          Gundam: Extreme Vs. 2 (GX2) - https://page.auctions.yahoo.co.jp/jp/auction/f501215923)
          JoJo: Last Survivor
          Sword Art Online Arcade
          Midnight Tune 6 (WM6, export)
          Midnight Tune 6R (W6R, export)
+  RICH - Gundam: Bonds of the Battlefield II
   LITE - Taiko no Tatsujin: Rainbow (S12)
      ? - Poker Stadium
 ```
