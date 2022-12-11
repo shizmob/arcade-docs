@@ -2493,6 +2493,7 @@ unknown:
   - `UFC JA A01`: ROM 2020-11-12 0
   - `UFC JA B01`: ROM 2021-01-22 0 `#WEB:https://www.youtube.com/watch?v=9PJ6A7tOS1g`
   - `UFC JA G01`: ROM 2021-11-11 0 `#WEB:https://twitter.com/leqek0108/status/1593731473051619329`
+* `UJK`: チェイスチェイスジョーカーズ / Chase Chase Jokers (2022, under location test) `#WEB:https://www.youtube.com/watch?v=K9uer-ZUxVg`
 * `UKS`: QuizKnock Stadium (2022, PC(C300)) `#SCRAPE:konami:eagate`
   - `UKS JA C01`: ROM 2022-1-27 0
 * `UX8`: FORTUNE TRINITY 精霊の至宝祭  `#SCRAPE:konami:eagate`
