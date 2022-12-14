@@ -626,6 +626,7 @@ PC, x86-based. Lower spec, also used for budget/redemption games? Variants: ES4(
 ```
        - Point Blank X/Gunbullet X (PBX)
        - Mobile Suit Gundam U.C: Card Builder (GCB)
+       - Sword Art Online Arcade (Terminal) (SAO)
 ```
 
 ## System BNA1
@@ -656,8 +657,8 @@ BNA1(LITE): BNA1LT-00-64G-2016W
 BNA1(RICH)
 
 **MBD:** ??? (H110 chipset)  
-**CPU:** Intel Core i7-6700 (???)  
-**RAM:** ???  
+**CPU:** Intel Core i7-6700 
+**RAM:** ??? (DDR4, 16GB) 
 **GPU:** GeForce RTX 2060 SUPER (8 GB) (???)  
 **SSD:** ???  
 **IO:** 2x serial (expansion card, COM3 and COM4)  
@@ -666,10 +667,10 @@ BNA1(RICH)
 ```
          Gundam: Extreme Vs. 2 (GX2) - https://page.auctions.yahoo.co.jp/jp/auction/f501215923)
          JoJo: Last Survivor
-         Sword Art Online Arcade
+         Sword Art Online Arcade (Satellite) (SAO)
          Midnight Tune 6 (WM6, export)
          Midnight Tune 6R (W6R, export)
-  RICH - Gundam: Bonds of the Battlefield II
+  RICH - Gundam: Bonds of the Battlefield II (SK2)
   LITE - Taiko no Tatsujin: Rainbow (S12)
      ? - Poker Stadium
 ```
