@@ -2204,6 +2204,7 @@ unknown:
   - GITADORA EXCHAIN (2018, PC(HM65))
   - GITADORA NEX+AGE (2019, PC(HM65/ADE))
   - GITADORA HIGH-VOLTAGE (2021, PC(HM65/ADE))
+  - GITADORA FUZZ-UP (2022, PC(HM65/ADE))
   - `GCM32`
   - `GQM32-JA`: GuitarFreaks
   - `GQM32-JB`: DrumMania   `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/j1011709370`
