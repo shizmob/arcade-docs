@@ -2211,6 +2211,7 @@ unknown:
   - `GEM32-JB`: DrumMania conversion kit  `#WEB:https://a11.kpers.net/item/t730347099/`
   - `M32 JB A01`: ROM [HM65 PCB] 2013-01-10 0
   - `M32 KB A01`: ROM [HM65 PCB] 2015-10-01 2 `#WEB:https://twitter.com/GAOS_game/status/1186132871636901890`
+  - `M32 KC V01`: ROM [ADE PCB] 2016-12-07 1
   - `M32 AD AC01`: ROM [ADE PCB] 2018-04-02 0
 * `M33`: GITADORA [drums] (2013, PC)
   - `GCM33`
@@ -2277,6 +2278,8 @@ unknown:
   - `GCMDX-UJ`: DDR A20 Version Up Kit for ROM MDX-UD WindowsXP
   - `GCMDX-UK`: DDR A20 Version Up Kit for ROM MDX-UG Windows7
   - `MDX JA C01`:  ROM [945,     P3IO, WinXP] 2013-03-10 0  `#WEB:https://www.youtube.com/watch?v=dvNiC1BWjoc #WEB:https://twitter.com/1_KOU/status/855694574286655489`
+    - `MDX JA G01`:  ROM [945,     P3IO, WinXP] 2013-10-28 0  `#WEB:https://mobile.twitter.com/dinsfire64/status/1601019192551297024/`
+   - `MDX JA R01`:  ROM [945,     P3IO, WinXP] 2015-07-24 0  `#WEB:https://twitter.com/CodestarCreates/status/1592136398030577666/`
   - `MDX JA V01`:  ROM [945,     P3IO, WinXP] 2016-04-28 0  `#WEB:https://www.nicovideo.jp/watch/sm30252386`
   - `MDX JA Z01`:  ROM [945,     P3IO, WinXP] 2016-12-16 0  `#WEB:https://twitter.com/tanu_kichune/status/1387672293283794945`
   - `MDX JC A01`:  ROM [HM65,    P4IO, WinXP] 2013-02-24 0  `#WEB:https://www.youtube.com/watch?v=tmSVEVYj7lQ`
@@ -2297,6 +2300,7 @@ unknown:
 * `MM1`: ポップンミュージックカードCollection Album
   - `CKMM1-JA`: Nyami, Mimi  `#WEB:https://www.mercari.com/jp/items/m51961404185/ #WEB:https://www.mercari.com/jp/items/m41800911037/`
   - `CKMM1-JB`: Ark, moimoi  `#WEB:https://www.mercari.com/jp/items/m75275623572/ #WEB:https://kaitoricollector.com/jisseki/card/%E3%83%9D%E3%83%83%E3%83%97%E3%83%B3%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%82%AB%E3%83%BC%E3%83%89-20-fantasia-%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0-%E3%82%AB%E3%83%BC%E3%83%89`
+* `MMA`: QUIZ MAGIC ACADEMY (2013, TW/HK) `#WEB:https://www.facebook.com/photo?fbid=678437688898075&set=pcb.678437755564735`
 * `MMD`: ミライダガッキ / FutureTomTom (2013), ミライダガッキ Ver.2 / FutureTomTom Ver.2 (2013)  `#CLAIM:shiz`
   - `GQMMD-JA`: cabinet
   - `MMD JA A01`: ROM 2013-05-29 0
