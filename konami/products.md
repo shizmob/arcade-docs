@@ -2134,7 +2134,7 @@ unknown:
   - `GULDJ-JG`: SPADA LCD monitor  `#WEB:http://kururusky.com/?p=1458`
   - [`GULDJ-JH`: PENDUAL version up kit](product/GULDJ-JH.md) (Japan)  `#WEB:https://blog.flipflop-jp.com/archives/3391/post-3391/`
   - [`GULDJ-AH`: PENDUAL version up kit](product/GULDJ-JH.md) (Japan)  `#WEB:https://blog.flipflop-jp.com/archives/3391/post-3391/`
-  - `GULDJ-JI`: PENDUAL LCD monitor  `#WEB:http://kururusky.com/?p=1458`
+  - [`GULDJ-JI`: PENDUAL LCD monitor](product/GULDJ-JI.md)  `#WEB:http://kururusky.com/?p=1458`
   - [`GULDJ-JJ`: copula LCD monitor](product/GULDJ-JJ.md)  `#WEB:http://kururusky.com/?p=1458 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/h548227658`
   - `GCLDJ-JK`: copula conversion kit  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1025004961`
   - `GULDJ-JL`: SINOBUZ version up kit
