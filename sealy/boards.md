@@ -28,7 +28,7 @@
 * Lai Zi Dou Di Zhu (癞子斗地主) `#WEB:https://m.tb.cn/h.U87erNS?tk=fPJpde28uhS`
 
 ## Forerunner1s SG700 based `#MAME:sealy_fr.cpp`
-**CPU:** ADChip SE3208 SoC (labelled as ADC Amazon-LF) @ 42.95454 MHz (master); HY04 (unknown DIP8, ASIC/rebadged) (security coprocessor ?)
+**CPU:** Forerunner1s SG700 SoC ?
 
 **Storage:** Kingston SDC4/4GB MicroSD Card
 
