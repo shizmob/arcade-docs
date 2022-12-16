@@ -2023,14 +2023,15 @@ unknown:
   - `KMA JA A01`: system disc (client/center monitor)  `#WEB:https://aucview.com/yahoo/v736878612/`
   - `KMA JA A02`: application disc (client/center monitor)  `#WEB:https://aucview.com/yahoo/v736878612/`
 * `KK9`
-  - 麻雀格闘倶楽部 ultimate version
-  - 麻雀格闘倶楽部 NEXT
-  - 麻雀格闘倶楽部 頂の陣
-  - 麻雀格闘倶楽部 彩の華
-  - 麻雀格闘倶楽部 ZERO
-  - 麻雀格闘倶楽部 豪華絢爛
-  - 麻雀格闘倶楽部 GRAND MASTER
-  - 麻雀格闘倶楽部 疾風
+  - 麻雀格闘倶楽部 ultimate version (2011, PC(RICOH))
+  - 麻雀格闘倶楽部 NEXT (2012, PC(RICOH))
+  - 麻雀格闘倶楽部 頂の陣 (2013, PC(RICOH))
+  - 麻雀格闘倶楽部 彩の華 (2014, PC(RICOH))
+  - 麻雀格闘倶楽部 ZERO (2016, PC(RICOH))
+  - 麻雀格闘倶楽部 豪華絢爛 (2017, PC(RICOH))
+  - 麻雀格闘倶楽部 GRAND MASTER (2018, PC(RICOH))
+  - 麻雀格闘倶楽部 疾風 (2020, PC(RICOH))
+  - 麻雀格闘倶楽部 EXTREME (2022, PC(RICOH))
   - `GQKK9-JA`  `#WEB:https://manualzz.com/doc/4906506/%E5%AF%BE%E7%AD%96%E3%81%AB%E3%81%A8%E3%82%82%E3%81%AA%E3%81%86%E6%B3%A8%E6%84%8F%E7%82%B9-%E9%BA%BB%E9%9B%80%E6%A0%BC%E9%97%98%E5%80%B6%E6%A5%BD%E9%83%A8-ultimate-version-c`
   - `GEKK9-JA`: center unit starter kit  `#WEB:https://aucview.com/yahoo/o471669282/ #WEB:https://page.auctions.yahoo.co.jp/jp/auction/l633265994`
   - `GEKK9-JB`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/o492546021`
@@ -2169,9 +2170,9 @@ unknown:
   - Quiz Magic Academy Tokyo Grimoire (2016, PC(C3)IO(USB1/USB2)-HDD)
   - Quiz Magic Academy The World Evolve (2017, PC(C3)IO(USB1/USB2)-HDD)
   - Quiz Magic Academy MAXIVCORD (2018, PC(C3)IO(USB1/USB2)-HDD)
-  - Quiz Magic Academy 軌跡の交叉-Xross Voyage- (2019)
-  - Quiz Magic Academy 輝望の刻 (2020)
-  - Quiz Magic Academy 夢幻の鏡界 (2021)
+  - Quiz Magic Academy 軌跡の交叉-Xross Voyage- (2019, PC(C3)IO(USB1/USB2)-HDD)
+  - Quiz Magic Academy 輝望の刻 (2020, PC(C3)IO(USB1/USB2)-HDD)
+  - Quiz Magic Academy 夢幻の鏡界 (2021, PC(C3)IO(USB1/USB2)-HDD)
   - `GELMA-JA`: 賢者の扉 center monitor unit conversion kit  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/n518055220`
   - `GELMA-JB`: 賢者の扉 client unit conversion kit  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/x789364916 #WEB:https://www.mercari.com/jp/items/m91656375975/`
   - `GELMA-JC`: 賢者の扉 center monitor unit conversion kit  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/n518055220`
@@ -2401,7 +2402,11 @@ unknown:
   - `QBG-JA-H01`: ROM 2019-07-12 0 `#WEB:https://mobile.twitter.com/erusiru1/status/1589555165371461632`
   - `QBG-JB-N01`: ROM 2020-07-08 0 [GTX 1650]
 * `QCV`: SOUND VOLTEX III(コナステ) / SOUND VOLTEX III (e-AMUSEMENT CLOUD) / SOUND VOLTEX EXCEED GEAR (コナステ) / SOUND VOLTEX EXCEED GEAR (e-AMUSEMENT CLOUD) [e-AMUSEMENT CLOUD/home version]
-* `QK9`: Mahjong Fight Club Grand Master (2018)  `#WEB:https://twitter.com/mammaru339/status/1573208839830532096`
+* `QK9`: 麻雀格闘倶楽部 HG MODEL `#WEB:https://twitter.com/mammaru339/status/1573208839830532096`
+  - 麻雀格闘倶楽部 豪華絢爛 (2017, PC)
+  - 麻雀格闘倶楽部 GRAND MASTER (2018, PC)
+  - 麻雀格闘倶楽部 疾風 (2020, PC)
+  - 麻雀格闘倶楽部 EXTREME (2022, PC)
   - `GQQK9-JA`
 * `QPP`: Printer paper and ink
   - `GUQPP-AB`: For SDVX generator (?)
@@ -2479,7 +2484,10 @@ unknown:
   - `GUTDJ-JV`: beatmania IIDX 29 CastHour LIGHTNING MODEL用装飾キット (マイクロスイッチ同梱) [CastHour art kit with microswitches]
   - `TDJ JA A01`: ROM 2019-11-18 0 `#WEB: https://www.youtube.com/watch?v=pGl0d3rq8Xg`
   - `TDJ JA B01`: ROM 2021-04-13 0
-* `TMA`: Quiz Magic Academy 夢幻の鏡界 (2021, PC)  `#WEB:https://twitter.com/SILKHAT_Yokochu/status/1386522899226320903`
+* `TMA`: Quiz Magic Academy HG MODEL
+  - Quiz Magic Academy 輝望の刻 (2020, PC)
+  - Quiz Magic Academy 夢幻の鏡界 (2021, PC)  `#WEB:https://twitter.com/SILKHAT_Yokochu/status/1386522899226320903`
+  - `TMAJAB01`: ROM 2020-03-10 0
 * `TSS`: スマッシュスタジアム  `#SCRAPE:konami:eagate`
 * `TTA`: カラコロッタ めざせ！夢の宝島  `#SCRAPE:konami:eagate`
 * `TVS`: デュエルドリーム / DUEL DREAM  `#SCRAPE:konami:eagate #MISC:oyakodon_oniku_list`
