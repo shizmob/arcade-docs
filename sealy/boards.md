@@ -73,4 +73,5 @@ Notice that Lenovo E580S (With Intel Celeron processors ?) variations exists, bu
 * TP-LINK TL-WN821N USB Wi-Fi adapter
 
 **Known Games:**
+* Rushing Rhythm (节奏冲击) (SDVX ripoff)
 * Qi Qu Sha Cheng (奇趣沙城) 
