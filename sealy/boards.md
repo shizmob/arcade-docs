@@ -50,7 +50,7 @@ Notice that Lenovo E580S (With Intel Celeron processors ?) variations exists, bu
 
 **OS:** Windows XP Professional, likely pirated
 
-**Others:** RNG module, bolted on the lid of the case, wired to the serial port on the motherboard with ribbon cable. 4pin IDE power input.
+**Others:** RNG module, bolted on the lid of the case, wired to the serial port on the motherboard with ribbon cable. 4pin IDE power input. Not presented in all games.
 
 **Known Games:**
 * Tens, if not more than a hundred kinds of lazy assets swapped Slots/fishing tables
