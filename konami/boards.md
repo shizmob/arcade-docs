@@ -242,20 +242,21 @@ Uses Intel Extreme integrated graphics instead of a GeForce GPU.
 ***GPU:** S3 CastleRock  
 **Games:** E99  
 
-## `FAB-e865-KN*`
+## SORD FAB series
 
-* Release: 2004/2005
+* Release: 2004 (FAB-e865), 2006 (FAB-e945), 2007 (FAB-e965), 2009 (FAB-e45), 2011 (FAB-e67)
 * Base: PC ([Sord embedded boards](https://www.sord.co.jp/company/corporate/history.html))
 
+### `FAB-e865-KN*`
 **MBD:** DFI G4S306-C  
 **STH:** Intel 865G  
 **BIOS:** Phoenix-Award  
 
-### FAB-e865-KN001
+#### FAB-e865-KN001
 
 **Games:** D22
 
-### FAB-e865-KN002
+#### FAB-e865-KN002
 
 **CPU:** Intel Pentium 4 2.8GHz  
 **GPU:** ATI Radeon 9600XT 128M  
@@ -264,14 +265,14 @@ Uses Intel Extreme integrated graphics instead of a GeForce GPU.
 **Sticker:** A2  
 **Games:** G27  
 
-### FAB-e865-KN003
+#### FAB-e865-KN003
 
 **CPU:** Intel Celeron 2.5GHz  
 **RAM:** 512MB  
 **STH:** Intel 865G  
 **GPU:** ATI Radeon 9600XT  
 
-### FAB-e865-KN303
+#### FAB-e865-KN303
 
 **CPU:** Intel Celeron 2.5Ghz  
 **RAM:** 2x Micron MT4VDDT3264AY-335F1 (DDR1, PC2700, 256MB)  
@@ -282,7 +283,7 @@ Uses Intel Extreme integrated graphics instead of a GeForce GPU.
 **Sticker:** A3  
 **Games:** F24, IG2, HCK, GGG, FA5, FLY  
 
-### FAB-e865-KN306
+#### FAB-e865-KN306
 
 (Name tentative)
 
@@ -292,27 +293,24 @@ Uses Intel Extreme integrated graphics instead of a GeForce GPU.
 **Sticker:** A6  
 **Games:** DPU(CAP)  
 
-## `FAB-e945-KN*`
-* Release: 2006
-* Base: PC ([Sord embedded boards](https://www.sord.co.jp/company/corporate/history.html))
-
+### `FAB-e945-KN*`
 **MBD:** IEI MB-9454-P2VS  
 **STH:** Intel 945G  
 **SND:** Realtek ALC888  
 
-### FAB-e945-KN201
+#### FAB-e945-KN201
 
 **Sticker:** B1  
 **CPU:** Celeron D 341 (2.93GHz)  
 **GPU:** ATI Radeon X1600 Pro (256 MB)  
 **Games:** F56/J56/K56/M56 (STATION/ステーション)  
 
-### FAB-e945-KN202
+#### FAB-e945-KN202
 
 **Sticker:** B2  
 **Games:** K56 MAIN?  
 
-### FAB-e945-KN203
+#### FAB-e945-KN203
 
 **Sticker:** B3  
 **CPU:** Pentium 4 (3.40GHz)  
@@ -320,7 +318,7 @@ Uses Intel Extreme integrated graphics instead of a GeForce GPU.
 **RAM:** 2 x 512 MB DDR2  
 **Games:** K56 POP?, G65/H65/J65/K65/L65/M65/O65/P65(MAIN)  
 
-### FAB-e945-KN204A
+#### FAB-e945-KN204A
 
 **CPU:** Pentium 4 (3.40GHz)  
 **RAM:** 2 x Micron MT8HTF6464AY053ED7 (512MB, PC4200U)  
@@ -333,7 +331,7 @@ Uses Intel Extreme integrated graphics instead of a GeForce GPU.
 **Sticker:** B4A  
 **Games:** GDK  
 
-### FAB-e945-KN205
+#### FAB-e945-KN205
 
 `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/r1029790798`
 
@@ -345,7 +343,7 @@ Also known as: "BemaniPC Type 2" (unofficially).
 **Sticker:** B5  
 **Games:** [GLD](software/GLD.md), [HDD](software/HDD.md), [I00](software/I00.md), [JDJ](software/JDJ.md), [JDZ](software/JDZ.md), [KDZ](software/KDZ.md)  
 
-### FAB-e945-KN206
+#### FAB-e945-KN206
 
 `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/u1038929462`
 
@@ -354,7 +352,7 @@ Also known as: "BemaniPC Type 2" (unofficially).
 **GPU:** Intel GMA 950  
 **Games:** F56/J56/K56 (MAIN), G51, G52, H53  
 
-### FAB-e945-KN209
+#### FAB-e945-KN209
 
 `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/l701319133`
 
@@ -363,7 +361,7 @@ Also known as: "BemaniPC Type 2" (unofficially).
 **GPU:** ATI Radeon X1600 Pro (PCIe, 256MB, VGA + S-Video + DVI) (109-A67631-12)  
 **Games:** G65/H65/J65/K65/L65/M65/O65 (STATION/ステーション?)  
 
-### FAB-e945-KN210
+#### FAB-e945-KN210
 
 **Sticker:** B10  
 **CPU:** Celeron D 341 (2.93GHz)  
@@ -371,16 +369,13 @@ Also known as: "BemaniPC Type 2" (unofficially).
 **RAM:** 2 x 512 MB (?)
 **Games:** GHL  
 
-## `FAB-e965-KN*`
-
-* Release: 2008
-* Base: PC ([Sord embedded boards](https://www.sord.co.jp/company/corporate/history.html))
+### `FAB-e965-KN*`
 
 **MBD:** Toshiba TEM100-01B  
 **STH:** Intel Q965  
 **SND:** ADI SoundMAX AD1988B (HD Audio)  
 
-### FAB-e965-KN301
+#### FAB-e965-KN301
 
 **Sticker:** C1  
 **CPU:** Intel Core 2 Duo E6400 (2.13GHz)  
@@ -388,7 +383,7 @@ Also known as: "BemaniPC Type 2" (unofficially).
 **RAM:** 1GBx2  
 **Games:** IX8, MX8, KPP, K70/M70/O70/Q70/S70, G23, HPP
 
-### FAB-e965-KN302
+#### FAB-e965-KN302
 
 `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/1028851239 #WEB:https://twitter.com/KARG175/status/1339943401274294274  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/u1054551394`
 
@@ -397,7 +392,7 @@ Also known as: "BemaniPC Type 2" (unofficially).
 **RAM:** 1GBx2  
 **Games:** IWA  
 
-### FAB-e965-KN303
+#### FAB-e965-KN303
 
 **CPU:** Intel Core 2 Duo E6400 (2.13GHz)  
 **GPU:** ATI Radeon HD 2600 XT (109-B14831-00 HF) (256 MB, GDDR3)  
@@ -406,7 +401,7 @@ Also known as: "BemaniPC Type 2" (unofficially).
 **Sticker:** C3  
 **Games:** JDZ(CHN), KDZ(CHN), I27, J27, K27, HGT, JMA, KMA, LMA, ICK, KCK, KLP  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/p870019570 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1051296570 #CLAIM:erobot`  
 
-### FAB-e965-KN304
+#### FAB-e965-KN304
 
 **CPU:** Intel Celeron 440 (2.00GHz) `#GAME:konami-WINDOWS\SYSTEM32\config\SYSTEM`  
 **GPU:** ATI Radeon HD 2600 XT (109-B14831-00 HF) `#GAME:konami-WINDOWS\SYSTEM32\config\SYSTEM`  
@@ -414,7 +409,7 @@ Also known as: "BemaniPC Type 2" (unofficially).
 **Sticker:** C4  
 **Games:** H24  
 
-### FAB-e965-KN313
+#### FAB-e965-KN313
 
 `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/1004281047 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/l1048062897 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/p1039201164`
 
@@ -428,12 +423,8 @@ Also known as: "BemaniPC Type 2" (unofficially).
 **Sticker:** C13  
 **Games:** KGG  
 
-## `FAB-e45-*`
-
-* Release: 2009
-* Base: PC ([Sord embedded boards](https://www.sord.co.jp/company/corporate/history.html))
-
-### FAB-e45-KN401
+### `FAB-e45-*`
+#### FAB-e45-KN401
 
 **MBD:** Toshiba TEM110  
 **CPU:** Intel Core 2 Quad Q9400 (2.66GHz)  
@@ -444,16 +435,12 @@ Also known as: "BemaniPC Type 2" (unofficially).
 **Sticker:** D1  
 **Games:** I36  
 
-## `FAB-e67-*`
-
-* Release: 2012
-* Base: PC ([Sord embedded boards](https://www.sord.co.jp/company/corporate/history.html))
-
+### `FAB-e67-*`
 **MBD:** Toshiba TEM130    
 **STH:** Intel Q67  
 **SND:** Realtek ALC662 `#GAME:konami-WINDOWS\SYSTEM32\config\SYSTEM`  
 
-### FAB-e67-TP601
+#### FAB-e67-TP601
 
 **CPU:** Intel Core i7-2600  
 **GPU:** AMD Radeon HD 6850 (1 GB)  
@@ -463,7 +450,7 @@ Also known as: "BemaniPC Type 2" (unofficially).
 **Games:** KDM, KGG, KPU, NDD, MSH, MMD  
 **BIOS:** AMIBIOS Aptio (BIOS Date: 12/20/2011 17:22:34 Ver: 3ABXC)  
 
-### FAB-e67-KN612
+#### FAB-e67-KN612
 
 `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/o1033199149 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/x1051529573`
 
@@ -478,7 +465,7 @@ Also known as: "BemaniPC Type 2" (unofficially).
 
 ## `IT*`
 
-* Release: ?
+* Release: 2007 (855) / 2008 (945)
 * Base: PC (AOpen embedded boards)
 
 ### 855
@@ -520,7 +507,7 @@ Also known as: "HDX-945-??" / "JDX-945-02" / "K32-945-01?" / "K33-945-01?" / "KB
 
 ## `ADE-*`
 
-* Release: ?
+* Release: 2012 (HM65) / 2015? (76) / 2016 (ADE)
 * Base: PC ([Ennocom embedded boards](https://www.ennoconn.com/producttype_en-us_0_21_1.html))
 
 ### HM65
@@ -579,12 +566,27 @@ Also known as: "ADE".
 **Note #2:** ADE-6291 V1.1 has a 2-pin battery connector besides the PCIe slot.  
 **Note #3:** Three BIOS revisions exist for this board: R100 (09/07/2016), R110 (02/14/2017), and R120 (06/08/2017)
 
+## RICOH
+(name tentative)
+
+* Release: 2006/2007
+* Base: PC
+
+### MFC
+
+**MBD:** RICOH IT2
+**CPU:** Intel Celeron M 410 (1.46GHz)
+**GPU:** Intel GMA 950
+**STH:** Intel 945GM
+**Games:** GK9, HK9, IK9, KK9, KBI
+**BIOS:** AMIBIOS 8
+
 ## Misc
 
 ### MB-875-M10
 (name tentative)
 
-* Release: ?
+* Release: 2004/2005
 * Base: PC
 
 **MBD:** JDS (Japan Data System) MB-875-M10  
@@ -628,7 +630,7 @@ Also known as: "ADE".
 
 ### R10
 
-* Release: ?
+* Release: 2015 (?)
 * Base: PC (iEi embedded boards)
 
 **MBD:** iEi KINO-KBN-i2-4201-R10-KNM VER 1.0  
@@ -644,23 +646,26 @@ Also known as: "ADE".
 
 (name tentative)
 
-* Release: ?
+* Release: 2017/2018
 * Base: PC (Supermicro server boards)
 
 **MBD:** Supermicro X10SLQ  
 **STH:** Intel Q87  
-**CPU:** Intel Core i3-4330 3.5GHz  
-**RAM:** 2x Innodisk DDR3L-1600 4GB  
+**CPU:** Intel Core i3-4330 (3.5GHz) [QBG] [KFC] 
+**CPU:** Intel Core i5-4590S (3.0GHz) [RBC]
+**RAM:** 2 x Innodisk DDR3L-1600 4GB [KFC]
+**RAM:** 2 x Innodisk DDR3-1600 4GB (M3UW-4GSSBC0C-E) [RBC]
 **GPU:** GIGABYTE GV-N1050D5-2GD (Nvidia GeForce GTX 1050) 
 **GPU:** GIGABYTE GV-N1650IXOC-4GD (Nvidia GeForce GTX 1650) [QBG] (Replacement)  
 **HDD:** WDC WD3200LPCX (320GB)  
 **SND:** Realtek ALC888S  
 **IO:** [BIO2(BI2A)](io.md#bio2)  
 **Games:** KFC (VW), QBG, RBC  
+**BIOS:** AMIBIOS Aptio 2.15.1236 (Supermicro X10SLQ BIOS Date:01/20/2017 Rev:2.2a for KAM 09/13/2017)
 
 ## ARESPEAR
 
-* Release: ?
+* Release: 2019
 * Base: PC (Konami boards)
 
 ### C300 (Xonar AE)
