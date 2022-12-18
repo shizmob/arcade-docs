@@ -574,12 +574,12 @@ Also known as: "ADE".
 
 ### MFC
 
-**MBD:** RICOH IT2
-**CPU:** Intel Celeron M 410 (1.46GHz)
-**GPU:** Intel GMA 950
-**STH:** Intel 945GM
-**Games:** GK9, HK9, IK9, KK9, KBI
-**BIOS:** AMIBIOS 8
+**MBD:** RICOH IT2  
+**CPU:** Intel Celeron M 410 (1.46GHz)  
+**GPU:** Intel GMA 950  
+**STH:** Intel 945GM  
+**Games:** GK9, HK9, IK9, KK9, KBI  
+**BIOS:** AMIBIOS 8  
 
 ## Misc
 
