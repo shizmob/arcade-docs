@@ -1665,14 +1665,15 @@ unknown:
   - `GDJ UA A03`: install disc  `#WEB:https://www.worthpoint.com/worthopedia/dance-dance-revolution-supernova-3843354880`
 * `GDK`
   - アクション刑事 / Action Deka (2008)  `#WEB:https://www.ebay.com/itm/165026090678 #WEB:https://www.ebay.com/itm/165001727510`
-  - `GDK JA A01`: ROM 2008-02-29 0 `#CLAIM:nova`
+  - `GDK JA A01`: install disc / ROM 2008-02-29 0 `#CLAIM:nova`
+  - `GDK JA B02`: application disc
   - セイギノヒーロー / Lethal Enforcers 3 (?, PC(B4A))  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/g1010686217
   - `GNGDK-JA`  `#MEDIA:konami/roundplugs-taobao.png #WEB:https://manualzz.com/doc/4869177/%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E5%88%91%E4%BA%8B---konami #WEB:https://page.auctions.yahoo.co.jp/jp/auction/g1010686217`
 * `GEM`: Quiz Magic Academy 4 (2007, PC(A6)IO(USB1/USB2)-HDD)  `#MISC:oyakodon_oniku_list`
 * `GGG`: オトメディウス / OTOMEDIUS (2007, PC(A3)IO(e-amu))  `#MISC:oyakodon_oniku_list #WEB:https://manualzz.com/doc/5000543/%E3%82%AA%E3%83%88%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A6%E3%82%B9---konami`
   - `GEGGG-JA`
   - `GEGGG-JB`
-* `GHL`: サイレントヒルアーケード / Silent Hill THE ARCADE (2007, PC(B?)IO(serial?))  `#MISC:oyakodon_oniku_list #WEB:https://twitter.com/infinity8686/status/1066677366414397441 #WEB:https://manualzz.com/doc/5003619/%E3%82%B5%E3%82%A4%E3%83%AC%E3%83%B3%E3%83%88%E3%83%92%E3%83%AB%E3%83%BB%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89`
+* `GHL`: サイレントヒルアーケード / Silent Hill THE ARCADE (2007, PC(B10)IO(serial?))  `#MISC:oyakodon_oniku_list #WEB:https://twitter.com/infinity8686/status/1066677366414397441 #WEB:https://manualzz.com/doc/5003619/%E3%82%B5%E3%82%A4%E3%83%AC%E3%83%B3%E3%83%88%E3%83%92%E3%83%AB%E3%83%BB%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89`
   - `GNGHL-JA`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/d1065857267 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/o1064442704`
   - `GKGHL-EA`  `#DOC:konami:?`
   - `GHL JA A01`: system disc
@@ -1769,6 +1770,7 @@ unknown:
   - [`GQI00-JA`: Dedicated cabinet](product/GQI00-JA.md)
   - `GUI00-JB`: EMPRESS LCD monitor  `#WEB:http://kururusky.com/?p=1458 #WEB:https://twitter.com/karinatsalut/status/1449639111703158793`
   - `GCI00-JA`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/k1006672366`
+  - `I00 JA A01`: ROM 2008-09-08 0
 * `I17`: ポップンミュージック 17 / THE MOVIE, pop'n music 17 THE MOVIE (2009, PC(?)IO(USB2))  `#MISC:oyakodon_oniku_list`
   - `GCI17-JA`: Type A cabinet conversion kit  `#DOC:konami:113707830000 #DOC:konami:113204880000 #WEB:https://www.mercari.com/jp/items/m56622862470/`
   - `GCI17-JB`: Type B/C/D cabinet conversion kit  `#DOC:konami:113204880000 #WEB:https://www.mercari.com/jp/items/m56622862470/ #WEB:https://www.mercari.com/jp/items/m77603699735/ #WEB:https://aucview.aucfan.com/yahoo/g371622212`
@@ -1776,8 +1778,9 @@ unknown:
   - `GEI16-JB`: Type B/C/D? cabinet conversion kit  `#DOC:konami:113204880000`
   - `GEI17-JC`: Type B/C/D? cabinet converison kit  `#DOC:konami:113204880000`
 * `I23`: ホースライダーズ2 / HORSERIDERS 2 (2009, PC(C?))  `#MISC:oyakodon_oniku_list #WEB:https://a12.kpers.net/item/v723740380/`
-* `I27`: ベースボールヒーローズ2008 (2008, PC(C3))  `#MISC:oyakodon_oniku_list`
+* `I27`: ベースボールヒーローズ2008 / Baseball Heroes 2008 (2008, PC(C3))  `#MISC:oyakodon_oniku_list`
   - `GEI27-JA`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/k1030304742`
+  - `I27 JA A01`: ROM 2008-08-27 0
 * `I32`: DrumMania V6 (2009, PC(855)-HDD)  `#MISC:oyakodon_oniku_list`
   - `GCI32`
   - `GCI32-JA`: conversion kit (soft)  `#MEDIA:konami/popn-manuals.jpg`
@@ -1835,6 +1838,7 @@ unknown:
   - `IK9 JB E02`: application install CD-ROM  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/e351046845`
 * `IMS`: モーキャップスポーツ / Mocap Sports (2009, PC(945)IO(IMSI))  `#MISC:oyakodon_oniku_list`
   - `IMS JA A01`: system install CD-ROM
+  - `IMS J A01`: ROM 2009-04-30 0
 * `IPU`: グランドクロス・プレミアム / GRAND CROSS PREMIUM  `#WEB:https://jp.mercari.com/item/m40578244175 #WEB:https://aucview.aucfan.com/yahoo/f358855633`
   - `GSIPU`  `#WEB:https://manualzz.com/doc/4919399/%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%82%AF%E3%83%AD%E3%82%B9-%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0`
   - `IPU CPC A01`: CENTER RECOVERY DISC
@@ -1847,14 +1851,16 @@ unknown:
   - `ISF ST A01`: station HDD  `#WEB:https://a20.kpers.net/item/w452761425/`
   - `ISF [BLUE]`: blue [roundplug dongle](dongle.md#roundplug)
   - `ISF [PINK]`: pink [roundplug dongle](dongle.md#roundplug)  `#WEB:https://jp.mercari.com/item/m68517668776`
-* `IWA`: GI-Turf TV  `#MISC:oyakodon_oniku_list`
+* `IWA`: GI-Turf TV (2010, PC(C1)) `#MISC:oyakodon_oniku_list`
 * `IX8`: フォーチュントリニティ / FORTUNE TRINITY (2010)  `#MISC:oyakodon_oniku_list #WEB:https://jp.mercari.com/item/m88202874420 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/h546985230`
   - `GSIX8-JA`
   - `GSIX8 PWB(A2)113179670000`
-* `J18`: ベースボールヒーローズ 2009 / Baseball Heroes 2009 (2009)  `#WEB:https://jp.mercari.com/item/m48377137211`
+* `J18`: ベースボールヒーローズ 2009 / Baseball Heroes 2009 (2009) booster pack `#WEB:https://jp.mercari.com/item/m48377137211`
   - `GUJ18-JA`: booster pack vol.5.0 [200P]  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/1058808123`
   - `GUJ18-JE`: booster pack vol.5.5 [200P]  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1058806214`
   - `GUJ18-JF`: booster pack WORLD BASEBALL CLASSIC VERSION [200P]  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/j1058813188`
+* `J27`: ベースボールヒーローズ 2009 / Baseball Heroes 2009 (2009, PC(C3))
+  - `J27JAA01`: ROM 2009-08-31 0
 * `J32`: DrumMania V7 (2010, PC(855)), DrumManiaXG (2010, PC(945))
   - `GQJ32-JA`: DrumManiaXG  `#WEB:https://aucview.aucfan.com/yahoo/e280211973/`
   - `GKJ32-CB`  `#MEDIA:konami/roundplugs-taobao.png`
@@ -1880,8 +1886,10 @@ unknown:
   - `J65 JB APP A01`: APPLICATION DISC1 for STAITION PC [DVD-ROM]
   - `J65 JB APP A02`: APPLICATION DISC2 for STAITION PC [DVD-ROM]
 * `JC9`: オンガクパラダイス / Ongaku Paradise (2010, PC(945))
+  - `JC9 JA A01`: ROM 2010-05-25 1
 * [`JDJ`: beatmania IIDX 17 SIRIUS](software/JDJ.md) (2009, PC(B5)IO(C02/D01/USB2)-HDD)   `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/o455537291 #MISC:oyakodon_oniku_list``
   - `GCJDJ-JA`
+  - `JDJ JA A01`: ROM 2009-10-21 0
 * `JD6`
   - 遊戯王ファイブディーズ デュエルターミナル ジェネクスの進撃!! (2009, PC-YUGIOU)  `#MISC:oyakodon_oniku_list`
   - 遊戯王ファイブディーズ デュエルターミナル トリシューラの鼓動!! (2010, PC-YUGIOU)  `#MISC:oyakodon_oniku_list`
@@ -1909,12 +1917,14 @@ unknown:
   - `JMA JA A01`: system disc (client/center monitor)
   - `JMA JA A02`: application disc (client/center monitor)
 * `JMP`: ヘロー！！ポップンミュージック / HELLO! POP'N MUSIC (2011, PC(945))
+  - `JMP JA A01`: ROM 2010-10-12 0
 * `JPA`: パノラマファンタジー  `#MISC:oyakodon_oniku_list`
-* `K18`: ベースボールヒーローズ 2010 ウィナー / Baseball Heroes 2010 Winner (2010)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1058810559`
+* `K18`: ベースボールヒーローズ 2010 ウィナー / Baseball Heroes 2010 Winner (2010) booster pack `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1058810559`
   - `GUK18-JA`: booster pack vol.6.0  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/u402818734`
   - `GUK18-JE1`: booster pack vol.6.51 HEAT UP VERSION [200P]
-* `K27`: ベースボールヒーローズ 2010 WINNER (2010, PC(C3))  `#MISC:oyakodon_oniku_list #WEB:https://manualzz.com/doc/4935042/%E5%AF%BE%E7%AD%96%E3%81%AB%E3%81%A8%E3%82%82%E3%81%AA%E3%81%86%E6%B3%A8%E6%84%8F%E7%82%B9-%E3%83%99%E3%83%BC%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%BA-2010-winner #WEB:https://a11.kpers.net/item/j653179790/`
+* `K27`: ベースボールヒーローズ 2010 WINNER / Baseball Heroes 2010 Winner (2010, PC(C3))  `#MISC:oyakodon_oniku_list #WEB:https://manualzz.com/doc/4935042/%E5%AF%BE%E7%AD%96%E3%81%AB%E3%81%A8%E3%82%82%E3%81%AA%E3%81%86%E6%B3%A8%E6%84%8F%E7%82%B9-%E3%83%99%E3%83%BC%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%BA-2010-winner #WEB:https://a11.kpers.net/item/j653179790/`
   - `GEK27-JA`
+  - `K27JAA01`: ROM 2010-03-31 0
 * `K32`: DrumMania V8 (2011, PC(855)), DrumManiaXG2 Groove to Live (2011, PC(945))
   - `GEK32-JA`: DrumManiaXG2 Groove to Live  `#WEB:https://aucview.aucfan.com/yahoo/o331572400 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/f520653743`
   - `GCK32-JB`: DrumMania V8  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/c918840967 #WEB:https://www.mercari.com/jp/items/m17051864666/ #WEB:https://page.auctions.yahoo.co.jp/jp/auction/e1000430028`
@@ -1944,7 +1954,7 @@ unknown:
   - `K70 MAIN *01 SA1`: satellite
 * `KA9`: PASELI カード
   - `GUKA9-JA`: 50 pack
-* `KBI`: 天下一将棋会2 (2011, PC)  `#WEB:https://www.mercari.com/jp/items/m96155836324/`
+* `KBI`: 天下一将棋会2 (2011, PC(RICOH))  `#WEB:https://www.mercari.com/jp/items/m96155836324/`
   - `GEKBI-JA`
   - `KBIJAA01`: ROM 2010-11-24 0
 * `KBR`: REFLEC BEAT (2010, PC(945))
@@ -1974,6 +1984,7 @@ unknown:
   - `GKKDM-CA`: cabinet (China, made by UNIS, roundplug dongles)  `#MEDIA:konami/GKKDM-CA-dongles.jpg`
   - `KDM JA I01`: ROM 2013-08-21 0 `#WEB:https://www.youtube.com/watch?v=JnBtW43cP4c`
   - `KDM JA R01`: ROM 2015-02-23 0
+  - `KDM CA A01`: ROM 2012-12-12 0
 * `KDX`: DanceDanceRevolution X3 VS 2ndMIX (2012, PC(945)-HDD)
   - `GEKDX-JA`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/h1049029583`
   - `KDX JA B01`: ROM 2011-11-05 `#WEB:https://www.youtube.com/watch?v=wjPiUSTnXXU`
@@ -2418,6 +2429,7 @@ unknown:
 * `R66`: ビシバシチャンネル / Bishi Bashi Channel (2018, PC(R10))
   - `GER66-JA` `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/u1051038312`
 * `RBC`: ベースボールコレクション / Baseball Collection (2018, PC(X10SLQ)IO(BIO2-BI2A)) `#MISC:oyakodon_oniku_list #SCRAPE:eagate #WEB: https://page.auctions.yahoo.co.jp/jp/auction/u1074189140`
+  - `RBC JA A01`: ROM 2018-08-01 0
 * `RCI`: Printer paper and ink  `#DOC:konami:117196570000`
   - `GURCI-JA`: For Card Connect, card (x6) and color ribbon (x2) set
   - `GURCI-JB`: For Card Connect, holographic ribbon

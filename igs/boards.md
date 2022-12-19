@@ -47,35 +47,47 @@ Despite using Intel processors, PGM3 is not a PC/AT compatible system.
 
 # PC-Based
 
-## pre-E2000
-### Percussion Master (export)
-**Motherboard:** ECS L4S5MG/651+ (V5.0A)
+## pre E-Series
+### IGS Osprey
+(name tentative; name is found on the motherboard's BIOS as a string)
 
-**Chipset:** SiS 651 (Northbridge) / SiS 692 (Southbridge)
+**CPU:** Geode GX 533 (400 MHz)
 
-**CPU:** Intel Celeron (?) (Socket 478)
+**Games:** EZTouch 2007
 
-**GPU:** Nvidia GeForce4 MX440 (64MB)
+## E-series
+### E1000
+**Motherboard:** IGS NX MB E1000
 
-**RAM:** 512 MB DDR-333 
+**CPU:** AMD Geode NX 1500 (1 GHz)
 
-**OS:** Red Hat Linux (32-bit)
+**GPU:** Nvidia GeForce 4 MX IGP
 
-### Rock Fever 4 Remix
-**Motherboard:** Foxconn 661FX7MI-S (?)
+**Chipset**: Nvidia nForce2 IGP
 
-**CPU:** Intel Celeron D (?) (LGA 775)
-
-**GPU:** Nvidia GeForce4 MX4000
-
-**OS:** Linux
-
-## E2000
-**Motherboard:** I-JOIN E2000-C6-V256
-
-**Chipset:** Intel 845 
+**Southbridge:** Nvidia MCP2-T
 
 **Storage:** CompactFlash cards
+
+**SND:** Realtek ALC655 (AC'97)
+
+**OS:** Linux, likely LFS
+
+**Games:**
+* Percussion Master [PM1] [M-200 NC]
+
+### E2000
+**Motherboard:** I-JOIN E2000-C6-V256
+
+**CPU:** Intel Celeron M (600MHz, SL8FN)
+
+**GPU:** Nvidia GeForce 6200 (AGP)
+
+**Chipset:** Intel 852GME
+
+**Storage:** CompactFlash cards
+
+**SND:** Realtek AC'97
 
 **OS:** Linux, likely LFS
 
@@ -86,7 +98,7 @@ Despite using Intel processors, PGM3 is not a PC/AT compatible system.
 * Panda Family
 * Vibraphone (铁琴: 第一乐章) `#WEB: https://mobile.twitter.com/tababodash/status/1590232697913643008`                                      
 
-## E2100
+### E2100
 **Motherboard:** Advantech DES-BT01
 
 **BIOS:** Customized Phoenix-AwardBIOS v6.00PG, version as DES-BT01 BIOS V1.10 [**** DES-BT01 BIOS V1.10 (09/06/2010) ****, 09/01/2010-945GS-8A79YAK8C-00]
@@ -106,8 +118,11 @@ Despite using Intel processors, PGM3 is not a PC/AT compatible system.
 * Fish Lagoon
 * Harpoon Lagoon (ICE)
 
-## E2200
+### E2200
 **Motherboard:** Advantech DAC-BT07
+Has two variants:
+* KN-00 (DAC-BT07 A101-4) (Percussion Master 3)
+* KN-01 (DAC-BT07 A102-2)
 
 **BIOS:** Customized AMI BIOS 8, version as E2200 BIOS V1.0.0 (20111207) [E2200 BIOS V1.0.0 (20111207), 64-0100-009999-00101111-120711-Pineview-E22_V100-Y2KC]
 
@@ -120,7 +135,7 @@ Despite using Intel processors, PGM3 is not a PC/AT compatible system.
 **Games:**
 * Percussion Masters 3
 
-## E3000
+### E3000
 **Motherboard:** IGS LX MB E3000V (08M1-04E3000) (manufacturer unknown)
 
 **BIOS:** AMI BIOS 8, more similar to regular ones [BIOS Date: 02/23/11 16:45:13 Ver: V11.0.0] (64-0100-000001-00101111-022311-ATHLON64-E3K_X001-Y2KC)
@@ -144,8 +159,7 @@ Despite using Intel processors, PGM3 is not a PC/AT compatible system.
 * Power Truck
 * Power Truck Special
 
-
-## E3100
+### E3100
 **Motherboard:** Advantech EBC-TA17, marked as iTS I-JOIN E3100  
 Has two variants:
 * LF-00 (Overtake?)
@@ -184,8 +198,9 @@ Currently found BIOS versions are:
 * Overtake DX
 * Ultra Race
 
-## S3000
-**Motherboard:** GIGABYTE H110M-S2PV ?
+## S/V-series
+### S3000
+**Motherboard:** GIGABYTE H110M-S2PV (?)
 
 **GPU:** Nvidia GeForce GTX 1050 (2 GB) (as used in Transform Hero of Robots), other variations may exist
 
@@ -197,15 +212,56 @@ Currently found BIOS versions are:
 * Speed Rider 3
 * Overtake VR
 
-## V3000
+### V3000
 **Motherboard:** GIGABYTE H110M-S2PV
 
-**GPU:** Nvidia GeForce RTX 2060 Super (as replacement GPU), other variations may exist
+**CPU:** Core i3-7100 [Asphalt 9 Legends Arcade]
+
+**GPU:** 
+* Nvidia GeForce RTX 2060 Super (as replacement GPU) [Ultra Race VR]
+* GIGABYTE GeForce GTX 1650 OC 4G [Asphalt 9 Legends Arcade]
+Other variations may exist
+
+**RAM:** 2 x 8 GB DDR4-2400 (16 GB) [Asphalt 9 Legends Arcade]
 
 **Sound:** Realtek ALC887 (HD Audio)
 
-**OS:** Windows 10 IoT Embedded LTSB 2016
+**OS:** Windows 10 IoT Embedded LTSB 2016 (?)
 
 **Games:**
 * Speed Driver 5
 * Ultra Moto VR
+* Asphalt 9 Arcade DX
+
+## C-series
+### C2000
+**Motherboard:** I-Join C2000
+
+**CPU:** AMD Geode
+
+**Games:** Jungle Drummer
+
+## Misc
+### Percussion Master (export)
+**Motherboard:** ECS L4S5MG/651+ (V5.0A)
+
+**Chipset:** SiS 651 (Northbridge) / SiS 692 (Southbridge)
+
+**CPU:** Intel Celeron (?) (Socket 478)
+
+**GPU:** Nvidia GeForce4 MX440 (64MB)
+
+**RAM:** 512 MB DDR-333 
+
+**OS:** Red Hat Linux (32-bit)
+
+**Note:** Some cabs of Percussion Master 1 uses this PCB.
+
+### Rock Fever 4 Remix
+**Motherboard:** Foxconn 661FX7MI-S (?)
+
+**CPU:** Intel Celeron D (?) (LGA 775)
+
+**GPU:** Nvidia GeForce4 MX4000
+
+**OS:** Linux, likely LFS
