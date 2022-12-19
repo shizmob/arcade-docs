@@ -40,20 +40,20 @@
 ## Lenovo E591S/E581S
 Rebranded Lenovo E591S/E581S thin client, sometimes with holes punched on the lid to bolt the RNG board in place.
 
-Notice that Lenovo E580S (With Intel Celeron processors ?) variations exists, but some claims that they are bootlegs. This is yet to be confirmed.
+Lenovo E580S (With Intel Celeron processors ?) variations exists, but some claims that those are bootlegs. This is yet to be confirmed.
 
 **CPU:** Intel Atom D525 @ 1.80 GHz
 
 **RAM:** 2GB, DDR3-800?
 
-**SSD:** Brandless DOM disk, SATA, 1GB (other variations may exist)
+**SSD:** Sharetronic DOM disk, SATA, 1GB (other variations may exist)
 
 **OS:** Windows XP Professional, likely pirated
 
 **Others:** RNG module, bolted on the lid of the case, wired to the serial port on the motherboard with ribbon cable. 4pin IDE power input. Not presented in all games.
 
 **Known Games:**
-* Tens, if not more than a hundred kinds of lazy assets swapped Slots/fishing tables
+* Tens, if not more than a hundred kinds of lazy assets swapped slots/fishing tables
 * Let's Beat (炫次方) (Jubeat ripoff)
 * Music Marble (音乐弹球) (Reflect Beat ripoff)
 * Free Touch 3 (希力指多星3)
@@ -67,7 +67,7 @@ Notice that Lenovo E580S (With Intel Celeron processors ?) variations exists, bu
 
 **SSD:** Brandless, 32GB
 
-**OS:** Windows 8 Professional 64-bit, likely pirated
+**OS:** Windows 8.1 Professional 64-bit, likely pirated
 
 **Others:** 
 * TP-LINK TL-WN821N USB Wi-Fi adapter
