@@ -52,10 +52,12 @@
 ## K39 IO
 
 `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/u452002755`
+`#MEDIA:konami/IMS-PC-internals.jpg`
 
 * `GUK39-JA`: used in pop'n card dispenser?
-* Product: PWB11106490000
+* Product: PWB111064690000
 * Codename: "Alard"
+* Compatible games: IMS
 
 ## USBIO2
 
