@@ -227,6 +227,7 @@ as specific MK versions nor revisions by Andamiro. Compatbility with different s
 
 ### H81
 
+* Official name: `MCU: MK-8171`
 * Motherboard: Asrock H81M-DGS REV2.01
 * CPU: Intel Celeron G1840/2.8GHz
 * GPU: Nvidia GeFroce GT710 1GB 64bit GDDR3
