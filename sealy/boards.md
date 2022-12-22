@@ -46,11 +46,13 @@ Lenovo E580S (With Intel Celeron processors ?) variations exists, but some claim
 
 **RAM:** 2GB, DDR3-800?
 
-**SSD:** Sharetronic DOM disk, SATA, 1GB (other variations may exist)
+**SSD:** Sharetronic DOM disk, SATA, 1GB / 4GB (other variations may exist)
 
-**OS:** Windows XP Professional, likely pirated
+**OS:** Windows XP Professional, likely pirated / Windows Embedded Standard 2009, licensing status unknown
 
-**Others:** RNG module, bolted on the lid of the case, wired to the serial port on the motherboard with ribbon cable. 4pin IDE power input. Not presented in all games.
+**Others:** 
+* RNG module, bolted on the lid of the case, wired to the serial port on the motherboard with ribbon cable. 4pin IDE power input. Not presented in all games.
+* Security/IO module ?, a PCI card with a Xilinx Spartan FPGA and HY-04 (unknown DIP8, ASIC/rebadged) (security coprocessor ?) on it, identified as `SealyPCI_XI` device by the OS
 
 **Known Games:**
 * Tens, if not more than a hundred kinds of lazy assets swapped slots/fishing tables
