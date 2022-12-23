@@ -1653,7 +1653,7 @@ unknown:
 * `G52`: パニックパイレーツ (2007)  `#MISC:oyakodon_oniku_list`
 * `G56`: EUROQUEEN (2007)  `#WEB:http://blog.livedoor.jp/medage/archives/48419312.html`
   - `GS56`
-* `G65`:  エターナルナイツ / Eternal Knights (2007, PC(B3/B9))  `#WEB:https://twitter.com/oyakodon_oniku/status/1497166268386123780`
+* `G65`:  エターナルナイツ / Eternal Knights (2007, PC-MEDAL(B3/B9))  `#WEB:https://twitter.com/oyakodon_oniku/status/1497166268386123780`
   - `GSG65`
 * `G78`: ワンダーマーチ (2008)  `#MISC:oyakodon_oniku_list`
 * `GBG`: ボンバーガール  `#MISC:oyakodon_oniku_list`
@@ -1725,8 +1725,8 @@ unknown:
   - `GQH44-JB`: 2 cabinets with hub  `#DOC:konami:112476060000`
   - `(F)`: `PWB111373080000`: [amp stage PCB]  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/o1026283167`
   - `PWB112201630000`: [amp main PCB]  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/o1026283167`
-* `H53`: 悪魔城ドラキュラ THE MEDAL (2008)  `#MISC:oyakodon_oniku_list`
-* `H65`: エターナルナイツ2 〜封印の聖石〜 / Eternal Knights 2: Stolen Seal (2008, PC(B3/B9)) `#DATA:http://file.4gamer.net/demo/ek2_setup.exe`
+* `H53`: 悪魔城ドラキュラ THE MEDAL (2008, PC-MEDAL(B6))  `#MISC:oyakodon_oniku_list`
+* `H65`: エターナルナイツ2 〜封印の聖石〜 / Eternal Knights 2: Stolen Seal (2008, PC-MEDAL(B3/B9)) `#DATA:http://file.4gamer.net/demo/ek2_setup.exe`
   - `GSH65-JBA`  `#WEB:https://twitter.com/oyakodon_oniku/status/1497166268386123780`
 * `H79`: メテオスパーク (2008)  `#MISC:oyakodon_oniku_list`
 * `HAL`: Quiz Magic Academy 5 (2008, PC(A6)IO(USB1/USB2)-HDD)  `#MISC:oyakodon_oniku_list #WEB:https://aucview.aucfan.com/yahoo/468385003`
@@ -1881,7 +1881,7 @@ unknown:
   - `GQJ44-JC`
 * `J55`: GI-HORSEPARK GX [station?]  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/o1000215728`
 * `J56`: GI-HORSEPARK GX STD (2009, PC-MEDAL)  `#MISC:oyakodon_oniku_list`
-* `J65`:  エターナルナイツ3 〜勇者の系譜〜 / Eternal Knights 3: Genealogy of the Brave (2010, PC(B3/B9))  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1047135130`
+* `J65`:  エターナルナイツ3 〜勇者の系譜〜 / Eternal Knights 3: Genealogy of the Brave (2010, PC-MEDAL(B3/B9))  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1047135130`
   - `J65 JB SYS A01`: SYSTEM DISC for STAITION PC [DVD-ROM]
   - `J65 JB APP A01`: APPLICATION DISC1 for STAITION PC [DVD-ROM]
   - `J65 JB APP A02`: APPLICATION DISC2 for STAITION PC [DVD-ROM]
@@ -1910,6 +1910,7 @@ unknown:
   - `GUJDZ-JB`: Resort Anthem LCD monitor  `#WEB:http://kururusky.com/?p=1458`
   - `GCJDZ-AA`: Asia, round plug, no paseli `#WEB:https://twitter.com/kururusky/status/1175652027067535360/photo/1`
   - `JDZ JA A99`: update disc  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/f529620421 https://aucview.com/yahoo/d352484912/`
+  - `JDZ JA A01`: ROM 2010-04-21 0
 * `JGT`: ロードファイターズ / Road Fighters (2010, PC-HDD)  `#MISC:oyakodon_oniku_list #WEB:https://manualzz.com/doc/4989944/%E3%83%AD%E3%83%BC%E3%83%89%E3%83%95%E3%82%A1%E3%82%A4%E3%82%BF%E3%83%BC%E3%82%BA`
   - `GQJGT-JA`
 * `JMA`: Quiz Magic Academy 7 (2010, PC(C3)IO(USB1/USB2)-HDD)  `#MISC:oyakodon_oniku_list #WEB:https://aucview.aucfan.com/yahoo/m83536076/`
@@ -1948,7 +1949,7 @@ unknown:
 * `K55`: GI-HORSEPARK JUDGMENT (2011, PC(MEDAL))
 * `K56`: GI-HORSEPARK JUDGMENT STD (2011, PC(MEDAL))  `#MISC:oyakodon_oniku_list #WEB:https://manualzz.com/doc/4854194/gi-horsepark-judgment-std`
   - `*EK56-J*`: K56 `<PDP>`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/v1004013462`
-* `K65`: エターナルナイツ4 響きあう魂 / Eternal Knights 4: Echoes of the Soul (2011, PC(B3/B9)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/d1033784779`
+* `K65`: エターナルナイツ4 響きあう魂 / Eternal Knights 4: Echoes of the Soul (2011, PC-MEDAL(B3/B9)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/d1033784779`
 * `K70`: アニマロッタ / AnimaLotta (2011, PC(C1))  `#MISC:oyakodon_oniku_list #WEB:https://manualzz.com/doc/4838508/%E3%82%A2%E3%83%8B%E3%83%9E%E3%83%AD%E3%83%83%E3%82%BF---konami #WEB:https://page.auctions.yahoo.co.jp/jp/auction/w1013674160`
   - `GSK70-JA`: cabinet  `#WEB:https://a12.kpers.net/item/m77462575452/ #WEB:https://twitter.com/tsubasa102524/status/1144947506599432197`
   - `K70 MAIN *01 SA1`: satellite
@@ -1990,6 +1991,7 @@ unknown:
   - `KDX JA B01`: ROM 2011-11-05 `#WEB:https://www.youtube.com/watch?v=wjPiUSTnXXU`
 * [`KDZ`: beatmania IIDX 19 Lincle](software/KDZ.md) (2011, PC(B5(JPN/EXP)/C3(CHN))IO(C02/D01/USB2)-HDD)  `#MISC:oyakodon_oniku_list`
   - `GEKDZ-JA`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/d1003782469`
+  - `KDZ JA A01`: ROM 2011-03-24 0
 * `KFC`
   - SOUND VOLTEX BOOTH (2012, PC(945/HM65/76)IO(KFCA))
   - SOUND VOLTEX II -infinite infection- (2013, PC(945/HM65)IO(KFCA))
@@ -2100,7 +2102,7 @@ unknown:
   - `L44 KG A01`: ROM [ADE PCB, 7] 2017-04-18 0 `#WEB:https://twitter.com/OZ_YAI/status/1554699553277849600`
   - `L44 JB AZ01`: ROM [HM65 PCB, XP] 2019-06-07 1 `#WEB:https://twitter.com/Yamassi8010/status/1419199972688359430`
 * `L57`: GI-GranDesire (2013)  `#SCRAPE:konami:eagate`
-* `L65`: エターナルナイツTRUST / Eternal Knights TRUST (2012, PC(B3/B9))  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/l701319133 #WEB:https://manualzz.com/doc/4942624/eternal-knights-trust`
+* `L65`: エターナルナイツTRUST / Eternal Knights TRUST (2012, PC-MEDAL(B3/B9))  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/l701319133 #WEB:https://manualzz.com/doc/4942624/eternal-knights-trust`
   - `L65 MAIN *02`: main unit
   - `G?L65-JAA`
   - `GEL65-JA`: main unit conversion kit  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/v1058488313`
@@ -2254,7 +2256,7 @@ unknown:
   - `**M40-JH`
   - `GUM40-JI`: éclale  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/1032689423`
   - `**M40-JJ`
-* `M65`: エターナルナイツLEGEND / Eternal Knights LEGEND (2013, PC(B3/B9))  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/l701319133 https://page.auctions.yahoo.co.jp/jp/auction/b1036584620`
+* `M65`: エターナルナイツLEGEND / Eternal Knights LEGEND (2013, PC-MEDAL(B3/B9))  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/l701319133 https://page.auctions.yahoo.co.jp/jp/auction/b1036584620`
   - `GEM65-JA`: main unit conversion kit  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/c909906995`
   - `GEM65-JB`: station unit conversion kit  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/j731453092 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/b1027245535`
   - `M65 MAIN A01 SA1`: unit
@@ -2357,7 +2359,7 @@ unknown:
   - `GOO26-JA`: Client main unit  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/g517869821`
   - `GOO26-UA`: Client main unit
   - `O26 JA *01`: unit
-* `O65`: エターナルナイツBRAVE / Eternal Knights BRAVE (2014, PC(B3/B9))  `#MISC:oyakodon_oniku_list`
+* `O65`: エターナルナイツBRAVE / Eternal Knights BRAVE (2014, PC-MEDAL(B3/B9))  `#MISC:oyakodon_oniku_list`
   - `GSO65 PWB(A1) 116148170000`: BIO  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/560849385`
 * `O70`: アニマロッタ3 / AnimeLotta3 (2015)  `#WEB:https://jp.mercari.com/item/m29570330518`
   - `GCO70-JA`: conversion kit (2-player unit)
@@ -2372,7 +2374,7 @@ unknown:
   - `OTC PC D01 SA1`: HDD
 * `OTM`: 祭deフィーバー!! (2015?)  `#SCRAPE:konami:eam`
 * `P2D`: beatmania IIDX INFINITAS [home version] (2015, PC)
-* `P65`: エルドラクラウン / Eldora Crown (2017, PC(ADE))  `#SCRAPE:konami:eagate #WEB:https://page.auctions.yahoo.co.jp/jp/auction/v1028813695`
+* `P65`: エルドラクラウン / Eldora Crown (2017, PC-MEDAL(ADE))  `#SCRAPE:konami:eagate #WEB:https://page.auctions.yahoo.co.jp/jp/auction/v1028813695`
   - `P65-JA(MAIN)`
   - `P65 MAIN B01 SA1` - main HDD (ADE)
 * `PAN`:
@@ -2395,7 +2397,8 @@ unknown:
   - `GSPTL-JB`: station  `#CLAIM:felix`
   - `GSPTL ST`: dongle label (station)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/o486106608`
   - `PTL ST A01 SA1`: HDD label (station)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/o486106608`
-* `PVR`: GI-VICTORY ROAD (2016, PC(e67/HM65))  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/e1065722658`
+* `PVR`: GI-VICTORY ROAD (2016, PC(B3?/e67/HM65))  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/e1065722658`
+  - `PVR MAIN A01 SB1`: e945 JA MAIN [DVD]
   - `PVR MAIN A01 SC1`: e67 JA MAIN [DVD]
   - `PVR ST A01 SB1`: HM65 JB STATION [DVD]
 * `PWT`: トレジャーシュート, マジカルシューター?  `#SCRAPE:konami:eagate #MISC:oyakodon_oniku_list #WEB:https://page.auctions.yahoo.co.jp/jp/auction/f1052167884`
@@ -2456,7 +2459,7 @@ unknown:
 * `S18`: e-amusement pass カード [amusement IC]  `#DOC:konami:117194030000 #DOC:konami:117371830000 #DOC:konami:117196570000`
   - `GUS18-JA`: 汎用絵柄カード 100 枚入り / 100 pack
 * `S36`: 極寒ヒエヒエペン太  `#SCRAPE:konami:eagate`
-* `S65`: エルドラクラウン 紅蓮の覇者 (2019) `#SCRAPE:konami:eagate`
+* `S65`: エルドラクラウン 紅蓮の覇者 (2019, PC-MEDAL(ADE)) `#SCRAPE:konami:eagate`
 * `S70`: アニマロッタ 雲の大樹 (2019, PC(C1)) `#MISC:oyakodon_oniku_list`
   - `S70 MAIN *01 SA1`: C1 PCB HDD `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1054560256`
 * `SA1`: トレジャーロード / TREASURE ROAD  `#DOC:konami:GKSA1-UA #MISC:oyakodon_oniku_list`
@@ -2518,7 +2521,7 @@ unknown:
   - `UFC JA A01`: ROM 2020-11-12 0
   - `UFC JA B01`: ROM 2021-01-22 0 `#WEB:https://www.youtube.com/watch?v=9PJ6A7tOS1g`
   - `UFC JA G01`: ROM 2021-11-11 0 `#WEB:https://twitter.com/leqek0108/status/1593731473051619329`
-* `UJK`: チェイスチェイスジョーカーズ / Chase Chase Jokers (2022, under location test) `#WEB:https://www.youtube.com/watch?v=K9uer-ZUxVg`
+* `UJK`: チェイスチェイスジョーカーズ / Chase Chase Jokers (2022, PC(C300)) `#WEB:https://www.youtube.com/watch?v=K9uer-ZUxVg`
 * `UKS`: QuizKnock Stadium (2022, PC(C300)) `#SCRAPE:konami:eagate`
   - `UKS JA C01`: ROM 2022-1-27 0
 * `UX8`: FORTUNE TRINITY 精霊の至宝祭  `#SCRAPE:konami:eagate`
