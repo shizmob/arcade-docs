@@ -445,7 +445,7 @@ Also known as: "BemaniPC Type 2" (unofficially).
 **CPU:** Intel Core i7-2600  
 **GPU:** AMD Radeon HD 6850 (1 GB)  
 **RAM:** 4 GB DDR3  
-**OS:** Windows XP Embedded (SP2) (KGG) / Windows Embedded Standard 7 (SP1) (KDM, MMD, NDD)  
+**OS:** Windows XP Embedded (SP2) [KGG] / Windows Embedded Standard 7 (SP1) [KDM] [MMD] [NDD]  
 **Sticker:** E1  
 **Games:** KDM, KGG, KPU, NDD, MSH, MMD  
 **BIOS:** AMIBIOS Aptio (BIOS Date: 12/20/2011 17:22:34 Ver: 3ABXC)  
@@ -560,7 +560,7 @@ Also known as: "ADE".
 **IO:** \[KFC/PAN\] [KFCA](io.md#kfca)   
 **IO:** \[LDJ/MDX\] [BIO2(BI2A)](io.md#bio2)  
 **IO:** \[REC\] 2x [BIO2(BI2A)](io.md#bio2)  
-**Games:** KFC, L44, [LDJ](software/LDJ.md), M32, M33, MDX (New White/Gold), PAN, REC, G52, P65/O65  
+**Games:** KFC, L44, [LDJ](software/LDJ.md), M32, M33, MDX (New White/Gold), PAN, REC, G52, P65, S65  
 **BIOS:** AMIBIOS  
 **Note #1:** Two revisions exist for this board: ADE-6291 V1.0 [M32] [M33] [L44] / ADE-6291 V1.1 [LDJ] [MDX] [REC] [KFC]  
 **Note #2:** ADE-6291 V1.1 has a 2-pin battery connector besides the PCIe slot.  
@@ -579,6 +579,7 @@ Also known as: "ADE".
 **GPU:** Intel GMA 950  
 **STH:** Intel 945GM  
 **Games:** GK9, HK9, IK9, KK9, KBI  
+**OS:** Windows XP Embedded (SP2)  
 **BIOS:** AMIBIOS 8  
 
 ## Misc
@@ -605,6 +606,7 @@ Also known as: "ADE".
 **GPU:** ATI Radeon HD 2400 Pro  
 **STH:** NVIDIA nForce 430  
 **SND:** ADI SoundMAX (HD Audio)  
+**OS:** Windows XP Embedded (SP2)  
 **Games:** HDX (US/EU)  
 
 ## Optiplex 580
@@ -641,6 +643,7 @@ Also known as: "ADE".
 **IO:** [P4IO](io.md#p4io)  
 **Games:** O26, PIX, R66, KSF  
 **BIOS:** AMIBIOS Aptio 4.6.5.4 (V2C9AD13.rom, 11/12/2014 15:43:39)  
+**OS:** Windows Embedded Standard 7 (SP1) [O26] [PIX] [R66]  
 
 ### X10SLQ
 
@@ -662,6 +665,7 @@ Also known as: "ADE".
 **IO:** [BIO2(BI2A)](io.md#bio2)  
 **Games:** KFC (VW), QBG, RBC  
 **BIOS:** AMIBIOS Aptio 2.15.1236 (Supermicro X10SLQ BIOS Date:01/20/2017 Rev:2.2a for KAM 09/13/2017)
+**OS:** Windows Embedded Standard 7 (SP1)  
 
 ## ARESPEAR
 
@@ -681,6 +685,7 @@ Also known as: "ADE".
 **SND:** ASUS Xonar AE  
 **IO:** [BIO2(BI2X)](io.md#bio2)  
 **Games:** TDJ, UFC  
+**OS:** Windows 10 IoT Enterprise LTSC 2019  
 **Ref:** https://www.konami.com/amusement/arespear/desktops/c300/index.html
 
 
@@ -692,9 +697,10 @@ Also known as: "ADE".
 **STH:** Intel B360  
 **CPU:** Intel Core i5-9400F  
 **GPU:** GIGABYTE GV-N1650IXOC-4GD (Nvidia GeForce GTX 1650)  
-**SSD:** WDC WD3200LUCT (320GB) [TBS]  
+**SSD:** WDC WD3200LUCT (320GB) [TBS] [UJK]  
 **SND:** Realtek ALC892  
-**Games:** TBS, UKS  
+**Games:** TBS, UKS, UJK  
+**OS:** Windows 10 IoT Enterprise LTSC 2019  
 **Ref:** https://www.konami.com/amusement/arespear/desktops/c300/index.html  
 
 ### C700
