@@ -1616,7 +1616,7 @@ unknown:
 * `FV3`: フォーチュンオーブ第３章 オーブキングダム / FORTUNE ORB 3  `#WEB:https://aucview.aucfan.com/yahoo/f140503629/`
   - `GSFV3`
   - `GCFV3`
-* `FW2`: アラビアンクリスタル / ARABIAN CRYSTAL (2005, MEDAL)  `#MISC:oyakodon_oniku_list #WEB:https://page.auctions.yahoo.co.jp/jp/auction/x785539722`
+* `FW2`: アラビアンクリスタル / ARABIAN CRYSTAL (2005, PC-MEDAL)  `#MISC:oyakodon_oniku_list #WEB:https://page.auctions.yahoo.co.jp/jp/auction/x785539722`
   - `GSFW2`
   - `GCFW2`
 * `G15`: ポップンミュージック 15 / pop'n music 15 ADVENTURE (2007, PC(855)IO(USB2)-HDD)  `#MISC:oyakodon_oniku_list`
@@ -1787,7 +1787,7 @@ unknown:
 * `I33`: GuitarFreaks V6 (2009, PC(855)-HDD)  `#MISC:oyakodon_oniku_list`
   - `GCI33`
   - `GCI33-JA`: conversion kit (soft)  `#MEDIA:konami/popn-manuals.jpg #WEB:https://page.auctions.yahoo.co.jp/jp/auction/x1059487768`
-* `I36`: Metal Gear Arcade (2010, PC-HDD)
+* `I36`: Metal Gear Arcade (2010, PC(D1)-HDD)
   - `GPI36-JA`: Dedicated cabinet `#MEDIA:konami/GPI36-JA-sticker.jpg #DOC:konami:113088440000 #DOC:konami:113088450000`
   - `GQI36-JA`  `#WEB:https://manualzz.com/doc/4912697/%E3%83%A1%E3%82%BF%E3%83%AB%E3%82%AE%E3%82%A2-%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89`
 * `I44`: jubeat ripples, jubeat ripples APPEND (2009, PC(855)-HDD), 乐动魔方(2010, PC(855)-HDD), 乐动魔方 2代(2011, PC(855/945)-HDD), 乐动魔方 全国对战版(2012, PC(855/945)-HDD)
@@ -1903,8 +1903,11 @@ unknown:
   - `GCJDX-JA`
   - `GKJDX`
   - `JDX JA A01`: ROM [945 PCB] 2010-01-19 0 `#WEB:https://www.youtube.com/watch?v=v8hDIq-C7i0`
-  - `JDX UA A01`: ROM [Optiplex 580 US/EU PCB] 2010-06-16 0 `#CLAIM:nova`
-* [`JDZ`: beatmania IIDX 18 Resort Anthem](software/JDZ.md) (2010, PC(B5(JPN/EXP)/C3(CHN))IO(C02/D01/USB2)-HDD)
+  - `JDX UA A01`: US/EU install disc / ROM [Optiplex 580 US/EU PCB] 2010-06-16 0 `#CLAIM:nova`
+  - `JDX UA B02`: US/EU application disc 1
+  - `JDX UA A03`: US/EU application disc 2
+  - `JDX UA A04`: US/EU application disc 3
+* [`JDZ`: beatmania IIDX 18 Resort Anthem / 狂热节拍IIDX / 狂热节拍IIDX2](software/JDZ.md) (2010, PC(B5(JPN/EXP)/C3(CHN))IO(C02/D01/USB2)-HDD)
   - [`GQJDZ-JA`: Dedicated cabinet](product/GQJDZ-JA.md)  `#WEB:https://manualzz.com/doc/4930749/%E3%83%93%E3%83%BC%E3%83%88%E3%83%9E%E3%83%8B%E3%82%A2-iidx-18-resort-anthem #WEB:https://a10.kpers.net/item/t729975937/`
   - `GCJDZ-JA`: conversion kit  `#WEB:https://aucview.aucfan.com/yahoo/l419231020/`
   - `GUJDZ-JB`: Resort Anthem LCD monitor  `#WEB:http://kururusky.com/?p=1458`
@@ -1962,7 +1965,7 @@ unknown:
   - `GQKBR-JA`  `#WEB:https://a10.kpers.net/item/x694046282/`
   - `GQKBR-JB`  `#WEB:https://www.mercari.com/jp/items/m38362663720/`
   - `KBR JA A01`: ROM 2010-10-06 0 `#WEB:https://twitpic.com/47s7ws`
-* `KC1`: Contra Evolution /  (PC(IPXPV)IO(P4IO-masking-as-HBHI)-HDD)  `#WEB:https://xyen.dev/blog/2021/05/contra-acio/ #MISC:oyakodon_oniku_list`
+* `KC1`: 魂斗罗 进化革命 / Contra Evolution (2011, PC(IPXPV)IO(P4IO-masking-as-HBHI)-HDD)  `#WEB:https://xyen.dev/blog/2021/05/contra-acio/ #MISC:oyakodon_oniku_list`
   - `GXKC1-CA`  `#WEB:https://www.ebay.com/itm/165087689068`
   - `KC1 CAA`  `#WEB:https://www.ebay.com/itm/164971011344`
   - `KC1 CA A01`: ROM 2011-01-18 0
@@ -1989,7 +1992,7 @@ unknown:
 * `KDX`: DanceDanceRevolution X3 VS 2ndMIX (2012, PC(945)-HDD)
   - `GEKDX-JA`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/h1049029583`
   - `KDX JA B01`: ROM 2011-11-05 `#WEB:https://www.youtube.com/watch?v=wjPiUSTnXXU`
-* [`KDZ`: beatmania IIDX 19 Lincle](software/KDZ.md) (2011, PC(B5(JPN/EXP)/C3(CHN))IO(C02/D01/USB2)-HDD)  `#MISC:oyakodon_oniku_list`
+* [`KDZ`: beatmania IIDX 19 Lincle](software/KDZ.md) (2011, PC(B5(JPN/EXP))IO(C02/D01/USB2)-HDD)  `#MISC:oyakodon_oniku_list`
   - `GEKDZ-JA`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/d1003782469`
   - `KDZ JA A01`: ROM 2011-03-24 0
 * `KFC`
@@ -1997,8 +2000,8 @@ unknown:
   - SOUND VOLTEX II -infinite infection- (2013, PC(945/HM65)IO(KFCA))
   - SOUND VOLTEX III GRAVITY WARS (2014, PC(945/HM65/76)IO(KFCA))
   - SOUND VOLTEX IV HEAVENLY HAVEN (2016, PC(945/HM65/76/ADE-6291)IO(KFCA))
-  - SOUND VOLTEX VIVID WAVE (2019, PC(X10SLQ)IO(BIO2-BI2A)
-  - SOUND VOLTEX EXCEED GEAR (2021, PC(X10SLQ)IO(BIO2-BI2A)
+  - SOUND VOLTEX VIVID WAVE (2019, PC(X10SLQ)IO(BIO2-BI2A))
+  - SOUND VOLTEX EXCEED GEAR (2021, PC(X10SLQ)IO(BIO2-BI2A))
   - `GQKFC-JA`: cabinet [945 PCB]  `#DOC:konami:116495120000 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/c900444229`
   - `GQKFC-JB`: cabinet [HM65 PCB]  `#DOC:konami:116495120000 #WEB:https://yahoo.aleado.com/lot?auctionID=370457464#enlargeimg`
   - `GQKFC-JC`: III GRAVITY WARS cabinet  `#DOC:konami:116245360000`
@@ -2263,12 +2266,12 @@ unknown:
   - `M65 ST A01 SA1`: unit
 * `M70`: アニマロッタ2 (2013)  `#MISC:oyakodon_oniku_list`
 * `MBR`
-  - REFLEC BEAT colette [from 2013051300] (2013, PC)
-  - REFLEC BEAT groovin'!! (2014, PC)
-  - REFLEC BEAT groovin'!! Upper (2014, PC)
-  - REFLEC BEAT VOLZZA (2015, PC)
-  - REFLEC BEAT VOLZZA 2 (2016, PC)
-  - REFLEC BEAT 悠久のリフレシア (2016, PC)
+  - REFLEC BEAT colette [from 2013051300] (2013, PC(HM65))
+  - REFLEC BEAT groovin'!! (2014, PC(HM65))
+  - REFLEC BEAT groovin'!! Upper (2014, PC(HM65))
+  - REFLEC BEAT VOLZZA (2015, PC(HM65))
+  - REFLEC BEAT VOLZZA 2 (2016, PC(HM65))
+  - REFLEC BEAT 悠久のリフレシア (2016, PC(HM65))
   - `GEMBR-JA`: Upgrade kit `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/k561509534`
   - `GQMBR-JA`: Dedicated cabinet
   - `MBR JA C01`: ROM 2012-10-27 0
@@ -2316,7 +2319,9 @@ unknown:
   - `CKMM1-JA`: Nyami, Mimi  `#WEB:https://www.mercari.com/jp/items/m51961404185/ #WEB:https://www.mercari.com/jp/items/m41800911037/`
   - `CKMM1-JB`: Ark, moimoi  `#WEB:https://www.mercari.com/jp/items/m75275623572/ #WEB:https://kaitoricollector.com/jisseki/card/%E3%83%9D%E3%83%83%E3%83%97%E3%83%B3%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%82%AB%E3%83%BC%E3%83%89-20-fantasia-%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0-%E3%82%AB%E3%83%BC%E3%83%89`
 * `MMA`: QUIZ MAGIC ACADEMY (2013, TW/HK) `#WEB:https://www.facebook.com/photo?fbid=678437688898075&set=pcb.678437755564735`
-* `MMD`: ミライダガッキ / FutureTomTom (2013), ミライダガッキ Ver.2 / FutureTomTom Ver.2 (2013)  `#CLAIM:shiz`
+* `MMD` `#CLAIM:shiz`
+  - ミライダガッキ / FutureTomTom (2013, PC(E1))
+  - ミライダガッキ Ver.2 / FutureTomTom Ver.2 (2013, PC(E1))
   - `GQMMD-JA`: cabinet
   - `MMD JA A01`: ROM 2013-05-29 0
 * `MX8`: フォーチュントリニティ2  `#SCRAPE:konami:eagate`
