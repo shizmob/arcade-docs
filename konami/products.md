@@ -2032,7 +2032,12 @@ unknown:
   - Steel Chronicle VICTROOPERS (2013, PC(C13/E1))  `#SCRAPE:konami:eagate #MISC:oyakodon_oniku_list`
   - `GQKGG-JA`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/1004281047 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/v805032445`
   - `GQKGG-JB`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/v805032445`
-  - `KGG JB A01`: ROM [E1 PCB] 2012-10-09 0 `#WEB:https://twitter.com/Yamassi8010/status/1147485130119716869/photo/2`
+  - `KGG JA A01`: System disc [C13 PCB] `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1071213722`
+  - `KGG JB A01`: System disc [E1 PCB] / ROM [E1 PCB] 2012-10-09 0 `#WEB:https://twitter.com/Yamassi8010/status/1147485130119716869/photo/2`
+  - `KGG JA A02`: Steel Chronicle application disc 1 [C13 PCB] `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1071213722`
+  - `KGG JA A03`: Steel Chronicle application disc 2 [C13 PCB] `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1071213722`
+  - `KGG JA Y02`: Be XROSS ARMS application disc 1 [C13/E1 PCB]
+  - `KGG JA Y03`: Be XROSS ARMS application disc 2 [C13/E1 PCB]
 * `KGL`: GOLF CONNECTION  `#SCRAPE:konami:eagate`
 * `KMA`: Quiz Magic Academy 8 (2011, PC(C3)IO(USB1/USB2)-HDD)  `#SCRAPE:konami:eagate #MISC:oyakodon_oniku_list #WEB:https://manualzz.com/doc/4876734/%E3%82%AF%E3%82%A4%E3%82%BA%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%BC8-%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC%E3%83%A6%E3%83%8B%E3%83%83%E3%83%88-%E5%8A%B9%E6%9E%9C%E7%9A%84%E3%81%AA`
   - `GEKMA-JB`: client unit conversion kit
