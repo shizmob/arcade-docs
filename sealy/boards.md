@@ -46,7 +46,7 @@ Lenovo E580S (With Intel Celeron processors ?) variations exists, but some claim
 
 **RAM:** 2GB, DDR3-800?
 
-**SSD:** Sharetronic DOM disk, SATA, 1GB / 4GB (other variations may exist)
+**SSD:** Sharetronic DOM disk, SATA, 1GB / Soliware Storage Technology DOM Disk, 4GB (other variations may exist)
 
 **OS:** Windows XP Professional, likely pirated / Windows Embedded Standard 2009, licensing status unknown
 
