@@ -1321,6 +1321,7 @@ unknown:
   - `GCC01-JB`: beatmania THE FINAL ミニタオル/mini type conversion kit
   - `GCC01-JC`: beatmania III THE FINAL conversion kit
   - `C01 JC A01`: beatmania III THE FINAL CD-ROM  `#WEB:https://twitter.com/playhouse_erina/status/953570028745506816/photo/1`
+  - `C01 JA A11`: beatmania III THE FINAL HDD `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/b1045852627`
 * [`C02`: beatmania IIDX 9th Style](software/C02.md) (2003, PC(KNM-845G3-A02)IO(C02)-HDD)  `#MISC:oyakodon_oniku_list`
   - [`GEC02-JA`: Hardware conversion kit](product/GEC02-JA.md)
   - [`GEC02-JB`: Hardware conversion kit](product/GEC02-JB.md)
@@ -1509,6 +1510,9 @@ unknown:
 * `E77`: プレシャスパーティー / Precious Party (2006)  `#MISC:oyakodon_oniku_list #WEB:https://manualzz.com/doc/4905761/%E3%83%97%E3%83%AC%E3%82%B7%E3%83%A3%E3%82%B9%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%EF%BC%88%E3%83%A1%E3%82%A4%E3%83%B3%E3%81%AE%E3%81%BF%EF%BC%89`
   - `GSE77`
 * `E99`: ビシバシチャンプオンライン 〜笑撃の全国対戦!?〜 / Bishi Bashi Champ Online (2005, PC(EPIA-5000)IO(USB1)-HDD)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/p1004650716 #MISC:oyakodon_oniku_list`
+  - `E99 JA A01`: system disc [CD-ROM] `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/s1064302244`
+  - `E99 JA A02`: application disc [CD-ROM] `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/s1064302244`
+  - `E99 JA C02`: application disc [CD-ROM] `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/s1064302244`
 * [`ECO`: beatmania IIDX 12 HAPPY SKY](software/ECO.md) (2005, PC(KNM-845G3-A12)IO(C02/D01)-HDD)  `#MISC:oyakodon_oniku_list`
   - [`GQECO-JA`: Dedicated cabinet](product/GQECO-JA.md)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/m1017417120`
   - `GCECO-JA`
@@ -1550,6 +1554,8 @@ unknown:
 * `F24`: 投球王国GASHAAAAN (2006, PC(A3))   `#MISC:oyakodon_oniku_list`
   - `GLF24-HA`
   - `GLF24-JA`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/549695347`
+  - `F24 JA A01`: system disc [CD-ROM] `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/o1058114981`
+  - `F24 JA A02`: application disc [CD-ROM] `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/o1058114981`
 * `F27`: ベースボールヒーローズ / Baseball Heroes  `#MISC:oyakodon_oniku_list #WEB:https://aucview.com/yahoo/n498111022/`
   - `GUF27-JF`: booster pack Vol.1.75 [200P]
 * `F32`: DrumMania V3 (2006, PYTHON2-HDD)  `#MISC:oyakodon_oniku_list`
@@ -1677,7 +1683,12 @@ unknown:
   - `GNGHL-JA`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/d1065857267 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/o1064442704`
   - `GKGHL-EA`  `#DOC:konami:?`
   - `GHL JA A01`: system disc
+  - `GHL AA A01`: system disc `#WEB:https://www.facebook.com/jamesgamecenter/photos/a.489022501209842/3501866689925393/`
+  - `GHL JA B02`: application disc 1
+  - `GHL JA B03`: application disc 2
   - `GHL JA B04`: application disc 3
+  - `GHL JA B05`: application disc 4
+  - `GHL AA B06`: application disc 5 `#WEB:https://www.facebook.com/jamesgamecenter/photos/a.489022501209842/3501866689925393/`
 * `GK9`: 麻雀格闘倶楽部6 / Mahjong Fight Club 6 (2007, PC(RICOH)-HDD)  `#MISC:oyakodon_oniku_list`
   - `GUGK9-JB`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/1002417225`
   - `GEGK9-JB`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/k1002469035`
@@ -1728,6 +1739,7 @@ unknown:
 * `H53`: 悪魔城ドラキュラ THE MEDAL (2008, PC-MEDAL(B6))  `#MISC:oyakodon_oniku_list`
 * `H65`: エターナルナイツ2 〜封印の聖石〜 / Eternal Knights 2: Stolen Seal (2008, PC-MEDAL(B3/B9)) `#DATA:http://file.4gamer.net/demo/ek2_setup.exe`
   - `GSH65-JBA`  `#WEB:https://twitter.com/oyakodon_oniku/status/1497166268386123780`
+  - `GCH65-JB` `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/c1073866522`
 * `H79`: メテオスパーク (2008)  `#MISC:oyakodon_oniku_list`
 * `HAL`: Quiz Magic Academy 5 (2008, PC(A6)IO(USB1/USB2)-HDD)  `#MISC:oyakodon_oniku_list #WEB:https://aucview.aucfan.com/yahoo/468385003`
   - `HAL JA A01`: system disc (client center monitor)
@@ -1742,7 +1754,7 @@ unknown:
   - [`GQHDD-JA`: Dedicated cabinet](product/GQHDD-JA.md)  `#WEB:https://twitter.com/karinatsalut/status/1457247855404486656`
   - [`GUHDD-JB`: LCD monitor](product/GUHDD-JB.md)  `#WEB:http://kururusky.com/?p=1458`
   - `GQHDD-AA`: `#WEB:https://twitter.com/kururusky/status/1175652027067535360/photo/1`
-* `HDT`: 遊戯王ファイブディーズ デュエルターミナル シンクロ覚醒!! soft(ID1)? (2008, PC-YUGIOU)  `#MISC:oyakodon_oniku_list`
+* `HDT`: 遊戯王ファイブディーズ デュエルターミナル シンクロ覚醒!! soft(ID1)? (2008, PC-YUGIOU(855))  `#MISC:oyakodon_oniku_list`
 * `HDX`: DanceDanceRevolution X (2008, PC(945/Optiplex740))
   - `GQHDX-JA`  `#WEB:https://a12.kpers.net/item/w389308473/`
   - `GKHDX`
@@ -1826,10 +1838,11 @@ unknown:
   - 遊戯王ファイブディーズ デュエルターミナル 疾風のドラグニティ!! (2009, PC-YUGIOU(855))  `#MISC:oyakodon_oniku_list`
   - `GCID5-JA`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/f524010900`
 * `IG2`: ガシャーンおかわり (2009, PC(A3))  `#MISC:oyakodon_oniku_list #WEB:https://page.auctions.yahoo.co.jp/jp/auction/b572447085`
+  - `GCIG2-JA` `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/w1064169305`
   - `GLIG2-JA`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/m1055346788`
-  - `IG2 JA A01`: system disc / ROM 2009-01-13 0
-  - `IG2 JA A02`: application disc 2
-  - `IG2 JA A03`: application disc 3
+  - `IG2 JA A01`: system disc [CD-ROM] / ROM 2009-01-13 0 `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/r1058104983`
+  - `IG2 JA A02`: application disc 2 [CD-ROM] `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/r1058104983`
+  - `IG2 JA A03`: application disc 3 [CD-ROM] `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/r1058104983`
 * `IK9`: 麻雀格闘倶楽部 我龍転生 (2009, PC(RICOH)-HDD)  `#MISC:oyakodon_oniku_list`
   - `GCIK9-JB`  `#WEB:https://a16.kpers.net/item/r403774134/`
   - `GCIK9-JP`  `#WEB:https://cdn.discordapp.com/attachments/261906360776654858/953868178545577994/received_464722335437227.jpeg`
@@ -1852,9 +1865,10 @@ unknown:
   - `ISF [BLUE]`: blue [roundplug dongle](dongle.md#roundplug)
   - `ISF [PINK]`: pink [roundplug dongle](dongle.md#roundplug)  `#WEB:https://jp.mercari.com/item/m68517668776`
 * `IWA`: GI-Turf TV (2010, PC(C1)) `#MISC:oyakodon_oniku_list`
-* `IX8`: フォーチュントリニティ / FORTUNE TRINITY (2010)  `#MISC:oyakodon_oniku_list #WEB:https://jp.mercari.com/item/m88202874420 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/h546985230`
+* `IX8`: フォーチュントリニティ / FORTUNE TRINITY (2010, PC-MEDAL(C1))  `#MISC:oyakodon_oniku_list #WEB:https://jp.mercari.com/item/m88202874420 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/h546985230`
   - `GSIX8-JA`
   - `GSIX8 PWB(A2)113179670000`
+  - `IX8 SPC B01` `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/g1036031101`
 * `J18`: ベースボールヒーローズ 2009 / Baseball Heroes 2009 (2009) booster pack `#WEB:https://jp.mercari.com/item/m48377137211`
   - `GUJ18-JA`: booster pack vol.5.0 [200P]  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/1058808123`
   - `GUJ18-JE`: booster pack vol.5.5 [200P]  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1058806214`
@@ -1899,6 +1913,9 @@ unknown:
   - 遊戯王 デュエルターミナル エクシーズ始動!! (2011, PC-YUGIOU)  `#MISC:oyakodon_oniku_list`
   - 遊戯王 デュエルターミナル 星の騎士団 セイクリッド!! (2011, PC-YUGIOU)  `#MISC:oyakodon_oniku_list`
   - 遊戯王 デュエルターミナル 破滅の邪龍 ウロボロス!! (2012, PC-YUGIOU)  `#MISC:oyakodon_oniku_list`
+  - `CG1257 A01`: エクシーズ始動 application disc 1 [DVD-ROM] `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/j1068276899`
+  - `CG1257 A02`: エクシーズ始動 application disc 2 [DVD-ROM] `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/j1068276899`
+  - `CG1257 A03`: エクシーズ始動 application disc 3 [DVD-ROM] `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/j1068276899`
 * `JDX`: DanceDanceRevolution X2 (2010, PC(945/Optiplex580)-HDD)  `#CLAIM:shiz`
   - `GCJDX-JA`
   - `GKJDX`
@@ -2032,12 +2049,12 @@ unknown:
   - Steel Chronicle VICTROOPERS (2013, PC(C13/E1))  `#SCRAPE:konami:eagate #MISC:oyakodon_oniku_list`
   - `GQKGG-JA`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/1004281047 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/v805032445`
   - `GQKGG-JB`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/v805032445`
-  - `KGG JA A01`: System disc [C13 PCB] `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1071213722`
-  - `KGG JB A01`: System disc [E1 PCB] / ROM [E1 PCB] 2012-10-09 0 `#WEB:https://twitter.com/Yamassi8010/status/1147485130119716869/photo/2`
-  - `KGG JA A02`: Steel Chronicle application disc 1 [C13 PCB] `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1071213722`
-  - `KGG JA A03`: Steel Chronicle application disc 2 [C13 PCB] `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1071213722`
-  - `KGG JA Y02`: Be XROSS ARMS application disc 1 [C13/E1 PCB]
-  - `KGG JA Y03`: Be XROSS ARMS application disc 2 [C13/E1 PCB]
+  - `KGG JA A01`: System disc [C13 PCB] [CD-ROM] `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1071213722`
+  - `KGG JB A01`: System disc [E1 PCB] [DVD-ROM] / ROM [E1 PCB] 2012-10-09 0 `#WEB:https://twitter.com/Yamassi8010/status/1147485130119716869/photo/2`
+  - `KGG JA A02`: Steel Chronicle application disc 1 [C13 PCB] [DVD-ROM] `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1071213722`
+  - `KGG JA A03`: Steel Chronicle application disc 2 [C13 PCB] [DVD-ROM] `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1071213722`
+  - `KGG JA Y02`: Be XROSS ARMS application disc 1 [C13/E1 PCB] [DVD-ROM]
+  - `KGG JA Y03`: Be XROSS ARMS application disc 2 [C13/E1 PCB] [DVD-ROM]
 * `KGL`: GOLF CONNECTION  `#SCRAPE:konami:eagate`
 * `KMA`: Quiz Magic Academy 8 (2011, PC(C3)IO(USB1/USB2)-HDD)  `#SCRAPE:konami:eagate #MISC:oyakodon_oniku_list #WEB:https://manualzz.com/doc/4876734/%E3%82%AF%E3%82%A4%E3%82%BA%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%BC8-%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC%E3%83%A6%E3%83%8B%E3%83%83%E3%83%88-%E5%8A%B9%E6%9E%9C%E7%9A%84%E3%81%AA`
   - `GEKMA-JB`: client unit conversion kit
@@ -2059,8 +2076,12 @@ unknown:
   - `GEKK9-JC`: A model client unit starter kit  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/l633265994`
   - `GUKK9-JF`: live monitor  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/j688753850`
   - `KK9 JA A01`: center unit system disc [CD-ROM]  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/e1010714285`
+  - `KK9 JA B01`: center unit system disc [CD-ROM] `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/v1060310661`
+  - `KK9 JA A02`: center unit application disc [DVD-ROM] `#WEB: https://page.auctions.yahoo.co.jp/jp/auction/u1065108455`
+  - `KK9 JA H02`: center unit application disc [DVD-ROM] `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/v1060310661`
   - `KK9JBA01`: ROM 2010-08-16 0
-  - `KK9JBB01`: ROM 2013-10-15 0
+  - `KK9 JB B01`: client unit system disc [CD-ROM] / ROM 2013-10-15 0 `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/g1060313952`
+  - `KK9 JB R02`: client unit application disc [DVD-ROM] `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/g1060313952`
 * `KLP`: ラブプラス アーケード カラフル Clip (2011, PC(C3)IO(KLPA))  `#MISC:oyakodon_oniku_list #WEB:https://manualzz.com/doc/4914393/%E3%83%A9%E3%83%96%E3%83%97%E3%83%A9%E3%82%B9-%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89-%E3%82%AB%E3%83%A9%E3%83%95%E3%83%ABclip`
   - `GQKLP`
 * `KPM`: ラブプラス MEDAL Happy Daily Life (2011, PC(945)-HDD)  `#MISC:oyakodon_oniku_list #WEB:https://page.auctions.yahoo.co.jp/jp/auction/m1046050581`
@@ -2329,7 +2350,7 @@ unknown:
   - ミライダガッキ Ver.2 / FutureTomTom Ver.2 (2013, PC(E1))
   - `GQMMD-JA`: cabinet
   - `MMD JA A01`: ROM 2013-05-29 0
-* `MX8`: フォーチュントリニティ2  `#SCRAPE:konami:eagate`
+* `MX8`: フォーチュントリニティ2 / Fortune Trinity 2 (PC-MEDAL(C1))  `#SCRAPE:konami:eagate`
   - `GEMX8`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1040542239`
   - `MX8 (STATION)`: dongle  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/h1059590647`
 * `MPM`: パニックパイレーツ (2007)  `#MISC:oyakodon_oniku_list #WEB:https://page.auctions.yahoo.co.jp/jp/auction/m1046050581`
