@@ -526,8 +526,8 @@ Also known as: "ITHM65", "ITHM65_E4690".  `#DOC:KONAMI:116245360000`
 **IO:** \[LDJ\] [USB I/O 2](io.md#usbio2)  
 **IO:** \[M39\] [USB I/O 2](io.md#usbio2)  
 **IO:** \[M32/M33/MDX\] [P4IO](io.md#p4io)  
-**OS:** Windows XP Embedded (SP2) [LDJ] [MBR] [MDX], Windows XP Embedded (SP3) [L44] [LMM] [NBF], Windows Embedded 7 Standard (SP1) [PAN] [M32] [M33] [NBT]
-**Games:** KFC, L44, [LDJ](software/LDJ.md), M32, M33, M39, MBR, MDX, NBF, NBT, PAN, LPH, NSM, LMM
+**OS:** Windows XP Embedded (SP2) [LDJ] [MBR] [MDX], Windows XP Embedded (SP3) [L44] [LMM] [NBF], Windows Embedded 7 Standard (SP1) [PAN] [M32] [M33] [NBT]  
+**Games:** KFC, L44, [LDJ](software/LDJ.md), M32, M33, M39, MBR, MDX, NBF, NBT, PAN, LPH, NSM, LMM  
 **BIOS:** AMIBIOS
 
 ### 76
@@ -667,7 +667,7 @@ Also known as: "ADE".
 **IO:** [BIO2(BI2A)](io.md#bio2)  
 **Games:** KFC (VW), QBG, RBC, MDX  
 **PSU:** Supermicro PWS-404-PQ (400W) [MDX] `#WEB:https://twitter.com/iMp95/status/1608406532705902597`  
-**BIOS:** AMIBIOS Aptio 2.15.1236 (Supermicro X10SLQ BIOS Date:01/20/2017 Rev:2.2a for KAM 09/13/2017)
+**BIOS:** AMIBIOS Aptio 2.15.1236 (Supermicro X10SLQ BIOS Date:01/20/2017 Rev:2.2a for KAM 09/13/2017)  
 **OS:** Windows Embedded Standard 7 (SP1)  
 
 ## ARESPEAR
