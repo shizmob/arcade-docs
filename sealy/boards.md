@@ -54,6 +54,13 @@ Lenovo E580S (With Intel Celeron processors ?) variations exists, but some claim
 * RNG module, bolted on the lid of the case, wired to the serial port on the motherboard with ribbon cable. 4pin IDE power input. Not presented in all games.
 * Security/IO module ?, a PCI card with a Xilinx Spartan FPGA and HY-04 (unknown DIP8, ASIC/rebadged) (security coprocessor ?) on it, identified as `SealyPCI_XI` device by the OS
 
+Currently found models of security module:
+* sealy101102-BYJX-V1.2 (Serial port populated or unpopulated)
+* sealy110802-BYJX32-V1.0 (No serial port, No HY-04, may exist a variation with analog outputs ?)
+* sealy110803-BYJX16-V2.0 (Serial port unpopulated)
+
+It's unknown whether the security modules are interchangable.
+
 **Known Games:**
 * Tens, if not more than a hundred kinds of lazy assets swapped slots/fishing tables
 * Let's Beat (炫次方) (Jubeat ripoff)
