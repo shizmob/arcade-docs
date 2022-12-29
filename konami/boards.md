@@ -654,11 +654,11 @@ Also known as: "ADE".
 
 **MBD:** Supermicro X10SLQ  
 **STH:** Intel Q87  
-**CPU:** Intel Core i3-4330 (3.5GHz) [QBG] [KFC] 
+**CPU:** Intel Core i3-4330 (3.5GHz) [QBG] [KFC]  
 **CPU:** Intel Core i5-4590S (3.0GHz) [RBC] [MDX] `#WEB:https://twitter.com/iMp95/status/1608406532705902597`  
 **RAM:** 2 x Innodisk DDR3L-1600 4GB (M3UT-4GMSBLPC-P) [KFC] [MDX] `#WEB:https://twitter.com/iMp95/status/1608406532705902597`  
-**RAM:** 2 x Innodisk DDR3-1600 4GB (M3UW-4GSSBC0C-E) [RBC]
-**GPU:** GIGABYTE GV-N1050D5-2GD (Nvidia GeForce GTX 1050) 
+**RAM:** 2 x Innodisk DDR3-1600 4GB (M3UW-4GSSBC0C-E) [RBC]  
+**GPU:** GIGABYTE GV-N1050D5-2GD (Nvidia GeForce GTX 1050) [QBG] [KFC] [RBC]  
 **GPU:** GIGABYTE GV-N1650IXOC-4GD (Nvidia GeForce GTX 1650) [QBG] (Replacement)  
 **GPU:** Intel HD Graphics 4600 (1.25GHz) [MDX] `#WEB:https://twitter.com/iMp95/status/1608406532705902597`  
 **HDD:** WDC WD3200LPCX (320GB) [KFC]  
@@ -666,6 +666,7 @@ Also known as: "ADE".
 **SND:** Realtek ALC888S  
 **IO:** [BIO2(BI2A)](io.md#bio2)  
 **Games:** KFC (VW), QBG, RBC, MDX  
+**PSU:** Supermicro PWS-404-PQ (400W) [MDX] `#WEB:https://twitter.com/iMp95/status/1608406532705902597`  
 **BIOS:** AMIBIOS Aptio 2.15.1236 (Supermicro X10SLQ BIOS Date:01/20/2017 Rev:2.2a for KAM 09/13/2017)
 **OS:** Windows Embedded Standard 7 (SP1)  
 
