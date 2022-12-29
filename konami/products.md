@@ -2004,6 +2004,7 @@ unknown:
   - `GQKDM-HA`: cabinet (Hong Kong, running A-region software)  `#WEB:https://zh.wikipedia.org/wiki/%E8%88%9E%E8%B9%88%E8%BF%9B%E5%8C%96#%E4%BA%9E%E6%B4%B2%E5%8D%80Dance_Evolution_Arcade`
   - `GKKDM-CA`: cabinet (China, made by UNIS, roundplug dongles)  `#MEDIA:konami/GKKDM-CA-dongles.jpg`
   - `KDM JA I01`: ROM 2013-08-21 0 `#WEB:https://www.youtube.com/watch?v=JnBtW43cP4c`
+  - `KDM JA N01`: ROM 2014-07-29 0 `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/o1076895507`
   - `KDM JA R01`: ROM 2015-02-23 0
   - `KDM CA A01`: ROM 2012-12-12 0
 * `KDX`: DanceDanceRevolution X3 VS 2ndMIX (2012, PC(945)-HDD)
@@ -2308,9 +2309,10 @@ unknown:
   - DanceDanceRevolution A (2016, PC(945/HM65/ADE))
   - DanceDanceRevolution A20 (2019, PC(945/HM65/ADE))
   - DanceDanceRevolution A20 PLUS (2020, PC(945/HM65/ADE))
-  - DanceDanceRevolution A3 (2022, PC(945/HM65/ADE))
+  - DanceDanceRevolution A3 (2022, PC(945/HM65/ADE/X10SLQ))
   - `GQMDX-JA`: white cab  `#DOC:konami:115324120000`
-  - `GQMDX-JG`: 20th anniversary model  `#DOC:konami:117039820000`
+  - `GQMDX-JG`: 20th anniversary model [ADE-6291 PCB]  `#DOC:konami:117039820000`
+  - `GQMDX-JH`: 20th anniversary model [X10SLQ PCB]
   - `GQMDX-UD`: white cab  `#DOC:konami:116558660000 #WEB:https://twitter.com/bemanistyle/status/750842725247819776`
   - `GKMDX-AC`: white cab [Uniana, side sticker]  `#WEB:https://twitter.com/uhaj/status/699440324356104194`
   - `GKMDX-AE`: white cab [Uniana]  `#WEB:https://twitter.com/uhaj/status/1018022862332952576 #WEB:https://twitter.com/uhaj/status/937146175618146304 #WEB:https://twitter.com/uhaj/status/1018376405694869504`
@@ -2339,6 +2341,7 @@ unknown:
   - `MDX UG AC01`: ROM [ADE6291, P4IO, Win7]  2017-12-06 0
   - `MDX UG AK01`: ROM [ADE6291, P4IO, Win7] 2019-09-02 0 `#WEB: https://mobile.twitter.com/DDR_MARTEN/status/1593683815414861827`
   - `MDX UG AL01`: ROM [ADE6291, P4IO, Win7]  2019-12-03 0
+  - `MDX JH BA01`: ROM [X10SLQ, BIO2, Win7] 2022-11-29 1 `#WEB:https://twitter.com/iMp95/status/1608406532705902597`
 * `MKD`: ドラゴンコレクション (2013, PC)  `#MISC:oyakodon_oniku_list #WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1045922766`
   - `GQMKD-JA`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/j728750629`
 * `MM1`: ポップンミュージックカードCollection Album
