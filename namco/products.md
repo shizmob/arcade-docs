@@ -23,7 +23,6 @@
 ??? - Sea Story Lucky Marine Tours
 ??? - Sea Story in Okinawa: Ukiuki vacation
 ??? - SHOOT AWAY PRO
-??? - Sword Art Online Arcade
 ??? - Yujo Sochaku! Butt Burst
 
 5GP - 500 GP
@@ -236,6 +235,7 @@ S09 - Taiko no Tatsujin Yellow?
 S10 - Taiko no Tatsujin Blue
 S11 - Taiko no Tatsujin Green  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/e1012213276
 S12 - Taiko no Tatsujin (2020)
+SAO - Sword Art Online Arcade
 SAS - シュータウェイ2 / Shooter Way 2  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/l1023777305
 SB  - Souko Ban Deluxe / Boxy Boy
 SC  - Super World Court  #MAME:namcona1
@@ -248,6 +248,7 @@ SG  - Winning Run Suzuka Grand Prix
 SGR - ?  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/t802818945
 SH  - Splatter House  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/h548583253
 SK  - Sky Kid Deluxe
+SK2 - Mobile Suit Gundam Bonds of the Battlefield II
 SKH - Sekai Kaseki Hakken
 SN  - Steel Gunner
 SNS - Steel Gunner 2
@@ -331,6 +332,7 @@ W3P - Wangan Midnight Maximum Tune 3DX+
 W5X - Wangan Midnight Maximum Tune 5DX
 W5P - Wangan Midnight Maximum Tune 5DX+
 W6R - Wangan Midnight Maximum Tune 6R
+W6W - Wangan Midnight Maximum Tune 6RR
 W9  - Pro Yakyuu World Stadium '89
 WC  - Pro Tennis World Court
 WD  - Legend of the Valkyrie
@@ -480,7 +482,7 @@ V386 - Wangan Midnight Maximum Tune 3DX+
 V387 - Pac-Man Battle Royale
 V388 - Wangan Midnight Maximum Tune 4
 V389 - Dead Heat
-V402 -
+V402 - Taiko no Tatsujin (Kimidori?)
 V403 - 機動戦士ガンダム 戦場の絆 REV.4.x
 V405 - Maximum Heat
 V406 - Time Crisis 5?
