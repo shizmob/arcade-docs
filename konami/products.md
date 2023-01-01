@@ -1706,6 +1706,7 @@ unknown:
 * `GPB`: スピンフィーバー / Spin Fever (2007, PC-HDD)   `#MISC:oyakodon_oniku_list #WEB:https://page.auctions.yahoo.co.jp/jp/auction/f1005757296 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/m1007089335 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/t1009880988`
   - `GPB PC B01`: RECOVERY DISC  `#WEB:https://aucview.aucfan.com/yahoo/b505999876`
   - `GSGPB`: cabinet  `#WEB:https://jp.mercari.com/item/m40597968749 #WEB:https://aucview.aucfan.com/yahoo/o305306478 #WEB:https://www.zax.com.au/buy/spin-fever-2/SPIN_FEVER_2`
+* `GTX`: MOTOR X (2008, PC-MEDAL) `#WEB:https://www.konami.com/amusement/medal/motorx/`
 * `H16`: ポップンミュージック 16 PARTY♪ / pop'n music 16 PARTY♪ (2008, PC(855)IO(USB2)-HDD)  `#MISC:oyakodon_oniku_list #WEB:https://page.auctions.yahoo.co.jp/jp/auction/n531776358`
   - `GQH16-JA`: Type B/C/D? cabinet  `#DOC:konami:113204880000 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/b538799561`
   - `GCH16-JA`: Type A cabinet conversion kit  `#DOC:konami:113707830000 #DOC:konami:113204880000 #WEB:https://aucview.aucfan.com/yahoo/g371622212`
