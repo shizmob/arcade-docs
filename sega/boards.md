@@ -330,7 +330,7 @@ SEGA parts are referred to using a [proprietary format](identifiers.md#part-numb
         MBD: Gigabyte MCH31AM-S2
         CPU: Intel Core i5-8500
         RAM: 2x Innodisk M4UI-8GS1JC0K-C1OSG [8GB, DDR4-2666]
-        GPU: Nvidia GeForce GTX 1060 [MX2]
+        GPU: Nvidia GeForce GTX 1060 (N1060-MOFX-RA) [MX2] `#WEB:https://twitter.com/hirayu0611/status/1604344689078849536`
              Nvidia GeForce GTX 1660Ti [MX2.1]
         SSD: TDK GBDisk GS1 120GB [MDA-E0023]
         HDD: ??? [849-1006, 849-1010]
