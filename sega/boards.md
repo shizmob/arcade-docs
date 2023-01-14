@@ -296,7 +296,7 @@ SEGA parts are referred to using a [proprietary format](identifiers.md#part-numb
         SSD: TDK GBDisk GS1 120GB [MDA-E0017]
         SND: Realtek ALC888S
         OS: Windows 10 IoT LTSB 2016
-        PSU: ???
+        PSU: Seasonic SS-400ET
 
   * ALLS UX2                      (ACAE, JP, 849-1001?)
   * ALLS UX2 (with sub-storage)   (ACAE, JP, 849-1002?)
