@@ -158,6 +158,7 @@ Has two variants:
 * Speed Rider 2
 * Power Truck
 * Power Truck Special
+* Music GunGun CHN (Taito, identifier `MGG M-100CN`)
 
 ### E3100
 **Motherboard:** Advantech EBC-TA17, marked as iTS I-JOIN E3100  
