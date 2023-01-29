@@ -1,17 +1,21 @@
 # PC-Based
 
-## Q45DV
+## ACTION-WC100
+(name tentative from sticker on PC board)  
+
 **MBD:** Avalue ACP-Q45DV  
 **STH:** Intel Q45  
-**CPU:** Intel Core 2 Duo E7400 (2.80GHz)  
-**GPU:** GeForce GTS 450 Rev.2 (GF116)  
+**CPU:** Intel Core 2 Duo E7400 (2.80GHz) [G-Spirit Tennis]  
+**GPU:** MSI GeForce GTS 450 (N450GTS-MD1GD5) (1 GB)  
 **SSD:** InnoDisk InnoLite II 1.8 SATA SSD (16 GB?)  
-**RAM:** 2 GB DDR2-800 (single-channel)  
+**RAM:** 2 GB DDR2-800 (single-channel) [G-Spirit Tennis]  
 **SND:** Realtek ALC888  
 **OS:** Windows Embedded Standard 2009  
-**Games:** G-Spirit Tennis  
+**Games:** G-Spirit Tennis, Storm Racer  
 
-## AIMB-501
+## Advantech IPC-WL001-G860
+(name tentative from game's manual)
+
 **MBD:** Advantech AIMB-501  
 **STH:** Intel H61  
 **CPU:** Intel Pentium G840 (2.80GHz)  
