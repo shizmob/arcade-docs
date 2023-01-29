@@ -48,12 +48,18 @@ Despite using Intel processors, PGM3 is not a PC/AT compatible system.
 # PC-Based
 
 ## pre E-Series
-### IGS Osprey
+### IGS Osprey `#MAME:igspc.cpp`
 (name tentative; name is found on the motherboard's BIOS as a string)
 
 **CPU:** Geode GX 533 (400 MHz)
 
-**Games:** EZTouch 2007
+**Games:** EZTouch 2006? (China), EZTouch 2005
+
+**SND:** Realtek (AC'97)
+
+**OS:** Red Hat Linux (32-bit, using Linux kernel 2.4.24)
+
+**Note:** Osprey is the codename for the AMD Geode GX DB533 developmental board in which this board is mostly based off.
 
 ## E-series
 ### E1000
@@ -74,14 +80,21 @@ Despite using Intel processors, PGM3 is not a PC/AT compatible system.
 **OS:** Linux, likely LFS
 
 **Games:**
-* Percussion Master [PM1] [M-200 NC]
+* Percussion Master [M-200 NC]
+* Percussion Master Plus
+* Percussion Master 2
+* Rock Fever 5
 
 ### E2000
-**Motherboard:** I-JOIN E2000-C6-V256
+**Motherboard:** I-JOIN E2000
 
-**CPU:** Intel Celeron M (600MHz, SL8FN)
+There are two variants:
+* E2000-C6-V256: Has Celeron M 600MHz onboard
+* E2000-V256: Has a more powerful CPU (unknown at the moment) as well as a heatsink on the CPU
 
-**GPU:** Nvidia GeForce 6200 (AGP)
+**CPU:** Intel Celeron M (600MHz, SL8FN) [E2000-C6-V256]
+
+**GPU:** Nvidia GeForce 6200 (AGP) [E2000-C6-V256]
 
 **Chipset:** Intel 852GME
 
@@ -89,14 +102,20 @@ Despite using Intel processors, PGM3 is not a PC/AT compatible system.
 
 **SND:** Realtek AC'97
 
-**OS:** Linux, likely LFS
+**OS:** LFS Linux (kernel 2.4.31)
 
 **Games:**
-* Rock Fever 5
-* Speed Rider
-* We Dancing Online
-* Panda Family
-* Vibraphone (铁琴: 第一乐章) `#WEB: https://mobile.twitter.com/tababodash/status/1590232697913643008`                                      
+```
+    E2000-C6-V256   - Panda Family
+                    - Rock Fever 5 (replacement/newer PCB) [M-102 CN]
+                    - Percussion Master Plus (replacement/newer PCB)
+    E2000-C6-V256   - Percussion Master 2008 (replacement/newer PCB) [M-202 CN]
+                    - We Dancing Online
+    E2000-V256      - We Dancing Online 2 Plus
+                    - Speed Rider [SR] [M-109 CNC] [M-100 FA]
+    E2000-V256      - Speed Driver 2
+                    - Vibraphone (铁琴: 第一乐章)
+```
 
 ### E2100
 **Motherboard:** Advantech DES-BT01
@@ -111,10 +130,11 @@ Despite using Intel processors, PGM3 is not a PC/AT compatible system.
 
 **Storage:** CompactFlash cards
 
-**OS:** Linux, likely LFS
+**OS:** LFS Linux (kernel 2.6.32.8)
 
 **Games:**
 * Hero of Robots
+* Demon Hunter
 * Fish Lagoon
 * Harpoon Lagoon (ICE)
 
@@ -128,15 +148,17 @@ Has two variants:
 
 **CPU:** Intel Atom D525 @ 1.83GHz
 
+**GPU:** Nvidia GeForce (GT218-based, similar to Nvidia ION)
+
 **Storage:** CompactFlash cards
 
-**OS:** Linux, likely LFS
+**OS:** LFS Linux (kernel 2.6.32.8)
 
 **Games:**
-* Percussion Masters 3
+* Percussion Master 3
 
 ### E3000
-**Motherboard:** IGS LX MB E3000V (08M1-04E3000) (manufacturer unknown)
+**Motherboard:** Pegatron E3000V (08M1-04E3000)
 
 **BIOS:** AMI BIOS 8, more similar to regular ones [BIOS Date: 02/23/11 16:45:13 Ver: V11.0.0] (64-0100-000001-00101111-022311-ATHLON64-E3K_X001-Y2KC)
 
@@ -150,15 +172,16 @@ Has two variants:
 
 **Storage:** SanDisk U100 SSD (16 GB)
 
-**OS:** Linux, likely LFS
+**OS:** LFS Linux (kernel 2.6.32.8) / either Windows XPe or Embedded Standard 2009 [Music Gun Gun]
 
 **Games:**
+* Speed Driver 3
 * Speed Driver 4
 * Speed Rider (replacement PCB)
 * Speed Rider 2
 * Power Truck
 * Power Truck Special
-* Music GunGun CHN (Taito, identifier `MGG M-100CN`)
+* Music Gun Gun (Taito, China version) [M-100CN]
 
 ### E3100
 **Motherboard:** Advantech EBC-TA17, marked as iTS I-JOIN E3100  
@@ -197,13 +220,13 @@ Currently found BIOS versions are:
 * Monster Eye 2 (?)
 * Overtake
 * Overtake DX
-* Ultra Race
+* Ultra Race (?)
 
 ## S/V-series
 ### S3000
-**Motherboard:** GIGABYTE H110M-S2PV (?)
+**Motherboard:** GIGABYTE H110M-S2PV
 
-**GPU:** Nvidia GeForce GTX 1050 (2 GB) (as used in Transform Hero of Robots), other variations may exist
+**GPU:** Nvidia GeForce GTX 1050 (2 GB) [Transform: Hero of Robots], other variations may exist
 
 **OS:** Windows 10 IoT Embedded LTSB 2016 / LFS Linux (only found in Speed Driver 4 replacement PCBs)
 
@@ -240,7 +263,15 @@ Other variations may exist
 
 **CPU:** AMD Geode
 
-**Games:** Jungle Drummer
+**Games:**
+* Jungle Drummer
+* Global Touch 2007 Sigma [M-262SAE]
+* IQ Park 2008 (IQ乐园2008)
+* IQ Park 2011 (IQ乐园2011)
+
+**Notes #1:** BIOS can be accessed via Ctrl+D while at the IGS BIOS splash screen at boot-up
+
+**Notes #2:** Onboard video memory size can be adjusted up to 256 MB
 
 ## Misc
 ### Percussion Master (export)
