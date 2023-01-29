@@ -190,27 +190,27 @@ Missing: 401
 
 ## Type X4
 
-|    ID | Date    | OS     | CPU           | RAM                | GPU               | Notes                                                    |
-|-------|---------|--------|---------------|--------------------|-------------------|----------------------------------------------------------|
-|  500A | 2016/10 |        | i5-4590S      | 4GB(DDR3-1600) x2  | GTX960-2GB        | STREET FIGHTER V TYPE ARCADE                             |
-|       |         | WE8.1S |               |                    |                   | LOVELIVE! AC CENTER M9009121A                            |
-|       |         | WE8.1S |               |                    |                   | LOVELIVE! AC SATELLITE PPLAN M9009129A                   |
-|       |         | WE8.1S |               |                    |                   | LOVELIVE! AC NS CENTER                                   |
-|       |         | WE8.1S |               |                    |                   | LOVELIVE! AC NS SATELLITE P PLAN                         |
-|       |         | WE8.1S |               |                    |                   | LOVELIVE! AC NS SATELLITE SPLAN                          |
-|       |         | WE8.1S |               |                    |                   | LOVELIVE! AC NS SATELLITE S PLAN  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/v1065264354` |
-|       |         |        |               |                    |                   | MGICIANS DEAD M9009141A  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/x1050826171` |
-|  501A | 2017/10 |        | i5-4590S      | 4GB(DDR3-1600) x2  | GTX1080-8GB       | 電車でＧＯ！！ (30プラン)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/h1050922019` |
-|  502A | 2018/09 |        | i7-4970S      | 8GB(DDR3-1600) x2  | GTX1080-8GB       | HOSHI TSUBA 30PLAN                                       |
-|       |         |        |               |                    |                   | HOSHI TSUBA 09PLAN  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/x1065143200` |
-|       |         |        |               |                    |                   | DENSHA DE GO                                             |
-|  503A | 2019/02 |        | i5-4590S      | 4GB(DDR3L-1600) x2 | GTX1060-6GB       | STREET FIGHTER V TYPE ARCADE  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1024155298` |
-|  503A | 2022/06 |        | i5-4590S      | 4GB(DDR3-1600) x2  | GTX1650-4GB       | STREET FIGHTER V TYPE ARCADE  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1070069620` |
-|  504A |         |        | i5-4590S      | 4GB(DDR3L-1600) x2 | RTX2070-8GB       | DENSHADE GO!! COMPACT-(10PLAN)                           |
-|  600A | 2018/11 |        | i3-6100       | 8GB(DDR4-2133) x2  | GTX1050-2GB       | GUNARENA  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/e1072717343`|
-|  601A | 2018/11 |        | Pentium G4400 | 8GB(DDR4-2133) x2  | Intel HD Graphics | Groove Coaster 4C EXP KIT (aka. RhythmVader CHN 2 / 音炫轨道2) `#WEB:https://twitter.com/jq9837/status/1456432713703981060` |
-|  602A | 2019/10 |        | Pentium G4400 | 4GB(DDR4-2400) X2  | GT1030-2GB        | OMATSURI QUEST HIPPARE-Q `#MEDIA:taito/type-x4-602a.jpg` |
-|       |         |        | i5-6500       |                    | GTX1650-4GB       | Tetote x Connect                                         |
+|    ID | Date    | OS          | CPU           | RAM                | GPU               | Notes                                                    |
+|-------|---------|-------------|---------------|--------------------|-------------------|----------------------------------------------------------|
+|  500A | 2016/10 |             | i5-4590S      | 4GB(DDR3-1600) x2  | GTX960-2GB        | STREET FIGHTER V TYPE ARCADE                             |
+|       |         | WE8.1S      |               |                    |                   | LOVELIVE! AC CENTER M9009121A                            |
+|       |         | WE8.1S      |               |                    |                   | LOVELIVE! AC SATELLITE PPLAN M9009129A                   |
+|       |         | WE8.1S      |               |                    |                   | LOVELIVE! AC NS CENTER                                   |
+|       |         | WE8.1S      |               |                    |                   | LOVELIVE! AC NS SATELLITE P PLAN                         |
+|       |         | WE8.1S      |               |                    |                   | LOVELIVE! AC NS SATELLITE SPLAN                          |
+|       |         | WE8.1S      |               |                    |                   | LOVELIVE! AC NS SATELLITE S PLAN  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/v1065264354` |
+|       |         |             |               |                    |                   | MGICIANS DEAD M9009141A  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/x1050826171` |
+|  501A | 2017/10 |             | i5-4590S      | 4GB(DDR3-1600) x2  | GTX1080-8GB       | 電車でＧＯ！！ (30プラン)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/h1050922019` |
+|  502A | 2018/09 | WE8.1S      | i7-4970S      | 8GB(DDR3-1600) x2  | GTX1080-8GB       | HOSHI TSUBA 30PLAN                                       |
+|       |         |             |               |                    |                   | HOSHI TSUBA 09PLAN  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/x1065143200` |
+|       |         |             |               |                    |                   | DENSHA DE GO                                             |
+|  503A | 2019/02 |             | i5-4590S      | 4GB(DDR3L-1600) x2 | GTX1060-6GB       | STREET FIGHTER V TYPE ARCADE  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1024155298` |
+|  503A | 2022/06 | W10LTSC2019 | i5-4590S      | 4GB(DDR3-1600) x2  | GTX1650-4GB       | STREET FIGHTER V TYPE ARCADE  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1070069620` |
+|  504A |         |             | i5-4590S      | 4GB(DDR3L-1600) x2 | RTX2070-8GB       | DENSHADE GO!! COMPACT-(10PLAN)                           |
+|  600A | 2018/11 |             | i3-6100       | 8GB(DDR4-2133) x2  | GTX1050-2GB       | GUNARENA  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/e1072717343`|
+|  601A | 2018/11 |             | Pentium G4400 | 8GB(DDR4-2133) x2  | Intel HD Graphics | Groove Coaster 4C EXP KIT (aka. RhythmVader CHN 2 / 音炫轨道2) `#WEB:https://twitter.com/jq9837/status/1456432713703981060` |
+|  602A | 2019/10 |             | Pentium G4400 | 4GB(DDR4-2400) X2  | GT1030-2GB        | OMATSURI QUEST HIPPARE-Q `#MEDIA:taito/type-x4-602a.jpg` |
+|       |         |             | i5-6500       |                    | GTX1650-4GB       | Tetote x Connect                                         |
 
 ## PS4
 
