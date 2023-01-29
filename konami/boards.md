@@ -641,7 +641,7 @@ Also known as: "ADE".
 **SSD:** innodisk 3ME2 mSATA (64GB) \[PIX\] / ??? "M064GPSN804TGJN0-PH" (64GB, mSATA, Phison PS3108 controller, S8FM07.9 firmware) \[O26\]  
 **SND:** Realtek ALC892  
 **IO:** [P4IO](io.md#p4io)  
-**Games:** O26, PIX, R66, KSF  
+**Games:** O26, OTM, PIX, R66, KSF  
 **BIOS:** AMIBIOS Aptio 4.6.5.4 (V2C9AD13.rom, 11/12/2014 15:43:39)  
 **OS:** Windows Embedded Standard 7 (SP1) [O26] [PIX] [R66]  
 

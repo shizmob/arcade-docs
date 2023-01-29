@@ -1703,10 +1703,10 @@ unknown:
   - [`GQGLD-JA`: Dedicated cabinet](product/GQGLD-JA.md)
   - `GQGLD-HD: Dedicated cabinet  `#WEB:https://imgur.com/a/ak1Jn`
   - `GEGLD-JA`: conversion kit (PCB)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/e1002287142`
-* `GPB`: スピンフィーバー / Spin Fever (2007, PC-HDD)   `#MISC:oyakodon_oniku_list #WEB:https://page.auctions.yahoo.co.jp/jp/auction/f1005757296 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/m1007089335 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/t1009880988`
+* `GPB`: スピンフィーバー / Spin Fever (2007, PC-MEDAL(855) / COUGAR-MEDAL)   `#MISC:oyakodon_oniku_list #WEB:https://page.auctions.yahoo.co.jp/jp/auction/f1005757296 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/m1007089335 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/t1009880988`
   - `GPB PC B01`: RECOVERY DISC  `#WEB:https://aucview.aucfan.com/yahoo/b505999876`
   - `GSGPB`: cabinet  `#WEB:https://jp.mercari.com/item/m40597968749 #WEB:https://aucview.aucfan.com/yahoo/o305306478 #WEB:https://www.zax.com.au/buy/spin-fever-2/SPIN_FEVER_2`
-* `GTX`: MOTOR X (2008, PC-MEDAL) `#WEB:https://www.konami.com/amusement/medal/motorx/`
+* `GTX`: MOTOR X (2008, PC-MEDAL(855)) `#WEB:https://www.konami.com/amusement/medal/motorx/`
 * `H16`: ポップンミュージック 16 PARTY♪ / pop'n music 16 PARTY♪ (2008, PC(855)IO(USB2)-HDD)  `#MISC:oyakodon_oniku_list #WEB:https://page.auctions.yahoo.co.jp/jp/auction/n531776358`
   - `GQH16-JA`: Type B/C/D? cabinet  `#DOC:konami:113204880000 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/b538799561`
   - `GCH16-JA`: Type A cabinet conversion kit  `#DOC:konami:113707830000 #DOC:konami:113204880000 #WEB:https://aucview.aucfan.com/yahoo/g371622212`
@@ -2132,6 +2132,7 @@ unknown:
   - `L44 KB AA01`: ROM [HM65 PCB, XP] 2015-10-27 0 `#WEB:https://www.youtube.com/watch?v=Ld7NPAdvcH0`
   - `L44 KG A01`: ROM [ADE PCB, 7] 2017-04-18 0 `#WEB:https://twitter.com/OZ_YAI/status/1554699553277849600`
   - `L44 JB AZ01`: ROM [HM65 PCB, XP] 2019-06-07 1 `#WEB:https://twitter.com/Yamassi8010/status/1419199972688359430`
+  - `L44 JB BE01`: ROM [HM65 PCB, XP] 2021-08-25 1 `#WEB:https://mobile.twitter.com/nusukoni/status/1609407507499454464`
 * `L57`: GI-GranDesire (2013)  `#SCRAPE:konami:eagate`
 * `L65`: エターナルナイツTRUST / Eternal Knights TRUST (2012, PC-MEDAL(B3/B9))  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/l701319133 #WEB:https://manualzz.com/doc/4942624/eternal-knights-trust`
   - `L65 MAIN *02`: main unit
@@ -2407,7 +2408,9 @@ unknown:
 * `OTC`: トレジャーシュート (2015, MEDAL)
   - `GSOTC-JA`: dongle
   - `OTC PC D01 SA1`: HDD
-* `OTM`: 祭deフィーバー!! (2015?)  `#SCRAPE:konami:eam`
+* `OTM`: 祭deフィーバー!! (2015, PC-MEDAL(R10))  `#SCRAPE:konami:eam`
+  - `GSOTM-JA`
+  - `GSOTM-JB`
 * `P2D`: beatmania IIDX INFINITAS [home version] (2015, PC)
 * `P65`: エルドラクラウン / Eldora Crown (2017, PC-MEDAL(ADE))  `#SCRAPE:konami:eagate #WEB:https://page.auctions.yahoo.co.jp/jp/auction/v1028813695`
   - `P65-JA(MAIN)`
@@ -2436,6 +2439,7 @@ unknown:
   - `PVR MAIN A01 SB1`: e945 JA MAIN [DVD]
   - `PVR MAIN A01 SC1`: e67 JA MAIN [DVD]
   - `PVR ST A01 SB1`: HM65 JB STATION [DVD]
+  - `PVR-JB STATION(B)`: black dongle `#WEB: https://page.auctions.yahoo.co.jp/jp/auction/n1077631059`
 * `PWT`: トレジャーシュート, マジカルシューター?  `#SCRAPE:konami:eagate #MISC:oyakodon_oniku_list #WEB:https://page.auctions.yahoo.co.jp/jp/auction/f1052167884`
   - `GSPWT (STD)`
   - `PWT PC J01 SA2`
@@ -2457,13 +2461,15 @@ unknown:
   - 麻雀格闘倶楽部 疾風 (2020, PC)
   - 麻雀格闘倶楽部 EXTREME (2022, PC)
   - `GQQK9-JA`
+  - `KK9JDB01`: ROM 2017-09-01 0
 * `QPP`: Printer paper and ink
   - `GUQPP-AB`: For SDVX generator (?)
   - `GULMM-JA`: Oreca Battle (compatible with SDVX)
   - `GUQPP-JB`
 * `QS3`: FEATURE PREMIUM Twinkle Drop TOWER de パティシエッ / FEATURE Premium 5・6弾  `#SCRAPE:konami:eagate #MISC:oyakodon_oniku_list`
 * `QVO`: FEATURE Premium MB  `#SCRAPE:konami:eagate`
-* `R58`: GI-WorldClassic
+* `R58`: GI-WorldClassic (2017, PC(R10)) `#WEB: https://page.auctions.yahoo.co.jp/jp/auction/v1077618393`
+  - `GER58-JS`: station dongle
 * `R66`: ビシバシチャンネル / Bishi Bashi Channel (2018, PC(R10))
   - `GER66-JA` `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/u1051038312`
 * `RBC`: ベースボールコレクション / Baseball Collection (2018, PC(X10SLQ)IO(BIO2-BI2A)) `#MISC:oyakodon_oniku_list #SCRAPE:eagate #WEB: https://page.auctions.yahoo.co.jp/jp/auction/u1074189140`
@@ -2543,7 +2549,8 @@ unknown:
 * `TVS`: デュエルドリーム / DUEL DREAM  `#SCRAPE:konami:eagate #MISC:oyakodon_oniku_list`
 * `U32`: コナステ GITADORA [e-AMUSEMENT CLOUD/home version]
 * `U39`: pop'n music Lively [e-AMUSEMENT CLOUD/home version]
-* `U58`: GI-WorldClassic RISING (2022)  `#SCRAPE:konami:eagate`
+* `U58`: GI-WorldClassic RISING (2021, PC(R10))  `#SCRAPE:konami:eagate` `#WEB: https://page.auctions.yahoo.co.jp/jp/auction/e1077636409`
+  - `GEU58-JS`: station dongle
 * `U70`: アニマロッタ アニマと星の物語  `#SCRAPE:konami:eagate`
 * `UAN`: コナステ ノスタルジア / NOSTALGIA [e-AMUSEMENT CLOUD/home version]  `#SCRAPE:konami:eagate`
 * `UDN`: DANCE aROUND (2022, PC(C700)IO(BIO2))  `#WEB:http://bemaniwiki.com/index.php?DANCE%20aROUND`
