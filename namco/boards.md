@@ -564,6 +564,7 @@ ES2P(A):
   - ES3(A)
   - ES3(B)
   - ES3(X)
+  - ES3(X2)
 
 ES3(A):
 
@@ -596,6 +597,17 @@ ES3(X):
 **HDD:** HGST HTS545025A7E680 (SATA, 250GB, 5400RPM)  
 **IO:** [Namco ESIF2 PCB](io.md#esif2) (above motherboard shield)  
 **IO:** "JV IO (JAMMA)" (expansion slot, 1x JVS USB, 1x internal connector with cable to ESIF2)  
+**IO:** "SERIAL 3 (CARD IF)" (expansion slot, to motherboard, pinout up-down: COM-GND COM-CTS COM-RTS COM-TXD COM-RXD GND 12V?, hooks up to [Namco H055 CARD-IF](io.md#h055-card-if))  
+
+ES3(X2) `#WEB: https://page.auctions.yahoo.co.jp/jp/auction/w1079815276`:
+
+**MBD:** ???
+**CPU:** ???  
+**RAM:** ???  
+**GPU:** ???  
+**HDD:** ???  
+**IO:** [Namco ESIF2 PCB](io.md#esif2) (above motherboard shield)  
+**IO:** "JV IO (JAMMA)" (expansion slot, 1x JVS USB, 1x internal connector with cable to ESIF2) (USB port is taped)  
 **IO:** "SERIAL 3 (CARD IF)" (expansion slot, to motherboard, pinout up-down: COM-GND COM-CTS COM-RTS COM-TXD COM-RXD GND 12V?, hooks up to [Namco H055 CARD-IF](io.md#h055-card-if))  
 
 ```
