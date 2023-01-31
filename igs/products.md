@@ -7,6 +7,7 @@
 ```
 D/B         - Danz Base
 G/T 2007 S  - Global Touch 2007 Sigma
+IQ NET      - IQ Park Online (IQ乐园网络版)
 IQ 2008     - IQ Park 2008 (IQ乐园2008)
 MGG         - Music Gun Gun (China)
 RF4         - Rock Fever 4
@@ -34,7 +35,6 @@ WE DO       - We Dancing Online
 ???         - Go Go Ball 2 (欢乐投球2)
 ???         - Hero of Robots
 ???         - IQ Park 2011 (IQ乐园2011)
-???         - IQ Park Online (IQ乐园网络版)
 ???         - Momi Danz
 ???         - Monster Eye
 ???         - Monster Eye 2

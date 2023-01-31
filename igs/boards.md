@@ -268,6 +268,7 @@ Other variations may exist
 * Global Touch 2007 Sigma [M-262SAE]
 * IQ Park 2008 (IQ乐园2008)
 * IQ Park 2011 (IQ乐园2011)
+* IQ Park Online (IQ乐园网络版) [M-148CNC]
 
 **Notes #1:** BIOS can be accessed via Ctrl+D while at the IGS BIOS splash screen at boot-up
 
