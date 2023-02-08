@@ -137,6 +137,8 @@ There are two variants:
 * Demon Hunter
 * Fish Lagoon
 * Harpoon Lagoon (ICE)
+* 無敵風火輪 (M-103CN)
+* 海遊漁 (JPN, M-103JP)
 
 ### E2200
 **Motherboard:** Advantech DAC-BT07
@@ -242,7 +244,7 @@ Currently found BIOS versions are:
 **CPU:** Core i3-7100 [Asphalt 9 Legends Arcade]
 
 **GPU:** 
-* Nvidia GeForce RTX 2060 Super (as replacement GPU) [Ultra Race VR]
+* Nvidia GeForce RTX 2060 Super (as replacement GPU) [Ultra Moto VR]
 * GIGABYTE GeForce GTX 1650 OC 4G [Asphalt 9 Legends Arcade]
 Other variations may exist
 
