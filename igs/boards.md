@@ -45,6 +45,22 @@ Despite using Intel processors, PGM3 is not a PC/AT compatible system.
 * Dolphin Stars
 * Marine Treasures Single
 
+## GP1
+(name tentative; using the logo on the top of the board as its name)
+
+For Ocean King series, development of hardware or software has probably been outsourced to another company called Yuehua Software (YHS) as its logo has been printed on the case, but the game is still released under the IGS brand and making use of ASICs from IGS.
+
+There is little to no information about this board yet.
+
+**Storage:** SD Card ? & USB-OTG ?
+
+**Games:**
+* Ocean King 2 series (slot machines)
+* Ocean King 3 series (slot machines)
+* Halloween Night (M203CN) (redemption game, possible to be converted to slot machine)
+* Trick or Treat (redemption game, possible to be converted to slot machine)
+* Harpoon Lagoon (ICE) (replacement PCB)
+
 # PC-Based
 
 ## pre E-Series
