@@ -683,7 +683,8 @@ BNA1(RICH)
          Midnight Tune 6 (WM6, export)
          Midnight Tune 6R (W6R, export)
   RICH - Gundam: Bonds of the Battlefield II (SK2)
-  LITE - Taiko no Tatsujin: Rainbow (S12)
+  LITE - Dead Heat Unleashed (DHU)
+         Taiko no Tatsujin: Rainbow (S12)
      ? - Poker Stadium
 ```
 
