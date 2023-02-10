@@ -75,6 +75,7 @@ DF  - Dirt Fox
 DGC - Dragon Chronicles Legend of the Master Ark
 DH  - Downhill Bikers
 DHR - Dead Heat Riders / Street Racing
+DHU - Dead Heat Unleashed
 DM  - Dunk Mania
 DO  - Dragon Saber
 DOL - Druaga Online: The Story of Aon
