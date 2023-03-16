@@ -274,6 +274,8 @@ Uses Intel Extreme integrated graphics instead of a GeForce GPU.
 
 #### FAB-e865-KN303
 
+`#WEB:https://page.auctions.yahoo.co.jp/jp/auction/o1075484850`
+
 **CPU:** Intel Celeron 2.5Ghz  
 **RAM:** 2x Micron MT4VDDT3264AY-335F1 (DDR1, PC2700, 256MB)  
 **GPU:** ATI Radeon 9600XT 128M  
@@ -441,6 +443,10 @@ Also known as: "BemaniPC Type 2" (unofficially).
 **SND:** Realtek ALC662 `#GAME:konami-WINDOWS\SYSTEM32\config\SYSTEM`  
 
 #### FAB-e67-TP601
+
+Also known as: `FAB-e67-KN601`
+
+`#WEB:https://page.auctions.yahoo.co.jp/jp/auction/k1075894043`
 
 **CPU:** Intel Core i7-2600  
 **GPU:** AMD Radeon HD 6850 (1 GB)  
