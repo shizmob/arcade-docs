@@ -155,9 +155,15 @@ Known part categories (tree view):
  01: CARTON BOX / KIT / KNOB / L-LOCK BK / YURIA M4×12 BLACK K-UN / OUTLET AC F / CHAIN LATCH / CHAIN W FOOK / FAN GUARD / BUSH 1.2T 180MM
  05: CABLE (SCSI?)
  10: MEDIA (RETAIL)?
-   -0373-xx:    ST-V cartridge
+   -0373-xx:    ST-V cartridge (SEGA, blue)
+        -03:    BAKU BAKU ANIMAL  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/j1075531600
         -05:    FINAL ARCH
-        -20:    COLUMNS 97
+        -15:    DECATHLETE  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/k1075528797
+        -20:    COLUMNS 97  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/j1075523395
+        -40:    WINTER HEAT  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/v1075533544
+        -67:    対戦タントアール サシっす  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/k1075527482
+   -0374-xx:    ST-V cartridge (licensed, red)
+        -05:    INTRO DONDON!  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/s1075528243
    -0624-xxxx:  NAOMI GD-ROM
    -0630-xxxx:  NAOMI2 GD-ROM
    -0650-xxxx:  Triforce GD-ROM
@@ -179,6 +185,7 @@ Known part categories (tree view):
    -0941-xxxYY: Nu2/ALLS keychip (SEGA, blue)
    -0945-xxxx:  ALLS DVD
  11: MEDIA (DEV)?
+ 31: CONSUMABLE/FOIL/HOLO?  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/r1073791379
 7  - assembly
  00: ASSY
  31: WIRING DIAGRAM?
