@@ -3029,13 +3029,7 @@ List of misc/random stuff that could not be sorted properly so far, e.g. due to 
 
 ### `LDJ-MA014-JA`
 
-`#WEB:https://mirais-station.hatenablog.com/entry/2020/01/23/180000`
-
-* Cannon Ballers/Rootage LCD
-* Model: Meiwa Denki ???
-* Size: 42"
-* Native resolution: ???
-* Input: DVI
+See dedicated [product doc](product/LDJ-MA014-JA.md)
 
 ### IIDX rear projection monitor
 
