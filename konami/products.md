@@ -1304,9 +1304,9 @@ unknown:
 * `B22`: ドッグ・ステーション  `#MISC:oyakodon_oniku_list`
 * `B27`: Nice Smash (2002, PYTHON)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/w1081851475`
 * `B29`: 出撃！戦国革命 (2002, PC)  `#WEB:https://aucview.aucfan.com/yahoo/d396720284`
-  - `B29 JA A01`: DISC 1 [CD]  `#WEB:https://aucview.aucfan.com/yahoo/o350631094`
-  - `B29 JA A02`: DISC 2 [CD]
-  - `B29 JA B02`: update disk [CD?]  `#WEB:https://aucview.aucfan.com/yahoo/r357250436`
+  - `B29 JA A01`: System disk / DISC 1 [CD]  `#WEB:https://aucview.aucfan.com/yahoo/o350631094`
+  - `B29 JA A02`: Application disk / DISC 2 [CD]
+  - `B29 JA B02`: update disk [CD]  `#WEB:https://aucview.aucfan.com/yahoo/r357250436`
 * `B30`: ポップンミュージック 8 / pop'n music 8 (2002, FIREBEAT-CDROM)  `#MISC:oyakodon_oniku_list MEDIA:konami/popn-manuals.jpg`
   - `GCB30-JA`: conversion kit
   - `GCB30-JB`: conversion kit
@@ -1394,7 +1394,7 @@ unknown:
   - `GNC30-PWB(F)`: MC-S PSB [Python 2 memory card interface PCB]  `#DOC:konami:111132350000`
 * `C32`: カード販売機 / e-AMUSEMENT card dispenser  `#CLAIM:shiz #MISC:oyakodon_oniku_list`
   - `HOC32`: 1 display card
-* `C33`: ee'MALL
+* `C33`: ee'MALL (2003, PC(KNM-845G3))
 * `C36`: DanceDanceRevolution EXTREME (2002, SYSTEM573-CDROM)  `#MAME:ksys573`
   - `GCC36`  `#WEB:https://www.zax.com.au/buy/dance-dance-revolution-extreme-system-573-gameboar/DDRX_SYSTEM573`
 * `C38`: DrumMania 8thMIX / PercussionFreaks 8thMIX (2003, SYSTEM573-CDROM)  `#MAME:ksys573`
@@ -1420,7 +1420,7 @@ unknown:
   - `GQCCB-JA`: center monitor cabinet (4-player version)
   - `GQCCB-JB`: center monitor cabinet (2-player version)
 * `CCC`: Silent Scope Fortune Hunter (2002)  `#MAME:viper`
-* `CLX`: バトルクライマックス / Battle Climaxx! (2004)  `#MISC:oyakodon_oniku_list`
+* `CLX`: バトルクライマックス / Battle Climaxx! (2004, PC(KNM-845G3))  `#MISC:oyakodon_oniku_list`
   - `GQCLX-PWB(M)`: amp  `#DOC:konami:110029060000`
 * `CT3`: K2V/Advantage [casino]
   - `GGCT3 PWB(A2) 0000306668`: IFB [backplane board]  `#WEB:https://newlifegames.com/nlg/index.php?topic=23028.0 #WEB:https://www.ebay.com/itm/254862055621`
@@ -1448,7 +1448,7 @@ unknown:
 * `D11`: ポップンミュージック 11 / pop'n music 11 (2004, PYTHON-HDD)  `#MISC:oyakodon_oniku_list`
   - `GCD11-JA`
   - `GCD11-JC`
-* `D22`: セイギノヒーロー3 / リーサルエンフォーサーズ3 / Lethal Enforcers 3 (2004)  `#WEB:https://www.ebay.com/itm/164997166996`
+* `D22`: セイギノヒーロー3 / リーサルエンフォーサーズ3 / Lethal Enforcers 3 (2004, PC)  `#WEB:https://www.ebay.com/itm/164997166996`
   - `GMD22-JA`: cabinet  `#WEB:https://www.ebay.com/itm/165070816507 #WEB:https://aucview.aucfan.com/yahoo/u397080178 #MEDIA:konami/roundplugs-taobao.png`
   - `GMD22-TB`: cabinet (Taiwan, 110V)  `#DOC:konami:0000368508`
   - `GMD22-HD`: cabinet (Hong Kong, 220V)  `#DOC:konami:0000368508`
@@ -1459,7 +1459,7 @@ unknown:
   - `D22 PWB(K)0000361485`: amp board  `#WEB:https://www.ebay.co.uk/itm/164997166996`
   - `D22 PWB(M)0000361485`: amp board  `#WEB:https://www.ebay.co.uk/itm/164997171449`
   - `PWB0000325709`: I/O board (2004)  `#WEB:https://www.ebay.co.uk/itm/165070816507`
-* `D33`: ee'MALL 2nd avenue
+* `D33`: ee'MALL 2nd avenue (2003, PC(KNM-845G3))
 * `D39`: GuitarFreaks 11thMIX (2004, SYSTEM573-CDROM)  `#MAME:ksys573 #WEB:https://www.mercari.com/jp/items/m50264645211/`
   - `GCD39`
   - `GUD39-AB`: "on-line option kit"  `#DOC:konami:0000378783`
@@ -1792,7 +1792,7 @@ unknown:
   - `HDX JA A01`: ROM [945 PCB, XP] 2008-11-04 0  `#WEB:https://www.youtube.com/watch?v=YeQac1AQeus`
   - `HDX UA A01`: ROM [Optiplex740, XP] 2009-05-27 0  `#WEB:https://www.youtube.com/watch?v=OM2Z9lmKNBc`
   - `HDX JA B01`: hard drive  `#WEB:https://a11.kpers.net/item/u357009117/`
-* `HGT`: GTI club supermini festa (2008, PC-HDD)   `#MISC:oyakodon_oniku_list`
+* `HGT`: GTI club supermini festa (2008, PC-HDD(C3))   `#MISC:oyakodon_oniku_list`
   - `GQHGT-JA`  `#MEDIA:konami/roundplugs-taobao.png`
   - `HGT JA A01`: ROM 2008-10-01 0
 * `HK9`: 麻雀格闘倶楽部7 / Mahjong Fight Club 7 (2008, PC(RICOH)-HDD)  `#MISC:oyakodon_oniku_list #WEB:https://www.ebay.co.uk/itm/165061256095`
@@ -2074,6 +2074,7 @@ unknown:
   - `KFC JC AW01`: ROM [76 PCB, XP] 2016-12-09 0
   - `KFC KC AP01`: ROM [76 PCB, XP] 2016-01-29 0
   - `KFC AO A01`: ROM [76 PCB, 7] 2017-09-11 0
+  - `KFC JD BM01`: ROM [ADE PCB, 7] 2018-12-18 0 `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/o1081177094`
   - `KFC JE A01`: ROM [X10SLQ PCB, 7] 2019-01-28 0
   - `PWB114945610000` / `114997350000`: "[ALEXANDRA]rev.B" [amp stage board]  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/m1039455300`
   - `PWB114290780000`: "Curenty"? [amp main board?]  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/m1039455300 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1021651921`
@@ -2373,7 +2374,7 @@ unknown:
   - `MDX JF AF01`: ROM [ADE6291, P4IO, Win7] 2018-09-14 0
   - `MDX JF AJ01`: ROM [ADE6291, P4IO, Win7]  2019-08-01 0
   - `MDX JI AH01`: ROM [ADE6291, BIO2, Win7]  2019-02-26 0  `#WEB:https://twitter.com/964_kuroyon/status/1108273033045630977/photo/1`
-  - `MDX JI AT01`: ROM [ADE6291, P3IO, Win7]
+  - `MDX JI AT01`: ROM [ADE6291, BIO2/P3IO(?), Win7] 2021-08-11 0 `#WEB:https://twitter.com/1831shun06021/status/1636230532756541440`
   - `MDX UD V01`:  ROM [HM65,    P4IO, WinXP] 2016-04-22 0  `#WEB:https://www.youtube.com/watch?v=UFlO-BE75cc #WEB:https://www.youtube.com/watch?v=6LjqQ6Aj86M`
   - `MDX UG AC01`: ROM [ADE6291, P4IO, Win7]  2017-12-06 0
   - `MDX UG AK01`: ROM [ADE6291, P4IO, Win7] 2019-09-02 0 `#WEB: https://mobile.twitter.com/DDR_MARTEN/status/1593683815414861827`
@@ -2493,6 +2494,7 @@ unknown:
   - `QBG-JA-E01`: ROM 2019-01-25 0 `#WEB:https://mobile.twitter.com/kitakawati/status/1599718473403629569/`
   - `QBG-JA-H01`: ROM 2019-07-12 0 `#WEB:https://mobile.twitter.com/erusiru1/status/1589555165371461632`
   - `QBG-JB-N01`: ROM 2020-07-08 0 [GTX 1650]
+  - `QBG-JB-R01`: ROM 2021-04-19 0 `#WEB:https://twitter.com/KADA_AKI/status/1626172720437411845`
 * `QCV`: SOUND VOLTEX III(コナステ) / SOUND VOLTEX III (e-AMUSEMENT CLOUD) / SOUND VOLTEX EXCEED GEAR (コナステ) / SOUND VOLTEX EXCEED GEAR (e-AMUSEMENT CLOUD) [e-AMUSEMENT CLOUD/home version]
 * `QK9`: 麻雀格闘倶楽部 HG MODEL `#WEB:https://twitter.com/mammaru339/status/1573208839830532096`
   - 麻雀格闘倶楽部 豪華絢爛 (2017, PC)
@@ -2609,7 +2611,8 @@ unknown:
 * `UKS`: QuizKnock Stadium (2022, PC(C300)) `#SCRAPE:konami:eagate`
   - `UKS JA C01`: ROM 2022-1-27 0
 * `UX8`: FORTUNE TRINITY 精霊の至宝祭  `#SCRAPE:konami:eagate`
-* `VFG`: Mahjong Fight Girl (2022/2023, under location test) `#WEB:https://twitter.com/Kasumi_7STYLE/status/1573194237654757377/`
+* `VFG`: Mahjong Fight Girl (2022/2023) `#WEB:https://twitter.com/Kasumi_7STYLE/status/1573194237654757377/`
+  - `VFGJAA01`: ROM 2023-02-04 0 `#WEB:https://twitter.com/comichiroba/status/1637042519572889604`
 * `VGP`: DanceDanceRevolution(コナステ) [e-AMUSEMENT CLOUD/home version]  `#SCRAPE:konami:eagate`
 * `VSL`: 桃太郎電鉄メダルゲームも定番！ (2022/2023, under location test)  `#WEB:https://ariesu.com/locationtest/momotetsu-medal.htm`
 * `VTA`: カラコロッタ フローズンアイランド (2022)  `#SCRAPE:konami:eagate #WEB:https://twitter.com/oyakodon_oniku/status/1587258529307451393`
