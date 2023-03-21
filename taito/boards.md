@@ -116,6 +116,7 @@ Missing: 002, 004, 009, 010, 015, 016, 018, 019, 020, 023
 |        |               |       |             | NESICA X LIVE M9008355A VER.2.00  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/p1075437607` |
 |        |               |       |             | NESICA X LIVE M9008490A VER.2.01  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/x1058229373` |
 | 218A   | PenDC 1.8GHz  | 2GB   | HD5770      | CAPCOM MB4 M9008420A Ver1.0 [Mario Coin World]  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/c1075438668` |
+| 220A   | PenDC 1.8GHz  | 1GB   | E4690       | HOPPING ROAD CHN VER1.00TWN                                                                 |
 | ???    | Core2 Duo     | ???   | ???         | special red/black PCB                                                                       |
 
 ? - NESICA X LIVE M9008355A Ver.1.12 (B3900153A green)
