@@ -497,6 +497,7 @@ N2(WM3R):
 * Variants:
   - ES1(A)
   - ES1(A/NO-USB)
+  - ES1(B)
   - ES1(A2)
 
 **MBD:** Supermicro C2SBM-Q (ES1(A): "F1B16M-LS-C2D30-51M2"), ES1(A/NO-USB): "FB16M-LS-C2D30-512M2", ES1(A2): "FB16M-LS-C2D30-2G1")  
@@ -682,6 +683,7 @@ BNA1(RICH)
          Sword Art Online Arcade (Satellite) (SAO)
          Midnight Tune 6 (WM6, export)
          Midnight Tune 6R (W6R, export)
+         Midnight Tune 6RR (export)
   RICH - Gundam: Bonds of the Battlefield II (SK2)
   LITE - Dead Heat Unleashed (DHU)
          Taiko no Tatsujin: Rainbow (S12)
