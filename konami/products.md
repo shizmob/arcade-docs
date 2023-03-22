@@ -2611,8 +2611,9 @@ unknown:
 * `UKS`: QuizKnock Stadium (2022, PC(C300)) `#SCRAPE:konami:eagate`
   - `UKS JA C01`: ROM 2022-1-27 0
 * `UX8`: FORTUNE TRINITY 精霊の至宝祭  `#SCRAPE:konami:eagate`
-* `VFG`: Mahjong Fight Girl (2022/2023) `#WEB:https://twitter.com/Kasumi_7STYLE/status/1573194237654757377/`
+* `VFG`: Mahjong Fight Girl (2023, PC(mITX-1505A)) `#WEB:https://twitter.com/Kasumi_7STYLE/status/1573194237654757377/`
   - `VFGJAA01`: ROM 2023-02-04 0 `#WEB:https://twitter.com/comichiroba/status/1637042519572889604`
+  - `VFG JA *01`: SSD
 * `VGP`: DanceDanceRevolution(コナステ) [e-AMUSEMENT CLOUD/home version]  `#SCRAPE:konami:eagate`
 * `VSL`: 桃太郎電鉄メダルゲームも定番！ (2022/2023, under location test)  `#WEB:https://ariesu.com/locationtest/momotetsu-medal.htm`
 * `VTA`: カラコロッタ フローズンアイランド (2022)  `#SCRAPE:konami:eagate #WEB:https://twitter.com/oyakodon_oniku/status/1587258529307451393`

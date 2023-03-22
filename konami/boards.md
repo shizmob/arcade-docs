@@ -590,6 +590,20 @@ Also known as: "ADE".
 
 ## Misc
 
+### mITX-1505A `WEB:https://twitter.com/iMp95/status/1638185838034190336/`
+(name tentative)
+
+* Release: 2022 (?)
+* Base: PC
+
+**MBD:** GigaIPC mITX-1505A (MRZNRMI)
+**CPU:** AMD Ryzen Embedded R1505G
+**GPU:** AMD Radeon Vega 3 Graphics
+**RAM:** 2 x 4 GB DDR4 (SODIMM) (?)
+**SSD:** InnoDisk 3TG6-P (SATA) (size unknown)
+**OS:** Windows 10 IoT LTSC 2019 (?)
+**Games:** VFG
+
 ### MB-875-M10
 (name tentative)
 
@@ -681,7 +695,7 @@ Also known as: "ADE".
 * Release: 2019
 * Base: PC (Konami boards)
 
-### C300 (Xonar AE)
+### C300(XonarAE)
 
 (Name for its home variation. Name for actual arcade hardware is tentative)
 
