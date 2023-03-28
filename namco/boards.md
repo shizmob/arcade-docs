@@ -511,6 +511,7 @@ N2(WM3R):
 **IO:** [Namco H039 ESIF PCB](io.md#h039-esif) (1x internal 4pin connector with cable to "JV IO (JAMMA)", to motherboard COM3 and JF1)  
 **IO:** "JV IO (JAMMA)" (expansion slot, 1x JVS USB, 1x internal connector with cable to H039)  
 **IO:** \[ES1(A2)\] "SERIAL 3 (CARD IF)" (expansion slot, to motherboard COM4, pinout up-down: GND CTS RTS TXD RXD)  
+**OS:** Arcade Linux / Windows Embedded 7 Standard [Ace Angler]  
 
 ```
         A - Nirin (NRN) - https://www.bandainamco-am.co.uk/files/41)
@@ -520,6 +521,7 @@ N2(WM3R):
             Gundam: Bonds of the Battlefield 4.0 (GK4, GKE? GKN?) - https://page.auctions.yahoo.co.jp/jp/auction/g495616988
             Midnight Tune 4 (Japan/Asia/US, WM4, https://www.arcade-projects.com/threads/namco-es1-wmmt4.2270/)/5 (Asia/US, WM5)/5DX (Asia, W5X)/5DX+ (Asia, W5P) https://www.facebook.com/weedxy2gab/photos/pcb.665771777362930/665771667362941/?type=3&theater
             Maximum Heat 3D (MMH)
+          - Ace Angler / Fishing Spirits (釣りスピリッツ) (main PCB)
 ```
 
 ## System ES2
@@ -555,11 +557,12 @@ ES2P(A):
          Great Animal Kaiser
          One Piece Gangan Treasure (OGT)
          Pocket Monster Battle Nine (PBN, ポケットモンスターバトルナイン内)
+  PLUS - Ace Angler / Fishing Spirits (釣りスピリッツ) (station PCB)
 ```
 
 ## System ES3
 
-* Release: ?
+* Release: 2013
 * Base: PC
 * Variants:
   - ES3(A)
@@ -577,6 +580,7 @@ ES3(A):
 **IO:** [Namco ESIF2 PCB](io.md#esif2) (above motherboard shield)  
 **IO:** "JV IO (JAMMA)" (expansion slot, 1x JVS USB, 1x internal connector with cable to ESIF2)  
 **IO:** "SERIAL 3 (CARD IF)" (expansion slot, to motherboard, pinout up-down: COM-GND COM-CTS COM-RTS COM-TXD COM-RXD GND 12V?, hooks up to [Namco H055 CARD-IF](io.md#h055-card-if))  
+**OS:** Windows Embedded 7 Standard (SP1, 64-bit) [MKAGP/Pokken], Arcade Linux [DHR]  
 
 ES3(B):
 
@@ -588,10 +592,11 @@ ES3(B):
 **IO:** [Namco ESIF2 PCB](io.md#esif2) (above motherboard shield)  
 **IO:** "JV IO (JAMMA)" (expansion slot, 1x JVS USB, 1x internal connector with cable to ESIF2)  
 **IO:** "SERIAL 3 (CARD IF)" (expansion slot, to motherboard, pinout up-down: COM-GND COM-CTS COM-RTS COM-TXD COM-RXD GND 12V?, hooks up to [Namco H055 CARD-IF](io.md#h055-card-if))  
+**OS:** Windows Embedded 7 Standard (SP1, 64-bit)  
 
 ES3(X):
 
-**MBD:** ???  
+**MBD:** SuperMicro C7B75-O  
 **CPU:** Intel Core i5-3550S  
 **RAM:** ??? (8GB) / ??? (16GB)  
 **GPU:** Nvidia GeForce GTX680 / Nvidia GeForce GTX760  
@@ -599,17 +604,19 @@ ES3(X):
 **IO:** [Namco ESIF2 PCB](io.md#esif2) (above motherboard shield)  
 **IO:** "JV IO (JAMMA)" (expansion slot, 1x JVS USB, 1x internal connector with cable to ESIF2)  
 **IO:** "SERIAL 3 (CARD IF)" (expansion slot, to motherboard, pinout up-down: COM-GND COM-CTS COM-RTS COM-TXD COM-RXD GND 12V?, hooks up to [Namco H055 CARD-IF](io.md#h055-card-if))  
+**OS:** Windows Embedded 7 Standard (SP1, 64-bit)  
 
 ES3(X2) `#WEB: https://page.auctions.yahoo.co.jp/jp/auction/w1079815276`:
 
-**MBD:** ???
-**CPU:** ???  
-**RAM:** ???  
-**GPU:** ???  
-**HDD:** ???  
+**MBD:** SuperMicro C7B75-OC012 Rev 1.01  
+**CPU:** Intel Core i5-3550S  
+**RAM:** 2 x SanMax Technologies (4GB, DDR3, PC3-12800U)  
+**GPU:** ZOTAC GeForce GTX 960 (PCIe, 2 GB)  
+**HDD:** WD WD3200LUCT (SATA, 320GB, 5400RPM)  
 **IO:** [Namco ESIF2 PCB](io.md#esif2) (above motherboard shield)  
 **IO:** "JV IO (JAMMA)" (expansion slot, 1x JVS USB, 1x internal connector with cable to ESIF2) (USB port is taped)  
 **IO:** "SERIAL 3 (CARD IF)" (expansion slot, to motherboard, pinout up-down: COM-GND COM-CTS COM-RTS COM-TXD COM-RXD GND 12V?, hooks up to [Namco H055 CARD-IF](io.md#h055-card-if))  
+**OS:** Windows Embedded 7 Standard (SP1, 32-bit)  
 
 ```
      A - Pokken Tournament (PKF)
@@ -622,6 +629,7 @@ ES3(X2) `#WEB: https://page.auctions.yahoo.co.jp/jp/auction/w1079815276`:
        - Tekken 7 (TE7)/FR(TER)/FR2(TR2)
        - Time Crisis 5 (TC5) - https://www.bandainamco-am.co.uk/files/93)
        - Star Wars Battle Pod (DSW)
+    X2 - Ace Angler / Fishing Spirits (釣りスピリッツ) (replacement main PCB) 
      ? - Synchronica (SYN)
 ```
 
