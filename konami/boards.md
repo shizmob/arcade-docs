@@ -699,18 +699,41 @@ Also known as: "ADE".
 
 (Name for its home variation. Name for actual arcade hardware is tentative)
 
+First debuted in beatmania IIDX Lightning Model, released with Heroic Verse.
+Also used for SOUND VOLTEX Valkyrie Model cabs.
+
 **MBD:** Supermicro SuperO MBD-C7B360-CB-MW-O custom variant (microATX)  
 **STH:** Intel B360  
-**CPU:** Intel Core i5-9400F  
-**RAM:** 1x Innodisk M4US-8GSSKCRG-S (8GB DDR4 2133 DIMM)  
-**GPU:** GIGABYTE GV-N1650IXOC-4GD (Nvidia GeForce GTX 1650)  
-**SSD:** Innodisk 3ME3 DES25-B56D08BC1QC (SATA 2.5", 256GB)  
+**CPU:** Intel Core i5-9400F (2.9GHz) [TDJ] 
+**RAM:** 1x Innodisk M4US-8GSSKCRG-S (8GB DDR4 2133 DIMM) [TDJ]  
+**GPU:** GIGABYTE GeForce GTX 1650 MINI ITX OC 4G (GV-N1650IXOC-4GD) (4 GB, GDDR5) [TDJ]  
+**SSD:** Innodisk 3ME3 DES25-B56D08BC1QC (SATA 2.5", 256GB) [TDJ]  
 **SND:** ASUS Xonar AE  
 **IO:** [BIO2(BI2X)](io.md#bio2)  
 **Games:** TDJ, UFC  
 **OS:** Windows 10 IoT Enterprise LTSC 2019  
 **Ref:** https://www.konami.com/amusement/arespear/desktops/c300/index.html
 
+### C7C242
+
+(name tentative)
+
+Used for new PCBs for older IIDX cabs (GELDJ-JX), optional for IIDX RESIDENT but mandatory for IIDX 31.
+
+`#WEB: https://twitter.com/iMp95/status/1640971658117926912`
+
+**MBD:** Supermicro C7C242-CB-M (microATX)  
+**STH:** Intel C242  
+**CPU:** Intel Core i5-9500E (3.0GHz) `#WEB: https://twitter.com/iMp95/status/1641042366856404992` 
+**RAM:** 1x Innodisk M4UI-8GS1JC0K-C (8GB DDR4 2666 DIMM)  
+**GPU:** MSI GeForce GTX 1650 D6 AERO ITX J OC (4 GB, GDDR6)  
+**SSD:** Innodisk 3TG6-P DGS25-B56M71EC1QFP (SATA 2.5", 256GB)  
+**SND:** ASUS Xonar AE  
+**IO:** [BIO2](io.md#bio2)  
+**Games:** LDJ  
+**OS:** Windows 10 IoT Enterprise LTSC 2019 (?)  
+**BIOS:** AMIBIOS Aptio (05/27/2020 Rev:1.4V1)  
+**PSU:** FSP FSP550-50AAA (550W)  
 
 ### C300
 
