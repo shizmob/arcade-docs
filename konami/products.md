@@ -2198,12 +2198,13 @@ unknown:
   - beatmania IIDX 27 HEROIC VERSE (2019, PC(ADE)IO(BIO2)-SSD)
   - beatmania IIDX 28 BISTROVER (2020, PC(ADE)IO(BIO2)-SSD)
   - beatmania IIDX 29 CastHour (2021, PC(ADE)IO(BIO2)-SSD)
-  - beatmania IIDX 30 RESIDENT (2022, PC(ADE)IO(BIO2)-SSD)
+  - beatmania IIDX 30 RESIDENT (2022, PC(ADE/C7C242)IO(BIO2)-SSD)
   - [`GQLDJ-JA`: tricoro cabinet](product/GQLDJ-JA.md)  `#WEB:https://mirais-station.hatenablog.com/entry/2020/02/15/180000`
   - [`GQLDJ-JB`: SPADA/PENDUAL cabinet](product/GQLDJ-JB.md)  `#WEB:https://mirais-station.hatenablog.com/entry/2020/02/15/180000`
   - [`GQLDJ-JC`: COPULA/SINOBUZ/CANNON BALLERS cabinet](product/GQLDJ-JC.md)  `#WEB:https://aucview.aucfan.com/yahoo/k541777425 #WEB:https://mirais-station.hatenablog.com/entry/2020/02/15/180000`
   - `GKLDJ-ZA`: tricoro dedicated cabinet [Thailand, Uniana]  `#WEB:https://twitter.com/uhaj/status/699515619813658624`
   - `GELDJ-JB`: tricoro update kit  `#WEB:http://aucview.aucfan.com/yahoo/c743060247 #WEB:https://aucview.aucfan.com/yahoo/478821729/ #WEB:https://page.auctions.yahoo.co.jp/jp/auction/c1030151302`
+  - `GELDJ-JX`: RESIDENT / IIDX31 PCB update kit `#WEB:https://twitter.com/wgc_tencho/status/1640935116917870593/photo/2`
   - `GULDJ-JB?`: tricoro LCD monitor?  `#WEB:https://kohada.5ch.net/test/read.cgi/gecen/1283629289/894`
   - [`GULDJ-JC`: tricoro LCD monitor](product/GULDJ-JC.md)  `#WEB:http://kururusky.com/?p=1458 #WEB:https://aucview.aucfan.com/yahoo/m1035374934/`
   - `GULDJ-JD`: LCD monitor rear-projection cab mounting kit `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/l1037123166 #WEB:https://aucview.aucfan.com/yahoo/m1035374934/ #WEB:https://cdn.discordapp.com/attachments/448313625606881280/955572881583136898/20220321_160517.jpg`
@@ -2244,6 +2245,7 @@ unknown:
   - `LDJ JF *01`: CANNON BALLERS PCB
   - `LDJ JF A01`: ROM [ADE PCB, 7] 2017-11-07 0
   - `LDJ JF D01`: ROM [ADE PCB, 7] 2018-06-25 0
+  - `LDJ-JI-A01`: ROM [C7C242 PCB, 10] 2023-02-14 0 `#WEB:https://twitter.com/iMp95/status/1641073030708494337`
 * `LMA`
   - Quiz Magic Academy 賢者の扉 (2012, PC(C3)IO(USB1/USB2)-HDD)
   - Quiz Magic Academy 天の学舎 (2014, PC(C3)IO(USB1/USB2)-HDD)
