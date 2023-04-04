@@ -1418,6 +1418,7 @@ MDA-U0072 :
 MDA-U0073 :
 MDA-U0074 :
 MDA-U0075 :
+         B: Initial D Arcade Stage Zero Ver.1.30 : ALLS : CHN : SDER
          G: Initial D Arcade Stage Zero Ver.1.42 : ALLS : CHN : SDER
 MDA-U0076 :
 MDA-U0077 : HOD: SCARLET DAWN (EXP) VER.1.00 E/F/I/SP/TR/P : ALLS : EXP : SDET
