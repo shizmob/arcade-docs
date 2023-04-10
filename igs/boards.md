@@ -60,6 +60,7 @@ There is little to no information about this board yet.
 * Halloween Night (M203CN) (redemption game, possible to be converted to slot machine)
 * Trick or Treat (redemption game, possible to be converted to slot machine)
 * Harpoon Lagoon (ICE) (replacement PCB)
+* 西遊爭霸/鬥戰勝佛 (MD401CN?) (Yuehua Software)
 
 # PC-Based
 
