@@ -132,6 +132,9 @@ Has two sub-variants, differences unknown but similar:
                     - Submarine Crisis
 ```
 
+**Notes:**
+* BIOS can be accessed via Ctrl+D at boot-up
+
 ### E2100
 **Motherboard:** Advantech DES-BT01
 
