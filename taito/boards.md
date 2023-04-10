@@ -77,7 +77,7 @@ Missing: 002, 004, 009, 010, 015, 016, 018, 019, 020, 023
 |        |               |       |             | HAUNTED MUSEUM2 M9008429A VER1.01-J  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/e1071865921` |
 | 203B-R | P4 3.4GHz     | 512MB | GF7900GS    | MUSIC GUNGUN! 2                                                                             |
 |        |               |       |             | HOPPING ROAD M9007872A Ver.1.04JPN                                                          |
-| 204A   | Cel 3.2GHz    | 512MB | X1600PRO    | CHASE H.Q.2 M9007599A VER2.06JP  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1065905616` |
+| 204A   | Cel 3.2GHz    | 512MB | X1600PRO    | CHASE H.Q.2 M9007599A VER2.0.6JP  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1065905616 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/o1075167385` |
 | 205A   | P4 3.4GHz     | 512MB | GF7900GS    | KOF XIII M9008271A Ver.1.0.12.0496 (B3900147A, black/grey)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/j1050883108` |
 |        |               |       |             | CAPCOM SSF4 M9008361A Ver1.0  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/d1064693574` |
 | 207A   | P4 3.4Ghz     | 1GB   | GF7900GS    | STREET FIGHTER4 VER1.00                                                                     |
@@ -113,8 +113,10 @@ Missing: 002, 004, 009, 010, 015, 016, 018, 019, 020, 023
 |        |               |       |             | NESICA X LIVE M9008355A Ver.1.02  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1049955781` |
 |        |               |       |             | NESICA X LIVE M9008355A Ver.1.05  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/f1070023222` |
 |        |               |       |             | NESICA X LIVE M9008355A Ver.1.12  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1052225460` |
+|        |               |       |             | NESICA X LIVE M9008355A VER.2.00  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/p1075437607` |
 |        |               |       |             | NESICA X LIVE M9008490A VER.2.01  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/x1058229373` |
-| 218A   | PenDC 1.8GHz  | 2GB   | HD5770      | CAPCOM MB4 M9008420A Ver1.0 [Mario Coin World]                                              |
+| 218A   | PenDC 1.8GHz  | 2GB   | HD5770      | CAPCOM MB4 M9008420A Ver1.0 [Mario Coin World]  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/c1075438668` |
+| 220A   | PenDC 1.8GHz  | 1GB   | E4690       | HOPPING ROAD CHN VER1.00TWN                                                                 |
 | ???    | Core2 Duo     | ???   | ???         | special red/black PCB                                                                       |
 
 ? - NESICA X LIVE M9008355A Ver.1.12 (B3900153A green)
@@ -135,7 +137,7 @@ Missing: 104, 106, 107, 108, 109, 110, 201, 202, 206, 214, 216
 |       |        |   -    | Blue  | WD WD1600BEVT           | KICKTHROUGH RACERS M9008531A Ver.1.13JPN  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/e1063268125` |
 |       |        |   -    | Blue  | WD WD1600BEVT           | KICKTHROUGH RACERS M9008531A Ver.1.16JPN  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/r1055362744` |
 |       |        |   x    | Blue  | Hitachi HTS545032A7E380 | MOGUTTE HORE HORE M9008613A  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/f1048964856` |
-|       |        |   x    | Blue  | Hitachi HTS545032A7E380 | MOGUTTE HORE HORE M9008613A Ver.1.01JPN  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/r1053776097` |
+|       |        |   x    | Blue  | Hitachi HTS545032A7E380 | MOGUTTE HORE HORE M9008613A Ver.1.01JPN  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/r1053776097 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/d1073868632` |
 |  302A | WS7E   |   -    | Blue  | Hitachi HTS545016B9A30  | NESICA X LIVE SERVER M9008358A Ver.1.02  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/w1055564471 #WEB:https://www.arcade-projects.com/threads/hello-build-a-ttx-hardware-project-photo-inside.11582/` |
 |       |        |   -    | Blue  | WD WD3200LPVX           | NESiCA X LIVE SERVER M9008358A VER.1.10  `#WEB:https://aucview.aucfan.com/yahoo/b529689058` |
 |  306A | WinXPe |   x    | Blue  | WD WD3200LPVX           | GROOVE COASTER-(GR) M9008895A VER.1.02JPN (M9008894A)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/d1037583733` |
@@ -171,10 +173,10 @@ Missing: 303, 304, 305
 |  405    |             | Core i3-2120 3.3GHz | 2GB x2 | N640          | PUZZLE & DRAGONS M9008936A VER.1.000  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/h1066907714` |
 |         |             |                     |        |               | THEATRHYTHM FF AC M9009097A  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1068434353` |
 |  406    |             | Core i5-2400 3.1GHz | 4GB x2 | N660GTX       | GUNS 3-(ADVANCE) M9009092A (M9009088A, black)                                |
-|         | W10LTSB2015 |                     |        |               | NESICA X LIVE 2 M9009197A  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/g1063565352` |
+|         | W10LTSB2015 |                     |        |               | NESICA X LIVE2 M9009197A (M9009199A, black)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/g1063565352 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/h1075354921` |
 |         | WS7E        |                     |        |               | LEFT4DEAD 生存者たち M9008990A VER.1.0004                                         |
 |         | WS7E        |                     |        |               | LEFT4DEAD 生存者たち (15PLAN) M9009006A VER.1.0004  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/r1051678154` |
-|  407    |             | Core i5-2400 3.1GHz | 8GB x2 | GTX760 CRB    | FIGUREHEADS A                                                                |
+|  407    |             | Core i5-2400 3.1GHz | 8GB x2 | GTX760 CRB    | FIGUREHEADS A-(30P) M9009191A  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/f1074999366` |
 |  ???    |             | Core i7-2600 2.6Ghz | ???    | ???           | Specified as part of press release to be a CPU option, maybe model 400/401?  |
 |  ???    |             | ???                 | ???    | HD6770        | Specified as part of press release to be a GPU option, maybe model 400/401?  |
 
@@ -200,7 +202,7 @@ Missing: 401
 |       |         | WE8.1S      |               |                    |                   | LOVELIVE! AC NS SATELLITE SPLAN                          |
 |       |         | WE8.1S      |               |                    |                   | LOVELIVE! AC NS SATELLITE S PLAN  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/v1065264354` |
 |       |         |             |               |                    |                   | MGICIANS DEAD M9009141A  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/x1050826171` |
-|  501A | 2017/10 |             | i5-4590S      | 4GB(DDR3-1600) x2  | GTX1080-8GB       | 電車でＧＯ！！ (30プラン)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/h1050922019` |
+|  501A | 2017/10 |             | i5-4590S      | 4GB(DDR3-1600) x2  | GTX1080-8GB       | 電車でＧＯ！！ (30プラン)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/h1050922019 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1072825747` |
 |  502A | 2018/09 | WE8.1S      | i7-4970S      | 8GB(DDR3-1600) x2  | GTX1080-8GB       | HOSHI TSUBA 30PLAN                                       |
 |       |         |             |               |                    |                   | HOSHI TSUBA 09PLAN  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/x1065143200` |
 |       |         |             |               |                    |                   | DENSHA DE GO                                             |

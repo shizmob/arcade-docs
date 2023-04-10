@@ -274,6 +274,8 @@ Uses Intel Extreme integrated graphics instead of a GeForce GPU.
 
 #### FAB-e865-KN303
 
+`#WEB:https://page.auctions.yahoo.co.jp/jp/auction/o1075484850`
+
 **CPU:** Intel Celeron 2.5Ghz  
 **RAM:** 2x Micron MT4VDDT3264AY-335F1 (DDR1, PC2700, 256MB)  
 **GPU:** ATI Radeon 9600XT 128M  
@@ -442,6 +444,10 @@ Also known as: "BemaniPC Type 2" (unofficially).
 
 #### FAB-e67-TP601
 
+Also known as: `FAB-e67-KN601`
+
+`#WEB:https://page.auctions.yahoo.co.jp/jp/auction/k1075894043`
+
 **CPU:** Intel Core i7-2600  
 **GPU:** AMD Radeon HD 6850 (1 GB)  
 **RAM:** 4 GB DDR3  
@@ -584,6 +590,20 @@ Also known as: "ADE".
 
 ## Misc
 
+### mITX-1505A `WEB:https://twitter.com/iMp95/status/1638185838034190336/`
+(name tentative)
+
+* Release: 2022 (?)
+* Base: PC
+
+**MBD:** GigaIPC mITX-1505A (MRZNRMI)
+**CPU:** AMD Ryzen Embedded R1505G
+**GPU:** AMD Radeon Vega 3 Graphics
+**RAM:** 2 x 4 GB DDR4 (SODIMM) (?)
+**SSD:** InnoDisk 3TG6-P (SATA) (size unknown)
+**OS:** Windows 10 IoT LTSC 2019 (?)
+**Games:** VFG
+
 ### MB-875-M10
 (name tentative)
 
@@ -675,22 +695,45 @@ Also known as: "ADE".
 * Release: 2019
 * Base: PC (Konami boards)
 
-### C300 (Xonar AE)
+### C300(XonarAE)
 
 (Name for its home variation. Name for actual arcade hardware is tentative)
 
+First debuted in beatmania IIDX Lightning Model, released with Heroic Verse.
+Also used for SOUND VOLTEX Valkyrie Model cabs.
+
 **MBD:** Supermicro SuperO MBD-C7B360-CB-MW-O custom variant (microATX)  
 **STH:** Intel B360  
-**CPU:** Intel Core i5-9400F  
-**RAM:** 1x Innodisk M4US-8GSSKCRG-S (8GB DDR4 2133 DIMM)  
-**GPU:** GIGABYTE GV-N1650IXOC-4GD (Nvidia GeForce GTX 1650)  
-**SSD:** Innodisk 3ME3 DES25-B56D08BC1QC (SATA 2.5", 256GB)  
+**CPU:** Intel Core i5-9400F (2.9GHz) [TDJ] 
+**RAM:** 1x Innodisk M4US-8GSSKCRG-S (8GB DDR4 2133 DIMM) [TDJ]  
+**GPU:** GIGABYTE GeForce GTX 1650 MINI ITX OC 4G (GV-N1650IXOC-4GD) (4 GB, GDDR5) [TDJ]  
+**SSD:** Innodisk 3ME3 DES25-B56D08BC1QC (SATA 2.5", 256GB) [TDJ]  
 **SND:** ASUS Xonar AE  
 **IO:** [BIO2(BI2X)](io.md#bio2)  
 **Games:** TDJ, UFC  
 **OS:** Windows 10 IoT Enterprise LTSC 2019  
 **Ref:** https://www.konami.com/amusement/arespear/desktops/c300/index.html
 
+### C7C242
+
+(name tentative)
+
+Used for new PCBs for older IIDX cabs (GELDJ-JX), optional for IIDX RESIDENT but mandatory for IIDX 31.
+
+`#WEB: https://twitter.com/iMp95/status/1640971658117926912`
+
+**MBD:** Supermicro C7C242-CB-M (microATX)  
+**STH:** Intel C242  
+**CPU:** Intel Core i5-9500E (3.0GHz) `#WEB: https://twitter.com/iMp95/status/1641042366856404992` 
+**RAM:** 1x Innodisk M4UI-8GS1JC0K-C (8GB DDR4 2666 DIMM)  
+**GPU:** MSI GeForce GTX 1650 D6 AERO ITX J OC (4 GB, GDDR6)  
+**SSD:** Innodisk 3TG6-P DGS25-B56M71EC1QFP (SATA 2.5", 256GB)  
+**SND:** ASUS Xonar AE  
+**IO:** [BIO2](io.md#bio2)  
+**Games:** LDJ  
+**OS:** Windows 10 IoT Enterprise LTSC 2019 (?)  
+**BIOS:** AMIBIOS Aptio (05/27/2020 Rev:1.4V1)  
+**PSU:** FSP FSP550-50AAA (550W)  
 
 ### C300
 

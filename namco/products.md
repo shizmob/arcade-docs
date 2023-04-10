@@ -41,6 +41,7 @@ AQ  - Aqua Rush
 AR  - Alpine Racer  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/c1067007198
 ARS - Alpine Racer 2
 AT  - Assault
+BAM - ?  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/g1075237638
 BAX - Sengoku Basara X Cross
 BI  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/u1066242309
 BK  - Bakutotsu Kijuutei
@@ -63,6 +64,7 @@ CSZ - Crisis Zone
 CVC - Uchuu Daisakusen Chocovader Contactee
 CY  - Cyber Commando, Cyber Sled
 DAC - Mach Storm
+D2  - Dig Dug 2  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/g1074722134
 DB  - Dragon Buster  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1004877428
 DB  - Super Dragon Ball Z / Chou Dragon Ball Z
 DC  - ダンシングアイ / Dancing Eyes  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/g1005480922
@@ -75,6 +77,7 @@ DF  - Dirt Fox
 DGC - Dragon Chronicles Legend of the Master Ark
 DH  - Downhill Bikers
 DHR - Dead Heat Riders / Street Racing
+DHU - Dead Heat Unleashed
 DM  - Dunk Mania
 DO  - Dragon Saber
 DOL - Druaga Online: The Story of Aon
@@ -144,9 +147,9 @@ KN1 - Kinnikuman Muscle Grand Prix
 KN2 - Kinnikuman Muscle Grand Prix 2  #WEB:https://www.ebay.co.uk/itm/165010814397
 KP  - カニカニパニック / Kani Kani Panic  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/o1009159025
 KPM - Kotoba no Puzzle Mojipittan  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/p1011357758 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/f1059211345
-KQ  - Kosodate Quiz My Angel  #WEB:https://jp.mercari.com/item/m80799164755
+KQ  - Kosodate Quiz My Angel  #WEB:https://jp.mercari.com/item/m80799164755 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/b1075880228
 KQS - Kosodate Quiz My Angel 2  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/f1012105713
-KQT - Kosodate Quiz My Angel 3
+KQT - Kosodate Quiz My Angel 3  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/g1075409660
 KRG - Keroro Gunsō Chikyū Shinryaku Shirei Dearimasu!
 KTD - Kart Duel
 KW  - Kaiun Quiz
@@ -154,7 +157,7 @@ KY  - Kyuukai Douchuuki
 LG  - Libero Grande
 LLA - Lost Land Adventure
 LW  - Lucky & Wild
-MB  - Mach Breakers - Numan Athletics 2 / Mach Breakers
+MB  - Mach Breakers - Numan Athletics 2 / Mach Breakers  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/h1073814626
 MC  - Metro-Cross  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/k1004876101
 MDH - Derby Quiz My Dream Horse
 MG  - Motocross Go!
@@ -170,7 +173,7 @@ MN  - Mirai Ninja
 MP  - Mappy  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/u1006258813
 MQ  - Bakuretsu Quiz Ma-Q Dai Bouken  #MAME:namcona1
 MTL - ?
-MV  - Marvel Land
+MV  - Marvel Land  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/h1075236699
 NC  - Namco Classic Collection Vol.1
 NCS - Namco Classic Collection Vol.2  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/l1042804770
 NCF - NFL Classic Football
@@ -184,9 +187,10 @@ OB  - Oh! Bakyuuun / Ghoul Panic
 OGT - One Piece Gangan Treasure
 OR  - Ordyne  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1011626641
 OT  - ?  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/e1070828716
-OU  - The Outfoxies
+OU  - The Outfoxies  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/k1078332592
 PBN - Pokemon Battle Nine
 PBR - Pacman Battle Royale
+PBT - フォトバトール / Photo Battle  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/k1073310095
 PBX - Point Blank X / Gunbullet X
 PC  - Puzzle Club
 PD  - Pistol Daimyo no Bouken
@@ -249,18 +253,19 @@ SGR - ?  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/t802818945
 SH  - Splatter House  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/h548583253
 SK  - Sky Kid Deluxe
 SK2 - Mobile Suit Gundam Bonds of the Battlefield II
+SL  - Spiral Fall  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/1074920140
 SKH - Sekai Kaseki Hakken
 SN  - Steel Gunner
 SNS - Steel Gunner 2
 SO  - Soul Edge
 SOC - Soul Calibur  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/l1005492307
 SS0 - Super World Stadium 2000
-SS1 - Super World Stadium 2001
+SS1 - Super World Stadium 2001  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/c1075485136
 SS5 - Super World Stadium '95
-SS6 - Super World Stadium '96  #WEB:https://aucview.aucfan.com/yahoo/e506634000
+SS6 - Super World Stadium '96  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/s1075478699 #WEB:https://aucview.aucfan.com/yahoo/e506634000
 SS7 - Super World Stadium '97  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/552682989
-SS8 - Super World Stadium '98
-SS9 - Super World Stadium '99
+SS8 - Super World Stadium '98  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/o1073042621
+SS9 - Super World Stadium '99  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/g1075481687
 SSC - スィートスクーパー / Sweet Scooper  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/t1011339591
 SSG - Super World Stadium '92?'94?
 SSS - Super World Stadium '92
@@ -286,8 +291,8 @@ TCH - ビンゴキッズ  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/d298
 TD  - ドルアーガの塔 / Tower of Druaga
 TE  - Tekken
 TE5 - Tekken 5
-TE6 - Tekken 6
-TE7 - Tekken 7
+TE6 - Tekken 6  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/r1075132658
+TE7 - Tekken 7  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/u1075229533
 TED - Tekken 5 Dark Resurrection
 TEF - Tekken 4
 TEG - Tekken Tag Tournament  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/1022599123
@@ -295,8 +300,8 @@ TER - Tekken 7 Fated Retribution
 TES - Tekken 2
 TET - Tekken 3
 TF  - Tank Force  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/x1004252803 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/u1005527169
-TG2 - Tekken Tag Tournament 2
-TH  - Techno Drive
+TG2 - Tekken Tag Tournament 2  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/r1075355449
+TH  - Techno Drive  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/1075930543
 TK  - Tinkle Pit  #MAME:namcona1
 TK2 - Taiko no Tatsujin 2
 TK3 - Taiko no Tatsujin 3
@@ -311,7 +316,7 @@ TKM - Tenkomori Shooting
 TNB - Technic Beat
 TON - Sailor Zombie AKB48
 TR  - Toukon Retsuden 3
-TR2 - Tekken 7 Fated Retribution Round 2
+TR2 - Tekken 7 Fated Retribution Round 2  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/g1074387858
 TS  - Time Crisis
 TSF - Time Crisis 4
 TSS - Time Crisis 2
@@ -345,6 +350,7 @@ WMN - Wangan Midnight
    1- JP
    2- EXP
 WMR - Wangan Midnight R
+WP  - ワニワニパニック / Wani Wani Panic  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/g1075593695
 WPD - ワニワニパラダイス / Wani Wani Paradise  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/p755515979
 WR  - Winning Run
 WS  - Pro Yakyuu World Stadium
