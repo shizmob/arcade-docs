@@ -24,9 +24,8 @@
 
 **Extra:** IC card readers
 ## PolyGameMaster 3 (PGM3)`#MAME:pgm3.cpp #WEB:https://www.arcadebelgium.net/t4958-knights-of-valour-3-hd-sangoku-senki-3-hd`
-Despite using Intel processors, PGM3 is not a PC/AT compatible system.
 
-**CPU:** Intel Atom D525 @ 1.80GHz ? / SOCLE SOC38, customized ARM1176 @ 800MHz?
+**CPU:** SOCLE SOC38, customized ARM1176 @ 800MHz?
 
 **RAM:** 2GB
 
@@ -80,7 +79,7 @@ Despite using Intel processors, PGM3 is not a PC/AT compatible system.
 **OS:** Linux, likely LFS
 
 **Games:**
-* Percussion Master [M-200 NC]
+* Percussion Master
 * Percussion Master Plus
 * Percussion Master 2
 * Rock Fever 5
@@ -90,37 +89,54 @@ Despite using Intel processors, PGM3 is not a PC/AT compatible system.
 
 There are two variants:
 * E2000-C6-V256: Has Celeron M 600MHz onboard
-* E2000-V256: Has a more powerful CPU (unknown at the moment) as well as a heatsink on the CPU
+* E2000-V256: Has a PGA479 socket with Celeron M 370 attached.
+Has two sub-variants, differences unknown but similar:
+** IGS MB NX E2000C [SD2]
+** IGS MB NX E2000D [WeDo]
 
-**CPU:** Intel Celeron M (600MHz, SL8FN) [E2000-C6-V256]
+**CPU:**
+* Intel Celeron M (600MHz, SL8FN) (onboard) [E2000-C6-V256]
+* Intel Celeron M 370 (1.5GHz, SL8MM) (socketed) [E2000-V256]
 
-**GPU:** Nvidia GeForce 6200 (AGP) [E2000-C6-V256]
+**GPU:** Nvidia GeForce 6200 (256 MB GDDR2) [GF-6200-AGP N-A1]
+
+**RAM:** 2 x DDR1 slot. Memory sizes differ depending on games
+* DSL 1 GB DDR-333 [WeDo]
 
 **Chipset:** Intel 852GME
 
-**Storage:** CompactFlash cards
+**Storage:**
+* CompactFlash card
+* IDE-based hard drives are also possible thru IDE connector
 
-**SND:** Realtek AC'97
+**SND:** Realtek ALC655 (AC'97)
 
 **OS:** LFS Linux (kernel 2.4.31)
+
+**BIOS:** customized Phoenix AwardBIOS. Other BIOS revisions may exist
+* 07/03/2007-i852-W83627HF-6A69YILTC-00 [E2000C] [E2000D]
 
 **Games:**
 ```
     E2000-C6-V256   - Panda Family
-                    - Rock Fever 5 (replacement/newer PCB) [M-102 CN]
-                    - Percussion Master Plus (replacement/newer PCB)
-    E2000-C6-V256   - Percussion Master 2008 (replacement/newer PCB) [M-202 CN]
-                    - We Dancing Online
-    E2000-V256      - We Dancing Online 2 Plus
-                    - Speed Rider [SR] [M-109 CNC] [M-100 FA]
-    E2000-V256      - Speed Driver 2
+    E2000-C6-V256   - Rock Fever 5 (replacement/newer PCB)
+    E2000-C6-V256   - Percussion Master Plus (replacement/newer PCB)
+    E2000-C6-V256   - Percussion Master 2008 (replacement/newer PCB)
+    E2000-C6-V256   - Gold Captain (航海小勇士)
+    E2000-V256      - Pirate Revenge
+    E2000-V256      - We Dancing Online
+    E2000-V256      - We Dancing Online 2 (Plus)
+    E2000-V256      - Speed Rider
+    E2000-V256      - Speed Driver 2: Overtake
                     - Vibraphone (铁琴: 第一乐章)
+                    - Submarine Crisis
 ```
 
 ### E2100
 **Motherboard:** Advantech DES-BT01
 
-**BIOS:** Customized Phoenix-AwardBIOS v6.00PG, version as DES-BT01 BIOS V1.10 [**** DES-BT01 BIOS V1.10 (09/06/2010) ****, 09/01/2010-945GS-8A79YAK8C-00]
+**BIOS:** Customized Phoenix-AwardBIOS v6.00PG, version as DES-BT01 BIOS V1.10
+* 09/01/2010-945GS-8A79YAK8C-00 [**** DES-BT01 BIOS V1.10 (09/06/2010) ****]
 
 **CPU:** Intel Atom N270
 
@@ -137,8 +153,9 @@ There are two variants:
 * Demon Hunter
 * Fish Lagoon
 * Harpoon Lagoon (ICE)
-* 無敵風火輪 (M-103CN)
-* 海遊漁 (JPN, M-103JP)
+* Shooting Mania
+* 無敵風火輪
+* 海遊漁 (Japan)
 
 ### E2200
 **Motherboard:** Advantech DAC-BT07
@@ -146,7 +163,8 @@ Has two variants:
 * KN-00 (DAC-BT07 A101-4) (Percussion Master 3)
 * KN-01 (DAC-BT07 A102-2)
 
-**BIOS:** Customized AMI BIOS 8, version as E2200 BIOS V1.0.0 (20111207) [E2200 BIOS V1.0.0 (20111207), 64-0100-009999-00101111-120711-Pineview-E22_V100-Y2KC]
+**BIOS:** Customized AMI BIOS 8, version as E2200 BIOS V1.0.0 (20111207)
+* 64-0100-009999-00101111-120711-Pineview-E22_V100-Y2KC [E2200 BIOS V1.0.0 (20111207)]
 
 **CPU:** Intel Atom D525 @ 1.83GHz
 
@@ -162,7 +180,8 @@ Has two variants:
 ### E3000
 **Motherboard:** Pegatron E3000V (08M1-04E3000)
 
-**BIOS:** AMI BIOS 8, more similar to regular ones [BIOS Date: 02/23/11 16:45:13 Ver: V11.0.0] (64-0100-000001-00101111-022311-ATHLON64-E3K_X001-Y2KC)
+**BIOS:** AMI BIOS 8, more similar to regular ones. Other BIOS revisions may exist
+* 64-0100-000001-00101111-022311-ATHLON64-E3K_X001-Y2KC [BIOS Date: 02/23/11 16:45:13 Ver: V11.0.0] [SR2] [SD4] [PT] [MuziBox]
 
 **CPU:** AMD Athlon II X2 250
 
@@ -183,7 +202,8 @@ Has two variants:
 * Speed Rider 2
 * Power Truck
 * Power Truck Special
-* Music Gun Gun (Taito, China version) [M-100CN]
+* Music Gun Gun (Taito, China version)
+* MuziBox (音炫疯)
 
 ### E3100
 **Motherboard:** Advantech EBC-TA17, marked as iTS I-JOIN E3100  
@@ -236,7 +256,6 @@ Currently found BIOS versions are:
 * Speed Driver 4 (replacement PCB)
 * Transform Hero of Robots
 * Speed Rider 3
-* Overtake VR
 
 ### V3000
 **Motherboard:** GIGABYTE H110M-S2PV
@@ -256,25 +275,77 @@ Other variations may exist
 
 **Games:**
 * Speed Driver 5
+* Overtake VR (?)
 * Ultra Moto VR
 * Asphalt 9 Arcade DX
 
 ## C-series
-### C2000
-**Motherboard:** I-Join C2000
+### C1000
+**Motherboard:** IGS NX MB C1000
 
-**CPU:** AMD Geode
+**CPU:** AMD Geode GX 533 (400MHz)
+
+**Chipset:** AMD Geode CS5535
+
+**GPU:** Geode GX2 Video Controller (16 MB shared memory)
+
+**RAM:** 128 MB DDR-200 (4 x Hynix HY5DU561622ETP-5)
+
+**Sound:**
+* Realtek ALC203 (AC'97)
+* C-Media CMI8738 [Percussion Kids/Tempo Kiddo]
+
+**LAN:** Realtek RTL8100C
+
+**OS:** modified Red Hat Linux (32-bit, using Linux kernel 2.4.24)
+
+**BIOS:** modified National Semiconductors XpressROM BIOS [Percussion Kids, newer revision PCB]
 
 **Games:**
-* Jungle Drummer
-* Global Touch 2007 Sigma [M-262SAE]
-* IQ Park 2008 (IQ乐园2008)
-* IQ Park 2011 (IQ乐园2011)
-* IQ Park Online (IQ乐园网络版) [M-148CNC]
+* Percussion Kids (2005)
+* Tempo Kiddo (2005)
+* IQ乐园PART4 (2007)
+* 手指指2007 (2007)
 
-**Notes #1:** BIOS can be accessed via Ctrl+D while at the IGS BIOS splash screen at boot-up
+**Notes:**
+* Based on same board for earlier EZTouch games (IGS-Osprey) but with CPU module now onboard and IDE connector.
+* The key to enter BIOS is still unknown.
+* The IGS027A ASIC is connected thru Texas Instruments PCI1510 bus chip.
+* The MBR of the game's CompactFlash is encrypted by the BIOS, but the contents are still accessible using imaging tools.
+* The encrypted MBR has the header of "IGS-I-JOIN-C1000". It's not possible to boot from other boot drives like USB without the header present; it will fail with "Boot False(B)."
+* C-Media CMI8738 is used instead of the AC'97 chip for Percussion Kids and Tempo Kiddo, although the Realtek AC'97 chip is still present onboard.
 
-**Notes #2:** Onboard video memory size can be adjusted up to 256 MB
+### C2000
+**Motherboard:** I-JOIN C2000
+Has two variants:
+* Rev2.0: onboard DDR1 RAM with additional DIMM slot
+* Rev2.1: same as Rev2.0, but without the onboard RAM and minor layout changes
+
+**CPU:** AMD Geode series
+
+**STH:** AMD Geode CS5536 (?)
+
+**RAM:**
+* onboard DDR1 RAM (size unknown) + 1 x DDR1 DIMM slot [Rev2.0]
+* 1 x DDR1 DIMM slot [Rev2.1]
+
+**BIOS:** customized Phoenix AwardBIOS
+
+**Games:**
+```
+    Rev2.0      - Jungle Drummer (丛林鼓王)
+    Rev2.1      - IQ Park Online (IQ乐园网络版)
+    Rev2.1      - IQ Park 2008 (IQ乐园2008)
+    Rev2.1      - IQ Park 2011 (IQ乐园2011)
+    Rev2.1      - IQ Park 2011 (IQ乐园2012)
+                - Global Touch 2007 Sigma
+                - Diamond Progressive (control box)
+
+```
+
+**Notes:**
+* BIOS can be accessed via Ctrl+D while at the IGS BIOS splash screen at boot-up
+* Onboard video memory size can be adjusted up to 256 MB
 
 ## Misc
 ### Percussion Master (export)
