@@ -2,7 +2,7 @@
 
 ## Games
 
-### [Gamecodes](identifiers.md#game-code)
+### [Gamecodes]
 
 ```
 D/B         - Danz Base (2014)

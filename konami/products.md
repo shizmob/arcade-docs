@@ -2590,7 +2590,8 @@ unknown:
   - Quiz Magic Academy 輝望の刻 (2020, PC)
   - Quiz Magic Academy 夢幻の鏡界 (2021, PC)  `#WEB:https://twitter.com/SILKHAT_Yokochu/status/1386522899226320903`
   - `TMAJAB01`: ROM 2020-03-10 0
-* `TSS`: スマッシュスタジアム  `#SCRAPE:konami:eagate`
+* `TSS`: スマッシュスタジアム (2020, PC(ADE))  `#SCRAPE:konami:eagate`
+  - `TSS-JB (STATION)`: station dongle
 * `TTA`: カラコロッタ めざせ！夢の宝島  `#SCRAPE:konami:eagate`
 * `TVS`: デュエルドリーム / DUEL DREAM  `#SCRAPE:konami:eagate #MISC:oyakodon_oniku_list`
 * `U32`: コナステ GITADORA [e-AMUSEMENT CLOUD/home version]
