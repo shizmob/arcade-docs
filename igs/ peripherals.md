@@ -13,23 +13,23 @@ Obviously, games that aren't slot machine/redemption games won't make use of thi
 
 Time bomb is a way of enforcing revenue sharing when other methods such as contracts or e-cash are considered unfeasible or inappropriate.
 
-The owner of the machine could set a time bomb to be triggered after the machine has been running for a certain time period. When the time bomb is triggered, the machine will run into a lockdown state, with warning message "time extension required" displayed. To defuse this state, a "time extension" or  "bookkeping report" command is required to be executed from the test menu
+The owner of the machine could set a time bomb to be triggered after the machine has been running for a certain time period. When the time bomb is triggered, the machine will run into a lockdown state, with warning message "time extension required" displayed. To defuse this state, a "time extension" or  "bookkeping report" command is required to be executed from the test menu.
 
-When executing these commands, a set of credential will be displayed and the machine will require a defuse password to be typed in. These credentials has to be typed into the code generator, which is kept by the owner rather than given to the tenant. After typing in the credential, the code generator deciphers revenue infomation from the credential, and displays the revenue during this time period and password for defusing the time bomb. 
+When executing these commands, a set of credential will be displayed and the machine will require a defuse password to be typed in. These credentials has to be typed into the code generator, which is kept by the owner rather than given to the tenant. After typing in the credential, the code generator deciphers bookkeeping infomation from the credential, and displays the revenue during this time period and password for defusing the time bomb. 
 
-The tenant will only receive the password after his share is paid. After the correct password is typed in, the machine will back to its normal state.
+The tenant will only receive the password after his share is paid. After the correct password is typed in, the machine will turn back to its normal state.
 
 ## Adjusting RNG Parameters
 
 The test menu of IGS GP1 based slot machine (or at least for games that make use of code generator) only displays current settings, but the settings cannot be changed on the machine. 
 
-To change the settings, the serial number of the board has to be typed into the code generator, then parameters including coin ratio, [RTP%/PARS](https://en.wikipedia.org/wiki/Slot_machine#Payout_percentage), time period for time bomb, etc. could be set up on it.
+To change the settings, the serial number of the board has to be typed into the code generator, then parameters including coin to credit ratio, [RTP% & PARS](https://en.wikipedia.org/wiki/Slot_machine#Payout_percentage), time period for time bomb, etc. could be set up on it.
 
 After settings has been done, a password encrypted with current settings will be generated. This password has to be typed into the machine to update the parameters of the RNG.
 
 ## RNG Manipulation
 
-Sometimes a code generator will have functionalities to manipulate the RNG, including sudden tightening/loosing of RTP%,  spiking/smoothing PARS, deterministic results, or executing other OEM predefined RNG routines.
+Sometimes a code generator will have functionalities to manipulate the RNG, including sudden tightening/loosing of RTP%, spiking/smoothing PARS, deterministic results, or executing other OEM predefined RNG routines.
 
 Just like adjusting RNG parameters, these functionalities are also sent to the RNG as passwords typed in from the machine.
 
