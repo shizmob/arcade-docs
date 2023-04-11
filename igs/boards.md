@@ -56,10 +56,11 @@ There is little to no information about this board yet.
 **Games:**
 * Ocean King 2 series (slot machines)
 * Ocean King 3 series (slot machines)
-* Halloween Night (M203CN) (redemption game, possible to be converted to slot machine)
+* Halloween Night (M203CN/V204CN) (redemption game, possible to be converted to slot machine)
 * Trick or Treat (redemption game, possible to be converted to slot machine)
 * Harpoon Lagoon (ICE) (replacement PCB)
-* 西遊爭霸/鬥戰勝佛 (MD401CN?) (Yuehua Software)
+* 西遊爭霸/鬥戰勝佛 (MD401CN?)
+* 西遊爭霸2：大聖歸來 (MD109MO)
 
 # PC-Based
 

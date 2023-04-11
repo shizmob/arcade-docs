@@ -11,6 +11,10 @@ Obviously, games that aren't slot machine/redemption games won't make use of thi
 
 **Note: the following content is based on how code generator works on C/S series slot machine. IGS GP1 may not use all the features, or use them in different ways.**
 
+## Games Found Using This Device
+
+* 西遊爭霸/鬥戰勝佛 (MD401CN?) (Yuehua Software)
+
 ## Time Bomb
 
 Time bomb is a way of enforcing revenue sharing when other methods such as contracts or e-cash are considered unfeasible or inappropriate.
