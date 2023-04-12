@@ -47,6 +47,8 @@
 ## GP1
 (name tentative; using the logo on the top of the board as its name)
 
+Mostly used for slot machines and redemption games.
+
 For Ocean King series, development of hardware or software has probably been outsourced to another company called Yuehua Software (YHS) as its logo has been printed on the case, but the game is still released under the IGS brand and making use of ASICs from IGS.
 
 There is little to no information about this board yet.
