@@ -46,7 +46,8 @@ For identification purpose, IGS labels their product's revision using a
 * M-103CN
 
 ### 海遊漁
-* M-103JP
+* M-103JP (Japan)
+* M-103CN (China)
 
 ### IQ乐园网络版
 * M-148CNC
