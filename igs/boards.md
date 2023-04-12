@@ -148,6 +148,7 @@ Has two sub-variants, differences unknown but similar:
     E2000-V256      - Speed Driver 2: Overtake
                     - Vibraphone (铁琴: 第一乐章)
                     - Submarine Crisis
+                    - 海遊漁 (China)
 ```
 
 **Notes:**
