@@ -687,7 +687,7 @@ BNA1(RICH)
 
 ```
          Gundam: Extreme Vs. 2 (GX2) - https://page.auctions.yahoo.co.jp/jp/auction/f501215923
-         Gundam: Extreme Vs. 2 (GXX) - https://page.auctions.yahoo.co.jp/jp/auction/q1087629031
+         Gundam: Extreme Vs. 2 XBOOST (GXX) - https://page.auctions.yahoo.co.jp/jp/auction/q1087629031
          JoJo: Last Survivor (JJL)
          Sword Art Online Arcade (Satellite) (SAO)
          Midnight Tune 6 (WM6, export)
