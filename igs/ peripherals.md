@@ -58,3 +58,38 @@ Despite these functionalities showing up on most of the code generators, whether
         <td>&nbsp;</td><td colspan=2>MOVE/+-</td><td>&nbsp;</td>
     </tr>
 </table>
+
+## Hardware Specification
+### Variation 1: `#DOC:Maxim DS5003 Datasheet Rev.0`
+
+**CPU:** Maxim DS5003 security-hardened microcontroller, Intel 8051 compatible, 16MHz ?
+
+**ROM:** 128KB SRAM as ROM
+
+**RAM:** 256 bytes fused in (128B direct addressing, 128B indirect addressing)
+
+**Power:** 2x AAA battery (master); Built in CR2032 (backup)
+
+**Others:** SRAM emergency clear signal - not sure if used in this device
+
+* It could be bricked if the CR2032 runs out or removed as the master SRAM will be wiped !
+
+### Variation 2: `#DOC:STC STC12C5A60S2 Datasheet version Jul. 19 2015`
+
+**CPU:** STC 12C5A60S2 microcontroller, Intel 8051 compatible, 35MHz max ("1T" microcontroller - equals to ~420MHz on original Intel 8051)
+
+**ROM:** 60KB fused in
+
+**RAM:** 1280 bytes fused in, 256B direct addressing, 1KB indirect addressing
+
+**Power:** 2x AAA battery
+
+### Variation 3: `#DOC: STM32F100C8 Datasheet DocID16455 Rev.9 `
+
+**CPU:** ST electronics STM32F100C8, 32MHz
+
+**ROM:** 128KB fused in
+
+**RAM:** 8KB SRAM fused in
+
+**Power:** 2x AAA battery
