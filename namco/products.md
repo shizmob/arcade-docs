@@ -13,7 +13,6 @@
 ??? - Gundam: Bonds of the Battlefield
 ??? - Gundam: Bonds of the Battlefield REV.2.x
 ??? - Gundam: Bonds of the Battlefield REV.3.x
-??? - JoJo: Last Survivor
 ??? - Pico Pico Anpanman Go
 ??? - Pokemon Mega Get
 ??? - Pokemon Round 'n Round Get
@@ -134,12 +133,14 @@ GT  - Genpei Toumaden  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/w100991
 GVS - Mobile Suit Gundam: Gundam vs Gundam
 GX2 - Gundam Extreme Vs. 2
 GXO - Gundam Extreme Vs. Maxi Boost ON (GXO)
+GXX - Gundam Extreme Vs. 2 XBOOST
 GY  - Gynotai
 GYM - Gegege no Kitarō Yōkai Yokochō Matsuri De Batoru Ja
 HM  - Hopping Mappy
 IDM - The IDOLM@STER  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/j1004144883 (IDMS1) #WEB:https://page.auctions.yahoo.co.jp/jp/auction/d1004142476 (IDMT1)
 IN2 - Sukusuku Inufuku 2 / The Dog Luck 2
 JAM - Capcom Fighting Jam / Capcom Fighting Evolution
+JJL - JoJo: Last Survivor
 JS  - じゃんけんしようよメイン
 KD1 - ?  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/c911811261
 KH  - Knuckle Heads  #MAME:namcona1

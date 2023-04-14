@@ -686,8 +686,9 @@ BNA1(RICH)
 **IO:** 2x JVS/USB? (expansion card, '5' and '6')  
 
 ```
-         Gundam: Extreme Vs. 2 (GX2) - https://page.auctions.yahoo.co.jp/jp/auction/f501215923)
-         JoJo: Last Survivor
+         Gundam: Extreme Vs. 2 (GX2) - https://page.auctions.yahoo.co.jp/jp/auction/f501215923
+         Gundam: Extreme Vs. 2 XBOOST (GXX) - https://page.auctions.yahoo.co.jp/jp/auction/q1087629031
+         JoJo: Last Survivor (JJL)
          Sword Art Online Arcade (Satellite) (SAO)
          Midnight Tune 6 (WM6, export)
          Midnight Tune 6R (W6R, export)
