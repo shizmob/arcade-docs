@@ -59,6 +59,13 @@
 * Codename: "Alard"
 * Compatible games: IMS
 
+## USBIO
+
+`#WEB:https://jp.mercari.com/item/m70893480843`
+
+* Interface to main PCB: USB 1.1 (Cypress EZ-USB CY7C64613)
+* Compatible games: B08, FLY
+
 ## USBIO2
 
 [USBIO2](io/usbio2.md)

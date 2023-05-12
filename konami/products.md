@@ -1279,7 +1279,10 @@ unknown:
   - `GCB07-JB : beatmania 7thMIX mini type conversion kit
   - `GCB07-JC`: beatmania III APPEND 7thMIX
   - `B07 PCB 0475` / `PWB(F)0000100158`: BMFIL [filter PCB, between DJMAIN and most of the other connectors]
-* `B08`: Python PCB?  `#CLAIM:shiz`
+* `B08`: Perfect Pool / Perfect Shot (2001, PYTHON, IO(USBIO))  `#CLAIM:shiz`
+  - `GQB08-EA`: Perfect Shot
+  - `GQB08-TB`: Perfect Pool
+  - `B08 EA A04`: Python HDD
 * `B09`: 麻雀格闘倶楽部 (?)  `#MISC:oyakodon_oniku_list`
   - `GYB09`?  `#WEB:https://archive.is/qJsfv`
   - `GYB09-PWB(B)A`  `#WEB:https://www.ebay.co.uk/itm/165082617245 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/t1057195356`
