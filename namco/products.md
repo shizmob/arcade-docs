@@ -41,7 +41,7 @@ AR  - Alpine Racer  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/c106700719
 ARS - Alpine Racer 2
 AT  - Assault
 BAM - ?  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/g1075237638
-BAX - Sengoku Basara X Cross
+BAX - 戦国BASARA X  #WEB:https://jp.mercari.com/item/m20001205900
 BI  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/u1066242309
 BK  - Bakutotsu Kijuutei
 BM  - Chou Zetsurinjin Berabowman
@@ -57,7 +57,7 @@ CCS - ?  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/c911811261
 CHS - Seishun Quiz Colorful High School
 CL  - Cyber Lead  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/c906436276 #WEB:https://www.ebay.co.uk/itm/165014274701
 CO  - Cosmo Gang the Video
-CP  - Cosmo Gang the Puzzle / コズモギャング・ザ・パズル  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/l1008541783 #MAME:namcona1
+CP  - Cosmo Gang the Puzzle / コズモギャング・ザ・パズル  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/l1008541783 #WEB:https://jp.mercari.com/item/m79750263399 #MAME:namcona1
 CSN - Counter Strike Neo
 CSZ - Crisis Zone
 CVC - Uchuu Daisakusen Chocovader Contactee
@@ -126,11 +126,11 @@ GNB - Gunbarl / Point Blank 2
 GNN - Gunbalina / Point Blank 3
 GNX - Gundam vs. Gundam NEXT
 GP  - ギャプラス / Gapius  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1006134243
-GS  - Great Sluggers  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/j1005459303
+GS  - Great Sluggers  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/j1005459303 #WEB:https://jp.mercari.com/item/m51881741200
 GSE/GS4 - Great Sluggers '94
 GSD - Mobile Suit Gundam SEED Destiny O.M.N.I. vs Z.A.F.T. II
 GT  - Genpei Toumaden  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/w1009919083
-GVS - Mobile Suit Gundam: Gundam vs Gundam
+GVS - Mobile Suit Gundam: Gundam vs Gundam  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/x1086069071
 GX2 - Gundam Extreme Vs. 2
 GXO - Gundam Extreme Vs. Maxi Boost ON (GXO)
 GXX - Gundam Extreme Vs. 2 XBOOST
@@ -281,8 +281,8 @@ SWB - M188???  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/l1003283787
 SWF - M143???  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/h1003281724
 SWS - Super World Stadium  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/l1006800069
 SYN - Synchronica
-T10 - Taiko no Tatsujin 10
-T11 - Taiko no Tatsujin 11  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/c1016019389
+T10 - Taiko no Tatsujin 10  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/m1088823392
+T11 - Taiko no Tatsujin 11  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/c1016019389 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/s1088829839
 T12 - Taiko no Tatsujin 12
 T13 - Taiko no Tatsujin 13
 T14 - Taiko no Tatsujin 14
@@ -306,12 +306,12 @@ TH  - Techno Drive  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/1075930543
 TK  - Tinkle Pit  #MAME:namcona1
 TK2 - Taiko no Tatsujin 2
 TK3 - Taiko no Tatsujin 3
-TK4 - Taiko no Tatsujin 4  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/k1006517518
-TK5 - Taiko no Tatsujin 5  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/f1007483601
-TK6 - Taiko no Tatsujin 6
-TK7 - Taiko no Tatsujin 7
-TK8 - Taiko no Tatsujin 8
-TK9 - Taiko no Tatsujin 9  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/m1011495382
+TK4 - Taiko no Tatsujin 4 [CD]  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/k1006517518 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/h1088828688
+TK5 - Taiko no Tatsujin 5 [CD]  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/f1007483601 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1088834866
+TK6 - Taiko no Tatsujin 6 [CD]  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/b1088837812
+TK7 - Taiko no Tatsujin 7 [DVD]  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/b1088835623
+TK8 - Taiko no Tatsujin 8 [DVD]  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/w1088839164
+TK9 - Taiko no Tatsujin 9 [DVD]  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/m1011495382 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/h1088827194
 TKK - Truck Kyosokyoku
 TKM - Tenkomori Shooting
 TNB - Technic Beat
@@ -362,8 +362,8 @@ XV3 - Xevious 3D/G
 XV  - Xevious  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/p1006260281
 YD  - Youkai Douchuuki / Shadowland
 YH  - The Battle of Yu Yu Hakusho Dark Tournament
-ZDX - Mobile Suit Z Gundam DX A.E.U.G. vs Titans
-ZGA - Mobile Suit Z Gundam A.E.U.G. vs Titans
+ZDX - 機動戦士Ζガンダム エゥーゴ vs. ティターンズ DX  #WEB:https://jp.mercari.com/item/m52001581252
+ZGA - 機動戦士Zガンダム エゥーゴ vs. ティターンズ  #WEB:https://jp.mercari.com/item/m42788445838
 ZNT - Minna de Kitaeru Zenno  #WEB:https://www.ebay.co.uk/itm/165010630001
 ZS  - Zelos
 ```
@@ -435,7 +435,7 @@ M143 - MAIN PCB [SWF]                #WEB:https://page.auctions.yahoo.co.jp/jp/a
 M145 - MAIN PCB [JPG]                #WEB:https://page.auctions.yahoo.co.jp/jp/auction/r490677188
 M168 - DRIVE PCB                     #WEB:https://page.auctions.yahoo.co.jp/jp/auction/u243960159
 M188 - MAIN PCB [SWB]                #WEB:https://page.auctions.yahoo.co.jp/jp/auction/l1003283787
-M171 - SIA PCB [ワイワイクリッパー]     #WEB:https://page.auctions.yahoo.co.jp/jp/auction/w290817382
+M171 - SIA PCB [ワイワイクリッパー]     #WEB:https://page.auctions.yahoo.co.jp/jp/auction/w290817382 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/f1088100403
 M188 - MAIN PCB [SSC]                #WEB:https://page.auctions.yahoo.co.jp/jp/auction/t1011339591
 ```
 
