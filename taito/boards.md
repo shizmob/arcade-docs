@@ -209,7 +209,7 @@ Missing: 401
 |  503A | 2019/02 |             | i5-4590S      | 4GB(DDR3L-1600) x2 | GTX1060-6GB       | STREET FIGHTER V TYPE ARCADE  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1024155298` |
 |  503A | 2022/06 | W10LTSC2019 | i5-4590S      | 4GB(DDR3-1600) x2  | GTX1650-4GB       | STREET FIGHTER V TYPE ARCADE  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1070069620` |
 |  504A |         |             | i5-4590S      | 4GB(DDR3L-1600) x2 | RTX2070-8GB       | DENSHADE GO!! COMPACT-(10PLAN)                           |
-|  600A | 2018/11 |             | i3-6100       | 8GB(DDR4-2133) x2  | GTX1050-2GB       | GUNARENA  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/e1072717343`|
+|  600A | 2018/11 |             | i3-6100       | 8GB(DDR4-2133) x2  | GTX1050-2GB       | GUNARENA  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/e1072717343 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/c1089089504`|
 |  601A | 2018/11 |             | Pentium G4400 | 8GB(DDR4-2133) x2  | Intel HD Graphics | Groove Coaster 4C EXP KIT (aka. RhythmVader CHN 2 / 音炫轨道2) `#WEB:https://twitter.com/jq9837/status/1456432713703981060` |
 |  602A | 2019/10 |             | Pentium G4400 | 4GB(DDR4-2400) X2  | GT1030-2GB        | OMATSURI QUEST HIPPARE-Q `#MEDIA:taito/type-x4-602a.jpg` |
 |       |         |             | i5-6500       |                    | GTX1650-4GB       | Tetote x Connect                                         |
