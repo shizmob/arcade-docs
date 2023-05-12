@@ -157,9 +157,22 @@ Custom Hitachi SH3-based boards, used for DDR Kids and medal games.
 * Base: Sony Playstation 2
 * HDD: CompactFlash [C18, C27]
 * HDD: HDD [C00, C20, D11, E12, E13, F14, E33]
-* Games: B08?, C00 / C20 / D11 / E12 / E13 / F14, C18 / C27, C30, E33
+* Games: B08, C00 / C20 / D11 / E12 / E13 / F14, C18 / C27, C30, E33
 
 Similar to Namco's System 246 and System 256.
+
+Has two known form factors:
+
+- Regular
+  * Longer
+  * One JAMMA and one JAMMA-like edge connector
+  * https://up.shiz.me/f/python1-pcb-popn.png
+  * Games: `B08`, `C00`, `C20`, `D11`, `E12`, `E13`, `F14`, `E33`
+- Short
+  * Shorter
+  * I/O conversion PCB to JVS mounted on edge connectors
+  * https://www.zax.com.au/buy/pro-evolution-soccer-pcb/PESOCCER
+  * Games: `C18`, `C27`
 
 ## Python 2
 
@@ -168,6 +181,24 @@ Similar to Namco's System 246 and System 256.
 * Games: D44, E00 / F00, E01, E02 / E03 / F02 / F03 / F32 / F33, FDH / GDJ
 
 Unlike the first Python, based on a retail board using Sony's DNAS protection system.
+
+Has three known form factors:
+
+- Regular
+  * Full-flat
+  * No memory card board
+  * https://www.flickr.com/photos/alexperrier/51697539880/
+  * https://www.zax.com.au/buy/konami-guitar-freaks-v3-python-2-pcb-gameboard/GFV3_PYTHON2
+  * Games: `D44`, `E00`, `E01`, `E02`, `E03`, `F00`, `F02`, `F03`, `F32`, `F33`
+- DanceDanceRevolution JP/US
+  * Shorter, thinner in the front, taller with recess for disc drive access
+  * Memory card board
+  * https://www.flickr.com/photos/chi-ryu/3316069893/
+  * Games: `FDH`, `GDJ`
+- DanceDanceRevolution EU
+  * Hump where memory card board sticks out
+  * Memory card board
+  * Games: `FDH`
 
 ## `KNM-*`
 
