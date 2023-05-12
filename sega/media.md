@@ -114,7 +114,7 @@ Y = C: cartridge
 840-0095C: SOUL SURFER : NAOMI2
 840-0098C: SHOOTOUT POOL
 840-0106C: VIRTUA FIGHTER 4 EVOLUTION : NAOMI2
-840-0117C: それいけ! アンパンマン ポップコーンこじょう2 : Rev.C  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/k1052746541
+840-0117C: それいけ! アンパンマン ポップコーンこじょう2  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/k1052746541
 840-0128C: SHOOTOUT POOL PRIZE
 840-0128C: SHOOTOUT POOL THE MEDAL
 840-0129C: club kart PRIZE : NAOMI2
@@ -128,6 +128,7 @@ Y = C: cartridge
 840-0140C: KICK '4' CASH
 840-0150C: MUSHIKING TKOB 2K3 2ND : 1.002-/1.003- : EXP
 840-0152C: MUSHI KING 2K4 2ND : JPN
+840-0155C: MUSHIKING TKOB 2K3 2ND : KOR  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/l1085524994`
 840-0158C: MUSHIKING 2K5 1ST : JPN
 840-0164C: MUSHIKING TKOB II ENG : 1.001/2.001 : EXP
 840-0166C: Touch de Zunou
@@ -154,7 +155,7 @@ Y = C: cartridge
 841-0002C: IDOL JANSHI SUCHIE-PAI 3 : 253-5509-5047
 841-0003C: DEAD OR ALIVE 2 : 253-5509-5048
 841-0004C: DENGEN TENSHI TAISEN JANSHI SHANGRI-LA : 253-5509-5050
-841-0005C: SPAWN In the Demon's Hand : 253-5509-5051
+841-0005C: SPAWN In the Demon's Hand : 253-5509-5051  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/j1085210032
 841-0006C: ぷよぷよだ！
 841-0007C-01: MARVEL VS. CAPCOM 2 NEW AGE OF HEROES
 841-0007C-02: MARVEL VS. CAPCOM 2 NEW AGE OF HEROES
@@ -171,11 +172,11 @@ Y = C: cartridge
 841-0017C: 機動戦士ガンダム　連邦vs.ジオン  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/p1078283800
 841-0020C: ZERO GUNNER 2
 841-0057C: シューティングラブ。 2007  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/o1052361326
-841-0058C: AKATSUKI BLITZKAMPF AUSF. ACHSE
+841-0058C: アカツキ電光戦記 Ausf.Achse  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/1085517931
 841-0059C: イルベロ
 841-0060C: まもるクンは呪われてしまった!
 841-0061C: MELTY BLOOD ACTRESS AGAIN
-841-0062C: ラジルギノア
+841-0062C: ラジルギノア  #WEB:https://jp.mercari.com/item/m96727945402
 ```
 
 NAMCO cartridges:
@@ -210,7 +211,9 @@ GDS-0008 : MONKEY BALL
 GDS-0009A: DYNAMIC GOLF (VIRTUA GOLF) : EXP  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/h1075342758
 GDS-0010 : SUPER MAJOR LEAGUE (WORLD SERIES BASEBALL) : EXP
 GDS-0011 : VIRTUA TENNIS (POWER SMASH)
-GDS-0012B: VIRTUA FIGHTER 4 : BDM
+GDS-0012 : VIRTUA FIGHTER 4 : NAOMI2 : BDM  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/j1086068773 #WEB:https://jp.mercari.com/item/m33904987189
+        B: ^  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/g1086071066
+        C: ^  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/p1086072350
         D: ^
 GDS-0013 : シャカっとタンバリン! 2K1
 GDS-0014 : BEACH SPIKERS  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/h1075342758
@@ -223,11 +226,11 @@ GDS-0020B: 頭文字D Arcade Stage : NAOMI2 : JPN/253-5508-4351J?
 GDS-0021 : ルピン三 THE TYPING/253-5508-0332J?
 GDS-0022 : THE MAZE OF THE KINGS
 GDS-0023 : DIMM FIRM UPDATE/253-5508-0387
-        A: ^ 2.13  [VF4]
-        C: ^ 2.17 [VF4E]
-        E: ^ 3.17  [VF4FT]
-GDS-0024A: VIRTUA FIGHTER 4 EVOLUTION : BFB
-        B: ^
+        A: ^ 2.13  [VF4]  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/g1087744896`
+        C: ^ 2.17 [VF4E]  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/b1087750322`
+        E: ^ 3.17  [VF4FT]  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/m1087743465`
+GDS-0024A: VIRTUA FIGHTER 4 EVOLUTION : NAOMI2 : BFB  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1086066907
+        B: ^  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/1086068385
 GDS-0025 : INITIAL D : EXP
 GDS-0026A: 頭文字D Arcade Stage Ver.2 : NAOMI2 : JPN
 GDS-0027 : Initial D Ver.2 : EXP
@@ -240,7 +243,7 @@ GDS-0033 : LUPIN THE 3RD - THE SHOOTING
 GDS-0033 : Initial D Ver.3 : EXP
 GDS-0034 : Puyo Pop Fever : EXP
 GDS-0035 :
-GDS-0036A: VIRTUA FIGHTER 4 FINAL TUNED : SBHX : 253-5508-0387
+GDS-0036A: VIRTUA FIGHTER 4 FINAL TUNED : SBHX : 253-5508-0387  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/p1086067878
         D: ^
         F: ^  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1061299381
 GDS-0037A: Dragon Treasure II
@@ -271,7 +274,7 @@ GDL-0011 : ギルティギアXX / Guilty Gear XX : 253-5509-5082  #WEB:https://p
 GDL-0012 : Cleopatra Fortune Plus
 GDL-0013 : Moeru Casinyo : JPN
 GDL-0014 : ムサピィのチョコマーカー : 253-5509-5065J?
-        A: ^  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/460819809
+        A: ^  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/460819809 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/b1088064597
 GDL-0015 : MOGACHO
 GDL-0016 : Pochinya
 GDL-0017 : Quiz Keitai Q mode
@@ -279,7 +282,7 @@ GDL-0018 : Azumanga Daioh Puzzle Bobble
 GDL-0019 : ギリティギア エグゼクス #RELOAD  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/h1075342758
         A: ^
 GDL-0020 : テトリス極道(TETRIS KIWAMEMICHI) : JPN  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1042474215
-GDL-0021 : 式神の城Ⅱ
+GDL-0021 : 式神の城Ⅱ  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/p1089059445
 GDL-0022 : 兎 -野性の闘牌- 山城麻雀編  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/r1075386767
 GDL-0023 : BORDER DOWN
         A: ^
@@ -299,16 +302,16 @@ GDL-0031 : Super Shanghai 2005 : JPN
 GDL-0032 : Radirgy : JPN
         A: ^
 GDL-0033 : GUILTY GEAR XX SLASH  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/h1075342758
-        A: ^
+        A: ^  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/j1086066972
 GDL-0034 : Kurukuru Chameleon : JPN / 253-5509-5117J?
 GDL-0035 : Under Defeat
-GDL-0036 : Trigger Heart Exelica : JPN
+GDL-0036 : トリガーハート エグゼリカ : JPN  #WEB:https://jp.mercari.com/item/m63219417981
 GDL-0037 : Jingi Storm - The Arcade : JPN
 GDL-0038 : SENKO NO RONDE SP : JPN/EXP  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/s820418542
-GDL-0039 : MELTY BLOOD Act Cadenza Ver.B  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/c1008419351
+GDL-0039 : MELTY BLOOD Act Cadenza Ver.B  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/c1008419351 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/v1086069488
         A: ^ Ver.B(2?)
 GDL-0040 : Karous : JPN
-GDL-0041 : GUILTY GEAR XX ΛCORE : JPN : 253-5509-5126J  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/p1008578926
+GDL-0041 : GUILTY GEAR XX ΛCORE : JPN : 253-5509-5126J  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/p1008578926 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/h1086064228
 GDL-0042 : たころん : JPN
 ```
 
@@ -344,8 +347,8 @@ GDT-0006 : The Key Of Avalon: The Wizard Master (satellite)
 GDT-0007 : F-ZERO AX : ASIA
 GDT-0008 : Gekitou Pro Yakyuu Mizushima Shinji All Stars vs. Pro Baseball
         A: ^
-        B: ^
-        C: ^
+        B: ^  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/c1086069566`
+        C: ^  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/c1086065784`
 GDT-0009 : アヴァロンの鍵 (メイン)
         A: ^ 1.2: Summon the New Monsters
         B: ^ 1.x:
@@ -354,12 +357,12 @@ GDT-0010 : アヴァロンの鍵 (satellite)
         A: ^ 1.2: Summon the New Monsters
         B: ^ 1.x:
         C: ^ 1.30: Chaotic Sabbat  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1034155235`
-GDT-0011 : BOOT UPDATE
+GDT-0011 : BOOT UPDATE  `#WEB:https://jp.mercari.com/item/m71543452075`
 GDT-0012 : VIRTUA STRIKER 2002 (type 3)
 GDT-0013 : VIRTUA STRIKER 4 : JPN: 253-5508-0391J
         A: ^
         B: ^
-        C: ^  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/x1051108255
+        C: ^  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/x1051108255`
         D: ^
         E: ^
 GDT-0014 : VIRTUA STRIKER 4 : ASIA
@@ -379,7 +382,7 @@ GDT-0019 : The Key Of Avalon 2.5: War of the Key (satellite)
         B: ^
 GDT-0020 : VIRTUA STRIKER 4 VER.2006
         A: ^
-        B: ^
+        B: ^ #WEB:https://page.auctions.yahoo.co.jp/jp/auction/u1086081611
         C: ^
         D: ^
 GDT-0021 : VIRTUA STRIKER 4 VER.2006 : EXP
@@ -586,7 +589,7 @@ DVP-0007 : Ami-Gyo : SBLP
         A: ^
         B: ^
         C: ^
-DVP-0008A: Virtua Fighter 5 : EXP? : SBLM : 253-5508-0438
+DVP-0008A: Virtua Fighter 5 : EXP? : SBLM : 253-5508-0438  #WEB:https://jp.mercari.com/item/m75002731509
         B: ^
         C: ^
         D: ^
@@ -647,7 +650,7 @@ DVP-0043 : Virtua Fighter 5 : SBLM : EXP : 253-5508-0438
 DVP-0044 : SEGA Race-TV : SBPF : 253-5508-0504
 DVP-0045 :
 DVP-0046G: StarHorse2: Third Evolution : Star Horse : SBPM
-DVP-0047A: Derby Owners Club 2008: Feel The Rush : Blue : JPN : 253-5508-0511
+DVP-0047A: Derby Owners Club 2008: Feel The Rush : Blue : JPN : 253-5508-0511  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/s1085519386
 DVP-0048A: PRIMEVAL HUNT : Red : SBPP : 253-5508-0512
 DVP-0049 : セガネットワーク対戦麻雀 MJ4 : Red : SBPN : 253-5508-0514/253-5508-0515(satellite)
         A: ^
@@ -774,7 +777,7 @@ DVR-0032  :
 DVR-0033  :
 DVR-0034  :
 DVR-0035  :
-DVR-0036A : STARBOAT : RingEdge : JPN : SBVZ
+DVR-0036A : STARBOAT : RingEdge : JPN : SBVZ  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/h1086186601
 DVR-0037  : OPERATION G.H.O.S.T. : RingWide : SBWA
 DVR-0038  : Let's Go ISLAND 3D : RingEdge : SBWB
 DVR-0039  :
@@ -806,7 +809,7 @@ DVR-0063  :
 DVR-0064  :
 DVR-0064  :
 DVR-0065  :
-DVR-0066  :
+DVR-0066C : ホルカxトルカ  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/w1089030955
 DVR-0067  :
 DVR-0068  : Sega Card Gen MLB 2013 : RingEdge2 : JPN : SBYU
 DVR-0069  : ALL.Net P-ras MULTI バーシオン2 : RingEdge2 : JPN : SBYG : v0.13  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/s1075497928
@@ -853,7 +856,7 @@ CDV-35003 : 初音ミク Project DIVA Arcade (No.2) : RingEdge : JPN : SBTY : v2
          U: ^ v6.00.01 (Ver B Rev 5)
 DVR-5004D : WORLD CLUB CHAMPION FOOTBALL 2010-2011 : RingEdge : JPN : SBWG
 DVR-5005  :
-DVR-5006A : 頭文字D ARCADE STAGE 6 AA : RingEdge : SBUU
+DVR-5006A : 頭文字D ARCADE STAGE 6 AA : RingEdge : SBUU  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/f1087773000`
 DVR-5007  :
 DVR-5008  :
 DVR-5009  :
@@ -887,7 +890,7 @@ DVR-5027  : maimai GreeN (No.1) : RingEdge2 : JPN : SBZF
 CDV-30027 : maimai GreeN (No.2) : RingEdge2 : JPN : SBZF
 CDV-35027D: maimai GreeN (No.2) : RingEdge2 : JPN : SBZF
          E: ^
-DVR-5028  : STARBOAT PROGRESS : RingEdge : JPN : SBYV/SBTV(live)?
+DVR-5028  : STARBOAT PROGRESS : RingEdge : JPN : SBYV/SBTV(live)?  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/h1086186601
 DVR-5029A : WORLD CLUB CHAMPION FOOTBALL 2012-2013 : RingEdge : JPN : SBZG  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/j1075674470`
 DVR-5030  :
 DVR-5031  :
@@ -1025,13 +1028,14 @@ CDN-0004     : 艦これアーケード (Kancolle) : Nu1.1 : JPN : SDBZ
          BM-2D: ^ (Disc.2)  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/t1044174625
          BM-3 : ^ (Disc.3)  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/1043591578
 CDN-0005    :
-CDN-0006 E-1D: 三国志大戦 (Disc.1) : Nu2 : JPN : SDDD : 三国志大戦 伝承の煌弓
+CDN-0006 B-1D: 三国志大戦 (Disc.1) : Nu2 : JPN : SDDD  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/s1088305141`
+         E-1D: (Disc.1) : 三国志大戦 伝承の煌弓 
           -2 : ^ (Disc.2)
          M-1D: (Disc.1)
          M-2D: ^ (Disc.2)
-         S-1D: (Disc.1)   `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/j1042990641`
-         S-2D: ^ (Disc.2)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/j1042990641`
-         S-3 : ^ (Disc.3)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/j1042990641`
+         S-1D: (Disc.1)   `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/j1042990641 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/e1088312136`
+         S-2D: ^ (Disc.2)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/j1042990641 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/e1088312136`
+         S-3 : ^ (Disc.3)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/j1042990641 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/e1088312136`
 CDN-0007  -1D: 頭文字D ARCADE STAGE ZERO (No.1) : Nu2 : JPN/EXP? : SDDF : 610-0937-007BE
           -2D: ^ (No.2)
          D-1D: ^
@@ -1055,6 +1059,8 @@ CDN-0010 R-1D: Wonderland Wars (Disc.1) : Nu1 : JPN : ??? : `#WEB:https://page.a
         AA-1D: ^ (Disc.1)  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/h1044156294
         AA-2D: ^ (Disc.2)  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/h1044156294
         AA-3 : ^ (Disc.3)  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/h1044156294
+CDN-0011 A-1 : けものフレンズ3プラネットツアーズ (Disc.1) : NuSX : JPN  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/c1087183866`
+
 ????        : Cross Beats Rev : Nu1.1 : JPN : SDCA : 610-0891-002BJ
 ????        : Luigi's Mansion : Nu1.1 : EXP : SDCF : 610-0891-001BE
 ????        : Mario & Sonic at the Rio Olympic Games : Nu1.1 : JPN/EXP : SDCH : 610-0890-010BJ
@@ -1375,7 +1381,7 @@ MDA-U0032 :
 MDA-U0033A?: REVOLUTION 3                 : RingWide
 MDA-U0034 : CHAOS CODE                    : RingWide : SBWF  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/h1043508515 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/u1021391011`
 MDA-U0035 :
-MDA-U0036 : MULTI UPDATE                  : RingEdge2
+MDA-U0036 : MULTI UPDATE                  : RingEdge2  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/g1088718188`
 MDA-U0037 :
 MDA-U0038 :
 MDA-U0039 :
@@ -1437,8 +1443,8 @@ MDA-U0086 : maimai DX 2021                : ALLS HX2 : CHN : SDGB
 MDA-U0087 :
 MDA-U0088G: ALL.Net P-ras MULTI バージョン3 VER1.18
 MDA-U0089 :
-MDA-U0090 :
-MDA-U0091 : MARIO & SONIC TOKYO           : ALLS HX2 : JPN : SDCH?  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/r1057342461
+MDA-U0090 : MARIO & SONIC TOKYO           : Nu1.1 : JPN : SDFV  #WEB:https://cdn.discordapp.com/attachments/486911995296219147/1102222979053650000/IMG_2114.jpg
+MDA-U0091 : MARIO & SONIC TOKYO           : ALLS HX2 : JPN : SDFV  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/r1057342461
 MDA-U0092 : ぷよぷよeスポーツ アーケード すぽっと！ : https://page.auctions.yahoo.co.jp/jp/auction/b1047926013
 MDA-U0093 :
 MDA-U0094 :
