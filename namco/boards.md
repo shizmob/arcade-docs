@@ -499,10 +499,11 @@ N2(WM3R):
   - ES1(A/NO-USB)
   - ES1(B)
   - ES1(A2)
+  - ES1(R) [renamed ES1(A2)]
 
 **MBD:** Supermicro C2SBM-Q (ES1(A): "F1B16M-LS-C2D30-51M2"), ES1(A/NO-USB): "FB16M-LS-C2D30-512M2", ES1(A2): "FB16M-LS-C2D30-2G1")  
-**CPU:** Intel Core 2 Duo E8400  
-**RAM:** \[ES1(A), ES1(A/NO-USB)\] 2x SanMax SMD-51246NP-8E (DDR2 DIMM, PC2-6400U-555, 512MB)  
+**CPU:** Intel Core 2 Duo E8400 [ES1(A/A2)] / Celeron Dual-Core E1500 [ES1(B)]  
+**RAM:** \[ES1(A), ES1(A/NO-USB), ES1(B)\] 2x SanMax SMD-51246NP-8E (DDR2 DIMM, PC2-6400U-555, 512MB)  
 **RAM:** \[ES1(A2)\] 1x SanMax SMD-2G88HP-8E (DDR2 DIMM, PC2-6400U-555, 2GB)  
 **GPU:** \[ES1(A), ES1(A/NO-USB), ES1(A2)\] Nvidia GeForce 9600 GT (PCIe, 512MB, BIOS Version: 62.94.61.00.08)  
 **GPU:** \[ES1(B)\] AMD Radeon HD 4550 (PCIe, 512 MB)  
@@ -515,13 +516,14 @@ N2(WM3R):
 
 ```
         A - Nirin (NRN) - https://www.bandainamco-am.co.uk/files/41)
-        B - Dead Heat/Maximum Heat (DDH) - https://www.bandainamco-am.co.uk/files/27, http://collectedit.com/collectors/shou-time-213/arcade-pcbs-281/ dead-heat-us-by-namco-12558
+        B - Dead Heat/Maximum Heat (32-inch version, DDH) - https://www.bandainamco-am.co.uk/files/27, http://collectedit.com/collectors/shou-time-213/arcade-pcbs-281/dead-heat-us-by-namco-12558
+            Dead Heat/Maximum Heat (42-inch version, DDC)
  A/NO-USB - Tank! Tank! Tank! (TTT) - https://www.bandainamco-am.com/images/content/Tank%20Tank%20Tank%20Manual.pdf
        A2 - Gundam: Bonds of the Battlefield 3.0 (GKE? GSK?) - http://collectedit.com/collectors/shou-time-213/arcade-pcbs-281/mobile-suit-gundam-bonds-of-the-battlefield-japan-by-namco-19629
             Gundam: Bonds of the Battlefield 4.0 (GK4, GKE? GKN?) - https://page.auctions.yahoo.co.jp/jp/auction/g495616988
             Midnight Tune 4 (Japan/Asia/US, WM4, https://www.arcade-projects.com/threads/namco-es1-wmmt4.2270/)/5 (Asia/US, WM5)/5DX (Asia, W5X)/5DX+ (Asia, W5P) https://www.facebook.com/weedxy2gab/photos/pcb.665771777362930/665771667362941/?type=3&theater
             Maximum Heat 3D (MMH)
-          - Ace Angler / Fishing Spirits (釣りスピリッツ) (main PCB)
+            Ace Angler / Fishing Spirits (釣りスピリッツ) (main PCB)
 ```
 
 ## System ES2
@@ -616,7 +618,9 @@ ES3(X2) `#WEB: https://page.auctions.yahoo.co.jp/jp/auction/w1079815276`:
 **IO:** [Namco ESIF2 PCB](io.md#esif2) (above motherboard shield)  
 **IO:** "JV IO (JAMMA)" (expansion slot, 1x JVS USB, 1x internal connector with cable to ESIF2) (USB port is taped)  
 **IO:** "SERIAL 3 (CARD IF)" (expansion slot, to motherboard, pinout up-down: COM-GND COM-CTS COM-RTS COM-TXD COM-RXD GND 12V?, hooks up to [Namco H055 CARD-IF](io.md#h055-card-if))  
-**OS:** Windows Embedded 7 Standard (SP1, 32-bit)  
+**OS:** 
+* Windows Embedded 7 Standard (SP1, 32-bit) [Ace Angler]  
+* Windows Embedded 8(.1?) [DISNEY MAGIC CASTLE まほうのHAPPYミラー]  
 
 ```
      A - Pokken Tournament (PKF)
@@ -630,6 +634,7 @@ ES3(X2) `#WEB: https://page.auctions.yahoo.co.jp/jp/auction/w1079815276`:
        - Time Crisis 5 (TC5) - https://www.bandainamco-am.co.uk/files/93)
        - Star Wars Battle Pod (DSW)
     X2 - Ace Angler / Fishing Spirits (釣りスピリッツ) (replacement main PCB) 
+       - Disney Magical World: Magical Happy Mirror (DISNEY MAGIC CASTLE まほうのHAPPYミラー)
      ? - Synchronica (SYN)
 ```
 
