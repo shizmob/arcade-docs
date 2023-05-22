@@ -1491,7 +1491,7 @@ unknown:
   - `GSD55 PWB(Y)110176080000`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/p1003284956 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/w1012261703`
 * `D68`: ウイングファンタジア / Wing Fantasia (2004, MEDAL)  `#MISC:oyakodon_oniku_list #WEB:https://page.auctions.yahoo.co.jp/jp/auction/f522233011`
   - `GSD68`
-* `D69`
+* `D69`: 太極神龍 / Taichi-Shenlong (2005, MEDAL) `#WEB: https://page.auctions.yahoo.co.jp/jp/auction/r1088049167`
   - `GSD69 PWB(A1)0000330888`
 * `DK9`: 麻雀格闘倶楽部3
   - `GUDK9-JB`
@@ -1698,9 +1698,11 @@ unknown:
   - `GCG33`
 * `G51`: Twinkle Drop (2007)  `#MISC:oyakodon_oniku_list`
   - `GSG51 PWB(A1)111492900000`: PCSUB [PCI I/O expansion card]  `#WEB:https://www.ebay.com/itm/283530238417 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/b1042106894`
-* `G52`: パニックパイレーツ (2007)  `#MISC:oyakodon_oniku_list`
+* `G52`: パニックパイレーツ (2007, PC(B6))  `#MISC:oyakodon_oniku_list`
+  - `G52 PC F01`: FAB-e945 board `#WEB: https://page.auctions.yahoo.co.jp/jp/auction/h1090245021`
 * `G56`: EUROQUEEN (2007)  `#WEB:http://blog.livedoor.jp/medage/archives/48419312.html`
   - `GS56`
+  - `GSG56` `#WEB: https://page.auctions.yahoo.co.jp/jp/auction/p1088055774`
 * `G65`:  エターナルナイツ / Eternal Knights (2007, PC-MEDAL(B3/B9))  `#WEB:https://twitter.com/oyakodon_oniku/status/1497166268386123780`
   - `GSG65`: 6P set / 4P set  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/c1073866522`
   - `G65`: white dongle  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/r1073862873`
@@ -2387,6 +2389,7 @@ unknown:
   - `MDX JA R01`:  ROM [945,     P3IO, WinXP] 2015-07-24 0  `#WEB:https://twitter.com/CodestarCreates/status/1592136398030577666/`
   - `MDX JA V01`:  ROM [945,     P3IO, WinXP] 2016-04-28 0  `#WEB:https://www.nicovideo.jp/watch/sm30252386`
   - `MDX JA Z01`:  ROM [945,     P3IO, WinXP] 2016-12-16 0  `#WEB:https://twitter.com/tanu_kichune/status/1387672293283794945`
+  - `MDX JA AD01`: ROM [945,     P3IO, WinXP] 2018-01-12 0
   - `MDX JC A01`:  ROM [HM65,    P4IO, WinXP] 2013-02-24 0  `#WEB:https://www.youtube.com/watch?v=tmSVEVYj7lQ`
   - `MDX JC C01`:  ROM [HM65,    P4IO, WinXP] 2013-03-10 0  `#WEB:http://cdn-ak.f.st-hatena.com/images/fotolife/b/bynn_chapu/20130623/20130623180941.jpg`
   - `MDX JC H01`:  ROM [HM65,          WinXP] 2014-01-06 0  `#CLAIM: nova`
@@ -2472,7 +2475,7 @@ unknown:
   - `GSOTM-JA`
   - `GSOTM-JB`
 * `P2D`: beatmania IIDX INFINITAS [home version] (2015, PC)
-* `P65`: エルドラクラウン / Eldora Crown (2017, PC-MEDAL(ADE))  `#SCRAPE:konami:eagate #WEB:https://page.auctions.yahoo.co.jp/jp/auction/v1028813695`
+* `P65`: エルドラクラウン / Eldora Crown (2017, PC-MEDAL(76/ADE))  `#SCRAPE:konami:eagate #WEB:https://page.auctions.yahoo.co.jp/jp/auction/v1028813695`
   - `GEP65-JB`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/k1075812439`
   - `P65-JA(MAIN)`
   - `P65 MAIN B01 SA1` - main HDD (ADE)
@@ -2497,12 +2500,12 @@ unknown:
   - `GSPTL-JB`: station  `#CLAIM:felix`
   - `GSPTL ST`: dongle label (station)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/o486106608`
   - `PTL ST A01 SA1`: HDD label (station)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/o486106608`
-* `PVR`: GI-VICTORY ROAD (2016, PC(B3?/e67/HM65))  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/e1065722658`
+* `PVR`: GI-VICTORY ROAD (2016, PC(B3?/e67/HM65/R10))  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/e1065722658`
   - `PVR MAIN A01 SB1`: e945 JA MAIN [DVD]
   - `PVR MAIN A01 SC1`: e67 JA MAIN [DVD]
   - `PVR ST A01 SB1`: HM65 JB STATION [DVD]
   - `PVR-JB STATION(B)`: black dongle `#WEB: https://page.auctions.yahoo.co.jp/jp/auction/n1077631059`
-* `PWT`: トレジャーシュート, マジカルシューター?  `#SCRAPE:konami:eagate #MISC:oyakodon_oniku_list #WEB:https://page.auctions.yahoo.co.jp/jp/auction/f1052167884`
+* `PWT`: トレジャーシュート, マジカルシューター? (PC(ADE))  `#SCRAPE:konami:eagate #MISC:oyakodon_oniku_list #WEB:https://page.auctions.yahoo.co.jp/jp/auction/f1052167884`
   - `GSPWT (STD)`
   - `PWT PC J01 SA2`
 * `PX8`: フォーチュントリニティ3 三神獣の秘宝 / FORTUNE TRINITY 3  `#SCRAPE:konami:eagate #WEB:https://jp.mercari.com/item/m78276248788`
@@ -2541,6 +2544,7 @@ unknown:
   - `GER66-JA` `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/u1051038312`
 * `RBC`: ベースボールコレクション / Baseball Collection (2018, PC(X10SLQ)IO(BIO2-BI2A)) `#MISC:oyakodon_oniku_list #SCRAPE:eagate #WEB: https://page.auctions.yahoo.co.jp/jp/auction/u1074189140 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/f1075366429`
   - `RBC JA A01`: ROM 2018-08-01 0
+  - `RBC JA G01`: ROM 2019-05-13 0
 * `RCI`: Printer paper and ink  `#DOC:konami:117196570000`
   - `GURCI-JA`: For Card Connect, card (x6) and color ribbon (x2) set
   - `GURCI-JB`: For Card Connect, holographic ribbon
@@ -2551,16 +2555,16 @@ unknown:
   - `GKREC-CA`: Chinese UNIS cabinet
   - `REC JA A01`: ROM 2018-03-06 0 `#WEB:https://www.youtube.com/watch?v=eyNYZI2fUZA`
   - `REC JA D01`: ROM 2018-07-06 0 `#CLAIM: nova`
-* `RPU`: マーブルフィーバー / Marble Fever  `#SCRAPE:konami:eagate #WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1040146052`
+* `RPU`: マーブルフィーバー / Marble Fever (2018, PC(R10))  `#SCRAPE:konami:eagate #WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1040146052`
   - `GSRPU-JA`: cabinet, without coin unit
   - `GSRPU-JC`: cabinet with extra illumination kit, without coin unit
   - `GSRPU-JD`: cabinet, with coin unit
   - `GSRPU-JF`: cabinet with extra illumination kit kit, with coin unit
-* `RSB`: ボンバーマン・ザ・メダル / BOMBERMAN ARCADE  `#SCRAPE:konami:eagate`
+* `RSB`: ボンバーマン・ザ・メダル / BOMBERMAN ARCADE (2018, PC(ADE))  `#SCRAPE:konami:eagate`
   - `GSRSB-U*`
 * `RTA`: カラコロッタ 太陽とひみつの島  `#SCRAPE:konami:eagate`
 * `RTJ`: アニマロッタ おとぎの国のアニマ  `#MISC:oyakodon_oniku_list`
-* `RTL`: ツナガロッタ アニマと虹色の秘境  `#SCRAPE:konami:eagate #WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1001466025`
+* `RTL`: ツナガロッタ アニマと虹色の秘境 (PC(76))  `#SCRAPE:konami:eagate #WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1001466025`
   - `G?RTL-JA`: main
   - `GERTL-JB`: station  `#CLAIM:felix`
   - `RTL-JA[MAIN]`: dongle label (main)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/m1073167262`
@@ -2587,7 +2591,8 @@ unknown:
   - `GESPU-JK`: DX model conversion kit
   - `GESPU-JL`: STD model conversion kit
   - `GUSPU-JA`: coin unit
-* `SS4`: FEATURE Premium 7・8弾  `#SCRAPE:konami:eagate`
+* `SS4`: FEATURE Premium 7・8弾 (PC(76))  `#SCRAPE:konami:eagate`
+  - `GCSS4-JX`: dongle `#WEB: https://page.auctions.yahoo.co.jp/jp/auction/h1090767747`
 * `STL`: ツナガロッタ (2016)  `#MISC:oyakodon_oniku_list`
 * `T44`: jubeat (新筐体) [unreleased]  `#WEB:https://game.mirai-media.net/jubeat-jaepo2020/`
 * `TBS`: 武装神姫 アーマードプリンセス バトルコンダクター / Armored Princess BATTLE CONDUCTOR (2020, PC(C300)) `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/w1031934600`
@@ -2644,6 +2649,7 @@ unknown:
 * `VSL`: 桃太郎電鉄メダルゲームも定番！ (2022/2023, under location test)  `#WEB:https://ariesu.com/locationtest/momotetsu-medal.htm`
 * `VTA`: カラコロッタ フローズンアイランド (2022)  `#SCRAPE:konami:eagate #WEB:https://twitter.com/oyakodon_oniku/status/1587258529307451393`
 * `VPU`: GRANDCROSS GOLD (2022)  `#SCRAPE:konami:eagate`
+* `V65`: ELDORA CROWN 悠久のラビリンス (2023, under location test) `#WEB:https://www.ariesu.com/locationtest/eldoracrown_labyrinth.htm`
 
 * `PWB453470`: 1P/2P sensor board  `#WEB:https://www.ebay.co.uk/itm/224465398910`
 * `PWB113430230000`: I/O board  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/j1010903947`
