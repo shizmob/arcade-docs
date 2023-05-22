@@ -96,7 +96,10 @@ There is little to no information about this board yet.
 
 **SND:** Realtek ALC655 (AC'97)
 
-**OS:** Linux, likely LFS
+**OS:** LFS Linux 
+
+**BIOS:** customized Phoenix AwardBIOS. Other BIOS revisions may exist
+* 01/09/2007-nVidia-nForce-6A61BPA9C-00
 
 **Games:**
 * Percussion Master
@@ -143,13 +146,13 @@ Has two sub-variants, differences unknown but similar:
     E2000-C6-V256   - Percussion Master Plus (replacement/newer PCB)
     E2000-C6-V256   - Percussion Master 2008 (replacement/newer PCB)
     E2000-C6-V256   - Gold Captain (航海小勇士)
+    E2000-C6-V256   - Submarine Crisis
     E2000-V256      - Pirate Revenge
     E2000-V256      - We Dancing Online
     E2000-V256      - We Dancing Online 2 (Plus)
     E2000-V256      - Speed Rider
     E2000-V256      - Speed Driver 2: Overtake
                     - Vibraphone (铁琴: 第一乐章)
-                    - Submarine Crisis
                     - 海遊漁 (China)
 ```
 
@@ -269,39 +272,63 @@ Currently found BIOS versions are:
 * Ultra Race (?)
 
 ## S/V-series
+The S3000 has a wide casing with the power supply on the left side of the casing.
+The V3000 is the same as S3000, except with an external power supply similar to the E3000 and E3100 and is less wider.
+The V3000 has the same splash as the S3000, so to know if it's a S3000/V3000 requires access to the cabinet or looking at the manual.
+
 ### S3000
 **Motherboard:** GIGABYTE H110M-S2PV
 
-**GPU:** Nvidia GeForce GTX 1050 (2 GB) [Transform: Hero of Robots], other variations may exist
+**GPU:**
+* Nvidia GeForce GTX 650 (N650C-H7FX) [Transform: Hero of Robots (early version)]
+* Nvidia GeForce GTX 1050 (2 GB) [Transform: Hero of Robots (later versions)] [機甲英雄Hero of Robots]
 
-**OS:** Windows 10 IoT Embedded LTSB 2016 / LFS Linux (only found in Speed Driver 4 replacement PCBs)
+**OS:**
+* Windows 10 IoT Embedded LTSB 2016
+* LFS Linux [Speed Driver 4, replacement PCBs]
+
+**SSD:** 64 GB
+
+**PSU:** Seasonic S12II-520B (520 W)
 
 **Games:**
-* Speed Driver 4 (replacement PCB)
 * Transform Hero of Robots
-* Speed Rider 3
+* 機甲英雄Hero of Robots
+* Speed Driver 4 (replacement PCB) (unknown if it's using the S3000 or V3000)
+* Speed Rider 3 (?) (unknown if it's using the S3000 or V3000)
 
 ### V3000
 **Motherboard:** GIGABYTE H110M-S2PV
 
-**CPU:** Core i3-7100 [Asphalt 9 Legends Arcade]
+**CPU:**
+* Core i3-7100 [Asphalt 9 Legends Arcade, Speed Driver 5, Monster Eye 2]
+* Core i7-6700 [Overtake VR]
 
 **GPU:** 
-* Nvidia GeForce RTX 2060 Super (as replacement GPU) [Ultra Moto VR]
+* Nvidia GeForce GTX 1050 (2 GB) [Speed Driver 5, Monster Eye 2]
 * GIGABYTE GeForce GTX 1650 OC 4G [Asphalt 9 Legends Arcade]
+* MSI GeForce GTX 1080 GAMING X 8G [Overtake VR]
+* Nvidia GeForce RTX 2060 Super (as replacement GPU) [Ultra Moto VR]
 Other variations may exist
 
-**RAM:** 2 x 8 GB DDR4-2400 (16 GB) [Asphalt 9 Legends Arcade]
+**RAM:**
+* 2 x 4 GB DDR4-2400 (8 GB) [Monster Eye 2]
+* 2 x 8 GB DDR4-2400 (16 GB) [Asphalt 9 Legends Arcade, Overtake VR, Speed Driver 5, Ultra Moto VR]
+
+**SSD:** 64 GB
 
 **Sound:** Realtek ALC887 (HD Audio)
 
-**OS:** Windows 10 IoT Embedded LTSB 2016 (?)
+**OS:**
+* Windows 10 IoT Embedded LTSB 2016 [Overtake VR]
+* Windows 10 IoT Embedded LTSC 2021 [Sailor's Quest VR]
 
 **Games:**
 * Speed Driver 5
-* Overtake VR (?)
+* Overtake VR
 * Ultra Moto VR
 * Asphalt 9 Arcade DX
+* Sailor's Quest VR
 
 ## C-series
 ### C1000
