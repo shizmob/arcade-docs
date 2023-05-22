@@ -347,16 +347,22 @@ Uses Intel Extreme integrated graphics instead of a GeForce GPU.
 
 #### FAB-e945-KN202
 
+`#WEB: https://page.auctions.yahoo.co.jp/jp/auction/p1088047004`
+`#WEB: https://page.auctions.yahoo.co.jp/jp/auction/s1092518213`
+
 **Sticker:** B2  
-**Games:** K56 MAIN?  
+**GPU:** Intel GMA 950  
+**Games:** K56 (MAIN/REMY)  
 
 #### FAB-e945-KN203
+
+`#WEB: https://page.auctions.yahoo.co.jp/jp/auction/h1092514653`
 
 **Sticker:** B3  
 **CPU:** Pentium 4 (3.40GHz)  
 **GPU:** ATI Radeon X1600 Pro (PCIe, 256MB, VGA + S-Video + DVI) (109-A67631-12)  
 **RAM:** 2 x 512 MB DDR2  
-**Games:** K56 POP?, G65/H65/J65/K65/L65/M65/O65/P65(MAIN)  
+**Games:** K56 (POP), G65/H65/J65/K65/L65/M65/O65/P65(MAIN)  
 
 #### FAB-e945-KN204A
 
@@ -390,6 +396,7 @@ Also known as: "BemaniPC Type 2" (unofficially).
 **Sticker:** B6  
 **CPU:** Celeron D 341 (2.93GHz)  
 **GPU:** Intel GMA 950  
+**RAM:** 2 x 512 MB
 **Games:** F56/J56/K56 (MAIN), G51, G52, H53  
 
 #### FAB-e945-KN209
