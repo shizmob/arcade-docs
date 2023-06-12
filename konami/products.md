@@ -1798,6 +1798,7 @@ unknown:
   - `GEHCK-JA`: ソフトキット
   - `GCHCK-JA`: コンバーションキット  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/f1035024176`
 * `HCV`: 悪魔城ドラキュラ THE ARCADE / Castlevania: The Arcade (2009)
+  - `HCK JA A01`: ROM 2008-11-07 0
 * [`HDD`: beatmania IIDX 15 DJ TROOPERS](software/HDD.md) (2007, PC(B5)IO(C02/D01/USB2)-HDD)  `#MISC:oyakodon_oniku_list`
   - [`GQHDD-JA`: Dedicated cabinet](product/GQHDD-JA.md)  `#WEB:https://twitter.com/karinatsalut/status/1457247855404486656`
   - [`GUHDD-JB`: LCD monitor](product/GUHDD-JB.md)  `#WEB:http://kururusky.com/?p=1458 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/1076101885`
@@ -2316,6 +2317,7 @@ unknown:
   - `GEM32-JB`: DrumMania conversion kit  `#WEB:https://a11.kpers.net/item/t730347099/`
   - `M32 JB A01`: ROM [HM65 PCB] 2013-01-10 0
   - `M32 KB A01`: ROM [HM65 PCB] 2015-10-01 2 `#WEB:https://twitter.com/GAOS_game/status/1186132871636901890`
+  - `M32 JB T01`: ROM [HM65 PCB] 2016-02-24 0 `#WEB: https://twitter.com/SOLB_EDVARD/status/1666751732351729666`
   - `M32 KC V01`: ROM [ADE PCB] 2016-12-07 1
   - `M32 AD AC01`: ROM [ADE PCB] 2018-04-02 0
 * `M33`: GITADORA [drums] (2013, PC)
@@ -2555,6 +2557,7 @@ unknown:
   - `GKREC-CA`: Chinese UNIS cabinet
   - `REC JA A01`: ROM 2018-03-06 0 `#WEB:https://www.youtube.com/watch?v=eyNYZI2fUZA`
   - `REC JA D01`: ROM 2018-07-06 0 `#CLAIM: nova`
+  - `REC JA K01`: ROM 2019-12-18 0
 * `RPU`: マーブルフィーバー / Marble Fever (2018, PC(R10))  `#SCRAPE:konami:eagate #WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1040146052`
   - `GSRPU-JA`: cabinet, without coin unit
   - `GSRPU-JC`: cabinet with extra illumination kit, without coin unit
