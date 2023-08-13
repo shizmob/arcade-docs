@@ -102,8 +102,8 @@ There is little to no information about this board yet.
 * 01/09/2007-nVidia-nForce-6A61BPA9C-00
 
 **Games:**
-* Percussion Master
-* Percussion Master Plus
+* Percussion Master (replacement/newer PCB)
+* Percussion Master Plus (鼓王 加強版) (replacement/newer PCB)
 * Percussion Master 2
 * Rock Fever 5
 
@@ -124,7 +124,7 @@ Has two sub-variants, differences unknown but similar:
 **GPU:** Nvidia GeForce 6200 (256 MB GDDR2) [GF-6200-AGP N-A1]
 
 **RAM:** 2 x DDR1 slot. Memory sizes differ depending on games
-* DSL 1 GB DDR-333 [WeDo]
+* 1 GB DDR-333 [WeDo] [SR]
 
 **Chipset:** Intel 852GME
 
@@ -143,16 +143,16 @@ Has two sub-variants, differences unknown but similar:
 ```
     E2000-C6-V256   - Panda Family
     E2000-C6-V256   - Rock Fever 5 (replacement/newer PCB)
-    E2000-C6-V256   - Percussion Master Plus (replacement/newer PCB)
+    E2000-C6-V256   - Percussion Master Plus (鼓王 加強版) (replacement/newer PCB)
     E2000-C6-V256   - Percussion Master 2008 (replacement/newer PCB)
     E2000-C6-V256   - Gold Captain (航海小勇士)
     E2000-C6-V256   - Submarine Crisis
+    E2000-C6-V256   - Vibraphone (铁琴: 第一乐章)
     E2000-V256      - Pirate Revenge
     E2000-V256      - We Dancing Online
     E2000-V256      - We Dancing Online 2 (Plus)
     E2000-V256      - Speed Rider
     E2000-V256      - Speed Driver 2: Overtake
-                    - Vibraphone (铁琴: 第一乐章)
                     - 海遊漁 (China)
 ```
 
@@ -168,6 +168,8 @@ Has two sub-variants, differences unknown but similar:
 **CPU:** Intel Atom N270
 
 **GPU:** NVIDIA ION (GT218) series
+
+**RAM:** 1 GB DDR2 (onboard)
 
 **Chipset:** Intel 945GS
 
@@ -261,7 +263,9 @@ Currently found BIOS versions are:
 **Extra:**
  I-JOIN M3000 (LI-05) expansion board: A strange board that takes 2 PCIe slots (one 16x, one 4x) at once, which handles sound and networking. Also with a IDE-alike socket on it, the functionality is yet to be determined.
  
- I-JOIN M2000 expansion board: Probably some kind of security module, contains FPGA for decrypting the hard disk. SSD is mounted on this and then connects to the motherboard via proprietary 125-pin connector.
+ I-JOIN M2000 expansion board: Probably some ki
+
+**Note:** Some cabs of Percussion Master 1 uses this PCB.nd of security module, contains FPGA for decrypting the hard disk. SSD is mounted on this and then connects to the motherboard via proprietary 125-pin connector.
 
 **Games:**
 * Danz Base
@@ -276,30 +280,36 @@ The S3000 has a wide casing with the power supply on the left side of the casing
 The V3000 is the same as S3000, except with an external power supply similar to the E3000 and E3100 and is less wider.
 The V3000 has the same splash as the S3000, so to know if it's a S3000/V3000 requires access to the cabinet or looking at the manual.
 
+**Motherboard:** GIGABYTE H110M-S2PV-CF
+
+**Notes:**
+* BIOS is modified with a custom S3000 splash. Variants of F4d and F21d BIOS exists.
+
 ### S3000
-**Motherboard:** GIGABYTE H110M-S2PV
+**CPU:**
+* Pentium G4400 [Transform: Hero of Robots]
 
 **GPU:**
-* Nvidia GeForce GTX 650 (N650C-H7FX) [Transform: Hero of Robots (early version)]
-* Nvidia GeForce GTX 1050 (2 GB) [Transform: Hero of Robots (later versions)] [機甲英雄Hero of Robots]
+* Aetina GeForce GTX 650 (1 GB, GDDR5) (N650C-H7FX) [Transform: Hero of Robots (early version)]
+* MSI GeForce GTX 1050 OC (2 GB) [Transform: Hero of Robots (later versions)] [機甲英雄Hero of Robots]
 
 **OS:**
-* Windows 10 IoT Embedded LTSB 2016
+* Windows 10 IoT Embedded LTSB 2016 [Transform: Hero of Robots]
 * LFS Linux [Speed Driver 4, replacement PCBs]
 
 **SSD:** 64 GB
 
+**RAM:** Transcend 2 x 4 GB DDR4-2400
+
 **PSU:** Seasonic S12II-520B (520 W)
 
 **Games:**
-* Transform Hero of Robots
+* Transform: Hero of Robots
 * 機甲英雄Hero of Robots
 * Speed Driver 4 (replacement PCB) (unknown if it's using the S3000 or V3000)
 * Speed Rider 3 (?) (unknown if it's using the S3000 or V3000)
 
 ### V3000
-**Motherboard:** GIGABYTE H110M-S2PV
-
 **CPU:**
 * Core i3-7100 [Asphalt 9 Legends Arcade, Speed Driver 5, Monster Eye 2]
 * Core i7-6700 [Overtake VR]
@@ -309,22 +319,27 @@ The V3000 has the same splash as the S3000, so to know if it's a S3000/V3000 req
 * GIGABYTE GeForce GTX 1650 OC 4G [Asphalt 9 Legends Arcade]
 * MSI GeForce GTX 1080 GAMING X 8G [Overtake VR]
 * Nvidia GeForce RTX 2060 Super (as replacement GPU) [Ultra Moto VR]
+* Aetina GeForce GT 740 (1 GB, GDDR5) [Ultra Race]
 Other variations may exist
 
 **RAM:**
 * 2 x 4 GB DDR4-2400 (8 GB) [Monster Eye 2]
 * 2 x 8 GB DDR4-2400 (16 GB) [Asphalt 9 Legends Arcade, Overtake VR, Speed Driver 5, Ultra Moto VR]
 
-**SSD:** 64 GB
+**SSD:**
+* 64 GB [Monster Eye 2, Asphalt 9 Legends Arcade, Overtake VR, Speed Driver 5, Ultra Moto VR]
+* Transcend SSD370 32 GB (TS32GSSD370) [Ultra Race]
 
 **Sound:** Realtek ALC887 (HD Audio)
 
 **OS:**
+* Windows Embedded Standard 7 (SP1) [Ultra Race]
 * Windows 10 IoT Embedded LTSB 2016 [Overtake VR]
 * Windows 10 IoT Embedded LTSC 2021 [Sailor's Quest VR]
 
 **Games:**
 * Speed Driver 5
+* Ultra Race
 * Overtake VR
 * Ultra Moto VR
 * Asphalt 9 Arcade DX
@@ -399,7 +414,7 @@ Has two variants:
 * Onboard video memory size can be adjusted up to 256 MB
 
 ## Misc
-### Percussion Master (export)
+### L4S5MG/651+
 **Motherboard:** ECS L4S5MG/651+ (V5.0A)
 
 **Chipset:** SiS 651 (Northbridge) / SiS 692 (Southbridge)
@@ -410,9 +425,11 @@ Has two variants:
 
 **RAM:** 512 MB DDR-333 
 
-**OS:** Red Hat Linux (32-bit)
+**OS:** Red Hat Linux (Linux 2.4.21) (32-bit)
 
-**Note:** Some cabs of Percussion Master 1 uses this PCB.
+**Games:**
+* Percussion Master
+* Percussion Master Plus (鼓王 加強版)
 
 ### Rock Fever 4 Remix
 **Motherboard:** Foxconn 661FX7MI-S (?)
