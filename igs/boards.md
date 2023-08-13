@@ -270,10 +270,8 @@ Currently found BIOS versions are:
 **Games:**
 * Danz Base
 * Monster Eye
-* Monster Eye 2 (?)
 * Overtake
 * Overtake DX
-* Ultra Race (?)
 
 ## S/V-series
 The S3000 has a wide casing with the power supply on the left side of the casing.
