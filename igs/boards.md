@@ -263,9 +263,9 @@ Currently found BIOS versions are:
 **Extra:**
  I-JOIN M3000 (LI-05) expansion board: A strange board that takes 2 PCIe slots (one 16x, one 4x) at once, which handles sound and networking. Also with a IDE-alike socket on it, the functionality is yet to be determined.
  
- I-JOIN M2000 expansion board: Probably some ki
+ I-JOIN M2000 expansion board: Probably some kind of security module, contains FPGA for decrypting the hard disk. SSD is mounted on this and then connects to the motherboard via proprietary 125-pin connector.
 
-**Note:** Some cabs of Percussion Master 1 uses this PCB.nd of security module, contains FPGA for decrypting the hard disk. SSD is mounted on this and then connects to the motherboard via proprietary 125-pin connector.
+**Note:** Some cabs of Percussion Master 1 use this PCB.
 
 **Games:**
 * Danz Base
