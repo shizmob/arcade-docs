@@ -626,7 +626,7 @@ ES3(X2) `#WEB: https://page.auctions.yahoo.co.jp/jp/auction/w1079815276`:
      A - Pokken Tournament (PKF)
        - Mario Kart GP DX (MK3) - https://www.bandainamco-am.co.uk/files/37)
        - Dead Heat Riders/Street Racing (DHR) - https://www.bandainamco-am.co.uk/files/25)
-     B - Midnight Tune 5(WM5)/5DX(W5X)/5DX+(W5P)/6(WM6)/6R(W6R) (JP)
+     B - Midnight Tune 5(WM5)/5DX(W5X)/5DX+(W5P)/6(WM6)/6R(W6R)/6RR(W6W) (JP)
          Pokken Tournament (PKF) - https://aucview.aucfan.com/yahoo/x538486776/
      X - Lost Land Adventures (LLA)
        - Mach Storm (DAC)
@@ -657,7 +657,7 @@ PC, x86-based. Lower spec, also used for budget/redemption games? Variants: ES4(
 
 ## System BNA1
 
-PC, x86-based. Variants: BNA1, BNA1(LITE). Some kind of defect occurred: https://www.banasupport.net/cms-files/E38090E3818AE58F96E5BC95E6A798E59084E4BD8DE38091E3.pdf
+PC, x86-based. Variants: BNA1, BNA1(LITE), BNA1 RICH. Some kind of defect occurred: https://www.banasupport.net/cms-files/E38090E3818AE58F96E5BC95E6A798E59084E4BD8DE38091E3.pdf
 
 BNA1: BNA1-00-64G-2016W / BNA1-00-256G-2016W
 A 128 GB SSD variant also exists
@@ -666,7 +666,7 @@ A 128 GB SSD variant also exists
 **CPU:** Intel Core i5-6500  
 **RAM:** ???  
 **GPU:** Aetina GeForce GTX 1050 Ti (N1050Ti-L9FX) (4 GB, GDDR5)  
-**SSD:** innodisk 3ME4 ??? (SATA, 256GB) / Silicon Power 3V0E (SATA, 128GB) / ??? (SATA, 64GB)  
+**SSD:** innodisk 3ME4 (SATA, 64GB, 256GB) / Silicon Power 3V0E (SATA, 128GB) / ??? (SATA, 64GB)  
 **IO:** 2x serial (expansion card, COM3 and COM4)  
 **IO:** 2x JVS/USB? (expansion card, '5' and '6')  
 
@@ -680,13 +680,13 @@ BNA1(LITE): BNA1LT-00-64G-2016W
 **IO:** 2x serial (expansion card, COM3 and COM4)  
 **IO:** 2x JVS/USB? (expansion card, '5' and '6')  
 
-BNA1(RICH)
+BNA1 RICH: BNA1RH-00-128G-2019W
 
 **MBD:** ??? (H110 chipset)  
 **CPU:** Intel Core i7-6700 
 **RAM:** ??? (DDR4, 16GB) 
 **GPU:** GeForce RTX 2060 SUPER (8 GB) (???)  
-**SSD:** ???  
+**SSD:** innodisk 3ME4 (SATA, 128GB) / innodisk 3TE7 (SATA, 512GB)
 **IO:** 2x serial (expansion card, COM3 and COM4)  
 **IO:** 2x JVS/USB? (expansion card, '5' and '6')  
 
@@ -696,8 +696,7 @@ BNA1(RICH)
          JoJo: Last Survivor (JJL)
          Sword Art Online Arcade (Satellite) (SAO)
          Midnight Tune 6 (WM6, export)
-         Midnight Tune 6R (W6R, export)
-         Midnight Tune 6RR (export)
+         Midnight Tune 6RR (W6W, export)
   RICH - Gundam: Bonds of the Battlefield II (SK2)
   LITE - Dead Heat Unleashed (DHU)
          Taiko no Tatsujin: Rainbow (S12)
