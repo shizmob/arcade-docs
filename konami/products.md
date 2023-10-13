@@ -2449,7 +2449,8 @@ unknown:
 * `NSC`: SCOTTO (2014, PC)
   - `GQNSC-JA`: Dedicated cabinet, `#MEDIA:konami/GQNSC-JA-sticker.jpg`
 * `NSM`: オレカバトル パンドラのメダル (2015, PC(MEDAL-HM65))  `#MISC:oyakodon_oniku_list`
-* `NTA`: カラコロッタ (2014)  `#MISC:oyakodon_oniku_list`
+* `NTA`: カラコロッタ (2014, PC(MEDAL-HM65))  `#MISC:oyakodon_oniku_list` `#WEB: https://page.auctions.yahoo.co.jp/jp/auction/c1103471090`
+  - `NTA ST C01 SA1`: station hard drive
 * `O18`: ベースボールヒーローズ 2014 / Baseball Heroes 2014 (2014) `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/w1058797287`
   - `GUO18-JD`: booster pack vol.2  `#WEB:https://jp.mercari.com/item/m95200629675`
   - `GUO18-JF`: booster pack vol.2 append 2 [24P]  `#WEB:https://aucview.aucfan.com/yahoo/u287843136`
