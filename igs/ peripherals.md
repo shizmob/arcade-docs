@@ -14,6 +14,7 @@ Obviously, games that aren't slot machine/redemption games won't make use of thi
 ## Games Found Using This Device
 
 * 西遊爭霸/鬥戰勝佛 (MD401CN?) (Yuehua Software)
+* Ocean King 3: Monster Awaken (MD900US) `#DOC:Ocean King 3: Monster Awaken (MD900US) manual, revision 17-06-13`
 
 ## Time Bomb
 
