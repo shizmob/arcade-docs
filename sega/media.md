@@ -858,8 +858,10 @@ DVR-5004D : WORLD CLUB CHAMPION FOOTBALL 2010-2011 : RingEdge : JPN : SBWG
 DVR-5005  :
 DVR-5006A : 頭文字D ARCADE STAGE 6 AA : RingEdge : SBUU  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/f1087773000`
 DVR-5007  :
+        E : 世嘉头文字D AA全国对战版 : RingEdge : CHN : SBWV
 DVR-5008  :
-DVR-5009  :
+DVR-5009  : 世嘉头文字D AA全国对战版 : RingEdge : CHN : SBWV
+        A : ^
 DVR-5010  :
 DVR-5011  : maimai : RingEdge2 : SBXL : JPN  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/m1021213369`
         A : ^
