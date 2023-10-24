@@ -1454,5 +1454,8 @@ MDA-U0095B: UFO CATCHER TRIPLE TWIN VER 1.10  #WEB:https://page.auctions.yahoo.c
 MDA-U0096 :
 MDA-U0097 : Chunithm SUPERSTAR            : ALLS HX2 OP : EXP : SDGS
 MDA-U0098 : バベルのメダルタワーW             : ALLS X? : JPN
+
+MU0112DA- : 中二节奏2024                    : ALLS HX2 OP : CHN : SDHJ
+         A: 
 ????      : Wacca Ver.2                    : ALLS HX  : CHN : SDHN
 ```
