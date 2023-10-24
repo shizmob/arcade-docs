@@ -1455,7 +1455,7 @@ MDA-U0096 :
 MDA-U0097 : Chunithm SUPERSTAR            : ALLS HX2 OP : EXP : SDGS
 MDA-U0098 : バベルのメダルタワーW             : ALLS X? : JPN
 
-MU0112DA- : 中二节奏2024                    : ALLS HX2 OP : CHN : SDHJ
+MDA-U0112 : 中二节奏2024                    : ALLS HX2 OP : CHN : SDHJ #DOC:Wahlap:Chunithm 2024 Software Upgrading Guidance
          A: 
 ????      : Wacca Ver.2                    : ALLS HX  : CHN : SDHN
 ```
