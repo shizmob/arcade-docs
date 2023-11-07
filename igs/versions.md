@@ -75,3 +75,6 @@ For identification purpose, IGS labels their product's revision using a
 ### 西遊爭霸2：大聖歸來
 * MD109MO
 
+### 淘氣鯊
+* S101CN
+
