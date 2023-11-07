@@ -14,6 +14,7 @@ The following variables are used across the different identifiers and can denote
   * `US`: US
   * `CNC`
   * `SAE`
+  * `MO`
 
 ## Identifiers
 

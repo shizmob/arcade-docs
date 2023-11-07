@@ -55,3 +55,23 @@ For identification purpose, IGS labels their product's revision using a
 ### IQ乐园2012
 * M-100CN
 
+### Halloween Night （疯狂魔鬼城）
+* M203CN
+* M204CN
+* V204CN
+* M880CN
+
+### Trick or Treat
+* M204CN
+* M800CN
+
+### 天天向前GO
+* M108CN
+
+### Ocean King 3 series
+* MD900MO (?)
+* MD900US (USA)
+
+### 西遊爭霸2：大聖歸來
+* MD109MO
+
