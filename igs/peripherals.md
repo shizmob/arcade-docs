@@ -14,6 +14,7 @@ Obviously, games that aren't slot machine/redemption games won't make use of thi
 ## Games Found Using This Device
 
 * 西遊爭霸/鬥戰勝佛 (MD401CN?) (Yuehua Software)
+* Trick Or Treat (M800CN) (Yuehua Software)
 * Ocean King 3: Monster Awaken (MD900US) `#DOC:Ocean King 3: Monster Awaken (MD900US) manual, revision 17-06-13`
 
 ## Time Bomb
@@ -28,7 +29,7 @@ The tenant will only receive the password after his share is paid. After the cor
 
 ## Adjusting RNG Parameters
 
-The test menu of IGS GP1 based slot machine (or at least for games that make use of code generator) only displays current settings, but the settings cannot be changed on the machine. 
+The test menu of IGS GP1 based slot machine (or at least for some games that make use of code generator) only displays current settings, but the settings cannot be changed on the machine. 
 
 To change the settings, the serial number of the board has to be typed into the code generator, then parameters including coin to credit ratio, [RTP% & PARS](https://en.wikipedia.org/wiki/Slot_machine#Payout_percentage), time period for time bomb, etc. could be set up on it.
 

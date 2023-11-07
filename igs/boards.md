@@ -58,11 +58,13 @@ There is little to no information about this board yet.
 **Games:**
 * Ocean King 2 series (slot machines)
 * Ocean King 3 series (slot machines)
-* Halloween Night (M203CN/V204CN) (redemption game, possible to be converted to slot machine)
-* Trick or Treat (redemption game, possible to be converted to slot machine)
+* Halloween Night (M203CN/V204CN/M880CN/M204CN) (redemption game, possible to be converted to slot machine)
+* Trick or Treat (M800CN?) (redemption game, possible to be converted to slot machine)
 * Harpoon Lagoon (ICE) (replacement PCB)
 * 西遊爭霸/鬥戰勝佛 (MD401CN?)
 * 西遊爭霸2：大聖歸來 (MD109MO)
+* 天天向前GO (M108CN)
+* 淘氣鯊 (S101CN)
 
 # PC-Based
 
