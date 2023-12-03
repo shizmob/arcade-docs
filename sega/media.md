@@ -1066,7 +1066,6 @@ CDN-0011 A-1 : けものフレンズ3プラネットツアーズ (Disc.1) : NuSX
 ????        : Cross Beats Rev : Nu1.1 : JPN : SDCA : 610-0891-002BJ
 ????        : Luigi's Mansion : Nu1.1 : EXP : SDCF : 610-0891-001BE
 ????        : Mario & Sonic at the Rio Olympic Games : Nu1.1 : JPN/EXP : SDCH : 610-0890-010BJ
-????        : 頭文字D ARCADE STAGE ZERO : Nu2 : CHN : SDER
 ????        : Mario & Sonic at the Tokyo Olympic Games : Nu1.1 : JPN/EXP : SDFV
 ```
 
