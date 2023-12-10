@@ -1554,6 +1554,10 @@ unknown:
   - `E99 JA A01`: system disc [CD-ROM] `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/s1064302244`
   - `E99 JA A02`: application disc [CD-ROM] `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/s1064302244`
   - `E99 JA C02`: application disc [CD-ROM] `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/s1064302244`
+* `EBC`: バトルクライマックス2 / Wrestle Arena Battle Climaxx 2! (2005, PC(KNM-845G3))  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/u1110594052`
+  - `EBC JA A01`: system disc [CD-ROM] `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/u1110594052`
+  - `EBC JA A02`: application disc [CD-ROM] `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/u1110594052`
+  - `EBC JA A03`: application disc [CD-ROM] `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/u1110594052`
 * [`ECO`: beatmania IIDX 12 HAPPY SKY](software/ECO.md) (2005, PC(KNM-845G3-A12)IO(C02/D01)-HDD)  `#MISC:oyakodon_oniku_list`
   - [`GQECO-JA`: Dedicated cabinet](product/GQECO-JA.md)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/m1017417120`
   - `GCECO-JA`
@@ -1760,6 +1764,7 @@ unknown:
   - `GEH16-JA`: Type A cabinet conversion kit  `#DOC:konami:113707830000 #DOC:konami:113204880000`
   - `GEH16-JB`: Type B/C cabinet conversion kit  `#DOC:konami:113204880000`
   - `GEH16-JC`: Type D cabinet conversion kit  `#DOC:konami:113204880000`
+  - `H16 JA A01`: ROM 2008-02-07 0 `#WEB: https://www.nicovideo.jp/watch/sm5593860`
 * `H18`: ベースボールヒーローズ 3 / Baseball Heroes 3 (2007)  `#WEB:https://jp.mercari.com/item/m91307491731`
   - `GUH18-JA`: booster pack vol.3.0 [200P]
   - `GUH18-JE1`: booster pack vol.3.51 [200P]  `#WEB:https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0111/users/2e4ec857a6e9cb576f88fa8fd57d3976f06e8f8e/i-img1200x1200-1606224374ftukpp330488.jpg`
@@ -1942,6 +1947,7 @@ unknown:
 * `J39`: pop'n music 18 せんごく列伝 (2010, PC(855))
   - `GCJ39-JA`: Type A cabinet conversion kit  `#DOC:konami:113707830000 #DOC:konami:113204880000 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/l1005777046`
   - `GCJ39-JB`: Type B/C/D cabinet conversion kit  `#DOC:konami:113204880000`
+  - `J39 JA A01`: ROM 2009-07-29 0 `#WEB: https://twitter.com/Dorozuki_Bemani/status/1721650336581222730`
 * `J44`: jubeat knit (2010, PC(855/945)), jubeat knit APPEND (2011, PC(855/945))  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/1001214965`
   - `GQJ44-JC`
 * `J55`: GI-HORSEPARK GX [station?]  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/o1000215728`
@@ -2401,8 +2407,9 @@ unknown:
   - `MDX JF AF01`: ROM [ADE6291, P4IO, Win7] 2018-09-14 0
   - `MDX JF AJ01`: ROM [ADE6291, P4IO, Win7]  2019-08-01 0
   - `MDX JH BA01`: ROM [X10SLQ, BIO2, Win7] 2022-11-29 1 `#WEB:https://twitter.com/iMp95/status/1608406532705902597`
-  - `MDX JI AH01`: ROM [ADE6291, BIO2, Win7]  2019-02-26 0  `#WEB:https://twitter.com/964_kuroyon/status/1108273033045630977/photo/1`
-  - `MDX JI AT01`: ROM [ADE6291, BIO2/P3IO(?), Win7] 2021-08-11 0 `#WEB:https://twitter.com/1831shun06021/status/1636230532756541440`
+  - `MDX JI AH01`: ROM [ADE6291, BIO2, Win7] 2019-02-26 0  `#WEB:https://twitter.com/964_kuroyon/status/1108273033045630977/photo/1`
+  - `MDX JI AT01`: ROM [ADE6291, BIO2, Win7] 2021-08-11 0 `#WEB:https://twitter.com/1831shun06021/status/1636230532756541440`
+  - `MDX JI AU01`: ROM [ADE6291, BIO2, Win7] 2021-12-21 0 `#WEB: https://twitter.com/KusozakonamekuG/status/1718144805329612986`
   - `MDX UD V01`:  ROM [HM65,    P4IO, WinXP] 2016-04-22 0  `#WEB:https://www.youtube.com/watch?v=UFlO-BE75cc #WEB:https://www.youtube.com/watch?v=6LjqQ6Aj86M`
   - `MDX UG AC01`: ROM [ADE6291, P4IO, Win7]  2017-12-06 0
   - `MDX UG AK01`: ROM [ADE6291, P4IO, Win7] 2019-09-02 0 `#WEB: https://mobile.twitter.com/DDR_MARTEN/status/1593683815414861827`
@@ -2525,6 +2532,7 @@ unknown:
   - `QBG-JA-B01`: ROM 2018-07-20 0 [GTX 1050]
   - `QBG-JA-E01`: ROM 2019-01-25 0 `#WEB:https://mobile.twitter.com/kitakawati/status/1599718473403629569/`
   - `QBG-JA-H01`: ROM 2019-07-12 0 `#WEB:https://mobile.twitter.com/erusiru1/status/1589555165371461632`
+  - `QBG-JA-K01`: ROM 2019-12-13 0
   - `QBG-JB-N01`: ROM 2020-07-08 0 [GTX 1650]
   - `QBG-JB-R01`: ROM 2021-04-19 0 `#WEB:https://twitter.com/KADA_AKI/status/1626172720437411845`
 * `QCV`: SOUND VOLTEX III(コナステ) / SOUND VOLTEX III (e-AMUSEMENT CLOUD) / SOUND VOLTEX EXCEED GEAR (コナステ) / SOUND VOLTEX EXCEED GEAR (e-AMUSEMENT CLOUD) [e-AMUSEMENT CLOUD/home version]
@@ -2606,7 +2614,9 @@ unknown:
   - `GQTBS-JC`
   - `TBS JA *01` - HDD
   - `TBSJAA01`: ROM 2020-10-28 0
-* `TCS`: カードコネクト / CARD CONNECT
+* `TCS`: カードコネクト / CARD CONNECT (PC(R10), 2019)
+  - `GQTCS-JA`  : dongle label `#WEB: https://page.auctions.yahoo.co.jp/jp/auction/e1105920974`
+  - `TCS JA *01`: SSD `#WEB: https://page.auctions.yahoo.co.jp/jp/auction/e1105920974`
   - `TCS-JA-D01`: ROM 2019-12-11 0
 * `TDJ`: beatmania IIDX LIGHTNING MODEL
   - beatmania IIDX 27 HEROIC VERSE (2019, PC(C300)IO(BIO2-BI2X))
@@ -2619,6 +2629,7 @@ unknown:
   - `GUTDJ-JV`: beatmania IIDX 29 CastHour LIGHTNING MODEL用装飾キット (マイクロスイッチ同梱) [CastHour art kit with microswitches]
   - `TDJ JA A01`: ROM 2019-11-18 0 `#WEB: https://www.youtube.com/watch?v=pGl0d3rq8Xg`
   - `TDJ JA B01`: ROM 2021-04-13 0
+  - `TDJ JA Y01`: ROM 2023-05-26 0
 * `TMA`: Quiz Magic Academy HG MODEL
   - Quiz Magic Academy 輝望の刻 (2020, PC)
   - Quiz Magic Academy 夢幻の鏡界 (2021, PC)  `#WEB:https://twitter.com/SILKHAT_Yokochu/status/1386522899226320903`
