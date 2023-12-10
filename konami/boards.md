@@ -229,7 +229,7 @@ Seemingly identical to the [KNM-845G3-A12](#knm-845g3-a12), for which below spec
 **MBD:** PM-845G3/GL/GV  
 **STH:** Intel 845G  
 **GPU:** Asus V9570/TD/P/256M/A (Nvidia GeForce FX5700, 256MB)  
-**Games:** D00, CLX  
+**Games:** D00, CLX, EBC  
 **Sticker:** 27  
 
 ### KNM-845G3-A12
@@ -285,7 +285,7 @@ Uses Intel Extreme integrated graphics instead of a GeForce GPU.
 **MBD:** DFI G4S306-C  
 **STH:** Intel 865G  
 **BIOS:** Phoenix-Award  
-**OS:** Windows XP Embedded (SP1) [D22] [G27] / Windows XP Embedded (SP2) [IG2] [HCK] [GGG] [FA5]
+**OS:** Windows XP Embedded (SP1) [D22] [G27] [F24] / Windows XP Embedded (SP2) [IG2] [HCK] [GGG] [FA5]
 
 #### FAB-e865-KN001
 
@@ -603,7 +603,7 @@ Also known as: "ADE".
 
 **MBD:** Ennoconn ADE-6291  
 **APU:** AMD RX-421BD  
-**HDD:** [KFC/PAN?/L44?/M32?/M33?/REC?/MDX?] WDC WD3200LPCX (320GB)  
+**HDD:** [KFC/MDX/PAN?/L44?/M32?/M33?/REC?] WDC WD3200LPCX (320GB)  
 **SSD:** [LDJ] innodisk 3ME2 mSATA (256GB)  
 **SSD:** [L44/Others] innodisk 3MG2-P SATA  
 **SND:** Realtek ALC888S
@@ -777,13 +777,16 @@ Unknown if it uses the original or revision motherboard.
 
 (Name for its home variation. Name for actual arcade hardware is tentative)
 
+`#WEB: https://page.auctions.yahoo.co.jp/jp/auction/r1112453146`
+
 **MBD:** Supermicro SuperO MBD-C7B360-CB-MW-O custom variant (microATX)  
 **STH:** Intel B360  
 **CPU:** Intel Core i5-9400F  
-**GPU:** GIGABYTE GV-N1650IXOC-4GD (Nvidia GeForce GTX 1650)  
+**GPU:** GIGABYTE GeForce GTX 1650 MINI ITX OC 4G (GV-N1650IXOC-4GD) (4 GB, GDDR5) [TBS] [UJK]  
+**GPU:** MSI GeForce GTX 1650 D6 AERO ITX J OC (4 GB, GDDR6) [UKS] [VFG]  
 **SSD:** WDC WD3200LUCT (320GB) [TBS] [UJK]  
 **SND:** Realtek ALC892  
-**Games:** TBS, UKS, UJK  
+**Games:** TBS, UKS, UJK, VFG  
 **OS:** Windows 10 IoT Enterprise LTSC 2019  
 **Ref:** https://www.konami.com/amusement/arespear/desktops/c300/index.html  
 
