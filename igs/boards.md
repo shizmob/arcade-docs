@@ -100,21 +100,21 @@ There is little to no information about this board yet.
 
 **OS:** LFS Linux 
 
-**BIOS:** customized Phoenix AwardBIOS. Other BIOS revisions may exist
+**BIOS:** customized Phoenix-Award BIOS v6.00PG. Other BIOS revisions may exist
 * 01/09/2007-nVidia-nForce-6A61BPA9C-00
 
 **Games:**
-* Percussion Master (replacement/newer PCB)
-* Percussion Master Plus (鼓王 加強版) (replacement/newer PCB)
+* Percussion Master
+* Percussion Master Plus
 * Percussion Master 2
 * Rock Fever 5
 
 ### E2000
-**Motherboard:** I-JOIN E2000
+**Motherboard:** I-JOIN E2000 (IBASE OEM)
 
 There are two variants:
 * E2000-C6-V256: Has Celeron M 600MHz onboard
-* E2000-V256: Has a PGA479 socket with Celeron M 370 attached.
+* E2000-V256: Has a PGA479 socket with Celeron M 370 (1.5 GHz) attached.
 Has two sub-variants, differences unknown but similar:
 ** IGS MB NX E2000C [SD2]
 ** IGS MB NX E2000D [WeDo]
@@ -123,10 +123,11 @@ Has two sub-variants, differences unknown but similar:
 * Intel Celeron M (600MHz, SL8FN) (onboard) [E2000-C6-V256]
 * Intel Celeron M 370 (1.5GHz, SL8MM) (socketed) [E2000-V256]
 
-**GPU:** Nvidia GeForce 6200 (256 MB GDDR2) [GF-6200-AGP N-A1]
+**GPU:** Nvidia GeForce 6200 (256 MB, GDDR2) [GF-6200-AGP N-A1]
 
 **RAM:** 2 x DDR1 slot. Memory sizes differ depending on games
-* 1 GB DDR-333 [WeDo] [SR]
+* DSL 2 x 256 MB (512 MB) DDR-333 [Pirate Revenge]
+* DSL 1 GB DDR-333 [WeDo]
 
 **Chipset:** Intel 852GME
 
@@ -136,26 +137,34 @@ Has two sub-variants, differences unknown but similar:
 
 **SND:** Realtek ALC655 (AC'97)
 
+**NETWORK:** Intel 82801DB PRO/100 VE (CNR) Ethernet
+
 **OS:** LFS Linux (kernel 2.4.31)
 
-**BIOS:** customized Phoenix AwardBIOS. Other BIOS revisions may exist
-* 07/03/2007-i852-W83627HF-6A69YILTC-00 [E2000C] [E2000D]
+**BIOS:** customized Phoenix-Award BIOS v6.00PG.
+There are two known BIOS revisions of this board, though both share the same BIOS date but have different VBIOS revisions.
+The A1 BIOS is one of the first BIOSes to ship with first batches of the board (coming with its first games like Go Go Ball, Pirate Revenge and Speed Driver 2), while the A11 BIOS is more common on newer batches of the boards.
+* 07/03/2007-i852-W83627HF-6A69YILTC-00 [A1] [A11]
+
+**VBIOS:** Both
+* A1: NV44A P382 VGA BIOS Version 5.44.A2.10.00 (07/03/07)
+* A11: NV44A P382 VGA BIOS Version 5.44.A2.10.00 (02/22/08)
 
 **Games:**
 ```
     E2000-C6-V256   - Panda Family
     E2000-C6-V256   - Rock Fever 5 (replacement/newer PCB)
-    E2000-C6-V256   - Percussion Master Plus (鼓王 加強版) (replacement/newer PCB)
+    E2000-C6-V256   - Percussion Master Plus (replacement/newer PCB)
     E2000-C6-V256   - Percussion Master 2008 (replacement/newer PCB)
     E2000-C6-V256   - Gold Captain (航海小勇士)
     E2000-C6-V256   - Submarine Crisis
-    E2000-C6-V256   - Vibraphone (铁琴: 第一乐章)
-    E2000-V256      - Pirate Revenge
+    E2000-C6-V256(?)- Vibraphone (铁琴: 第一乐章)
+    E2000-V256      - Pirate Revenge (怒海英豪)
     E2000-V256      - We Dancing Online
     E2000-V256      - We Dancing Online 2 (Plus)
     E2000-V256      - Speed Rider
     E2000-V256      - Speed Driver 2: Overtake
-                    - 海遊漁 (China)
+    E2000-V256      - 海遊漁 (China)
 ```
 
 **Notes:**
@@ -170,8 +179,6 @@ Has two sub-variants, differences unknown but similar:
 **CPU:** Intel Atom N270
 
 **GPU:** NVIDIA ION (GT218) series
-
-**RAM:** 1 GB DDR2 (onboard)
 
 **Chipset:** Intel 945GS
 
@@ -267,50 +274,48 @@ Currently found BIOS versions are:
  
  I-JOIN M2000 expansion board: Probably some kind of security module, contains FPGA for decrypting the hard disk. SSD is mounted on this and then connects to the motherboard via proprietary 125-pin connector.
 
-**Note:** Some cabs of Percussion Master 1 use this PCB.
-
 **Games:**
 * Danz Base
 * Monster Eye
+* Monster Eye 2 (?)
 * Overtake
 * Overtake DX
+* Ultra Race (?)
 
 ## S/V-series
 The S3000 has a wide casing with the power supply on the left side of the casing.
 The V3000 is the same as S3000, except with an external power supply similar to the E3000 and E3100 and is less wider.
 The V3000 has the same splash as the S3000, so to know if it's a S3000/V3000 requires access to the cabinet or looking at the manual.
 
-**Motherboard:** GIGABYTE H110M-S2PV-CF
-
-**Notes:**
-* BIOS is modified with a custom S3000 splash. Variants of F4d and F21d BIOS exists.
-
 ### S3000
+**Motherboard:** GIGABYTE H110M-S2PV
+
 **CPU:**
 * Pentium G4400 [Transform: Hero of Robots]
 
 **GPU:**
-* Aetina GeForce GTX 650 (1 GB, GDDR5) (N650C-H7FX) [Transform: Hero of Robots (early version)]
-* MSI GeForce GTX 1050 OC (2 GB) [Transform: Hero of Robots (later versions)] [機甲英雄Hero of Robots]
+* Aetina GeForce GTX 650 / 740 (OEM) (N650C-H7FX) (1 GB, GDDR5) [Transform: Hero of Robots (early version)]
+* Nvidia GeForce GTX 1050 (2 GB) [Transform: Hero of Robots (later versions)] [機甲英雄Hero of Robots]
 
 **OS:**
-* Windows 10 IoT Embedded LTSB 2016 [Transform: Hero of Robots]
+* Windows 10 IoT Embedded LTSB 2016
 * LFS Linux [Speed Driver 4, replacement PCBs]
 
 **SSD:** 64 GB
 
-**RAM:** Transcend 2 x 4 GB DDR4-2400
-
 **PSU:** Seasonic S12II-520B (520 W)
 
 **Games:**
-* Transform: Hero of Robots
+* Transform Hero of Robots
 * 機甲英雄Hero of Robots
 * Speed Driver 4 (replacement PCB) (unknown if it's using the S3000 or V3000)
 * Speed Rider 3 (?) (unknown if it's using the S3000 or V3000)
 
 ### V3000
+**Motherboard:** GIGABYTE H110M-S2PV
+
 **CPU:**
+* Pentium G4400 [Ultra Race]
 * Core i3-7100 [Asphalt 9 Legends Arcade, Speed Driver 5, Monster Eye 2]
 * Core i7-6700 [Overtake VR]
 
@@ -319,21 +324,22 @@ The V3000 has the same splash as the S3000, so to know if it's a S3000/V3000 req
 * GIGABYTE GeForce GTX 1650 OC 4G [Asphalt 9 Legends Arcade]
 * MSI GeForce GTX 1080 GAMING X 8G [Overtake VR]
 * Nvidia GeForce RTX 2060 Super (as replacement GPU) [Ultra Moto VR]
-* Aetina GeForce GT 740 (1 GB, GDDR5) [Ultra Race]
+* Aetina GeForce GTX 650 / 740 (OEM) (N650C-H7FX) (1 GB, GDDR5) [Ultra Race]
 Other variations may exist
 
 **RAM:**
+* 1 x 4 GB DDR4 [Ultra Race]
 * 2 x 4 GB DDR4-2400 (8 GB) [Monster Eye 2]
 * 2 x 8 GB DDR4-2400 (16 GB) [Asphalt 9 Legends Arcade, Overtake VR, Speed Driver 5, Ultra Moto VR]
 
 **SSD:**
-* 64 GB [Monster Eye 2, Asphalt 9 Legends Arcade, Overtake VR, Speed Driver 5, Ultra Moto VR]
-* Transcend SSD370 32 GB (TS32GSSD370) [Ultra Race]
+* 64 GB [Monster Eye 2]
+* Transcend SSD370 32 GB SSD (TS32GSSD370) [Ultra Race]
 
 **Sound:** Realtek ALC887 (HD Audio)
 
 **OS:**
-* Windows Embedded Standard 7 (SP1) [Ultra Race]
+* Windows Embedded Standard 7 (SP1) (x64) [Ultra Race]
 * Windows 10 IoT Embedded LTSB 2016 [Overtake VR]
 * Windows 10 IoT Embedded LTSC 2021 [Sailor's Quest VR]
 
@@ -344,6 +350,7 @@ Other variations may exist
 * Ultra Moto VR
 * Asphalt 9 Arcade DX
 * Sailor's Quest VR
+* Hyper Cross (?)
 
 ## C-series
 ### C1000
@@ -365,7 +372,8 @@ Other variations may exist
 
 **OS:** modified Red Hat Linux (32-bit, using Linux kernel 2.4.24)
 
-**BIOS:** modified National Semiconductors XpressROM BIOS [Percussion Kids, newer revision PCB]
+**BIOS:** modified National Semiconductors XpressROM BIOS [Percussion Kids, newer revision PCB].
+* 12/06/06 [Percussion Kids / Tempo Kiddo]
 
 **Games:**
 * Percussion Kids (2005)
@@ -376,10 +384,12 @@ Other variations may exist
 **Notes:**
 * Based on same board for earlier EZTouch games (IGS-Osprey) but with CPU module now onboard and IDE connector.
 * The key to enter BIOS is still unknown.
-* The IGS027A ASIC is connected thru Texas Instruments PCI1510 bus chip.
 * The MBR of the game's CompactFlash is encrypted by the BIOS, but the contents are still accessible using imaging tools.
-* The encrypted MBR has the header of "IGS-I-JOIN-C1000". It's not possible to boot from other boot drives like USB without the header present; it will fail with "Boot False(B)."
 * C-Media CMI8738 is used instead of the AC'97 chip for Percussion Kids and Tempo Kiddo, although the Realtek AC'97 chip is still present onboard.
+
+**The BIOS has several checks:**
+* The IGS027A ASIC is connected thru Texas Instruments PCI1510 bus chip. Before booting from the CompactFlash, it checks to see if the PCI1510 chip is present or not. If it can find the chip, it will say "Find IGS Card.". Else, it will refuse to boot and output "Not Find IGS Card."
+* The encrypted MBR has the header of "IGS-I-JOIN-C1000" and the BIOS has elements of GRUB strings to do check against. It's not possible to boot from other boot drives like USB without the header and GRUB strings present; it will fail with "Boot False(B)."
 
 ### C2000
 **Motherboard:** I-JOIN C2000
@@ -395,7 +405,8 @@ Has two variants:
 * onboard DDR1 RAM (size unknown) + 1 x DDR1 DIMM slot [Rev2.0]
 * 1 x DDR1 DIMM slot [Rev2.1]
 
-**BIOS:** customized Phoenix AwardBIOS
+**BIOS:** customized Phoenix-AwardBIOS v6.00PG.
+* 11/30/2007-AMD-GX3-6A43A00BC-00
 
 **Games:**
 ```
@@ -403,7 +414,7 @@ Has two variants:
     Rev2.1      - IQ Park Online (IQ乐园网络版)
     Rev2.1      - IQ Park 2008 (IQ乐园2008)
     Rev2.1      - IQ Park 2011 (IQ乐园2011)
-    Rev2.1      - IQ Park 2011 (IQ乐园2012)
+    Rev2.1      - IQ Park 2012 (IQ乐园2012)
                 - Global Touch 2007 Sigma
                 - Diamond Progressive (control box)
 
@@ -412,9 +423,10 @@ Has two variants:
 **Notes:**
 * BIOS can be accessed via Ctrl+D while at the IGS BIOS splash screen at boot-up
 * Onboard video memory size can be adjusted up to 256 MB
+* Similar to its predecessor, it also has a check for the Texas Instruments Ti1510 chip embedded inside the board after the POST screen. It will fail with "Ti1510 is not Exist" error if it doesn't find one on the board.
 
 ## Misc
-### L4S5MG/651+
+### Percussion Master (export)
 **Motherboard:** ECS L4S5MG/651+ (V5.0A)
 
 **Chipset:** SiS 651 (Northbridge) / SiS 692 (Southbridge)
@@ -425,11 +437,9 @@ Has two variants:
 
 **RAM:** 512 MB DDR-333 
 
-**OS:** Red Hat Linux (Linux 2.4.21) (32-bit)
+**OS:** Red Hat Linux (32-bit)
 
-**Games:**
-* Percussion Master
-* Percussion Master Plus (鼓王 加強版)
+**Note:** Some cabs of Percussion Master 1 uses this PCB.
 
 ### Rock Fever 4 Remix
 **Motherboard:** Foxconn 661FX7MI-S (?)
