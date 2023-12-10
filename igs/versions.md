@@ -14,8 +14,12 @@ For identification purpose, IGS labels their product's revision using a
 ### Gold Captain (航海小勇士)
 * M-100CN
 
+### Monster Eye
+* M-103FA
+
 ### Pirate Revenge
 * M-101US
+* M-101CN
 
 ### Rock Fever 5
 * M-102CN
@@ -33,6 +37,7 @@ For identification purpose, IGS labels their product's revision using a
 
 ### Percussion Master
 * M-108US
+* M-108EU
 * M-109US
 
 ### Percussion Master 2008
