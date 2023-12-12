@@ -68,7 +68,7 @@ It's unknown whether the security modules are interchangable.
 * Free Touch 3 (希力指多星3)
 
 ## Intel H61 based `#WEB:https://m.tb.cn/h.U8iANmV?tk=9PrYdeW4JHk`
-**Motherboard:** Intel H61 based
+**Motherboard:** Intel H61 based customized board "SEALY-XGPII"
 
 **CPU:** Intel Pentium G3260 @ 3.30 GHz
 
