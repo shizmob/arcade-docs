@@ -791,7 +791,7 @@ DVR-0046  :
 DVR-0047  :
 DVR-0048  :
 DVR-0049  : K.O. DRIVE (PK DRIVE) : SBXA
-DVR-0050  :
+DVR-0050  : Senkaisen Taissen CHINA V1.0 : RingWide (AAMK) : CHN : SBSQ
 DVR-0051  :
 DVR-0052  :
 DVR-0053  :
@@ -954,7 +954,6 @@ DVR-5059  : WORLD CLUB CHAMPION FOOTBALL 2017-2018 : RingEdge : JPN : SDDY  #WEB
         B : ^
 DVR-5060  : StarHorse3 SeasonVII GREAT JOURNEY (No.1) : RingEdge2 : JPN : SDEN(satellite?) : on a 864-5004D  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/u1015343719
 CDV-30060 : ^ (No.2)  #WEB:https://page.auctions.yahoo.co.jp/jp/auction/u1015343719
-DVR-????  : Senkaisen Taissen CHINA V1.0 : RingWide (AAMK) : CHN : SBSQ
 DVR-????  : メダルのガンマン : RingWide : JPN : SBTF
 DVR-????  : すすめ！スゴロケッツ : RingEdge : JPN : SBTH
 DVR-????  : XIYANGYANG : RingWide : CHN : SBVG
