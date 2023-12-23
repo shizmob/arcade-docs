@@ -10,9 +10,8 @@ Some kind of industrial PC.
 
 **RAM**: DDR3, 8GB SODIMM (laptop)
 
-**GPU**: Paldon Nvidia GTX 1660S, 1x HDMI, 1x DisplayPort, 1x DVI; iGPU, 2x HDMI (all unused)
-* Despite no direct evidence, the brand Paldon is commonly doubted for using recycled/scrapped chips
-* Display connectors falsely marked as COM3 and COM4
+**GPU**: Peladn Nvidia GTX 1660S, 1x HDMI, 1x DisplayPort, 1x DVI; iGPU, 2x HDMI (all unused)
+* Despite no direct evidence, the brand Peladn is commonly doubted for using recycled/scrapped chips
 
 **SSD**: M.2, Faspeed branded, 128GB
 
@@ -34,7 +33,6 @@ Some kind of industrial PC.
 
 **GPU**: AMD RX 5500XT, 1x HDMI, 3x DisplayPort; iGPU, 1x HDMI, 1x VGA (all unused)
 * One of the DisplayPort is converted to HDMI via converter
-* Display connectors falsely marked as COM3 and COM4
 
 **SSD**: 128GB
 
