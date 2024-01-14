@@ -1108,6 +1108,7 @@ CDA-0008 -1D: WCCF FOOTISTA (Disc.1) : ALLS UX : JPN : SDEB  #WEB:https://page.a
 CDA-0009A-1D: ALL.Net P-ras MULTI バージョン3 (Disc.1) : JPN : SDEM
          -2D: ^ (Disc.2)
          -3 : ^ (Disc.3)
+CDA-0015 -1 : maimai DX Startup Disc #WEB:https://page.auctions.yahoo.co.jp/jp/auction/m1104121688
             : Guilty Gear -Xrd- Rev.2 : SDFB
             : Blade Strangers : SDFD
             : PUYO PUYO Esports : SDFF
