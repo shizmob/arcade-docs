@@ -55,7 +55,7 @@ Assuming notches on the connectors are facing downwards.
     </tr>
 </table>
 
-Pin 8 and 9 are marked as "key in/key out" which are too vague. These key switches are inside the cabinet and directly adds/subtracts certain amounts of credits from player's bankroll for attendents doing [hand pay](https://en.wikipedia.org/wiki/Hand_pay) or manual cash in.
+Pin 8 and 9 are marked as "key in/key out" in manual which are too vague. These key switches are inside the cabinet and directly adds/subtracts certain amounts of credits from player's bankroll for attendents doing [hand pay](https://en.wikipedia.org/wiki/Hand_pay) or manual cash in.
 
 
 ## 24V Input
