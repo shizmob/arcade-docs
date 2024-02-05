@@ -1,5 +1,5 @@
 # Slots/Redemption Games IO Board
-This board comes with 4P/6P/8P/12P variations.
+This board comes with 4P/6P/8P/10P variations.
 ## Joystick connectors (CON13-CON22)
 Assuming notches on the connectors are facing downwards.
 ### Pin arrangement
