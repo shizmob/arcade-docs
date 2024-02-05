@@ -22,7 +22,7 @@ Assuming notches on the connectors are facing downwards.
         <td>Joystick down</td>
         <td>Jotstick left</td>
         <td>Fire button</td>
-        <td>Attendant manual cash in key switch [^1]</td>
+        <td>Attendant manual cash in key switch</td>
         <td>Hopper conter-clockwise signal</td>
         <td>Hooper feedBack singal</td>
         <td>Hopper clockwise signal</td>
@@ -39,7 +39,7 @@ Assuming notches on the connectors are facing downwards.
         <td>Jotstick right</td>
         <td>Bet change button</td>
         <td>Coin signal</td>
-        <td>Attendant hand pay key switch [^1]</td>
+        <td>Attendant hand pay key switch</td>
         <td>Ticket printer error signal</td>
         <td>Ticket printer trigger signal</td>
         <td>Fire button light</td>
@@ -54,7 +54,8 @@ Assuming notches on the connectors are facing downwards.
         <td>I</td><td>I</td><td>I</td><td>I</td><td>I</td><td>O</td><td>O</td><td>O</td>
     </tr>
 </table>
-[^1]: These switches are marked as "key in/key out" which are too vague. These key switches are inside the cabinet and directly adds/subtracts certain amounts of credits from player's bankroll for attendents doing [hand pay](https://en.wikipedia.org/wiki/Hand_pay)/manual cash in.
+
+Pin 8 and 9 are marked as "key in/key out" which are too vague. These key switches are inside the cabinet and directly adds/subtracts certain amounts of credits from player's bankroll for attendents doing [hand pay](https://en.wikipedia.org/wiki/Hand_pay) or manual cash in.
 
 
 ## 24V Input
