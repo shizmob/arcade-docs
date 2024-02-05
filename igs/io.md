@@ -24,7 +24,7 @@ Assuming notches on the connectors are facing downwards.
         <td>Fire button</td>
         <td>Attendant manual cash in key switch</td>
         <td>Hopper conter-clockwise signal</td>
-        <td>Hooper feedBack singal</td>
+        <td>Hopper feedBack singal</td>
         <td>Hopper clockwise signal</td>
         <td>Bet change button light</td>
         <td>+12V</td>
@@ -58,7 +58,7 @@ Assuming notches on the connectors are facing downwards.
 Pin 8 and 9 are marked as "key in/key out" in manual which are too vague. These key switches are inside the cabinet and directly adds/subtracts certain amounts of credits from player's bankroll for attendents doing [hand pay](https://en.wikipedia.org/wiki/Hand_pay) or manual cash in.
 
 
-## 24V Input
+## 12V Input
 Assuming the bulge of the connector is facing upwards.
 <table>
 <tr>
