@@ -230,9 +230,19 @@ as specific MK versions nor revisions by Andamiro. Compatbility with different s
 * Official name: `MCU: MK-8171`
 * Motherboard: Asrock H81M-DGS REV2.01
 * CPU: Intel Celeron G1840/2.8GHz
-* GPU: Nvidia GeFroce GT710 1GB 64bit GDDR3
+* GPU: Nvidia GeForce GT710 1GB 64bit GDDR3
 * IO: [LXIO](io.md#lxio) and [USBPIUIO](io.md#usbpiuio) with breakout cables for LXIO "hanging out"
 * RAM: 2 GB
 * Bundled with Pump It Up [XX](game/piu/xx.md) upgrade kit
 
 ### H310
+
+### H610
+
+* Official name: `MCU: MK-6171`
+* Motherboard: GIGABYTE H610M-K DDR4
+* CPU: Intel Celeron G6900
+* GPU: Nvidia GeForce GT710 1GB 64bit GDDR3
+* IO: [LXIO](io.md#lxio) and [USBPIUIO](io.md#usbpiuio) with breakout cables for LXIO "hanging out"
+* RAM: 8 GB DDR4-3200
+* Bundled with Pump It Up [Phoenix](game/piu/phoenix.md) upgrade kit

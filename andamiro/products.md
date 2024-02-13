@@ -27,6 +27,7 @@
 * [Pump It Up 2015 Prime](game/piu/prime.md)
 * [Pump It Up 2017 Prime 2](game/piu/prime2.md)
 * [Pump It Up XX 20th Anniversary Edition](game/piu/xx.md)
+* [Pump It Up 2023 Phoenix](game/piu/phoenix.md)
 
 ## Pump It Up PRO
 

@@ -133,8 +133,16 @@
 
 ### LX
 
+* Black-colored LX exclusive to Korea
 * Monitor: [LX monitor](monitor.md#lx-monitor.md)
 * Main PCB: [H81](board.md#h81)
 * Games initially shipped with this cabinet type
   * [Prime 2](game/piu/prime2.md)
   * [XX](game/piu/xx.md)
+  * [Phoenix](game/piu/phoenix.md)
+
+### LX V2
+
+* "Refreshed" version of the [LX](#lx) type cabinet, removing the USB ports since Phoenix removes support for USB.
+* Games initially shipped with this cabinet type
+  * [Phoenix](game/piu/phoenix.md)
