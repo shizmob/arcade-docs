@@ -255,15 +255,17 @@ Currently found BIOS versions are:
 * E3100_MESEAT_V01.1.15-139.1 Date:Jun 4 2014 (Monster Eye)
 * E3100_BIOS_OT_V01.1.14-139.1 Date: Apr 8 2014 (Overtake / Overtake DX / UltraRace)
 
-**CPU:** Intel Core i3-3220
+**CPU:** Intel Core i3-3220 [Monster Eye]
+Other variations may exist
 
-**GPU:** NVIDIA GeForce GTX 750 (1 GB)
+**GPU:** NVIDIA GeForce GTX 750 (1 GB) [Monster Eye]
+Other variations may exist
 
 **RAM:** 4 GB DDR3
 
 **Sound:** C-Media CM6206, embedded on I-JOIN M3000 expansion board
 
-**Storage:** ADLINK 32 GB Industrial SSD (IGS OEM, SSB032GTTC7-SBA-2), 2.5' SATA, mounted on I-JOIN M2000 expansion board then connects to the motherboard via proprietary 125 PIN connector
+**Storage:** ADLINK 32 GB Industrial SSD (IGS OEM, SSB032GTTC7-SBA-2), 2.5' SATA, mounted on I-JOIN M2000 expansion board.
 
 **Networking:** ASIX AX88772BLF Ethernet controller embedded on I-JOIN M3000 expansion board
 
@@ -277,10 +279,8 @@ Currently found BIOS versions are:
 **Games:**
 * Danz Base
 * Monster Eye
-* Monster Eye 2 (?)
 * Overtake
 * Overtake DX
-* Ultra Race (?)
 
 ## S/V-series
 The S3000 has a wide casing with the power supply on the left side of the casing.
@@ -294,12 +294,12 @@ The V3000 has the same splash as the S3000, so to know if it's a S3000/V3000 req
 * Pentium G4400 [Transform: Hero of Robots]
 
 **GPU:**
-* Aetina GeForce GTX 650 / 740 (OEM) (N650C-H7FX) (1 GB, GDDR5) [Transform: Hero of Robots (early version)]
+* Aetina GeForce GTX 650 / 740 (OEM) (N650C-H7FX) (1 GB, GDDR5) [Transform: Hero of Robots (early version)] [Speed Driver 4 (newer PCB)] [Speed Rider 2 (newer PCB)]
 * Nvidia GeForce GTX 1050 (2 GB) [Transform: Hero of Robots (later versions)] [機甲英雄Hero of Robots]
 
 **OS:**
-* Windows 10 IoT Embedded LTSB 2016
-* LFS Linux [Speed Driver 4, replacement PCBs]
+* Windows 10 IoT Embedded LTSB 2016 [Transform: Hero of Robots] [機甲英雄Hero of Robots]
+* LFS Linux [Speed Driver 4, newer PCB] [Speed Rider 2, newer PCB]
 
 **SSD:** 64 GB
 
@@ -308,7 +308,8 @@ The V3000 has the same splash as the S3000, so to know if it's a S3000/V3000 req
 **Games:**
 * Transform Hero of Robots
 * 機甲英雄Hero of Robots
-* Speed Driver 4 (replacement PCB) (unknown if it's using the S3000 or V3000)
+* Speed Driver 4 (newer PCB)
+* Speed Rider 2 (newer PCB)
 * Speed Rider 3 (?) (unknown if it's using the S3000 or V3000)
 
 ### V3000
