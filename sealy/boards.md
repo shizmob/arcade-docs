@@ -67,9 +67,7 @@ It's unknown whether the security modules are interchangable.
 * Music Marble (音乐弹球) (Reflect Beat ripoff)
 * Free Touch 3 (希力指多星3)
 
-## Intel H61 based `#WEB:https://m.tb.cn/h.U8iANmV?tk=9PrYdeW4JHk`
-**Motherboard:** Intel H61 based customized board "SEALY-XGPII"
-
+## Intel H81 based `#WEB:https://m.tb.cn/h.U8iANmV?tk=9PrYdeW4JHk`
 **CPU:** Intel Pentium G3260 @ 3.30 GHz
 
 **RAM:** 4GB
