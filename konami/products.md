@@ -2283,6 +2283,7 @@ unknown:
   - Quiz Magic Academy 軌跡の交叉-Xross Voyage- (2019, PC(C3)IO(USB1/USB2)-HDD)
   - Quiz Magic Academy 輝望の刻 (2020, PC(C3)IO(USB1/USB2)-HDD)
   - Quiz Magic Academy 夢幻の鏡界 (2021, PC(C3)IO(USB1/USB2)-HDD)
+  - Quiz Magic Academy 黄金の道標 (2021, PC(C3)IO(USB1/USB2)-HDD)
   - `GELMA-JA`: 賢者の扉 center monitor unit conversion kit  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/n518055220`
   - `GELMA-JB`: 賢者の扉 client unit conversion kit  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/x789364916 #WEB:https://www.mercari.com/jp/items/m91656375975/`
   - `GELMA-JC`: 賢者の扉 center monitor unit conversion kit  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/n518055220`
@@ -2322,6 +2323,7 @@ unknown:
   - `GEM32-JA`: GuitarFreaks conversion kit  `#WEB:https://www.ebay.com/itm/133687572798 #WEB:https://a11.kpers.net/item/s747701082/ #WEB:https://page.auctions.yahoo.co.jp/jp/auction/f1026281570`
   - `GEM32-JB`: DrumMania conversion kit  `#WEB:https://a11.kpers.net/item/t730347099/`
   - `M32 JB A01`: ROM [HM65 PCB] 2013-01-10 0
+  - `M32 JB O01`: ROM [HM65 PCB] 2015-02-18 0 `#WEB: https://twitter.com/mozu93/status/1759171884879655266/photo/1`
   - `M32 KB A01`: ROM [HM65 PCB] 2015-10-01 2 `#WEB:https://twitter.com/GAOS_game/status/1186132871636901890`
   - `M32 JB T01`: ROM [HM65 PCB] 2016-02-24 0 `#WEB: https://twitter.com/SOLB_EDVARD/status/1666751732351729666`
   - `M32 KC V01`: ROM [ADE PCB] 2016-12-07 1
@@ -2335,8 +2337,8 @@ unknown:
   - pop'n music éclale (2015, PC(855/945/HM65)IO(USB2)-HDD)
   - pop'n music うさぎと猫と少年の夢 (2016, PC(855/945/HM65)IO(USB2)-HDD)
   - pop'n music peace (2018, PC(855/945/HM65)IO(USB2)-HDD)
-  - pop'n music 解明リドルズ (2020, PCPC(855/945/HM65)IO(USB2)-HDD)
-  - pop'n music UniLab (2022, PCPC(855/945/HM65)IO(USB2)-HDD)
+  - pop'n music 解明リドルズ (2020, PC(855/945/HM65)IO(USB2)-HDD)
+  - pop'n music UniLab (2022, PC(855/945/HM65)IO(USB2)-HDD)
   - `GCM39-JA`: Sunny Park type A conversion kit  `#WEB:https://a11.kpers.net/item/j654586019/`
   - `GCM39-JB`: Sunny Park type B/C/D conversion kit  `#WEB:https://a11.kpers.net/item/j654586019/`
   - `M39 JA A01`: ROM [945 PCB] 2012-06-28 0
@@ -2633,6 +2635,7 @@ unknown:
 * `TMA`: Quiz Magic Academy HG MODEL
   - Quiz Magic Academy 輝望の刻 (2020, PC)
   - Quiz Magic Academy 夢幻の鏡界 (2021, PC)  `#WEB:https://twitter.com/SILKHAT_Yokochu/status/1386522899226320903`
+  - Quiz Magic Academy 黄金の道標 (2023, PC)
   - `TMAJAB01`: ROM 2020-03-10 0
 * `TSS`: スマッシュスタジアム (2020, PC(ADE))  `#SCRAPE:konami:eagate`
   - `TSS-JB (STATION)`: station dongle
@@ -2662,10 +2665,11 @@ unknown:
   - `VFGJAA01`: ROM 2023-02-04 0 `#WEB:https://twitter.com/comichiroba/status/1637042519572889604`
   - `VFG JA *01`: SSD
 * `VGP`: DanceDanceRevolution(コナステ) [e-AMUSEMENT CLOUD/home version]  `#SCRAPE:konami:eagate`
-* `VSL`: 桃太郎電鉄メダルゲームも定番！ (2022/2023, under location test)  `#WEB:https://ariesu.com/locationtest/momotetsu-medal.htm`
+* `VSL`: 桃太郎電鉄メダルゲームも定番！ (2023)  `#WEB:https://ariesu.com/locationtest/momotetsu-medal.htm`
 * `VTA`: カラコロッタ フローズンアイランド (2022)  `#SCRAPE:konami:eagate #WEB:https://twitter.com/oyakodon_oniku/status/1587258529307451393`
 * `VPU`: GRANDCROSS GOLD (2022)  `#SCRAPE:konami:eagate`
-* `V65`: ELDORA CROWN 悠久のラビリンス (2023, under location test) `#WEB:https://www.ariesu.com/locationtest/eldoracrown_labyrinth.htm`
+* `V65`: ELDORA CROWN 悠久のラビリンス (2023) `#WEB:https://www.ariesu.com/locationtest/eldoracrown_labyrinth.htm`
+* `XIF`: Polaris Chord (ポラリスコード) (2024, under location test) `#WEB: https://ariesu.com/locationtest/polarischord.htm`
 
 * `PWB453470`: 1P/2P sensor board  `#WEB:https://www.ebay.co.uk/itm/224465398910`
 * `PWB113430230000`: I/O board  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/j1010903947`
