@@ -586,10 +586,10 @@ Also known as: "ITHM65", "ITHM65_E4690".  `#DOC:KONAMI:116245360000`
 **MBD:** Ennoconn ADE-704B  
 **STH:** Intel HM76  
 **CPU:** Intel Celeron 1020E  
-**RAM:** 1x ??? (DDR3 SODIMM, 2GB)  
+**RAM:** 1x Innodisk (DDR3L SODIMM, 2GB)  
 **GPU:** AMD Radeon E6760  
 **HDD:** WDC WD3200LPCX (320GB) [KFC]
-**SSD:** ? [KFC] (SEA mini cab)  
+**SSD:** Intel SSD 320 Series 80GB [KFC] (SEA mini cab)  
 **SND:** Realtek ALC888 Series  
 **IO:** \[KFC/PAN\] [KFCA](io.md#kfca)   
 **OS:** Windows XP Embedded (SP2) [KFC], Windows Embedded 7 Standard (SP1) [KFC] (SEA mini cab) [NCG] [OSP]
