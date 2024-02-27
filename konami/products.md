@@ -2329,6 +2329,7 @@ unknown:
   - `M32 KC V01`: ROM [ADE PCB] 2016-12-07 1
   - `M32 AD AC01`: ROM [ADE PCB] 2018-04-02 0
   - `M32 JB AQ01`: ROM [HM65 PCB] 2021-09-13 0 `#WEB: https://page.auctions.yahoo.co.jp/jp/auction/w1096756915`
+  - `M32 JB AT01`: ROM [HM65 PCB] 2022-12-14 0 `#WEB: https://twitter.com/earthlove488/status/1756129963215028609`
 * `M33`: GITADORA [drums] (2013, PC)
   - `GCM33`
 * `M39`
