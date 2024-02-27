@@ -100,8 +100,9 @@ There is little to no information about this board yet.
 
 **OS:** LFS Linux 
 
-**BIOS:** customized Phoenix-Award BIOS v6.00PG. Other BIOS revisions may exist
-* 01/09/2007-nVidia-nForce-6A61BPA9C-00
+**BIOS:** customized Phoenix-Award BIOS v6.00PG.
+* 01/09/2007-nVidia-nForce-6A61BPA9C-00  
+Other BIOS revisions may exist
 
 **Games:**
 * Percussion Master
@@ -110,11 +111,10 @@ There is little to no information about this board yet.
 * Rock Fever 5
 
 ### E2000
-**Motherboard:** I-JOIN E2000 (IBASE OEM)
-
+**Motherboard:** I-JOIN E2000 (IBASE OEM)  
 There are two variants:
 * E2000-C6-V256: Has Celeron M 600MHz onboard
-* E2000-V256: Has a PGA479 socket with Celeron M 370 (1.5 GHz) attached.
+* E2000-V256: Has a PGA479 socket with Celeron M 370 (1.5 GHz) attached.  
 Has two sub-variants, differences unknown but similar:
 ** IGS MB NX E2000C [SD2]
 ** IGS MB NX E2000D [WeDo]
@@ -125,7 +125,7 @@ Has two sub-variants, differences unknown but similar:
 
 **GPU:** Nvidia GeForce 6200 (256 MB, GDDR2) [GF-6200-AGP N-A1]
 
-**RAM:** 2 x DDR1 slot. Memory sizes differ depending on games
+**RAM:** 2 x DDR1 slot. Memory sizes may differ depending on games
 * DSL 2 x 256 MB (512 MB) DDR-333 [Pirate Revenge]
 * DSL 1 GB DDR-333 [WeDo]
 
@@ -141,12 +141,15 @@ Has two sub-variants, differences unknown but similar:
 
 **OS:** LFS Linux (kernel 2.4.31)
 
-**BIOS:** customized Phoenix-Award BIOS v6.00PG.
-There are two known BIOS revisions of this board, though both share the same BIOS date but have different VBIOS revisions.
-The A1 BIOS is one of the first BIOSes to ship with first batches of the board (coming with its first games like Go Go Ball, Pirate Revenge and Speed Driver 2), while the A11 BIOS is more common on newer batches of the boards.
+**BIOS:** customized Phoenix-Award BIOS v6.00PG.  
+
+There are two known BIOS revisions of this board, though both share the same BIOS date but have different VBIOS revisions.  
+
+The A1 BIOS is one of the first BIOSes to ship with first batches of the board (coming with its first games like Go Go Ball, Pirate Revenge and Speed Driver 2), while the A11 BIOS is more common on newer batches of the boards.  
+
 * 07/03/2007-i852-W83627HF-6A69YILTC-00 [A1] [A11]
 
-**VBIOS:** Both
+**VBIOS:**
 * A1: NV44A P382 VGA BIOS Version 5.44.A2.10.00 (07/03/07)
 * A11: NV44A P382 VGA BIOS Version 5.44.A2.10.00 (02/22/08)
 
@@ -168,7 +171,7 @@ The A1 BIOS is one of the first BIOSes to ship with first batches of the board (
 ```
 
 **Notes:**
-* BIOS can be accessed via Ctrl+D at boot-up
+* BIOS can be accessed via Ctrl+D at boot-up during the black BIOS splash screen.
 
 ### E2100
 **Motherboard:** Advantech DES-BT01
@@ -179,6 +182,8 @@ The A1 BIOS is one of the first BIOSes to ship with first batches of the board (
 **CPU:** Intel Atom N270
 
 **GPU:** NVIDIA ION (GT218) series
+
+**RAM:** 1 GB DDR2 (onboard)
 
 **Chipset:** Intel 945GS
 
@@ -253,28 +258,32 @@ Has two variants:
 Currently found BIOS versions are: 
 * E3100_BIOS_DB_V01.1.14-139 Date: Apr 8 2014 (Danz Base)
 * E3100_MESEAT_V01.1.15-139.1 Date:Jun 4 2014 (Monster Eye)
-* E3100_BIOS_OT_V01.1.14-139.1 Date: Apr 8 2014 (Overtake / Overtake DX / UltraRace)
+* E3100_BIOS_OT_V01.1.14-139.1 Date: Apr 8 2014 (Overtake / Overtake DX)
 
-**CPU:** Intel Core i3-3220 [Monster Eye]
-Other variations may exist
+**CPU:** Intel Core i3-3220 [Monster Eye] [Danz Base]
+  Other variations may exist
 
-**GPU:** NVIDIA GeForce GTX 750 (1 GB) [Monster Eye]
-Other variations may exist
+**GPU:**
+* NVIDIA GeForce GTX 750 (1 GB) [Monster Eye]
+* Aetina GeForce GTX 650 / 740 (OEM) (N650C-H7FX) (1 GB, GDDR5)
+  Other variations may exist
 
-**RAM:** 4 GB DDR3
+**RAM:** 4 GB (2 x 2 GB) DDR3-1333 (dual-channel) [Monster Eye] [Danz Base]
 
-**Sound:** C-Media CM6206, embedded on I-JOIN M3000 expansion board
+**Sound:** C-Media CM6206, embedded on I-JOIN M3000 expansion board and can do 8-channel audio with another expansion board attached to the M3000 board.
 
-**Storage:** ADLINK 32 GB Industrial SSD (IGS OEM, SSB032GTTC7-SBA-2), 2.5' SATA, mounted on I-JOIN M2000 expansion board.
+**Storage:** ADLINK 32 GB Industrial SSD (IGS OEM, SSB032GTTC7-SBA-2), 2.5' SATA, mounted on I-JOIN M2000 expansion board. Normally encrypted, it's decrypted on the fly using the M2000 expansion board.
 
 **Networking:** ASIX AX88772BLF Ethernet controller embedded on I-JOIN M3000 expansion board
 
 **OS:** Windows Embedded Standard 2009 (32-bit)
 
 **Extra:**
- I-JOIN M3000 (LI-05) expansion board: A strange board that takes 2 PCIe slots (one 16x, one 4x) at once, which handles sound and networking. Also with a IDE-alike socket on it, the functionality is yet to be determined.
+* I-JOIN M3000 (LI-05) expansion board: A strange board that takes 2 PCIe slots (one 16x, one 4x) at once, which handles sound and networking. Has an IGS036 chip embedded on the board, the functionality is yet to be determined. Has a slot for the additional 8-channel audio expansion board in the back.
+
+* 8-channel audio expansion board: Attached to the M3000 expansion board, this provides 8-channel audio channel expandibility for the C-Media audio chip. This provides Center/Subwoofer (blue port), Side Speaker (black port) and Rear Speaker (pink port) ports. Also with a IDE-alike socket on it, the functionality is yet to be determined. Only known to be used in Monster Eye.
  
- I-JOIN M2000 expansion board: Probably some kind of security module, contains FPGA for decrypting the hard disk. SSD is mounted on this and then connects to the motherboard via proprietary 125-pin connector.
+* I-JOIN M2000 expansion board: Probably some kind of security module, contains FPGA for decrypting the hard disk. SSD is mounted on this and then connects to the motherboard via proprietary 125-pin connector.
 
 **Games:**
 * Danz Base
@@ -282,14 +291,24 @@ Other variations may exist
 * Overtake
 * Overtake DX
 
+**PSU:** External. Usually uses a Seasonic S12-II PSU
+
 ## S/V-series
 The S3000 has a wide casing with the power supply on the left side of the casing.
 The V3000 is the same as S3000, except with an external power supply similar to the E3000 and E3100 and is less wider.
-The V3000 has the same splash as the S3000, so to know if it's a S3000/V3000 requires access to the cabinet or looking at the manual.
+The V3000 has the same BIOS splash as the S3000, so to know if it's a S3000/V3000 requires access to the cabinet or looking at the manual.
 
-### S3000
 **Motherboard:** GIGABYTE H110M-S2PV
 
+**Sound:** Realtek ALC887 (HD Audio)
+
+**BIOS:** customized GIGABYTE AMI BIOS, with a custom S3000 splash screen regardless of the S3000/V3000 board used.  
+
+There are revisions of this BIOS:
+* F4d
+* F21j ZG
+
+### S3000
 **CPU:**
 * Pentium G4400 [Transform: Hero of Robots]
 
@@ -313,8 +332,6 @@ The V3000 has the same splash as the S3000, so to know if it's a S3000/V3000 req
 * Speed Rider 3 (?) (unknown if it's using the S3000 or V3000)
 
 ### V3000
-**Motherboard:** GIGABYTE H110M-S2PV
-
 **CPU:**
 * Pentium G4400 [Ultra Race]
 * Core i3-7100 [Asphalt 9 Legends Arcade, Speed Driver 5, Monster Eye 2]
@@ -325,7 +342,7 @@ The V3000 has the same splash as the S3000, so to know if it's a S3000/V3000 req
 * GIGABYTE GeForce GTX 1650 OC 4G [Asphalt 9 Legends Arcade]
 * MSI GeForce GTX 1080 GAMING X 8G [Overtake VR]
 * Nvidia GeForce RTX 2060 Super (as replacement GPU) [Ultra Moto VR]
-* Aetina GeForce GTX 650 / 740 (OEM) (N650C-H7FX) (1 GB, GDDR5) [Ultra Race]
+* Aetina GeForce GTX 650 / 740 (OEM) (N650C-H7FX) (1 GB, GDDR5) [Ultra Race]  
 Other variations may exist
 
 **RAM:**
@@ -336,8 +353,6 @@ Other variations may exist
 **SSD:**
 * 64 GB [Monster Eye 2]
 * Transcend SSD370 32 GB SSD (TS32GSSD370) [Ultra Race]
-
-**Sound:** Realtek ALC887 (HD Audio)
 
 **OS:**
 * Windows Embedded Standard 7 (SP1) (x64) [Ultra Race]
