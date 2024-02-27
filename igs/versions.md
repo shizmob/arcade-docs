@@ -16,6 +16,7 @@ For identification purpose, IGS labels their product's revision using a
 
 ### Monster Eye
 * M-103FA
+* M-134FA
 
 ### Pirate Revenge
 * M-101US
