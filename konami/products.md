@@ -2060,6 +2060,7 @@ unknown:
   - `KCK JA A04`: application disc 3 [DVD-ROM]  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/t1012207231`
   - `KCK JA A05`: application disc 4 [DVD-ROM]  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/t1012207231`
   - `KCK JA A06`: application disc 5 [DVD-ROM]  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/t1012207231`
+* `KCK`: THE*BISHIBASHI (2009/2016, PC) (2016 Korean version)  `#WEB: https://www.youtube.com/watch?v=iuZZyC-7g7A`
 * `KDM`: DanceEvolution ARCADE (2012, PC(E1))
   - `GQKDM-JA`: cabinet
   - `GQKDM-HA`: cabinet (Hong Kong, running A-region software)  `#WEB:https://zh.wikipedia.org/wiki/%E8%88%9E%E8%B9%88%E8%BF%9B%E5%8C%96#%E4%BA%9E%E6%B4%B2%E5%8D%80Dance_Evolution_Arcade`
@@ -2317,6 +2318,7 @@ unknown:
   - GITADORA NEX+AGE (2019, PC(HM65/ADE))
   - GITADORA HIGH-VOLTAGE (2021, PC(HM65/ADE))
   - GITADORA FUZZ-UP (2022, PC(HM65/ADE))
+  - GITADORA GALAXY WAVE (2024, PC(HM65/ADE))
   - `GCM32`
   - `GQM32-JA`: GuitarFreaks
   - `GQM32-JB`: DrumMania   `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/j1011709370`
@@ -2325,6 +2327,7 @@ unknown:
   - `M32 JB A01`: ROM [HM65 PCB] 2013-01-10 0
   - `M32 JB O01`: ROM [HM65 PCB] 2015-02-18 0 `#WEB: https://twitter.com/mozu93/status/1759171884879655266/photo/1`
   - `M32 KB A01`: ROM [HM65 PCB] 2015-10-01 2 `#WEB:https://twitter.com/GAOS_game/status/1186132871636901890`
+  - `M32 KB O01`: ROM [HM65 PCB] 2015-11-13 1
   - `M32 JB T01`: ROM [HM65 PCB] 2016-02-24 0 `#WEB: https://twitter.com/SOLB_EDVARD/status/1666751732351729666`
   - `M32 KC V01`: ROM [ADE PCB] 2016-12-07 1
   - `M32 AD AC01`: ROM [ADE PCB] 2018-04-02 0
@@ -2672,7 +2675,8 @@ unknown:
 * `VTA`: カラコロッタ フローズンアイランド (2022)  `#SCRAPE:konami:eagate #WEB:https://twitter.com/oyakodon_oniku/status/1587258529307451393`
 * `VPU`: GRANDCROSS GOLD (2022)  `#SCRAPE:konami:eagate`
 * `V65`: ELDORA CROWN 悠久のラビリンス (2023) `#WEB:https://www.ariesu.com/locationtest/eldoracrown_labyrinth.htm`
-* `XIF`: Polaris Chord (ポラリスコード) (2024, under location test) `#WEB: https://ariesu.com/locationtest/polarischord.htm`
+* `XIF`: Polaris Chord (ポラリスコード) (2024, PC) `#WEB: https://ariesu.com/locationtest/polarischord.htm`
+  - `XIFJAA01`: ROM 2024-02-15 0 `#WEB: https://twitter.com/january75226307/status/1772792106408636416/`
 
 * `PWB453470`: 1P/2P sensor board  `#WEB:https://www.ebay.co.uk/itm/224465398910`
 * `PWB113430230000`: I/O board  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/j1010903947`
