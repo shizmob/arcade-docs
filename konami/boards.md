@@ -778,15 +778,16 @@ Unknown if it uses the original or revision motherboard.
 (Name for its home variation. Name for actual arcade hardware is tentative)
 
 `#WEB: https://page.auctions.yahoo.co.jp/jp/auction/r1112453146`
+`#WEB: https://page.auctions.yahoo.co.jp/jp/auction/1131908376`
 
 **MBD:** Supermicro SuperO MBD-C7B360-CB-MW-O custom variant (microATX)  
 **STH:** Intel B360  
 **CPU:** Intel Core i5-9400F  
-**GPU:** GIGABYTE GeForce GTX 1650 MINI ITX OC 4G (GV-N1650IXOC-4GD) (4 GB, GDDR5) [TBS] [UJK]  
+**GPU:** GIGABYTE GeForce GTX 1650 MINI ITX OC 4G (GV-N1650IXOC-4GD) (4 GB, GDDR5) [TBS] [UJK] [TVS]  
 **GPU:** MSI GeForce GTX 1650 D6 AERO ITX J OC (4 GB, GDDR6) [UKS] [VFG]  
 **SSD:** WDC WD3200LUCT (320GB) [TBS] [UJK]  
 **SND:** Realtek ALC892  
-**Games:** TBS, UKS, UJK, VFG  
+**Games:** TBS, UKS, UJK, VFG, TVS (STATION)  
 **OS:** Windows 10 IoT Enterprise LTSC 2019  
 **Ref:** https://www.konami.com/amusement/arespear/desktops/c300/index.html  
 

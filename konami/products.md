@@ -2418,6 +2418,7 @@ unknown:
   - `MDX JI AH01`: ROM [ADE6291, BIO2, Win7] 2019-02-26 0  `#WEB:https://twitter.com/964_kuroyon/status/1108273033045630977/photo/1`
   - `MDX JI AT01`: ROM [ADE6291, BIO2, Win7] 2021-08-11 0 `#WEB:https://twitter.com/1831shun06021/status/1636230532756541440`
   - `MDX JI AU01`: ROM [ADE6291, BIO2, Win7] 2021-12-21 0 `#WEB: https://twitter.com/KusozakonamekuG/status/1718144805329612986`
+  - `MDX JI BI01`: ROM [ADE6291, BIO, Win7] 2024-02-21 0 `#WEB: https://twitter.com/Camina0330/status/1782717989508551040`
   - `MDX UD V01`:  ROM [HM65,    P4IO, WinXP] 2016-04-22 0  `#WEB:https://www.youtube.com/watch?v=UFlO-BE75cc #WEB:https://www.youtube.com/watch?v=6LjqQ6Aj86M`
   - `MDX UG AC01`: ROM [ADE6291, P4IO, Win7]  2017-12-06 0
   - `MDX UG AK01`: ROM [ADE6291, P4IO, Win7] 2019-09-02 0 `#WEB: https://mobile.twitter.com/DDR_MARTEN/status/1593683815414861827`
@@ -2646,7 +2647,9 @@ unknown:
 * `TSS`: スマッシュスタジアム (2020, PC(ADE))  `#SCRAPE:konami:eagate`
   - `TSS-JB (STATION)`: station dongle
 * `TTA`: カラコロッタ めざせ！夢の宝島  `#SCRAPE:konami:eagate`
-* `TVS`: デュエルドリーム / DUEL DREAM  `#SCRAPE:konami:eagate #MISC:oyakodon_oniku_list`
+* `TVS`: デュエルドリーム / DUEL DREAM (2021, PC(C300))  `#SCRAPE:konami:eagate #MISC:oyakodon_oniku_list`
+  - `TVS-JA(MAIN)`: main dongle `#WEB: https://page.auctions.yahoo.co.jp/jp/auction/d1131922100`
+  - `TVS-JB(STATION)`: station dongle `#WEB: https://page.auctions.yahoo.co.jp/jp/auction/1131908376`
 * `U32`: コナステ GITADORA [e-AMUSEMENT CLOUD/home version]
 * `U39`: pop'n music Lively [e-AMUSEMENT CLOUD/home version]
 * `U58`: GI-WorldClassic RISING (2021, PC(R10))  `#SCRAPE:konami:eagate` `#WEB: https://page.auctions.yahoo.co.jp/jp/auction/e1077636409`
