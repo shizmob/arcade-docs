@@ -628,6 +628,7 @@ ES3(X2) `#WEB: https://page.auctions.yahoo.co.jp/jp/auction/w1079815276`:
        - Dead Heat Riders/Street Racing (DHR) - https://www.bandainamco-am.co.uk/files/25)
      B - Midnight Tune 5(WM5)/5DX(W5X)/5DX+(W5P)/6(WM6)/6R(W6R)/6RR(W6W) (JP)
          Pokken Tournament (PKF) - https://aucview.aucfan.com/yahoo/x538486776/
+         Synchronica (SYN)
      X - Lost Land Adventures (LLA)
        - Mach Storm (DAC)
        - Tekken 7 (TE7)/FR(TER)/FR2(TR2)
@@ -635,7 +636,6 @@ ES3(X2) `#WEB: https://page.auctions.yahoo.co.jp/jp/auction/w1079815276`:
        - Star Wars Battle Pod (DSW)
     X2 - Ace Angler / Fishing Spirits (釣りスピリッツ) (replacement main PCB) 
        - Disney Magical World: Magical Happy Mirror (DISNEY MAGIC CASTLE まほうのHAPPYミラー)
-     ? - Synchronica (SYN)
 ```
 
 ## System ES4
@@ -648,6 +648,9 @@ PC, x86-based. Lower spec, also used for budget/redemption games? Variants: ES4(
 **HDD:** ???  
 **IO:** [Namco H058 TSIFPLUS PCB](io.md#h058-tsifplus) (to motherboard COM4, COM3 and PANEL1)  
 **IO:** 1x 6pin (SERIAL4, to motherboard COM5 and COM6, pinout left-right: RXD5, TXD5, GND5, RX6, TXD6, GND6)  
+**OS:** 
+* Windows Embedded 8(.1?) [PBX]  
+* Windows 10 LTSB 2016 [SAO]
 
 ```
        - Point Blank X/Gunbullet X (PBX)
