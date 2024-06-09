@@ -2047,6 +2047,10 @@ unknown:
   - `GXKC1-CA`  `#WEB:https://www.ebay.com/itm/165087689068`
   - `KC1 CAA`  `#WEB:https://www.ebay.com/itm/164971011344`
   - `KC1 CA A01`: ROM 2011-01-18 0
+* `KC2`: HyperSports (2011, PC(IONITX)-IO(P4IO)-HDD) `#CLAIM: nova`  
+  - `GKKC2-CA`: Board
+  - `KC2 CA 01`: HDD
+  - `KC2 CA A01`: ROM 2011-09-20 0
 * `KCK`: ワールドソッカウイニングイレブン アーケードチャンピオンシップ 2012 (2011, PC(C3))  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/k552713225`
   - `GQKCK-JA`  `#WEB:https://a12.kpers.net/item/b469213686/`
   - `GCKCK-JA`
