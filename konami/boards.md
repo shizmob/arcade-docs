@@ -824,3 +824,14 @@ Unknown if it uses the original or revision motherboard.
 **Ref:** https://www.konami.com/amusement/arespear/desktops/c700/index.html  
 
 # H310
+
+(Name for actual arcade hardware is tentative)
+
+`#WEB: https://x.com/IP_ax459057/status/1785896807337447521`
+
+**MBD:** ASUS H310M-IM-A-KAM  
+**STH:** Intel H310  
+**CPU:** Intel Core i5-9500E  
+**RAM:** 16 GB DDR4-2666  
+**SSD:** InnoDisk 3TG6-P  
+**Games:** XIF  
