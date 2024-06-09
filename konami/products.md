@@ -2407,6 +2407,7 @@ unknown:
   - `GCMDX-UK`: DDR A20 Version Up Kit for ROM MDX-UG Windows7
   - `MDX JA C01`:  ROM [945,     P3IO, WinXP] 2013-03-10 0  `#WEB:https://www.youtube.com/watch?v=dvNiC1BWjoc #WEB:https://twitter.com/1_KOU/status/855694574286655489`
   - `MDX JA G01`:  ROM [945,     P3IO, WinXP] 2013-10-28 0  `#WEB:https://mobile.twitter.com/dinsfire64/status/1601019192551297024/`
+  - `MDX JA O01`:  ROM [945,     P3IO, WinXP] 2015-03-10 0  `#WEB:https://x.com/yahooeny/status/1794932462558281866/photo/1`
   - `MDX JA R01`:  ROM [945,     P3IO, WinXP] 2015-07-24 0  `#WEB:https://twitter.com/CodestarCreates/status/1592136398030577666/`
   - `MDX JA V01`:  ROM [945,     P3IO, WinXP] 2016-04-28 0  `#WEB:https://www.nicovideo.jp/watch/sm30252386`
   - `MDX JA Z01`:  ROM [945,     P3IO, WinXP] 2016-12-16 0  `#WEB:https://twitter.com/tanu_kichune/status/1387672293283794945`
@@ -2674,8 +2675,9 @@ unknown:
 * `UKS`: QuizKnock Stadium (2022, PC(C300)) `#SCRAPE:konami:eagate`
   - `UKS JA C01`: ROM 2022-1-27 0
 * `UX8`: FORTUNE TRINITY 精霊の至宝祭  `#SCRAPE:konami:eagate`
-* `VFG`: Mahjong Fight Girl (2023, PC(mITX-1505A)) `#WEB:https://twitter.com/Kasumi_7STYLE/status/1573194237654757377/`
-  - `VFGJAA01`: ROM 2023-02-04 0 `#WEB:https://twitter.com/comichiroba/status/1637042519572889604`
+* `VFG`: Mahjong Fight Girl (2023, PC(mITX-1505A/C300)) `#WEB:https://twitter.com/Kasumi_7STYLE/status/1573194237654757377/`
+  - `VFGJAA01`: ROM 2023-02-04 [mITX-1501A] `#WEB:https://twitter.com/comichiroba/status/1637042519572889604`
+  - `VFGJAA03`" ROM 2023-08-03 0 [C300] `#WEB:https://x.com/kg_mgames/status/1792108301918032210/photo/1`
   - `VFG JA *01`: SSD
 * `VGP`: DanceDanceRevolution(コナステ) [e-AMUSEMENT CLOUD/home version]  `#SCRAPE:konami:eagate`
 * `VSL`: 桃太郎電鉄メダルゲームも定番！ (2023)  `#WEB:https://ariesu.com/locationtest/momotetsu-medal.htm`
