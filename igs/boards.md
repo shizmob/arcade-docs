@@ -259,13 +259,14 @@ Currently found BIOS versions are:
 * E3100_BIOS_DB_V01.1.14-139 Date: Apr 8 2014 (Danz Base)
 * E3100_MESEAT_V01.1.15-139.1 Date:Jun 4 2014 (Monster Eye)
 * E3100_BIOS_OT_V01.1.14-139.1 Date: Apr 8 2014 (Overtake / Overtake DX)
+An earlier BIOS revision from Sep 3 2013 exists for Danz Base.
 
 **CPU:** Intel Core i3-3220 [Monster Eye] [Danz Base]
   Other variations may exist
 
 **GPU:**
 * NVIDIA GeForce GTX 750 (1 GB) [Monster Eye]
-* Aetina GeForce GTX 650 / 740 (OEM) (N650C-H7FX) (1 GB, GDDR5)
+* Aetina GeForce GTX 650 / 740 (OEM) (N650C-H7FX) (1 GB, GDDR5) [Danz Base]
   Other variations may exist
 
 **RAM:** 4 GB (2 x 2 GB) DDR3-1333 (dual-channel) [Monster Eye] [Danz Base]
@@ -333,7 +334,7 @@ There are revisions of this BIOS:
 
 ### V3000
 **CPU:**
-* Pentium G4400 [Ultra Race]
+* Pentium G4400 [Ultra Race, Speed Rider 2]
 * Core i3-7100 [Asphalt 9 Legends Arcade, Speed Driver 5, Monster Eye 2]
 * Core i7-6700 [Overtake VR]
 
@@ -388,8 +389,9 @@ Other variations may exist
 
 **OS:** modified Red Hat Linux (32-bit, using Linux kernel 2.4.24)
 
-**BIOS:** modified National Semiconductors XpressROM BIOS [Percussion Kids, newer revision PCB].
+**BIOS:** modified National Semiconductors XpressROM BIOS.
 * 12/06/06 [Percussion Kids / Tempo Kiddo]
+Other BIOS revisions may exist
 
 **Games:**
 * Percussion Kids (2005)
@@ -421,8 +423,14 @@ Has two variants:
 * onboard DDR1 RAM (size unknown) + 1 x DDR1 DIMM slot [Rev2.0]
 * 1 x DDR1 DIMM slot [Rev2.1]
 
+**Sound:** Realtek ALC650 (AC'97)
+
+**LAN:** Realtek RTL8100CL
+
 **BIOS:** customized Phoenix-AwardBIOS v6.00PG.
-* 11/30/2007-AMD-GX3-6A43A00BC-00
+* 11/30/2007-AMD-GX3-6A43A00BC-00 [X11] [Rev2.0]
+* 10/13/2009-AMD-GX3-6A43A00BC-00 [X13A] [Rev2.1]
+Other BIOS revisions may exist, such as X13 (non-A)
 
 **Games:**
 ```
