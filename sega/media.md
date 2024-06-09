@@ -1441,6 +1441,7 @@ MDA-U0085 : maimai DX                     : ALLS HX2 : EXP : SDGA
          J: ^ VER.1.30
 MDA-U0086 : maimai DX 2021                : ALLS HX2 : CHN : SDGB
          D: maimai DX 2022                : ALLS HX2 : CHN : SDGB #DOC:Wahlap:Maimai DX 2022 Software Upgrading Guidance
+         J: maimai DX 2024                : ALLS HX2 : CHN : SDGB
 MDA-U0087 :
 MDA-U0088G: ALL.Net P-ras MULTI バージョン3 VER1.18
 MDA-U0089 :

@@ -333,7 +333,7 @@ SEGA parts are referred to using a [proprietary format](identifiers.md#part-numb
         GPU: Nvidia GeForce GTX 1060 (N1060-MOFX-RA) [MX2] `#WEB:https://twitter.com/hirayu0611/status/1604344689078849536`
              Nvidia GeForce GTX 1660Ti [MX2.1]
         SSD: TDK GBDisk GS1 120GB [MDA-E0023]
-        HDD: ??? [849-1006, 849-1010]
+        HDD: Western Digital WD5000LUCT 500GB [849-1006, 849-1010]
         SND: Realtek ALC888S
         OS: Windows 10 IoT LTSC 2019
         PSU: FSP FSP500-50AAC
