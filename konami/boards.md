@@ -695,6 +695,22 @@ Also known as: "ADE".
 **OS:** Windows XP Embedded (SP3)  
 **Games:** KC1 (CHN)  
 
+### GKKC2-CA
+(name tentative)
+* Release: 2011
+* Base: PC
+
+**MBD:** ZOTAC IONITX-N-E
+**STH:** NVIDIA nForce 730i (ION)
+**CPU:** Intel Celeron 743 (1.3GHz)
+**RAM:** 1 x Buffalo D3U1333-S2GHBG (2 GB DDR3, 1333MHz)
+**GPU:** NVIDIA ION (256 MB, DDR3, shared memory)
+**HDD:** Western Digital Scorpio WD400BEVS (40 GB, SATA)
+**SND:** Realtek ALC662 (HD Audio)
+**OS:** Windows XP Embedded (SP3)
+**PSU:** Seasonic SS-200SU (200 W)
+**Games:** KC2 (CHN)
+
 ### R10
 
 * Release: 2015 (?)
@@ -780,12 +796,15 @@ Unknown if it uses the original or revision motherboard.
 `#WEB: https://page.auctions.yahoo.co.jp/jp/auction/r1112453146`
 `#WEB: https://page.auctions.yahoo.co.jp/jp/auction/1131908376`
 
-**MBD:** Supermicro SuperO MBD-C7B360-CB-MW-O custom variant (microATX)  
-**STH:** Intel B360  
+**MBD:** Supermicro SuperO MBD-C7B360-CB-MW-O custom variant (microATX) [TBS]  
+**MBD:** Supermicro C7C242-CB-M (microATX) [TVS]  
+**STH:** Intel B360 [TBS]  
+**STH:** Intel C242 [TVS]  
 **CPU:** Intel Core i5-9400F  
-**GPU:** GIGABYTE GeForce GTX 1650 MINI ITX OC 4G (GV-N1650IXOC-4GD) (4 GB, GDDR5) [TBS] [UJK] [TVS]  
+**RAM:** 2x Innodisk M4UI-8GS1JC0K-C (8GB DDR4 2666 DIMM) [TVS]  
+**GPU:** GIGABYTE GeForce GTX 1650 MINI ITX OC 4G (GV-N1650IXOC-4GD) (4 GB, GDDR5) [TBS] [TVS] [UJK]   
 **GPU:** MSI GeForce GTX 1650 D6 AERO ITX J OC (4 GB, GDDR6) [UKS] [VFG]  
-**SSD:** WDC WD3200LUCT (320GB) [TBS] [UJK]  
+**SSD:** WDC WD3200LUCT (320GB) [TBS] [TVS] [UJK]  
 **SND:** Realtek ALC892  
 **Games:** TBS, UKS, UJK, VFG, TVS (STATION)  
 **OS:** Windows 10 IoT Enterprise LTSC 2019  
@@ -803,3 +822,5 @@ Unknown if it uses the original or revision motherboard.
 **Games:** UDN  
 **Note:** Despite Arespear C700 using an MSI RTX 2070 Super and Xonar AE, UDN's PCB uses a GIGABYTE RTX 3070 and uses onboard audio instead.  
 **Ref:** https://www.konami.com/amusement/arespear/desktops/c700/index.html  
+
+# H310
