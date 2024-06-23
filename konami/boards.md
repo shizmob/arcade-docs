@@ -827,11 +827,14 @@ Unknown if it uses the original or revision motherboard.
 
 (Name for actual arcade hardware is tentative)
 
-`#WEB: https://x.com/IP_ax459057/status/1785896807337447521`
+`#WEB: https://x.com/IP_ax459057/status/1785896807337447521`  
+`#WEB: https://www.youtube.com/watch?v=8XvmWGa8sJA`  
 
 **MBD:** ASUS H310M-IM-A-KAM  
 **STH:** Intel H310  
 **CPU:** Intel Core i5-9500E  
-**RAM:** 16 GB DDR4-2666  
+**RAM:** 
+* 16 GB DDR4-2666 [XIF]  
+* 8 GB DDR4-2666 [TDJ]  
 **SSD:** InnoDisk 3TG6-P  
-**Games:** XIF  
+**Games:** XIF, TDJ  

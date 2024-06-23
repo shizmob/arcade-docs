@@ -2391,6 +2391,7 @@ unknown:
   - DanceDanceRevolution A20 (2019, PC(945/HM65/ADE))
   - DanceDanceRevolution A20 PLUS (2020, PC(945/HM65/ADE))
   - DanceDanceRevolution A3 (2022, PC(945/HM65/ADE/X10SLQ))
+  - DanceDanceRevolution WORLD (2024, PC(945/HM65/ADE/X10SLQ))
   - `GQMDX-JA`: white cab  `#DOC:konami:115324120000`
   - `GQMDX-JG`: 20th anniversary model [ADE-6291 PCB]  `#DOC:konami:117039820000`
   - `GQMDX-JH`: 20th anniversary model [X10SLQ PCB]
@@ -2637,13 +2638,15 @@ unknown:
   - beatmania IIDX 28 BISTROVER (2020, PC(C300)IO(BIO2-BI2X))
   - beatmania IIDX 29 CastHour (2021, PC(C300)IO(BIO2-BI2X))
   - beatmania IIDX 30 RESIDENT (2022, PC(C300)IO(BIO2-BI2X))
+  - beatmania IIDX 31 EPOLIS (2023, PC(C300/H310)IO(BIO2-BI2X))
   - [`GQTDJ-JA`: Dedicated cabinet](product/GQTDJ-JA.md)
   - `GQTDJ-UA`
   - `GQTDJ-AA`  `#WEB:https://twitter.com/uhaj/status/1543071166369112064`
   - `GUTDJ-JV`: beatmania IIDX 29 CastHour LIGHTNING MODEL用装飾キット (マイクロスイッチ同梱) [CastHour art kit with microswitches]
-  - `TDJ JA A01`: ROM 2019-11-18 0 `#WEB: https://www.youtube.com/watch?v=pGl0d3rq8Xg`
-  - `TDJ JA B01`: ROM 2021-04-13 0
-  - `TDJ JA Y01`: ROM 2023-05-26 0
+  - `TDJ JA A01`: ROM [C300] 2019-11-18 0 `#WEB: https://www.youtube.com/watch?v=pGl0d3rq8Xg`
+  - `TDJ JA B01`: ROM [C300] 2021-04-13 0
+  - `TDJ JA Y01`: ROM [C300] 2023-05-26 0
+  - `TDJ JB A01`: ROM [H310] 2024-01-16 0 `#WEB: https://www.youtube.com/watch?v=8XvmWGa8sJA`
 * `TMA`: Quiz Magic Academy HG MODEL
   - Quiz Magic Academy 輝望の刻 (2020, PC)
   - Quiz Magic Academy 夢幻の鏡界 (2021, PC)  `#WEB:https://twitter.com/SILKHAT_Yokochu/status/1386522899226320903`
