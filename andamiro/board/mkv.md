@@ -23,7 +23,7 @@ AKA MK5
   * DVD based for [Exceed](game/piu/exc.md) beta
   * HDD based for [Exceed](game/piu/exc.md) release and newer
 * 7 segment display on the side shows current boot status/error codes
-* EEPROM to store game settings and high scores. Size increased (doubled?) comapred to [MK3](#mk-3)
+* EEPROM to store game settings and high scores. Size increased (doubled?) compared to [MK3](#mk-3)
 
 ## 7 segment status and error codes
 
@@ -31,7 +31,7 @@ This display next to the mainboard breakout connectors shows an 8-bit hex value 
 different stages of the boot process and errors.
 
 Errors are usually "stuck values". A healthy boot sequence has these numbers changing to show
-it progresses through the different stages
+it progresses through the different stages.
 
 ### Healthy boot sequence
 
@@ -57,7 +57,7 @@ to game title screen). All values are 8-bit hex values.
 * `4A`: ???
 * `59`: ???
 * `52`: ???
-* `60`: Video output over VGA shows the Andamiro logo on white background, first actual video output
+* `60`: Video output over VGA shows the Andamiro logo on white background, the first actual video output
   visible
 * `98`: ???
 * `6A`: ???
@@ -70,7 +70,7 @@ to game title screen). All values are 8-bit hex values.
 * `88`: ???
 * `FF`: ???
 * `88`: ???
-* `A2`: booted from HDD, starting with andamiro MKV bootloader stage and stays also when in-game
+* `A2`: booted from HDD, starting with Andamiro MKV bootloader stage and also stays when in-game
 
 ### Operating system/game booted
 
