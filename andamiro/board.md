@@ -113,21 +113,9 @@ PC-DOCTOR DOS 3.0 Copyr 2004 PC-Doctor, Inc. 16:15 9/25/2000
 * [Pump it Up The Premiere 3: The International 3rd Dance Floor](game/piu/prem3.md)
 * [Pump it Up The PREX 3: The International 4th Dance Floor](game/piu/prex3.md)
 
-## MK5
+## MK5 / MKV
 
-* OS
-  * Windows XP Embedded: revisions of [The Premiere 3](game/piu/prem3.md) and [The PREX 3](game/piu/prex3.md)
-  * Linux: starting [Exceed](game/piu/exc.md)
-* [PIUIO](io.md#MK5IO) connected to the ISA bus
-* CPU: Intel Celeron 1 GHZ
-* RAM: 128 MB
-* GPU: on-board Riva TNT 2, 32 MB
-* Chipset: Nvidia NV11
-* Disk media
-  * CDROM based for [The Premiere 3](game/piu/prem3.md) and [The PREX 3](game/piu/prex3.md)
-  * DVD based for [Exceed](game/piu/exc.md) beta
-  * HDD based for [Exceed](game/piu/exc.md) release and newer
-* EEPROM to store game settings and high scores. Size increased (doubled?) comapred to [MK3](#mk-3)
+See [MKV](board/mkv.md).
 
 ### MK5 compatible games
 
