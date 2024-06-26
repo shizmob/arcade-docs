@@ -1,8 +1,16 @@
 # Andamiro boards
 
-## MK1
+## MIDAS
 
-The oldest piece of hardware we have seen in the wild was a MK3 board so far. But there are several hints that
+* Developed with focus on 2D games
+* Reengineered NeoGeo
+
+## SPACE
+
+* Developed with focus on 3D games
+* PC platform
+
+The oldest piece of hardware used for Pump It Up we have seen in the wild was a MK3 board so far. But there are several hints that
 some piece of hardware pre-dating the MK3 existed at some point:
 
 * The first three Pump It Up games, [1st](game/piu/1st.md), [2nd](game/piu/2nd.md) and [3rd/OBG](game/piu/3rd.md),\
@@ -12,7 +20,7 @@ some piece of hardware pre-dating the MK3 existed at some point:
 * The first three Pump It Up games did not use a lock-chip as a means for copy-protection. Possible,
   that this piece of hardware wasn't available from the beginning and therefore not used
 
-### MK1 compatible games
+### Compatible games
 
 * [Pump it Up: The 1st Dance Floor](game/piu/1st.md)
 * [Pump it Up: The 2nd Dance Floor](game/piu/2nd.md)
