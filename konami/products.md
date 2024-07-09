@@ -2424,6 +2424,7 @@ unknown:
   - `MDX JI AH01`: ROM [ADE6291, BIO2, Win7] 2019-02-26 0  `#WEB:https://twitter.com/964_kuroyon/status/1108273033045630977/photo/1`
   - `MDX JI AT01`: ROM [ADE6291, BIO2, Win7] 2021-08-11 0 `#WEB:https://twitter.com/1831shun06021/status/1636230532756541440`
   - `MDX JI AU01`: ROM [ADE6291, BIO2, Win7] 2021-12-21 0 `#WEB: https://twitter.com/KusozakonamekuG/status/1718144805329612986`
+  - `MDX JI AW01`: ROM [ADE6291, BIO2, Win7] 2022-02-25 0 `#WEB: https://x.com/Ddrkaguya/status/1808098905932063170`
   - `MDX JI BI01`: ROM [ADE6291, BIO, Win7] 2024-02-21 0 `#WEB: https://twitter.com/Camina0330/status/1782717989508551040`
   - `MDX UD V01`:  ROM [HM65,    P4IO, WinXP] 2016-04-22 0  `#WEB:https://www.youtube.com/watch?v=UFlO-BE75cc #WEB:https://www.youtube.com/watch?v=6LjqQ6Aj86M`
   - `MDX UG AC01`: ROM [ADE6291, P4IO, Win7]  2017-12-06 0
@@ -2687,7 +2688,7 @@ unknown:
 * `VTA`: カラコロッタ フローズンアイランド (2022)  `#SCRAPE:konami:eagate #WEB:https://twitter.com/oyakodon_oniku/status/1587258529307451393`
 * `VPU`: GRANDCROSS GOLD (2022)  `#SCRAPE:konami:eagate`
 * `V65`: ELDORA CROWN 悠久のラビリンス (2023) `#WEB:https://www.ariesu.com/locationtest/eldoracrown_labyrinth.htm`
-* `XIF`: Polaris Chord (ポラリスコード) (2024, PC) `#WEB: https://ariesu.com/locationtest/polarischord.htm`
+* `XIF`: Polaris Chord (ポラリスコード) (2024, PC(H310)) `#WEB: https://ariesu.com/locationtest/polarischord.htm`
   - `XIFJAA01`: ROM 2024-02-15 0 `#WEB: https://twitter.com/january75226307/status/1772792106408636416/`
 
 * `PWB453470`: 1P/2P sensor board  `#WEB:https://www.ebay.co.uk/itm/224465398910`
