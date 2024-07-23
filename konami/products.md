@@ -2507,6 +2507,8 @@ unknown:
   - `P65-JA(MAIN)`
   - `P65 MAIN B01 SA1` - main HDD (ADE)
   - `P65-JB(ST)`: black dongle  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/1073860979`
+* `PAC`: 実況パワフルプロ野球BALL☆SPARK (2015/2016, PC) (location test, never released)
+  - `PACJAA01`: ROM 2015-10-08 00 `#WEB:https://x.com/game_only_3710/status/1814584100331929931/photo/2`
 * `PAN`:
   - ノスタルジア / NOSTALGIA (2017, PC(HM65))
   - スタルジア FORTE / NOSTALGIA FORTE (2017, PC(HM65))

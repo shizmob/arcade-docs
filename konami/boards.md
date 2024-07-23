@@ -833,8 +833,7 @@ Unknown if it uses the original or revision motherboard.
 **MBD:** ASUS H310M-IM-A-KAM  
 **STH:** Intel H310  
 **CPU:** Intel Core i5-9500E  
-**RAM:** 
-* 16 GB DDR4-2666 [XIF]  
-* 8 GB DDR4-2666 [TDJ]  
+**RAM:** 16 GB DDR4-2666 [XIF]  
+**RAM:** 8 GB DDR4-2666 [TDJ]  
 **SSD:** InnoDisk 3TG6-P  
 **Games:** XIF, TDJ  
