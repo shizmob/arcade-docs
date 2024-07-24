@@ -23,8 +23,8 @@
 
 ## GX CRT curved
 
-* Model: ???
-* Manufacturer: ???
+* Model: VMP-219D
+* Manufacturer: Hong Eun
 * Type: CRT, curved
 * Size: 34"
 * Aspect ratio: 4:3
