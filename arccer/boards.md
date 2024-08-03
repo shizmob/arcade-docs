@@ -11,7 +11,7 @@
 
 **GPU**: iGPU; 1x HDMI, 1x DVI
 
-**SSD**: Brandless, mSATA, 32GB / Faspeed branded, mSATA, 16GB; other variations may exist
+**SSD**: SanDisk SSD i110, mSATA, 32GB / Faspeed branded, mSATA, 16GB; other variations may exist
 
 **Power**: 12V 5A DC, barrel jack (DC5525 ?), center positive
 
