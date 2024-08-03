@@ -2,14 +2,14 @@
 
 ## HighPraise
 
-**MBD**: HighPraise branded
+**MBD**: HighPraise branded (SZM-FS1-4CDC ?)
 
-**CPU**: AMD A4-3300M
+**CPU**: AMD A4-3300MX, 2.3GHz
 
 **RAM**: Samsung 2GB DDR3 SODIMM (laptop) x2; other variations exists
 * One of the variations has 3 SODIMM modules but hard to identify the brand and specs
 
-**GPU**: iGPU; 1x HDMI, 1x DVI
+**GPU**: Radeon HD 6480G iGPU; 1x HDMI, 1x DVI
 
 **SSD**: SanDisk SSD i110, mSATA, 32GB / Faspeed branded, mSATA, 16GB; other variations may exist
 
