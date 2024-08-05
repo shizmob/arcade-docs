@@ -4,7 +4,7 @@
 
 **MBD**: HighPraise branded (SZM-FS1-4CDC ?)
 
-**CPU**: AMD A4-3300MX, 2.3GHz
+**CPU**: AMD A4-3305M, 1.9~2.5GHz
 
 **RAM**: Samsung 2GB DDR3 SODIMM (laptop) x2; other variations exists
 * One of the variations has 3 SODIMM modules but hard to identify the brand and specs
@@ -16,7 +16,7 @@
 **Power**: 12V 5A DC, barrel jack (DC5525 ?), center positive
 
 **Extra**: Senselock? USB security dongle glued on the USB-A connector on the motherboard inside the case
-* The glue may have been spilt onto capacitors or other nearby components right from factory - take care if the dongle has to be removed
+* The glue may have been spilt onto capacitors or other nearby components right from the factory - take care if the dongle has to be removed
 
 **Games found using**: 
 * Dance³/Dance Cube 2 (舞立方2) (maimai ripoff) (main board, advertising panels run on another board)
