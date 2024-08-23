@@ -18,7 +18,7 @@
 **Extra**: Senselock IV USB security dongle glued on the USB-A connector on the motherboard inside the case
 * The glue may have been spilt onto capacitors or other nearby components right from the factory - take care if the dongle has to be removed
 
-**OS**: Windows XP Service Pack 3, likely pirated
+**OS**: Windows XP Professional Service Pack 3, likely pirated
 * Has keyboard filter enabled, cmd disabled by group policy, and customized shell
 
 **Games found using**: 
