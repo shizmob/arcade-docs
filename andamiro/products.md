@@ -1,6 +1,6 @@
 # Andamiro games
 
-## Pump It Up
+## Pump It Up (aka kpump or Korean Pump)
 
 * [Pump it Up: The 1st Dance Floor](game/piu/1st.md)
 * [Pump it Up: The 2nd Dance Floor](game/piu/2nd.md)
@@ -29,7 +29,8 @@
 * [Pump It Up XX 20th Anniversary Edition](game/piu/xx.md)
 * [Pump It Up 2023 Phoenix](game/piu/phoenix.md)
 
-## Pump It Up PRO
+## Spin off / American produced Pump It Up games
 
 * [Pump It Up PRO](game/piu/pro.md)
 * [Pump It Up PRO 2](game/piu/pro2.md)
+* [Pump It Up Infinity](game/piu/inf.md)
