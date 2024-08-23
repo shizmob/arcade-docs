@@ -15,8 +15,11 @@
 
 **Power**: 12V 5A DC, barrel jack (DC5525 ?), center positive
 
-**Extra**: Senselock? USB security dongle glued on the USB-A connector on the motherboard inside the case
+**Extra**: Senselock IV USB security dongle glued on the USB-A connector on the motherboard inside the case
 * The glue may have been spilt onto capacitors or other nearby components right from the factory - take care if the dongle has to be removed
+
+**OS**: Windows XP Service Pack 3, likely pirated
+* Has keyboard filter enabled, cmd disabled by group policy, and customized shell
 
 **Games found using**: 
 * Dance³/Dance Cube 2 (舞立方2) (maimai ripoff) (main board, advertising panels run on another board)
