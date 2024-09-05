@@ -16,7 +16,7 @@ If you managed to extract the keys, these information could be used to validate 
 <table>
 <tr><td align=center colspan=3>HighPraise Series</td></tr>
 <tr>
-    <td rowspan=5>TrueCrypt Master Key</td>
+    <td rowspan=5>Dace Cube (2) - TrueCrypt Master Key</td>
 </tr>
 <tr>
     <td>CRC32</td><td>260A90C9</td>
@@ -29,5 +29,20 @@ If you managed to extract the keys, these information could be used to validate 
 </tr>
 <tr>
     <td>MD5</td><td>cb5487e456ace65509eb9a9263d98443</td>
+</tr>
+<tr>
+    <td rowspan=5>Dream of Piano - TrueCrypt Master Key</td>
+</tr>
+<tr>
+    <td>CRC32</td><td>6B29502D</td>
+</tr>
+<tr>
+    <td>SHA-256</td><td>4953740cf46f2dd491b6396df8d8410fd8c38f12ff46b1d93904079f6fd93a2e</td>
+</tr>
+<tr>
+    <td>SHA-1</td><td>facd22510119bf5bfa2418eba907f069255a3443</td>
+</tr>
+<tr>
+    <td>MD5</td><td>7c0455eb4e2f92197d4fb3f93bc31684</td>
 </tr>
 </table>
