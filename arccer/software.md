@@ -14,7 +14,7 @@ As vulnerabilities found in TrueCrypt, the master key could be extracted from th
 
 If you managed to extract the keys, these information could be used to validate your keys. Notice these keys aren't guranteed to be used universally in all games.
 <table>
-<tr><td>HighPraise Series</td></tr>
+<tr><td align=center colspan=3>HighPraise Series</td></tr>
 <tr>
     <td rowspan=5>TrueCrypt Master Key</td>
 </tr>
@@ -25,9 +25,9 @@ If you managed to extract the keys, these information could be used to validate 
     <td>SHA-256</td><td>9e40066cc75fb3cc85f855c2d18fd5ba36162714243e57ecf4c3aca985112adc</td>
 </tr>
 <tr>
-    <td>SHA-1</td><td>23a7f3795324908f32ffb998668360b1d44b4da1<td>
+    <td>SHA-1</td><td>23a7f3795324908f32ffb998668360b1d44b4da1</td>
 </tr>
 <tr>
-    <td>MD5</td><td>cb5487e456ace65509eb9a9263d98443<td>
+    <td>MD5</td><td>cb5487e456ace65509eb9a9263d98443</td>
 </tr>
 </table>
