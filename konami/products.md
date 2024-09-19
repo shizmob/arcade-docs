@@ -2064,7 +2064,7 @@ unknown:
   - `KCK JA A04`: application disc 3 [DVD-ROM]  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/t1012207231`
   - `KCK JA A05`: application disc 4 [DVD-ROM]  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/t1012207231`
   - `KCK JA A06`: application disc 5 [DVD-ROM]  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/t1012207231`
-* `KCK`: THE*BISHIBASHI (2009/2016, PC) (2016 Korean version)  `#WEB: https://www.youtube.com/watch?v=iuZZyC-7g7A`
+* `KCK`: THE*BISHIBASHI (2009/2015-2016, PC(C3)) (Wahlap version)  `#WEB: https://www.youtube.com/watch?v=iuZZyC-7g7A` `#claim:xuserv`
 * `KDM`: DanceEvolution ARCADE (2012, PC(E1))
   - `GQKDM-JA`: cabinet
   - `GQKDM-HA`: cabinet (Hong Kong, running A-region software)  `#WEB:https://zh.wikipedia.org/wiki/%E8%88%9E%E8%B9%88%E8%BF%9B%E5%8C%96#%E4%BA%9E%E6%B4%B2%E5%8D%80Dance_Evolution_Arcade`
@@ -2099,6 +2099,7 @@ unknown:
   - `KFC JD *01`: Heavenly Haven HDD [945->ADE PCB]  `#WEB:https://twitter.com/yamassi8010/status/1325812923113984000 #WEB:https://aucview.aucfan.com/yahoo/k376665721`
   - `KFC JE *01`: Vivid Wave HDD
   - `KFC JA B01`: ROM [945 PCB, XP] 2011-12-19 0
+  - `KFC JB Q01`: ROM [HM65 PCB, XP] 2013-06-05 0 `#WEB:https://x.com/gatchamix/status/1835975970542522520/photo/3`
   - `KFC JB V01`: ROM [HM65 PCB, XP] 2013-11-13 0 `#WEB:https://yahoo.aleado.com/lot?auctionID=370457464`
   - `KFC JB AG01`: ROM [HM65 PCB, XP] 2015-01-22 0
   - `KFC KB AG01`: ROM [HM65 PCB, XP] 2015-01-22 0 `#WEB:https://twitter.com/dotorI_Kd/status/617160404335112192/photo/1`
@@ -2692,6 +2693,8 @@ unknown:
 * `V65`: ELDORA CROWN 悠久のラビリンス (2023) `#WEB:https://www.ariesu.com/locationtest/eldoracrown_labyrinth.htm`
 * `XIF`: Polaris Chord (ポラリスコード) (2024, PC(H310)) `#WEB: https://ariesu.com/locationtest/polarischord.htm`
   - `XIFJAA01`: ROM 2024-02-15 0 `#WEB: https://twitter.com/january75226307/status/1772792106408636416/`
+* `XMM`: Oreca Battle 2 (モンスター列伝オレカバトル2) (2024, location test) `#WEB: https://ariesu.com/2024/05/12/%e3%83%a2%e3%83%b3%e3%82%b9%e3%82%bf%e3%83%bc%e5%88%97%e4%bc%9d%e3%82%aa%e3%83%ac%e3%82%ab%e3%83%90%e3%83%88%e3%83%ab2%e3%80%80%e3%83%ad%e3%82%b1%e3%83%86%e3%82%b9%e3%83%88%e3%83%ac%e3%83%9d%e3%83%bc/`
+* `YBA`: パンパンくんの日常 まちがいさがし (2024, location test) `#WEB: https://ariesu.com/2024/09/07/%e3%83%91%e3%83%b3%e3%83%91%e3%83%b3%e3%81%8f%e3%82%93%e3%81%ae%e6%97%a5%e5%b8%b8-%e3%81%be%e3%81%a1%e3%81%8c%e3%81%84%e3%81%95%e3%81%8c%e3%81%97-%e3%83%ad%e3%82%b1%e3%83%86%e3%82%b9%e3%83%88%e3%83%ac/`
 
 * `PWB453470`: 1P/2P sensor board  `#WEB:https://www.ebay.co.uk/itm/224465398910`
 * `PWB113430230000`: I/O board  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/j1010903947`
