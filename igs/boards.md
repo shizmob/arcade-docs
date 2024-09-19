@@ -295,55 +295,26 @@ An earlier BIOS revision from Sep 3 2013 exists for Danz Base.
 **PSU:** External. Usually uses a Seasonic S12-II PSU
 
 ## S/V-series
+### S3000/V3000
 The S3000 has a wide casing with the power supply on the left side of the casing.
 The V3000 is the same as S3000, except with an external power supply similar to the E3000 and E3100 and is less wider.
 The V3000 has the same BIOS splash as the S3000, so to know if it's a S3000/V3000 requires access to the cabinet or looking at the manual.
 
 **Motherboard:** GIGABYTE H110M-S2PV
 
-**Sound:** Realtek ALC887 (HD Audio)
-
-**BIOS:** customized GIGABYTE AMI BIOS, with a custom S3000 splash screen regardless of the S3000/V3000 board used.  
-
-There are revisions of this BIOS:
-* F4d
-* F21j ZG
-
-### S3000
 **CPU:**
-* Pentium G4400 [Transform: Hero of Robots]
+* Pentium G4400 [Transform: Hero of Robots, Ultra Race, Speed Rider 2]
+* Core i3-7100 [Asphalt 9 Legends Arcade, Speed Driver 5, Monster Eye 2]
+* Core i7-6700 [Overtake VR]  
+Other variations may exist
 
 **GPU:**
-* Aetina GeForce GTX 650 / 740 (OEM) (N650C-H7FX) (1 GB, GDDR5) [Transform: Hero of Robots (early version)] [Speed Driver 4 (newer PCB)] [Speed Rider 2 (newer PCB)]
-* Nvidia GeForce GTX 1050 (2 GB) [Transform: Hero of Robots (later versions)] [機甲英雄Hero of Robots]
-
-**OS:**
-* Windows 10 IoT Embedded LTSB 2016 [Transform: Hero of Robots] [機甲英雄Hero of Robots]
-* LFS Linux [Speed Driver 4, newer PCB] [Speed Rider 2, newer PCB]
-
-**SSD:** 64 GB
-
-**PSU:** Seasonic S12II-520B (520 W)
-
-**Games:**
-* Transform Hero of Robots
-* 機甲英雄Hero of Robots
-* Speed Driver 4 (newer PCB)
-* Speed Rider 2 (newer PCB)
-* Speed Rider 3 (?) (unknown if it's using the S3000 or V3000)
-
-### V3000
-**CPU:**
-* Pentium G4400 [Ultra Race, Speed Rider 2]
-* Core i3-7100 [Asphalt 9 Legends Arcade, Speed Driver 5, Monster Eye 2]
-* Core i7-6700 [Overtake VR]
-
-**GPU:** 
-* Nvidia GeForce GTX 1050 (2 GB) [Speed Driver 5, Monster Eye 2]
+* Aetina GeForce GTX 650 / 740 (OEM) (N650C-H7FX) (1 GB, GDDR5) [Transform: Hero of Robots] [SD4 (newer PCB)] [SR2 (newer PCB)] [UltraRace]
+* Nvidia GeForce GTX 1050 (2 GB) [Transform: Hero of Robots (later versions)] [機甲英雄HOR] [SD5] [ME2]
 * GIGABYTE GeForce GTX 1650 OC 4G [Asphalt 9 Legends Arcade]
 * MSI GeForce GTX 1080 GAMING X 8G [Overtake VR]
-* Nvidia GeForce RTX 2060 Super (as replacement GPU) [Ultra Moto VR]
-* Aetina GeForce GTX 650 / 740 (OEM) (N650C-H7FX) (1 GB, GDDR5) [Ultra Race]  
+* Nvidia GeForce RTX 2060 Super (as replacement GPU) [UMVR]
+* Intel HD Graphics [FotoZone]  
 Other variations may exist
 
 **RAM:**
@@ -355,19 +326,47 @@ Other variations may exist
 * 64 GB [Monster Eye 2]
 * Transcend SSD370 32 GB SSD (TS32GSSD370) [Ultra Race]
 
+**Sound:** Realtek ALC887 (HD Audio)
+
+**BIOS:** customized GIGABYTE AMI BIOS, with a custom S3000 splash screen regardless of the S3000/V3000 board used.  
+
+There are revisions of this BIOS:
+* F4d
+* F21j ZG
+
 **OS:**
+* Windows 10 IoT Embedded LTSB 2016 [Transform: Hero of Robots] [機甲英雄HOR] [Overtake VR]
 * Windows Embedded Standard 7 (SP1) (x64) [Ultra Race]
-* Windows 10 IoT Embedded LTSB 2016 [Overtake VR]
 * Windows 10 IoT Embedded LTSC 2021 [Sailor's Quest VR]
+* LFS Linux [SD4] [SR2] [FotoZone]
+
+**PSU:** Seasonic S12II-520B (520 W) [S3000]
 
 **Games:**
-* Speed Driver 5
-* Ultra Race
-* Overtake VR
-* Ultra Moto VR
-* Asphalt 9 Arcade DX
-* Sailor's Quest VR
-* Hyper Cross (?)
+```
+    S3000   - Transform Hero of Robots
+    S3000   - 機甲英雄Hero of Robots
+    V3000   - Asphalt 9 Arcade DX
+    V3000   - FotoZone - Back to Jurassic (branded as S3000)
+    V3000   - Monster Eye 2
+    V3000   - Overtake VR
+    V3000   - Sailor's Quest VR
+    V3000   - Speed Driver 5
+    V3000   - Ultra Moto VR
+    V3000   - Ultra Race
+            - Hyper Cross
+            - Speed Rider 3
+            - Speed Driver 4 (newer PCB)
+            - Speed Rider 2 (newer PCB)
+            
+```
+
+### S5000
+**CPU:** Intel Pentium G7400
+**GPU:** GIGABYTE GTX 1650 OC 4 GB
+**RAM:** 2 x InnoDisk 16 GB DDR5 (M5UV-AGS2JC0P-BA83)
+**SSD:** 128 GB
+**Games:** Asphalt Moto Blitz DX
 
 ## C-series
 ### C1000
