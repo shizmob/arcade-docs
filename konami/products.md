@@ -2350,6 +2350,7 @@ unknown:
   - pop'n music peace (2018, PC(855/945/HM65)IO(USB2)-HDD)
   - pop'n music 解明リドルズ (2020, PC(855/945/HM65)IO(USB2)-HDD)
   - pop'n music UniLab (2022, PC(855/945/HM65)IO(USB2)-HDD)
+  - pop'n music Jam & Fizz (2024, PC(955/945/HM65)IO(USB2)-HDD)
   - `GCM39-JA`: Sunny Park type A conversion kit  `#WEB:https://a11.kpers.net/item/j654586019/`
   - `GCM39-JB`: Sunny Park type B/C/D conversion kit  `#WEB:https://a11.kpers.net/item/j654586019/`
   - `M39 JA A01`: ROM [945 PCB] 2012-06-28 0
@@ -2357,6 +2358,7 @@ unknown:
   - `M39 JC B01`: ROM [HM65 PCB] 2012-12-12 0
   - `M39 JC E01`: ROM [HM65 PCB] 2013-05-31 0
   - `M39 JC S01`: ROM [HM65 PCB] 2015-07-17 0
+  - `M39 JC AD01`: ROM [HM65 PCB] 2018-10-19 0
 * `M40`: ポップンミュージック / pop'n music cards (2012)  `#MISC:oyakodon_oniku_list`
   - `**M40-JA`
   - `**M40-JB`
