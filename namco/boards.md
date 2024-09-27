@@ -506,7 +506,7 @@ N2(WM3R):
 **RAM:** \[ES1(A), ES1(A/NO-USB), ES1(B)\] 2x SanMax SMD-51246NP-8E (DDR2 DIMM, PC2-6400U-555, 512MB)  
 **RAM:** \[ES1(A2)\] 1x SanMax SMD-2G88HP-8E (DDR2 DIMM, PC2-6400U-555, 2GB)  
 **GPU:** \[ES1(A), ES1(A/NO-USB), ES1(A2)\] Nvidia GeForce 9600 GT (PCIe, 512MB, BIOS Version: 62.94.61.00.08)  
-**GPU:** \[ES1(B)\] AMD Radeon HD 4550 (PCIe, 512 MB)  
+**GPU:** \[ES1(B)\] Ati Radeon HD 4550 (PCIe, 512 MB)  
 **HDD:** Seagate ST3160318AS (SATA, 160GB, 7200RPM) / Hitachi HDS721016CLA382 (SATA, 160GB, 7200RPM)  
 **SND:** Realtek ALC883 (HD Audio)  
 **IO:** [Namco H039 ESIF PCB](io.md#h039-esif) (1x internal 4pin connector with cable to "JV IO (JAMMA)", to motherboard COM3 and JF1)  

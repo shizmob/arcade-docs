@@ -203,7 +203,7 @@ Missing: 401
 |       |         | WE8.1S      |               |                    |                   | LOVELIVE! AC NS SATELLITE S PLAN  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/v1065264354` |
 |       |         |             |               |                    |                   | MGICIANS DEAD M9009141A  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/x1050826171` |
 |  501A | 2017/10 |             | i5-4590S      | 4GB(DDR3-1600) x2  | GTX1080-8GB       | 電車でＧＯ！！ (30プラン)  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/h1050922019 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1072825747` |
-|  502A | 2018/09 | WE8.1S      | i7-4970S      | 8GB(DDR3-1600) x2  | GTX1080-8GB       | HOSHI TSUBA 30PLAN                                       |
+|  502A | 2018/09 | WE8.1S      | i7-4790S      | 8GB(DDR3-1600) x2  | GTX1080-8GB       | HOSHI TSUBA 30PLAN                                       |
 |       |         |             |               |                    |                   | HOSHI TSUBA 09PLAN  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/x1065143200` |
 |       |         |             |               |                    |                   | DENSHA DE GO                                             |
 |  503A | 2019/02 |             | i5-4590S      | 4GB(DDR3L-1600) x2 | GTX1060-6GB       | STREET FIGHTER V TYPE ARCADE  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/q1024155298` |

@@ -569,7 +569,7 @@ Also known as: "ITHM65", "ITHM65_E4690".  `#DOC:KONAMI:116245360000`
 **STH:** Intel HM65  
 **CPU:** Intel Celeron B810  
 **RAM:** 1 or 2x 2GB DD3 SODIMM  
-**GPU:** AMD Radeon E4690  
+**GPU:** Ati Radeon E4690  
 **HDD:** WDC WD3200LPCX (320GB) [LDJ] [KFC] [M32] [M33] [M39] [MBR]
 **SSD:** Intel SSDSA2CT040G3 2.5" (SATA 2.5", 40GB) [L44]
 **SND:** Realtek ALC888 Series
