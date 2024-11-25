@@ -551,6 +551,7 @@ ES2P(A):
 **APU:** AMD G-T56N  
 **RAM:** 1x SanMax Technologies SMD-N2G68H1P-13H (SODIMM, PC3-10600S, 2GB)  
 **HDD:** HGST HTS545025A7E380 (SATA 2.5", 250GB, 5400RPM)  
+**SND:** Realtek ALC886 (HD Audio)  
 **IO:** [Namco H058 TSIFPLUS PCB](io.md#h058-tsifplus) (to motherboard COM4, COM3 and CN17)  
 
 ```
