@@ -9,6 +9,19 @@
 **Games:** Fast Beat Loop Racer
 **Notes:** The OS has Bitlocker enabled, beware when changing configuration or parts.
 
+## CN896
+(name tentative from the motherboard chipset)
+**Motherboard:** ECS ID-PCM8E
+**CPU:** VIA Nano L1900 (1.4GHz)
+**GPU:** GeForce G 210
+**RAM:** 2 GB DDR2-667
+**HDD:** Western Digital WD1600BPVT (160 GB)
+**SC:** Realtek ALC662
+**Network:** Realtek RTL8101E
+**OS**: Ubuntu 10.04 LTS (26.32-21)
+**BIOS:** AMIBIOS 8 (09/19/2011)
+**Games:** Carnival Island
+
 ## 2420-EN
 (name tentative from the marking on the casing)
 **Motherboard:** Avalue ERX-H61
