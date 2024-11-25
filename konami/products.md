@@ -1904,6 +1904,7 @@ unknown:
   - `GEIK9-JP`  `#WEB:https://cdn.discordapp.com/attachments/261906360776654858/953868178545577994/received_464722335437227.jpeg`
   - `IK9 JB B01`: system install CD-ROM  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/u272415915`
   - `IK9 JB E02`: application install CD-ROM  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/e351046845`
+  - `IK9JAB01`: ROM 2010-02-05 0 `#WEB: https://page.auctions.yahoo.co.jp/jp/auction/u1156906985`
 * `IMS`: モーキャップスポーツ / Mocap Sports (2009, PC(945)IO(IMSI))  `#MISC:oyakodon_oniku_list`
   - `IMS JA A01`: system install CD-ROM
   - `IMS J A01`: ROM 2009-04-30 0
@@ -2150,6 +2151,7 @@ unknown:
   - `KK9 JA A02`: center unit application disc [DVD-ROM] `#WEB: https://page.auctions.yahoo.co.jp/jp/auction/u1065108455`
   - `KK9 JA H02`: center unit application disc [DVD-ROM] `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/v1060310661`
   - `KK9JBA01`: ROM 2010-08-16 0
+  - `KK9JDC01`: ROM [Win7] 2018-12-19 0 `#WEB: https://x.com/na1o2t0o5/status/1834402266477953401/photo/1`
   - `KK9 JB B01`: client unit system disc [CD-ROM] / ROM 2013-10-15 0 `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/g1060313952`
   - `KK9 JB R02`: client unit application disc [DVD-ROM] `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/g1060313952`
 * `KLP`: ラブプラス アーケード カラフル Clip (2011, PC(C3)IO(KLPA))  `#MISC:oyakodon_oniku_list #WEB:https://manualzz.com/doc/4914393/%E3%83%A9%E3%83%96%E3%83%97%E3%83%A9%E3%82%B9-%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89-%E3%82%AB%E3%83%A9%E3%83%95%E3%83%ABclip`
@@ -2332,6 +2334,7 @@ unknown:
   - `M32 JB A01`: ROM [HM65 PCB] 2013-01-10 0
   - `M32 JB O01`: ROM [HM65 PCB] 2015-02-18 0 `#WEB: https://twitter.com/mozu93/status/1759171884879655266/photo/1`
   - `M32 KB A01`: ROM [HM65 PCB] 2015-10-01 2 `#WEB:https://twitter.com/GAOS_game/status/1186132871636901890`
+  - `M32 JB S01`: ROM [HM65 PCB] 2015-10-21 0 `#WEB: https://x.com/aDBAB0mpmg4G993/status/1855081941974106435`
   - `M32 KB O01`: ROM [HM65 PCB] 2015-11-13 1
   - `M32 JB T01`: ROM [HM65 PCB] 2016-02-24 0 `#WEB: https://twitter.com/SOLB_EDVARD/status/1666751732351729666`
   - `M32 KC V01`: ROM [ADE PCB] 2016-12-07 1
@@ -2413,7 +2416,9 @@ unknown:
   - `MDX JA G01`:  ROM [945,     P3IO, WinXP] 2013-10-28 0  `#WEB:https://mobile.twitter.com/dinsfire64/status/1601019192551297024/`
   - `MDX JA O01`:  ROM [945,     P3IO, WinXP] 2015-03-10 0  `#WEB:https://x.com/yahooeny/status/1794932462558281866/photo/1`
   - `MDX JA R01`:  ROM [945,     P3IO, WinXP] 2015-07-24 0  `#WEB:https://twitter.com/CodestarCreates/status/1592136398030577666/`
+  - `MDX JA U01`: ROM [945,      P3IO, WinXP] 2016-03-30 0 `#WEB: https://web.facebook.com/photo/?fbid=2385354741661135&set=g.635417966503824`
   - `MDX JA V01`:  ROM [945,     P3IO, WinXP] 2016-04-28 0  `#WEB:https://www.nicovideo.jp/watch/sm30252386`
+  - `MDX JA Y01`: ROM [945,     P3IO, WinXP] 2016-09-09 0  `#WEB:https://wetdry.world/@ipg/113533880889275575`
   - `MDX JA Z01`:  ROM [945,     P3IO, WinXP] 2016-12-16 0  `#WEB:https://twitter.com/tanu_kichune/status/1387672293283794945`
   - `MDX JA AD01`: ROM [945,     P3IO, WinXP] 2018-01-12 0
   - `MDX JC A01`:  ROM [HM65,    P4IO, WinXP] 2013-02-24 0  `#WEB:https://www.youtube.com/watch?v=tmSVEVYj7lQ`
@@ -2645,6 +2650,7 @@ unknown:
   - beatmania IIDX 29 CastHour (2021, PC(C300)IO(BIO2-BI2X))
   - beatmania IIDX 30 RESIDENT (2022, PC(C300)IO(BIO2-BI2X))
   - beatmania IIDX 31 EPOLIS (2023, PC(C300/H310)IO(BIO2-BI2X))
+  - beatmania IIDX 32 Pinky Crush (2024, PC(C300/H310)IO(BIO2-BI2X))
   - [`GQTDJ-JA`: Dedicated cabinet](product/GQTDJ-JA.md)
   - `GQTDJ-UA`
   - `GQTDJ-AA`  `#WEB:https://twitter.com/uhaj/status/1543071166369112064`
