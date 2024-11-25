@@ -155,18 +155,18 @@ The A1 BIOS is one of the first BIOSes to ship with first batches of the board (
 
 **Games:**
 ```
-    E2000-C6-V256   - Panda Family
-    E2000-C6-V256   - Rock Fever 5 (replacement/newer PCB)
-    E2000-C6-V256   - Percussion Master Plus (replacement/newer PCB)
-    E2000-C6-V256   - Percussion Master 2008 (replacement/newer PCB)
-    E2000-C6-V256   - Gold Captain (航海小勇士)
-    E2000-C6-V256   - Submarine Crisis
-    E2000-C6-V256(?)- Vibraphone (铁琴: 第一乐章)
-    E2000-V256      - Pirate Revenge (怒海英豪)
-    E2000-V256      - We Dancing Online
-    E2000-V256      - We Dancing Online 2 (Plus)
-    E2000-V256      - Speed Rider
-    E2000-V256      - Speed Driver 2: Overtake
+    E2000-C6-V256   - Panda Family (2009)
+    E2000-C6-V256   - Rock Fever 5 (replacement/newer PCB) (2008)
+    E2000-C6-V256   - Percussion Master Plus (replacement/newer PCB) (2007?)
+    E2000-C6-V256   - Percussion Master 2008 (replacement/newer PCB) (2008)
+    E2000-C6-V256   - Gold Captain (航海小勇士) (2009)
+    E2000-C6-V256   - Submarine Crisis (2008)
+    E2000-C6-V256(?)- Vibraphone (铁琴: 第一乐章) (2010)
+    E2000-V256      - Pirate Revenge (怒海英豪) (2007)
+    E2000-V256      - We Dancing Online (2009)
+    E2000-V256      - We Dancing Online 2 (Plus) (2010)
+    E2000-V256      - Speed Rider (2009)
+    E2000-V256      - Speed Driver 2: Overtake (2007)
     E2000-V256      - 海遊漁 (China)
 ```
 
@@ -218,12 +218,13 @@ Has two variants:
 **OS:** LFS Linux (kernel 2.6.32.8)
 
 **Games:**
-* Percussion Master 3
+* Percussion Master 3 (2012)
 
 ### E3000
 **Motherboard:** Pegatron E3000V (08M1-04E3000)
 
 **BIOS:** AMI BIOS 8, more similar to regular ones. Other BIOS revisions may exist
+* 64-0100-000001-00101111-032310-ATHLON64-E3K_X001-Y2KC [BIOS Date: 03/23/10 10:42:20 Ver: X10] [Vibraphone] [SR1.5]
 * 64-0100-000001-00101111-022311-ATHLON64-E3K_X001-Y2KC [BIOS Date: 02/23/11 16:45:13 Ver: V11.0.0] [SR2] [SD4] [PT] [MuziBox]
 
 **CPU:** AMD Athlon II X2 250
@@ -234,19 +235,25 @@ Has two variants:
 
 **Sound**: Realtek ALC888S (HD Audio)
 
-**Storage:** SanDisk U100 SSD (16 GB)
+**Storage:**
+* SanDisk U100 SSD (16 GB) [Power Truck]
+* InnoDisk iCF CompactFlash (8 GB) [Animal Kingdom: Fantasy Adventure]
 
 **OS:** LFS Linux (kernel 2.6.32.8) / either Windows XPe or Embedded Standard 2009 [Music Gun Gun]
 
 **Games:**
-* Speed Driver 3
-* Speed Driver 4
-* Speed Rider (replacement PCB)
-* Speed Rider 2
-* Power Truck
-* Power Truck Special
-* Music Gun Gun (Taito, China version)
-* MuziBox (音炫疯)
+* Speed Driver 3: Crash Hour (2010)
+* Speed Driver 4: World Fever (2012)
+* Speed Rider (replacement PCB, also known as version 1.5) (2010)
+* Speed Rider 2 (2011)
+* Power Truck (2011)
+* Power Truck Special (2014)
+* Animal Kingdom: Fantasy Adventure (2013)
+* Music Gun Gun (Taito, China version) (2010)
+* MuziBox (音炫疯) (2012)
+* Vibraphone (铁琴: 第一乐章) (2010) (newer board)
+
+**PSU:** External.
 
 ### E3100
 **Motherboard:** Advantech EBC-TA17, marked as iTS I-JOIN E3100  
@@ -287,10 +294,10 @@ An earlier BIOS revision from Sep 3 2013 exists for Danz Base.
 * I-JOIN M2000 expansion board: Probably some kind of security module, contains FPGA for decrypting the hard disk. SSD is mounted on this and then connects to the motherboard via proprietary 125-pin connector.
 
 **Games:**
-* Danz Base
-* Monster Eye
-* Overtake
-* Overtake DX
+* Danz Base (2013)
+* Monster Eye (2014)
+* Overtake (2013)
+* Overtake DX (2016)
 
 **PSU:** External. Usually uses a Seasonic S12-II PSU
 
@@ -344,20 +351,20 @@ There are revisions of this BIOS:
 
 **Games:**
 ```
-    S3000   - Transform Hero of Robots
+    S3000   - Transform Hero of Robots (2017)
     S3000   - 機甲英雄Hero of Robots
-    V3000   - Asphalt 9 Arcade DX
-    V3000   - FotoZone - Back to Jurassic (branded as S3000)
-    V3000   - Monster Eye 2
-    V3000   - Overtake VR
-    V3000   - Sailor's Quest VR
-    V3000   - Speed Driver 5
-    V3000   - Ultra Moto VR
-    V3000   - Ultra Race
-            - Hyper Cross
-            - Speed Rider 3
-            - Speed Driver 4 (newer PCB)
-            - Speed Rider 2 (newer PCB)
+    V3000   - Asphalt 9 Arcade DX (2021)
+    V3000   - FotoZone - Back to Jurassic (branded as S3000) (2017)
+    V3000   - Monster Eye 2 (2018)
+    V3000   - Overtake VR (2018)
+    V3000   - Sailor's Quest VR (2022)
+    V3000   - Speed Driver 5 (2019)
+    V3000   - Ultra Moto VR (2019)
+    V3000   - Ultra Race (2016)
+            - Hyper Cross (2023)
+            - Speed Rider 3 (2017)
+            - Speed Driver 4: World Fever (newer PCB) (2017)
+            - Speed Rider 2 (newer PCB) (2016)
             
 ```
 
