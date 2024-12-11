@@ -561,6 +561,7 @@ ES2P(A):
          One Piece Gangan Treasure (OGT)
          Pocket Monster Battle Nine (PBN, ポケットモンスターバトルナイン内)
   PLUS - Ace Angler / Fishing Spirits (釣りスピリッツ) (station PCB)
+  PLUS - 海物語ラッキーマリンツアーズ #WEB:https://aucview.aucfan.com/yahoo/e1044281068/#rm&tg=detailtextModal
 ```
 
 ## System ES3
