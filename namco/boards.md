@@ -255,6 +255,7 @@ Special arcade firmware. System 246 RACK(C) introduces unified Namco PCB design.
       Tekken 4 (TEF) : NM00004
       Time Crisis 3 (TST) : NM00012
 B/C - Battle Gear 3 Tuned : NM00015
+      Capcom Fighting Jam / Capcom Fighting Evolution (JAM) : NM00018
       Fate/Unlimited Codes (?, FUD) : NM00048
       Mobile Suit Gundam SEED O.M.N.I. vs Z.A.F.T (?, SED) : NM00024
       Mobile Suit Gundam SEED Destiny O.M.N.I. vs Z.A.F.T. II (?, GSD) : NM00034
@@ -265,8 +266,8 @@ B/C - Battle Gear 3 Tuned : NM00015
       Sengoku Basara X Cross (?, BAX) : NM00042
       Soul Calibur III Arcade Edition (?, SC3) : NM00031
       Sukusuku Inufuku 2 / The Dog Luck 2 (?, IN2) : NM00037
-      Taiko no Tatsujin 7 (TK7, https://page.auctions.yahoo.co.jp/jp/auction/u397987501)
-      Taiko no Tatsujin 8 (TK8, https://page.auctions.yahoo.co.jp/jp/auction/c889225321)
+      Taiko no Tatsujin 7 : NM00023 (TK7, https://page.auctions.yahoo.co.jp/jp/auction/u397987501)
+      Taiko no Tatsujin 8 : NM00033 (TK8, https://page.auctions.yahoo.co.jp/jp/auction/c889225321)
   P - Tekken Pachislot
       Giant Pulsar  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/k570244796`
       山佐 祭の達人～ウィンちゃんの夏祭り～ / Master of Yamada Festival: Win-chan's Summer Festival  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/x1004564524`
@@ -274,11 +275,13 @@ B/C - Battle Gear 3 Tuned : NM00015
   ? - Dragon Chronicles (DCO) : NM00020
       Dragon Chronicles Legend of the Master Ark (DGC) : NM00014
       Smash Court Pro Tournament (SCP) : NM00006
-      Technic Beat (TNB)
+      Technic Beat (TNB) : NM00003
       The Battle of Yu Yu Hakusho Dark Tournament (YH) : NM00035
       Zoids Infinity : NM00016
       Zoids Infinity Ex : NM00025
       Zoids Infinity Ex Plus : NM00025
+  C - The IDOLM@STER (IDMS1) (Station): NM00022
+  C - The IDOLM@STER (IDMT1) (Tower): NM00022
 ```
 
 ## System 6
@@ -317,25 +320,28 @@ ADChips Virgine G2 MPU-based board.
 Unified Namco PCB design based on the Playstation 2 slim (SCPH-70000).
 Boards have been noted to contain extra modules without label indication.
 
+System 256 has a set of pin headers that says 246+ and 256 mode on the right side of the system. 246+ mode allows a number of 246 titles to boot on the system 256. 
+
 ```
-        - Capcom Fighting Jam / Capcom Fighting Evolution (JAM) : NM00018
+          Ace Driver 3 - Final Turn : NM00047                                                                          
+ (246+) - Capcom Fighting Jam / Capcom Fighting Evolution (JAM) : NM00018
           Cobra The Arcade (CBR) : NM00021
           Druaga Online The Story Of Aon : NM00028
           Fate/Unlimited Codes (?, FUD) : NM00048
-          Gundam vs Gundam Next (GNX)
+          Gundam vs Gundam Next (GNX) : NM00052
           Kinnikuman Muscle Grand Prix (KN1) : NM00029
           Kinnikuman Muscle Grand Prix 2 (KN2) : NM00040
           Minna de Kitaeru Zenno Training (ZNT) : NM00036
-          Mobile Suit Gundam SEED O.M.N.I. vs Z.A.F.T (?, SED) : NM00024
-          Mobile Suit Gundam SEED Destiny O.M.N.I. vs Z.A.F.T. II (?, GSD, https://www.zax.com.au/buy/gundam-system-256-fully-refurbished/GUNDAMPCB) : NM00034
-          Mobile Suit Z Gundam A.E.U.G. vs Titans (?, ZGA) : NM00013
-          Mobile Suit Z Gundam DX A.E.U.G. vs Titans (?, ZDX) : NM00017
+ (246+) - Mobile Suit Gundam SEED O.M.N.I. vs Z.A.F.T (?, SED) : NM00024
+ (246+) - Mobile Suit Gundam SEED Destiny O.M.N.I. vs Z.A.F.T. II (?, GSD, https://www.zax.com.au/buy/gundam-system-256-fully-refurbished/GUNDAMPCB) : NM00034
+ (246+) - Mobile Suit Z Gundam A.E.U.G. vs Titans (?, ZGA) : NM00013
+ (246+) - Mobile Suit Z Gundam DX A.E.U.G. vs Titans (?, ZDX) : NM00017
           Moto GP (MGP) : NM00039
           Pride GP 2003 (?, PR2) : NM00011
           Quiz Mobile Suit Gundam Tou Senshi (?, QG) : NM00030
-          Sengoku Basara X Cross (?, BAX) : NM00042
-          Soul Calibur II (?, SC2) : NM00007
-          Soul Calibur III Arcade Edition (?, SC3) : NM00031
+          Sengoku Basara X Cross (?, BAX) : NM00042                                                                   
+ (246+) - Soul Calibur II (?, SC2) : NM00007
+ (246+) - Soul Calibur III Arcade Edition (?, SC3) : NM00031
           Sukusuku Inufuku 2 / The Dog Luck 2 (?, IN2) : NM00037
           Super Dragon Ball Z / Chou Dragon Ball Z (DB) : NM00027
           Taiko no Tatsujin 7 (TK7) : NM00023
