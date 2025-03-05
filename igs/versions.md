@@ -41,6 +41,10 @@ For identification purpose, IGS labels their product's revision using a
 * M-108EU
 * M-109US
 
+### Percussion Master Plus
+- M-301CN
+- M-302NC
+
 ### Percussion Master 2008
 * M-200NC
 * M-202CN
