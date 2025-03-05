@@ -312,7 +312,7 @@ The V3000 has the same BIOS splash as the S3000, so to know if it's a S3000/V300
 **CPU:**
 * Pentium G4400 [Transform: Hero of Robots, Ultra Race, Speed Rider 2]
 * Core i3-7100 [Asphalt 9 Legends Arcade, Speed Driver 5, Monster Eye 2]
-* Core i7-6700 [Overtake VR]  
+* Core i7-6700 [Overtake VR, Asphalt 9 Arcade VR]  
 Other variations may exist
 
 **GPU:**
@@ -321,6 +321,7 @@ Other variations may exist
 * GIGABYTE GeForce GTX 1650 OC 4G [Asphalt 9 Legends Arcade]
 * MSI GeForce GTX 1080 GAMING X 8G [Overtake VR]
 * Nvidia GeForce RTX 2060 Super (as replacement GPU) [UMVR]
+* ASUS DUAL RTX 3060 V2 OC (DUAL-RTX3060-O12G-V2) (12 GB) [A9VR]
 * Intel HD Graphics [FotoZone]  
 Other variations may exist
 
@@ -328,9 +329,10 @@ Other variations may exist
 * 1 x 4 GB DDR4 [Ultra Race]
 * 2 x 4 GB DDR4-2400 (8 GB) [Monster Eye 2]
 * 2 x 8 GB DDR4-2400 (16 GB) [Asphalt 9 Legends Arcade, Overtake VR, Speed Driver 5, Ultra Moto VR]
+* 1 x 16 GB DDR4 + 1 x 8 GB DDR4 (24 GB) [Asphalt 9 Arcade VR]
 
 **SSD:**
-* 64 GB [Monster Eye 2]
+* 64 GB [Monster Eye 2] [Asphalt 9 Arcade VR]
 * Transcend SSD370 32 GB SSD (TS32GSSD370) [Ultra Race]
 
 **Sound:** Realtek ALC887 (HD Audio)
@@ -354,6 +356,7 @@ There are revisions of this BIOS:
     S3000   - Transform Hero of Robots (2017)
     S3000   - 機甲英雄Hero of Robots
     V3000   - Asphalt 9 Arcade DX (2021)
+    V3000   - Asphalt 9 Arcade VR (2021)
     V3000   - FotoZone - Back to Jurassic (branded as S3000) (2017)
     V3000   - Monster Eye 2 (2018)
     V3000   - Overtake VR (2018)
@@ -363,6 +366,7 @@ There are revisions of this BIOS:
     V3000   - Ultra Race (2016)
             - Hyper Cross (2023)
             - Speed Rider 3 (2017)
+            - Speed Rider 3DX (2019)
             - Speed Driver 4: World Fever (newer PCB) (2017)
             - Speed Rider 2 (newer PCB) (2016)
             
@@ -479,3 +483,14 @@ Other BIOS revisions may exist, such as X13 (non-A)
 **GPU:** Nvidia GeForce4 MX4000
 
 **OS:** Linux, likely LFS
+
+### Speed Driver Evolution / Top Driver Evolution
+**Motherboard:** ECS 661GX-M7 (v1.1) / ECS 661FX-M7 (v1.1)
+
+**CPU:** Intel Celeron D 335/336 (2.8GHz) (LGA 775)
+
+**GPU:** GeForce 6200A (128 MB, AGP)
+
+**RAM:** 512 MB DDR
+
+**OS:** modified Fedora Linux (kernel 2.4.22)
