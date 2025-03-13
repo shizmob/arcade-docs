@@ -1963,7 +1963,7 @@ unknown:
 * [`JDJ`: beatmania IIDX 17 SIRIUS](software/JDJ.md) (2009, PC(B5)IO(C02/D01/USB2)-HDD)   `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/o455537291 #MISC:oyakodon_oniku_list``
   - `GCJDJ-JA`
   - `JDJ JA A01`: ROM 2009-10-21 0
-* `JD6`
+* `JD6`: 遊戯王 デュエルターミナル
   - 遊戯王ファイブディーズ デュエルターミナル ジェネクスの進撃!! (2009, PC-YUGIOU)  `#MISC:oyakodon_oniku_list`
   - 遊戯王ファイブディーズ デュエルターミナル トリシューラの鼓動!! (2010, PC-YUGIOU)  `#MISC:oyakodon_oniku_list`
   - 遊戯王ファイブディーズ デュエルターミナル ヴァイロン降臨!! (2010, PC-YUGIOU)  `#MISC:oyakodon_oniku_list`
@@ -2081,7 +2081,7 @@ unknown:
 * [`KDZ`: beatmania IIDX 19 Lincle](software/KDZ.md) (2011, PC(B5(JPN/EXP))IO(C02/D01/USB2)-HDD)  `#MISC:oyakodon_oniku_list`
   - `GEKDZ-JA`  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/d1003782469`
   - `KDZ JA A01`: ROM 2011-03-24 0
-* `KFC`
+* `KFC`: SOUND VOLTEX
   - SOUND VOLTEX BOOTH (2012, PC(945/HM65/76)IO(KFCA))
   - SOUND VOLTEX II -infinite infection- (2013, PC(945/HM65)IO(KFCA))
   - SOUND VOLTEX III GRAVITY WARS (2014, PC(945/HM65/76)IO(KFCA))
@@ -2113,7 +2113,7 @@ unknown:
   - `PWB114945610000` / `114997350000`: "[ALEXANDRA]rev.B" [amp stage board]  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/m1039455300`
   - `PWB114290780000`: "Curenty"? [amp main board?]  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/m1039455300 #WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1021651921`
   - `PWB112976940000`: "delGeso ver.B" [amp stage board]  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/n1021651921`
-* `KGG`
+* `KGG`: Steel Chronicle
   - Steel Chronicle (2011, PC(C13))
   - Steel Chronicle Be (2012, PC(C13/E1))
   - Steel Chronicle Be XROSS ARMS (2013, PC(C13/E1))
@@ -2131,7 +2131,7 @@ unknown:
   - `GEKMA-JB`: client unit conversion kit
   - `KMA JA A01`: system disc (client/center monitor)  `#WEB:https://aucview.com/yahoo/v736878612/`
   - `KMA JA A02`: application disc (client/center monitor)  `#WEB:https://aucview.com/yahoo/v736878612/`
-* `KK9`
+* `KK9`: 麻雀格闘倶楽部
   - 麻雀格闘倶楽部 ultimate version (2011, PC(RICOH))
   - 麻雀格闘倶楽部 NEXT (2012, PC(RICOH))
   - 麻雀格闘倶楽部 頂の陣 (2013, PC(RICOH))
@@ -2178,7 +2178,7 @@ unknown:
   - `GCL39-JB`: type B/C/D conversion kit  `#WEB:https://a12.kpers.net/item/474314706/`
   - `L39 JB A01`: ROM [855 PCB] 2011-06-08 0
 * `L40`: ポップンミュージックカード(JA/JB/JC) (2011)  `#MISC:oyakodon_oniku_list`
-* `L44`
+* `L44`: jubeat
   - jubeat saucer (2012, PC(HM65))
 , * jubeat saucer fulfill (2014, PC(HM65))
   - jubeat prop (2015, PC(HM65))
@@ -2217,12 +2217,12 @@ unknown:
   - `LA9 JA F02`: system disc C [CD]  `#WEB:https://a11.kpers.net/item/d449272023/`
   - `LA9 JA F03`: application disc  `#WEB:https://a11.kpers.net/item/o400058098/ #WEB:https://a12.kpers.net/item/p768834235/`
   - `LA9JAD02`: ROM 2014-12-22 0
-* `LBR`
+* `LBR`: REFLEC BEAT
   - REFLEC BEAT limelight (2011, PC(945))
   - REFLEC BEAT colette [until 2013042200] (2013, PC(HM65))
   - `GCLBR-JA`  `#WEB:https://aucview.aucfan.com/yahoo/e247782980/`
   - `LBR JA A01`: ROM 2011-06-22 0
-* [`LDJ`](software/LDJ.md)
+* [`LDJ`](software/LDJ.md): beatmania IIDX
   - beatmania IIDX 20 tricoro (2012, PC(HM65)IO(C02/D01/USB2)-HDD)
   - beatmania IIDX 21 SPADA (2013, PC(HM65)IO(C02/D01/USB2)-HDD))
   - beatmania IIDX 22 PENDUAL (2014, PC(HM65)IO(C02/D01/USB2)-HDD))
@@ -2281,7 +2281,7 @@ unknown:
   - `LDJ JF A01`: ROM [ADE PCB, 7] 2017-11-07 0
   - `LDJ JF D01`: ROM [ADE PCB, 7] 2018-06-25 0
   - `LDJ-JI-A01`: ROM [C7C242 PCB, 10] 2023-02-14 0 `#WEB:https://twitter.com/iMp95/status/1641073030708494337`
-* `LMA`
+* `LMA`: Quiz Magic Academy
   - Quiz Magic Academy 賢者の扉 (2012, PC(C3)IO(USB1/USB2)-HDD)
   - Quiz Magic Academy 天の学舎 (2014, PC(C3)IO(USB1/USB2)-HDD)
   - Quiz Magic Academy 暁の鐘 (2015, PC(C3)IO(USB1/USB2)-HDD)
@@ -2315,7 +2315,7 @@ unknown:
   - `M27 JA D02`: Baseball Heroes 2013 application disc 1 [DVD-ROM]
   - `M27 JA D02`: Baseball Heroes 2013 application disc 2 [DVD-ROM]
   - `M27JAB01`: ROM 2013-01-17 1
-* `M32`
+* `M32`: GITADORA
   - GITADORA [guitar] (2013, PC(HM65))
   - GITADORA OverDrive (2014, PC(HM65))
   - GITADORA Tri-Boost (2015, PC(HM65))
@@ -2345,7 +2345,7 @@ unknown:
   - `M32 JB AT01`: ROM [HM65 PCB] 2022-12-14 0 `#WEB: https://twitter.com/earthlove488/status/1756129963215028609`
 * `M33`: GITADORA [drums] (2013, PC)
   - `GCM33`
-* `M39`
+* `M39`: pop'n music
   - pop'n music Sunny Park (2012, PC(855/945/HM65)IO(USB2)-HDD)
   - pop'n music ラピストリア (2014, PC(855/945/HM65)IO(USB2)-HDD)
   - pop'n music éclale (2015, PC(855/945/HM65)IO(USB2)-HDD)
@@ -2379,7 +2379,7 @@ unknown:
   - `M65 MAIN A01 SA1`: unit
   - `M65 ST A01 SA1`: unit
 * `M70`: アニマロッタ2 (2013)  `#MISC:oyakodon_oniku_list`
-* `MBR`
+* `MBR`: REFLEC BEAT
   - REFLEC BEAT colette [from 2013051300] (2013, PC(HM65))
   - REFLEC BEAT groovin'!! (2014, PC(HM65))
   - REFLEC BEAT groovin'!! Upper (2014, PC(HM65))
@@ -2390,7 +2390,7 @@ unknown:
   - `GQMBR-JA`: Dedicated cabinet
   - `MBR JA C01`: ROM 2012-10-27 0
   - `MBR JA Q01`: ROM 2014-11-19 0
-* `MDX`
+* `MDX`: DanceDanceRevolution
   - DanceDanceRevolution (2013, PC(945/HM65))
   - DanceDanceRevolution (2014, PC(945/HM65))
   - DanceDanceRevolution A (2016, PC(945/HM65/ADE))
@@ -2518,7 +2518,7 @@ unknown:
   - `P65-JB(ST)`: black dongle  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/1073860979`
 * `PAC`: 実況パワフルプロ野球BALL☆SPARK (2015/2016, PC) (location test, never released)
   - `PACJAA01`: ROM 2015-10-08 00 `#WEB:https://x.com/game_only_3710/status/1814584100331929931/photo/2`
-* `PAN`:
+* `PAN`: NOSTALGIA
   - ノスタルジア / NOSTALGIA (2017, PC(HM65))
   - スタルジア FORTE / NOSTALGIA FORTE (2017, PC(HM65))
   - スタルジア Op.2 / NOSTALGIA Op.2 (2018, PC(HM65/ADE))
@@ -2552,7 +2552,7 @@ unknown:
   - `GUPX8-JA`: option kit (Fortune Trinity 3)
 * `Q70`: アニマロッタ おとぎの国のアニマ / ANIMAROTTA 5 (?, PC(C1))  `#SCRAPE:konami:eagate #WEB:https://jp.mercari.com/item/m67875845936`
   - `Q70 MAIN *01 SA1`: satellite PCB
-* `QBG`
+* `QBG`: ボンバーガール / BOMBERGIRL
   - ボンバーガール / BOMBERGIRL (2018, PC(X10SLQ))
   - ボンバーガール　レインボー / BOMBERGIRL RAINBOW (2022, PC(X10SLQ))
   - ボンバーガール / BOMBERGIRL [e-AMUSEMENT CLOUD/home version]
