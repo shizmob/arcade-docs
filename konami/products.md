@@ -2705,6 +2705,11 @@ unknown:
 * `XMM`: Oreca Battle 2 (モンスター列伝オレカバトル2) (2024, PC) `#WEB: https://ariesu.com/2024/05/12/%e3%83%a2%e3%83%b3%e3%82%b9%e3%82%bf%e3%83%bc%e5%88%97%e4%bc%9d%e3%82%aa%e3%83%ac%e3%82%ab%e3%83%90%e3%83%88%e3%83%ab2%e3%80%80%e3%83%ad%e3%82%b1%e3%83%86%e3%82%b9%e3%83%88%e3%83%ac%e3%83%9d%e3%83%bc/`
   - `XMMJAC01`: ROM 2024-11-12 0 `#WEB: https://x.com/72henkanojyutsu/status/1869194140732531043`
 * `YBA`: パンパンくんの日常 まちがいさがし (2024, location test) `#WEB: https://ariesu.com/2024/09/07/%e3%83%91%e3%83%b3%e3%83%91%e3%83%b3%e3%81%8f%e3%82%93%e3%81%ae%e6%97%a5%e5%b8%b8-%e3%81%be%e3%81%a1%e3%81%8c%e3%81%84%e3%81%95%e3%81%8c%e3%81%97-%e3%83%ad%e3%82%b1%e3%83%86%e3%82%b9%e3%83%88%e3%83%ac/`
+* `Y32`: GITADORA ARENA MODEL
+  - GITADORA GALAXY WAVE DELTA (2025, PC)
+  - `GQY32-JA`: GuitarFreaks
+  - `GQY32-JB`: DrumMania 
+  - `Y32 JA A01`: ROM 2025-02-17 0 `#WEB: https://x.com/STOICCCC/status/1901959602897605092`
 
 * `PWB453470`: 1P/2P sensor board  `#WEB:https://www.ebay.co.uk/itm/224465398910`
 * `PWB113430230000`: I/O board  `#WEB:https://page.auctions.yahoo.co.jp/jp/auction/j1010903947`
