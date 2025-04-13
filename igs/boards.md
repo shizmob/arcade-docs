@@ -373,11 +373,25 @@ There are revisions of this BIOS:
 ```
 
 ### S5000
+**Motherboard:** customized GIGABYTE H610M-HD3P (rev 2.0)
+
 **CPU:** Intel Pentium G7400
-**GPU:** GIGABYTE GTX 1650 OC 4 GB
-**RAM:** 2 x InnoDisk 16 GB DDR5 (M5UV-AGS2JC0P-BA83)
+
+**GPU:**
+* GIGABYTE GTX 1650 OC 4 GB [Moto Blitz DX]
+* ZOTAC GAMING GeForce RTX 3050 Eco Solo 8 GB [ME3]
+
+**RAM:**
+* 2 x InnoDisk 16 GB DDR5 (M5UV-AGS2JC0P-BA83) [Moto Blitz DX]
+* 1 x 16 GB DDR5-4800 [ME3]
+
 **SSD:** 128 GB
-**Games:** Asphalt Moto Blitz DX
+
+**Security:** SafeNet KeyPro and M23 sub-board used in tandem for security
+
+**Games:**
+* Asphalt Moto Blitz DX
+* Monster Eye 3 / Kaiju Rampage
 
 ## C-series
 ### C1000
