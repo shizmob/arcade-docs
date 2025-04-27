@@ -338,13 +338,13 @@ SEGA parts are referred to using a [proprietary format](identifiers.md#part-numb
         OS: Windows 10 IoT LTSC 2019
         PSU: FSP FSP500-50AAC
 
-  * ALLS X2                       (ACA?, JP, 849-1007?)
-  * ALLS X2 (with sub-storage)    (ACA?, JP, 849-1008?)
-        MBD: ???
-        CPU: ???
-        RAM: 2x 4GB
+  * ALLS X2                       (ACAE, JP, 849-1007)
+  * ALLS X2 (with sub-storage)    (ACAE, JP, 849-1008?)
+        MBD: Gigabyte MCH31AM-S2
+        CPU: Intel Core i3-8100
+        RAM: 2x SK Hynix HMA851U6CJR6N-VK [4GB, DDR4-2666]
         GPU: integrated
-        SSD: ???
-        HDD: ???
-        PSU: ???
+        SSD: TDK GBDisk GS1 120GB [MDA-E0025]
+        OS: Windows 10 IoT LTSC 2019
+        PSU: FSP FSP500-50AAC
 ```
