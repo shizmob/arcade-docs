@@ -548,7 +548,7 @@ Also known as: "HDX-945-??" / "JDX-945-02" / "K32-945-01?" / "K33-945-01?" / "KB
 **RAM:** 2x Buffalo D2N667C-X512HEJ (SODIMM DDR2, 512MB, PC2-5300S)  / 2x1GB  
 **GPU:** ATI Radeon E2400 (256 MB, MXM-II) (RH EDG)  
 **SND:** Realtek ALC883 (HD Audio)  
-**HDD:** \[MDX\] Seagate ST500DM002 (SATA 3.5", 500GB, 7200RPM)  
+**HDD:** \[MDX\] Seagate ST500DM002 (SATA 3.5", 500GB, 7200RPM); \[KPM] Western Digital WD1600AAJS (SATA 3.5", 160GB, 7200RPM) `#WEB:https://auctions.yahoo.co.jp/jp/auction/1182406245`<br/>
 **IO:** \[HDX/JDX/KDX/MDX\] [P3IO](io.md#p3io)  
 **IO:** \[J32/J33/K32/K33/L32/L33/KBR/LBR\] [P4IO](io.md#p4io)  
 **IO:** \[KFC\] [KFCA](io.md#kfca)  
