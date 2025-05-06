@@ -66,6 +66,13 @@ There is little to no information about this board yet.
 * 天天向前GO (M108CN)
 * 淘氣鯊 (S101CN)
 
+## GP2
+There is little to no information about this board yet.
+
+**CPU:** Qualcomm Snapdragon 845 ?
+
+**OS:** Android ?
+
 # PC-Based
 
 ## pre E-Series
