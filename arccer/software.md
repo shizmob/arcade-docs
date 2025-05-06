@@ -16,7 +16,7 @@ If you managed to extract the keys, these information could be used to validate 
 <table>
 <tr><td align=center colspan=3>HighPraise Series</td></tr>
 <tr>
-    <td rowspan=5>Dace Cube (2) - TrueCrypt Master Key</td>
+    <td rowspan=5>Dance Cube (2) - TrueCrypt Master Key</td>
 </tr>
 <tr>
     <td>CRC32</td><td>260A90C9</td>
