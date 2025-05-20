@@ -6,6 +6,7 @@
 **RAM:** 2 GB DDR3  
 **HDD:** Hitachi HDS721050CLA362 (500 GB)  
 **OS:** Windows Embedded Standard 7 (32-bit)  
+**BIOS:** customized AMI BIOS 8 with Saint-Fun splash (09/23/2011)  
 **Games:** Fast Beat Loop Racer  
 **Notes:** The OS has Bitlocker enabled, beware when changing configuration or parts.  
 
