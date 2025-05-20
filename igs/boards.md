@@ -394,11 +394,18 @@ There are revisions of this BIOS:
 
 **SSD:** 128 GB
 
-**Security:** SafeNet KeyPro and M23 sub-board used in tandem for security
+**Security:**
+* SafeNet KeyPro and M23 sub-board used in tandem for security
+* BitLocker is allegedly used for Monster Eye 3 / Kaiju Rampage, but this has to be confirmed
+
+**BIOS:** customized GIGABYTE AMI BIOS based on FS ZG revision, with a custom splash screen.  
 
 **Games:**
 * Asphalt Moto Blitz DX
+* Asphalt 9 Arcade DX (replacement board)
 * Monster Eye 3 / Kaiju Rampage
+
+**OS:** Windows 10 IoT Embedded LTSC [Moto Blitz DX] [A9DX]
 
 ## C-series
 ### C1000
