@@ -588,7 +588,7 @@ Also known as: "ITHM65", "ITHM65_E4690".  `#DOC:KONAMI:116245360000`
 **CPU:** Intel Celeron 1020E  
 **RAM:** 1x Innodisk (DDR3L SODIMM, 2GB)  
 **GPU:** AMD Radeon E6760  
-**HDD:** WDC WD3200LPCX (320GB) [KFC]
+**HDD:** WDC WD3200LPCX (320GB) [KFC]  
 **SSD:** Intel SSD 320 Series 80GB [KFC] (SEA mini cab)  
 **SND:** Realtek ALC888 Series  
 **IO:** \[KFC/PAN\] [KFCA](io.md#kfca)   
@@ -617,6 +617,15 @@ Also known as: "ADE".
 **Note #2:** ADE-6291 V1.1 has a 2-pin battery connector besides the PCIe slot.  
 **Note #3:** Three BIOS revisions exist for this board: R100 (09/07/2016), R110 (02/14/2017), and R120 (06/08/2017)
 
+### ADE-62C1
+
+**MBD:** Ennoconn ADE-62C1  
+**APU:** AMD Ryzen Embedded V1807B  
+**GPU:** AMD Radeon Vega 11 (onboard)  
+**RAM:** 2 x 4 GB DDR4  
+**Games:** TVS (MAIN)  
+**BIOS:** AMIBIOS Aptio (02/19/2021)  
+
 ## RICOH
 (name tentative)
 
@@ -641,13 +650,13 @@ Also known as: "ADE".
 * Release: 2022 (?)
 * Base: PC
 
-**MBD:** GigaIPC mITX-1505A (MRZNRMI)
-**CPU:** AMD Ryzen Embedded R1505G
-**GPU:** AMD Radeon Vega 3 Graphics
-**RAM:** 2 x 4 GB DDR4 (SODIMM) (?)
-**SSD:** InnoDisk 3TG6-P (SATA) (size unknown)
-**OS:** Windows 10 IoT LTSC 2019 (?)
-**Games:** VFG
+**MBD:** GigaIPC mITX-1505A (MRZNRMI)  
+**CPU:** AMD Ryzen Embedded R1505G  
+**GPU:** AMD Radeon Vega 3 Graphics  
+**RAM:** 2 x 4 GB DDR4 (SODIMM) (?)  
+**SSD:** InnoDisk 3TG6-P (SATA) (size unknown)  
+**OS:** Windows 10 IoT LTSC 2019 (?)  
+**Games:** VFG  
 
 ### MB-875-M10
 (name tentative)
@@ -700,16 +709,16 @@ Also known as: "ADE".
 * Release: 2011
 * Base: PC
 
-**MBD:** ZOTAC IONITX-N-E
-**STH:** NVIDIA nForce 730i (ION)
-**CPU:** Intel Celeron 743 (1.3GHz)
-**RAM:** 1 x Buffalo D3U1333-S2GHBG (2 GB DDR3, 1333MHz)
-**GPU:** NVIDIA ION (256 MB, DDR3, shared memory)
-**HDD:** Western Digital Scorpio WD400BEVS (40 GB, SATA)
-**SND:** Realtek ALC662 (HD Audio)
-**OS:** Windows XP Embedded (SP3)
-**PSU:** Seasonic SS-200SU (200 W)
-**Games:** KC2 (CHN)
+**MBD:** ZOTAC IONITX-N-E  
+**STH:** NVIDIA nForce 730i (ION)  
+**CPU:** Intel Celeron 743 (1.3GHz)  
+**RAM:** 1 x Buffalo D3U1333-S2GHBG (2 GB DDR3, 1333MHz)  
+**GPU:** NVIDIA ION (256 MB, DDR3, shared memory)  
+**HDD:** Western Digital Scorpio WD400BEVS (40 GB, SATA)  
+**SND:** Realtek ALC662 (HD Audio)  
+**OS:** Windows XP Embedded (SP3)  
+**PSU:** Seasonic SS-200SU (200 W)  
+**Games:** KC2 (CHN)  
 
 ### R10
 
@@ -718,13 +727,13 @@ Also known as: "ADE".
 
 **MBD:** iEi KINO-KBN-i2-4201-R10-KNM VER 1.0  
 **APU:** AMD GX-420CA (GE420CIAJ44HM)  
-**RAM:** 1x Buffalo D3N1600-LS4GHAJ (SODIMM DDR3, 4GB, PC3L-12800S)  
+**RAM:** 1x Buffalo D3N1600-LS4GHAJ / Innodisk M3SW-4GSSCL0C-EJP (SODIMM DDR3, 4GB, PC3L-12800S)  
 **SSD:** innodisk 3ME2 mSATA (64GB) \[PIX\] / ??? "M064GPSN804TGJN0-PH" (64GB, mSATA, Phison PS3108 controller, S8FM07.9 firmware) \[O26\]  
 **SND:** Realtek ALC892  
 **IO:** [P4IO](io.md#p4io)  
-**Games:** O26, OTM, PIX, R66, KSF  
+**Games:** O26, OTM, PIX, R66, KSF, RPU  
 **BIOS:** AMIBIOS Aptio 4.6.5.4 (V2C9AD13.rom, 11/12/2014 15:43:39)  
-**OS:** Windows Embedded Standard 7 (SP1) [O26] [PIX] [R66]  
+**OS:** Windows Embedded Standard 7 (SP1) [O26] [PIX] [R66] [RPU]  
 
 ### X10SLQ
 
