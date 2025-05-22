@@ -2668,7 +2668,7 @@ unknown:
 * `TSS`: スマッシュスタジアム (2020, PC(ADE))  `#SCRAPE:konami:eagate`
   - `TSS-JB (STATION)`: station dongle
 * `TTA`: カラコロッタ めざせ！夢の宝島  `#SCRAPE:konami:eagate`
-* `TVS`: デュエルドリーム / DUEL DREAM (2021, PC(C300))  `#SCRAPE:konami:eagate #MISC:oyakodon_oniku_list`
+* `TVS`: デュエルドリーム / DUEL DREAM (2021, PC(C300/ADE-62C1))  `#SCRAPE:konami:eagate #MISC:oyakodon_oniku_list`
   - `TVS-JA(MAIN)`: main dongle `#WEB: https://page.auctions.yahoo.co.jp/jp/auction/d1131922100`
   - `TVS-JB(STATION)`: station dongle `#WEB: https://page.auctions.yahoo.co.jp/jp/auction/1131908376`
 * `U32`: コナステ GITADORA [e-AMUSEMENT CLOUD/home version]
