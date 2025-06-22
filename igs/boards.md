@@ -160,6 +160,14 @@ The A1 BIOS is one of the first BIOSes to ship with first batches of the board (
 * A1: NV44A P382 VGA BIOS Version 5.44.A2.10.00 (07/03/07)
 * A11: NV44A P382 VGA BIOS Version 5.44.A2.10.00 (02/22/08)
 
+**ASIC:**
+* IGS 036E - Percussion Master 2008
+* IGS 036 - Pirate Revenge (怒海英豪)
+
+**EEPROM:**
+* IGS EV29LV160AB-90PCR  - Pirate Revenge (怒海英豪)
+* IGS EV29LV640-90PCR    - Percussion Master 2008
+
 **Games:**
 ```
     E2000-C6-V256   - Panda Family (2009)
@@ -170,10 +178,12 @@ The A1 BIOS is one of the first BIOSes to ship with first batches of the board (
     E2000-C6-V256   - Submarine Crisis (2008)
     E2000-C6-V256(?)- Vibraphone (铁琴: 第一乐章) (2010)
     E2000-V256      - Pirate Revenge (怒海英豪) (2007)
+    E2000-V256      - Percussion Master 2008
     E2000-V256      - We Dancing Online (2009)
     E2000-V256      - We Dancing Online 2 (Plus) (2010)
     E2000-V256      - Speed Rider (2009)
-    E2000-V256      - Speed Driver 2: Overtake (2007)
+    E2000-V256      - 海遊漁 (China)
+    E2000-V256      - GoGoBall 2 (SD)
     E2000-V256      - 海遊漁 (China)
 ```
 
@@ -223,6 +233,10 @@ Has two variants:
 **Storage:** CompactFlash cards
 
 **OS:** LFS Linux (kernel 2.6.32.8)
+
+**FPGA:**  Actel ProASIC 3 A3P400 FCC256 (400,000 Gates, Arm® Cortex®-M1) [ProASIC® 3 FPGAs](https://www.microchip.com/en-us/products/fpgas-and-plds/fpgas/proasic-3-fpgas)
+
+**IGS ASIC:** IGS 036E
 
 **Games:**
 * Percussion Master 3 (2012)
