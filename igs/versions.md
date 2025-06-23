@@ -14,6 +14,9 @@ For identification purpose, IGS labels their product's revision using a
 ### Gold Captain (航海小勇士)
 * M-100CN
 
+### Go Go Ball 2 (SD)
+* S-501CN
+
 ### Monster Eye
 * M-103FA
 * M-134FA
@@ -48,6 +51,10 @@ For identification purpose, IGS labels their product's revision using a
 ### Percussion Master 2008
 * M-200NC
 * M-202CN
+* S-203CN
+
+### Percussion Master 3
+* M-100CN
 
 ### We Dancing Online 2 Plus
 * M-202CN
