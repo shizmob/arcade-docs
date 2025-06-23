@@ -2,6 +2,8 @@
 For identification purpose, IGS labels their product's revision using a
 [proprietary format](identifiers.md#product-identifier).
 
+## Rhythm Games
+
 ### Music Gun Gun (CHN)
 * M-100CN
 
@@ -14,26 +16,18 @@ For identification purpose, IGS labels their product's revision using a
 ### Gold Captain (航海小勇士)
 * M-100CN
 
-### Go Go Ball 2 (SD)
-* S-501CN
+### We Dancing Online
+* S-104CN
 
-### Monster Eye
-* M-103FA
-* M-134FA
+### We Dancing Online 2 (唯舞独尊2/WEDO2)
+* M-113CN
+* M-200CN
 
-### Pirate Revenge
-* M-101US
-* M-101CN
+### We Dancing Online 2 Plus
+* M-202CN
 
 ### Rock Fever 5
 * M-102CN
-
-### Speed Driver 2
-* M-207CNC
-
-### Speed Rider
-* M-100FA
-* M-109CNC
 
 ### Percussion Kids / Tempo Kiddo
 * M-105CN
@@ -45,6 +39,7 @@ For identification purpose, IGS labels their product's revision using a
 * M-109US
 
 ### Percussion Master Plus
+- M-201CN
 - M-301CN
 - M-302NC
 
@@ -56,21 +51,79 @@ For identification purpose, IGS labels their product's revision using a
 ### Percussion Master 3
 * M-100CN
 
-### We Dancing Online 2 Plus
-* M-202CN
+## Fighting Games
 
-### 無敵風火輪
-* M-103CN
+## Shmup Games
+
+### Go Go Ball 2 (SD)
+* S-501CN
+
+### Monster Eye
+* M-103FA
+* M-134FA
+
+### Pirate Revenge
+* M-101US
+* M-101CN
+
+### Submarine Crisis
+* M-104CN
+
+## Racing Games
+
+### Speed Driver
+* S-104CN
+
+### Speed Driver 2
+* M-207CNC
+
+### Speed Driver 3
+* V-102
+* V-200
+
+### Speed Rider
+* M-100FA
+* M-107CNC
+* M-109CNC
+
+## Fishing Games
 
 ### 海遊漁
 * M-103JP (Japan)
 * M-103CN (China)
 
-### IQ乐园网络版
-* M-148CNC
+### 獵魚 6 PLUS
+* M-602CN
 
-### IQ乐园2012
+### 淘氣鯊
+* S101CN
+
+### Ocean King 3 series
+* MD900MO (?)
+* MD900US (USA)
+
+## Other Games
+
+### IQ NET (IQ 乐园网络版)
+* M-136CNC
+* M-146CNC
+* M-148CNC
+* M-186CNC
+* M-196CNC
+* M-200CNC
+* M-212CNC
+* M-218CNC
+
+### IQ 2008 (IQ乐园)
+* M-404CNC
+* M-408CNC
+
+### IQ 2012 (IQ乐园)
 * M-100CN
+* M-106CNC
+
+### 無敵風火輪
+* M-103CN
 
 ### Halloween Night （疯狂魔鬼城）
 * M203CN
@@ -85,13 +138,11 @@ For identification purpose, IGS labels their product's revision using a
 ### 天天向前GO
 * M108CN
 
-### Ocean King 3 series
-* MD900MO (?)
-* MD900US (USA)
-
 ### 西遊爭霸2：大聖歸來
 * MD109MO
 
-### 淘氣鯊
-* S101CN
+### 花花世界 3
+* M001CN BOX
 
+### 彩票刮刮刮
+* V104CN
